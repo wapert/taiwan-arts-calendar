@@ -1,65 +1,122 @@
-import Image from "next/image";
+'use client';
+
+import { useState, useCallback, useEffect } from 'react';
+import dynamic from 'next/dynamic';
+import FilterBar from '@/components/FilterBar';
+import Legend from '@/components/Legend';
+import EventModal from '@/components/EventModal';
+import { ArtEvent, EventCategory, CATEGORY_CONFIG } from '@/lib/eventTypes';
+
+const CalendarView = dynamic(() => import('@/components/CalendarView'), { ssr: false });
+
+const ALL_CATEGORIES = new Set(Object.keys(CATEGORY_CONFIG) as EventCategory[]);
 
 export default function Home() {
+  const [events, setEvents] = useState<ArtEvent[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [activeCategories, setActiveCategories] = useState<Set<EventCategory>>(ALL_CATEGORIES);
+  const [activeCity, setActiveCity] = useState('全部城市');
+  const [selectedEvent, setSelectedEvent] = useState<ArtEvent | null>(null);
+  const [isDark, setIsDark] = useState(false);
+
+  // Load events
+  useEffect(() => {
+    fetch('/events.json')
+      .then((r) => r.json())
+      .then((data: ArtEvent[]) => setEvents(data))
+      .catch(() => setEvents([]))
+      .finally(() => setLoading(false));
+  }, []);
+
+  // Restore dark mode preference
+  useEffect(() => {
+    const saved = localStorage.getItem('theme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const dark = saved ? saved === 'dark' : prefersDark;
+    setIsDark(dark);
+    document.documentElement.classList.toggle('dark', dark);
+  }, []);
+
+  const toggleDark = () => {
+    setIsDark((prev) => {
+      const next = !prev;
+      document.documentElement.classList.toggle('dark', next);
+      localStorage.setItem('theme', next ? 'dark' : 'light');
+      return next;
+    });
+  };
+
+  const filteredEvents = events.filter((e) => {
+    const catOk = activeCategories.has(e.category);
+    const cityOk = activeCity === '全部城市' || e.city === activeCity;
+    return catOk && cityOk;
+  });
+
+  const toggleCategory = useCallback((cat: EventCategory) => {
+    setActiveCategories((prev) => {
+      const next = new Set(prev);
+      if (next.has(cat)) next.delete(cat);
+      else next.add(cat);
+      return next;
+    });
+  }, []);
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
+    <main className="min-h-screen flex flex-col" style={{ background: 'var(--bg-page)' }}>
+      {/* Header */}
+      <header className="shadow-sm px-6 py-4 flex items-center gap-3 border-b"
+        style={{ background: 'var(--bg-header)', borderColor: 'var(--border)' }}>
+        <div>
+          <h1 className="text-2xl font-bold" style={{ color: 'var(--text-primary)' }}>
+            台灣藝文活動月曆
           </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+          <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
+            Taiwan Arts &amp; Performance Calendar
           </p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+
+        <span className="hidden sm:block text-xs ml-4" style={{ color: 'var(--text-muted)' }}>
+          台北・新竹・桃園・台中・高雄
+        </span>
+
+        {/* Dark mode toggle */}
+        <button
+          onClick={toggleDark}
+          aria-label="切換深色模式"
+          className="ml-auto flex items-center gap-2 px-3 py-1.5 rounded-lg border text-sm font-medium transition-colors cursor-pointer"
+          style={{
+            background: 'var(--bg-surface)',
+            borderColor: 'var(--border)',
+            color: 'var(--text-secondary)',
+          }}
+        >
+          {isDark ? '☀️ 淺色' : '🌙 深色'}
+        </button>
+      </header>
+
+      <FilterBar
+        activeCategories={activeCategories}
+        activeCity={activeCity}
+        onCategoryToggle={toggleCategory}
+        onCityChange={setActiveCity}
+      />
+
+      <Legend />
+
+      <div className="flex-1 p-4">
+        <div className="rounded-2xl shadow p-4" style={{ background: 'var(--bg-surface)' }}>
+          {loading ? (
+            <div className="flex items-center justify-center h-64 text-sm"
+              style={{ color: 'var(--text-muted)' }}>
+              載入活動資料中…
+            </div>
+          ) : (
+            <CalendarView events={filteredEvents} onEventClick={setSelectedEvent} />
+          )}
         </div>
-      </main>
-    </div>
+      </div>
+
+      <EventModal event={selectedEvent} onClose={() => setSelectedEvent(null)} />
+    </main>
   );
 }

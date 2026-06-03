@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2020",
+    "esModuleInterop": true,
+    "outDir": "dist-scrapers"
+  },
+  "include": ["scrapers/**/*.ts", "lib/**/*.ts"]
+}
