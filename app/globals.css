@@ -239,3 +239,58 @@ header, [data-glass] {
   display: flex;
   gap: 4px;
 }
+
+/* ─── Mobile toolbar — everything on one line ─── */
+@media (max-width: 640px) {
+  .fc .fc-toolbar {
+    flex-wrap: nowrap;
+    gap: 4px;
+    padding: 6px 2px;
+  }
+
+  /* Title: shorter, no wrap */
+  .fc .fc-toolbar-title {
+    font-size: 0.9rem !important;
+    font-weight: 700;
+    white-space: nowrap;
+    letter-spacing: 0;
+  }
+
+  /* All toolbar buttons: compact */
+  .fc .fc-button {
+    padding: 0.18rem 0.45rem !important;
+    font-size: 0.7rem !important;
+  }
+
+  /* prev/next arrow buttons */
+  .fc .fc-prev-button,
+  .fc .fc-next-button {
+    padding: 0.18rem 0.4rem !important;
+  }
+
+  /* today / 月曆 / 清單 text buttons */
+  .fc .fc-today-button,
+  .fc .fc-dayGridMonth-button,
+  .fc .fc-listMonth-button {
+    padding: 0.18rem 0.5rem !important;
+    font-size: 0.68rem !important;
+  }
+
+  /* Day number smaller on mobile */
+  .fc .fc-daygrid-day-number {
+    font-size: 0.75rem;
+    padding: 2px 4px;
+  }
+
+  /* Column headers smaller */
+  .fc .fc-col-header-cell-cushion {
+    font-size: 0.65rem;
+    padding: 4px 0;
+  }
+
+  /* Today circle smaller */
+  .fc .fc-day-today .fc-daygrid-day-number {
+    width: 1.5em;
+    height: 1.5em;
+  }
+}
