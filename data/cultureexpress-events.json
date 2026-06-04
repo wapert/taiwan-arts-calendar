@@ -1,34 +1,5 @@
 [
   {
-    "id": "cultureexpress-7876ea52-0909-4175-bfb7-79276608466a",
-    "title": "〔樂齡學堂115年6月〕歐洲美術館名作賞析（二）",
-    "start": "2026-06-03",
-    "end": "2026-06-24",
-    "category": "exhibition",
-    "venue": "臺北市立圖書館 總館10樓「國際會議廳」",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=7876ea52-0909-4175-bfb7-79276608466a&PageIndex=1&PageType=1"
-  },
-  {
-    "id": "cultureexpress-709d99c9-5cdb-44ad-af94-22a49accfe63",
-    "title": "2026 ART TAICHUNG 台中國際藝術博覽會",
-    "start": "2026-06-05",
-    "end": "2026-06-07",
-    "category": "exhibition",
-    "venue": "台中國際會展中心",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=709d99c9-5cdb-44ad-af94-22a49accfe63&PageIndex=1&PageType=1"
-  },
-  {
-    "id": "cultureexpress-4bf31866-3f28-4983-a416-a1eaedcefc9e",
-    "title": "【國史館專題演講】原住民族祭儀與文化資產保存維護計畫",
-    "start": "2026-06-04",
-    "category": "workshop",
-    "venue": "國史館臺北館4樓大禮堂",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=4bf31866-3f28-4983-a416-a1eaedcefc9e&PageIndex=1&PageType=1"
-  },
-  {
     "id": "cultureexpress-53ac178e-ae47-4a42-a3b5-c721319cdbed",
     "title": "台北偶戲館2026 Taipei Puppet Slam偶戲衝擊波",
     "start": "2026-06-05",
@@ -48,6 +19,35 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=65371af7-3c5e-4244-bc6a-1869bf00aa9e&PageIndex=1&PageType=1"
   },
   {
+    "id": "cultureexpress-1736ee1f-c79f-49d1-a25f-90995012b8c5",
+    "title": "2026漫畫創作工作坊",
+    "start": "2026-06-04",
+    "end": "2026-07-12",
+    "category": "workshop",
+    "venue": "台中國際動漫博覽會",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=1736ee1f-c79f-49d1-a25f-90995012b8c5&PageIndex=1&PageType=1"
+  },
+  {
+    "id": "cultureexpress-709d99c9-5cdb-44ad-af94-22a49accfe63",
+    "title": "2026 ART TAICHUNG 台中國際藝術博覽會",
+    "start": "2026-06-05",
+    "end": "2026-06-07",
+    "category": "exhibition",
+    "venue": "台中國際會展中心",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=709d99c9-5cdb-44ad-af94-22a49accfe63&PageIndex=1&PageType=1"
+  },
+  {
+    "id": "cultureexpress-35a91251-29cc-4ef4-80dc-c9c1c7407ec7",
+    "title": "6月我們的文學夢｜沙力浪 Salizan Takisvilainan",
+    "start": "2026-06-05",
+    "category": "workshop",
+    "venue": "紀州庵文學森林新館2樓",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=35a91251-29cc-4ef4-80dc-c9c1c7407ec7&PageIndex=1&PageType=1"
+  },
+  {
     "id": "cultureexpress-f3900cd4-5fee-4199-bf44-cb8a3137fc9f",
     "title": "2026臺大博物館群志工招募",
     "start": "2026-06-03",
@@ -56,6 +56,36 @@
     "venue": "國立臺灣大學博物館群",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=f3900cd4-5fee-4199-bf44-cb8a3137fc9f&PageIndex=1&PageType=1"
+  },
+  {
+    "id": "cultureexpress-ad5082f6-3f20-416a-bcc1-10b739429b56",
+    "title": "Tell Me a Bedtime Story —菅 祐子 Yuko Kan 1st solo exhibition in Taiwan",
+    "start": "2026-06-06",
+    "end": "2026-07-19",
+    "category": "exhibition",
+    "venue": "雄獅星空Linklion",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=ad5082f6-3f20-416a-bcc1-10b739429b56&PageIndex=1&PageType=1"
+  },
+  {
+    "id": "cultureexpress-ae8d1e30-5797-4334-8f15-52cf27165214",
+    "title": "【童里6月展覽】映画設｜靠！被電影設計了  Designed by the film.",
+    "start": "2026-06-06",
+    "end": "2026-06-30",
+    "category": "exhibition",
+    "venue": "童里書店",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=ae8d1e30-5797-4334-8f15-52cf27165214&PageIndex=1&PageType=1"
+  },
+  {
+    "id": "cultureexpress-7876ea52-0909-4175-bfb7-79276608466a",
+    "title": "〔樂齡學堂115年6月〕歐洲美術館名作賞析（二）",
+    "start": "2026-06-03",
+    "end": "2026-06-24",
+    "category": "exhibition",
+    "venue": "臺北市立圖書館 總館10樓「國際會議廳」",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=7876ea52-0909-4175-bfb7-79276608466a&PageIndex=1&PageType=1"
   },
   {
     "id": "cultureexpress-83803f8a-4f9b-4fea-9719-67e4d69ee644",
@@ -75,65 +105,7 @@
     "category": "workshop",
     "venue": "耕莘文教基金會4樓 多功能禮堂",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=05e05cd3-41a4-4412-ad05-f2b744dc816b&PageIndex=1&PageType=1"
-  },
-  {
-    "id": "cultureexpress-c3f6a66f-7ea5-4c2d-9d19-5283d0a5ac95",
-    "title": "【一日活動志工招募】國際志工影響力論壇",
-    "start": "2026-06-06",
-    "category": "workshop",
-    "venue": "耕莘文教基金會4樓 多功能禮堂",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=c3f6a66f-7ea5-4c2d-9d19-5283d0a5ac95&PageIndex=1&PageType=1"
-  },
-  {
-    "id": "cultureexpress-35a91251-29cc-4ef4-80dc-c9c1c7407ec7",
-    "title": "6月我們的文學夢｜沙力浪 Salizan Takisvilainan",
-    "start": "2026-06-05",
-    "category": "workshop",
-    "venue": "紀州庵文學森林新館2樓",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=35a91251-29cc-4ef4-80dc-c9c1c7407ec7&PageIndex=1&PageType=1"
-  },
-  {
-    "id": "cultureexpress-6a553921-b952-4857-ac42-287e48ee6eb7",
-    "title": "【新月．藝文講座】中國藝術史",
-    "start": "2026-06-01",
-    "end": "2026-12-07",
-    "category": "workshop",
-    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=6a553921-b952-4857-ac42-287e48ee6eb7&PageIndex=2&PageType=1"
-  },
-  {
-    "id": "cultureexpress-ad5082f6-3f20-416a-bcc1-10b739429b56",
-    "title": "Tell Me a Bedtime Story —菅 祐子 Yuko Kan 1st solo exhibition in Taiwan",
-    "start": "2026-06-06",
-    "end": "2026-07-19",
-    "category": "exhibition",
-    "venue": "雄獅星空Linklion",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=ad5082f6-3f20-416a-bcc1-10b739429b56&PageIndex=2&PageType=1"
-  },
-  {
-    "id": "cultureexpress-ae8d1e30-5797-4334-8f15-52cf27165214",
-    "title": "【童里6月展覽】映画設｜靠！被電影設計了  Designed by the film.",
-    "start": "2026-06-06",
-    "end": "2026-06-30",
-    "category": "exhibition",
-    "venue": "童里書店",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=ae8d1e30-5797-4334-8f15-52cf27165214&PageIndex=2&PageType=1"
-  },
-  {
-    "id": "cultureexpress-f7bc97f6-29de-4f50-b1ac-6d1dfa254006",
-    "title": "吳德和雕塑創作展",
-    "start": "2026-06-02",
-    "end": "2026-06-14",
-    "category": "exhibition",
-    "venue": "孟焦畫坊",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=f7bc97f6-29de-4f50-b1ac-6d1dfa254006&PageIndex=2&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=05e05cd3-41a4-4412-ad05-f2b744dc816b&PageIndex=2&PageType=1"
   },
   {
     "id": "cultureexpress-c78fae46-a072-46b1-a37c-0c3c4f07d0f7",
@@ -161,6 +133,15 @@
     "venue": "臺北市藝文推廣處一樓特展室",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=30a13995-3e43-4b9b-96e8-f9342801dd41&PageIndex=2&PageType=1"
+  },
+  {
+    "id": "cultureexpress-c3f6a66f-7ea5-4c2d-9d19-5283d0a5ac95",
+    "title": "【一日活動志工招募】國際志工影響力論壇",
+    "start": "2026-06-06",
+    "category": "workshop",
+    "venue": "耕莘文教基金會4樓 多功能禮堂",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=c3f6a66f-7ea5-4c2d-9d19-5283d0a5ac95&PageIndex=2&PageType=1"
   },
   {
     "id": "cultureexpress-32555968-0f72-4b97-a6ef-0333248bbbf9",
@@ -196,7 +177,36 @@
     "category": "classical",
     "venue": "中鼎集團總部1樓大廳",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=d625a6e3-1f33-4f9b-a364-179515594814&PageIndex=3&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=d625a6e3-1f33-4f9b-a364-179515594814&PageIndex=2&PageType=1"
+  },
+  {
+    "id": "cultureexpress-f7bc97f6-29de-4f50-b1ac-6d1dfa254006",
+    "title": "吳德和雕塑創作展",
+    "start": "2026-06-02",
+    "end": "2026-06-14",
+    "category": "exhibition",
+    "venue": "孟焦畫坊",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=f7bc97f6-29de-4f50-b1ac-6d1dfa254006&PageIndex=2&PageType=1"
+  },
+  {
+    "id": "cultureexpress-dc86047d-a800-4b89-b716-3a01cb3cb9d6",
+    "title": "鳴石樂集樂壇新秀 《跨越時代的大提琴聲之旅》范依淇大提琴獨奏會",
+    "start": "2026-06-07",
+    "category": "exhibition",
+    "venue": "鳴石音樂空間",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=dc86047d-a800-4b89-b716-3a01cb3cb9d6&PageIndex=3&PageType=1"
+  },
+  {
+    "id": "cultureexpress-6a553921-b952-4857-ac42-287e48ee6eb7",
+    "title": "【新月．藝文講座】中國藝術史",
+    "start": "2026-06-01",
+    "end": "2026-12-07",
+    "category": "workshop",
+    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=6a553921-b952-4857-ac42-287e48ee6eb7&PageIndex=3&PageType=1"
   },
   {
     "id": "cultureexpress-3eea50be-58ac-484f-8cc2-915c8b6ee37d",
@@ -219,15 +229,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=f2908627-88c5-44d0-86df-a945cdd1052d&PageIndex=3&PageType=1"
   },
   {
-    "id": "cultureexpress-dc86047d-a800-4b89-b716-3a01cb3cb9d6",
-    "title": "鳴石樂集樂壇新秀 《跨越時代的大提琴聲之旅》范依淇大提琴獨奏會",
-    "start": "2026-06-07",
-    "category": "exhibition",
-    "venue": "鳴石音樂空間",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=dc86047d-a800-4b89-b716-3a01cb3cb9d6&PageIndex=3&PageType=1"
-  },
-  {
     "id": "cultureexpress-c237172d-a350-4e00-8faf-b9ed6d47a84e",
     "title": "共生之華—日本美術璀璨時代與臺灣之交會",
     "start": "2026-06-09",
@@ -236,26 +237,6 @@
     "venue": "師大美術館",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=c237172d-a350-4e00-8faf-b9ed6d47a84e&PageIndex=3&PageType=1"
-  },
-  {
-    "id": "cultureexpress-ca731c88-c692-4d82-a0cc-938076f9f41b",
-    "title": "「綻放的圖層」周楷倫個展",
-    "start": "2026-05-30",
-    "end": "2026-07-03",
-    "category": "exhibition",
-    "venue": "安卓藝術",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=ca731c88-c692-4d82-a0cc-938076f9f41b&PageIndex=3&PageType=1"
-  },
-  {
-    "id": "cultureexpress-fcef818f-0504-4c3e-ab6d-e66bbe23915e",
-    "title": "「滲透狀態」楊寓寧× 甫月",
-    "start": "2026-05-30",
-    "end": "2026-06-27",
-    "category": "exhibition",
-    "venue": "安卓藝術",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=fcef818f-0504-4c3e-ab6d-e66bbe23915e&PageIndex=3&PageType=1"
   },
   {
     "id": "cultureexpress-b0a54d6d-e794-411d-b1a1-b20fe1530098",
@@ -278,6 +259,26 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=a9ef25ab-9246-41f0-855f-7079b1e1d996&PageIndex=3&PageType=1"
   },
   {
+    "id": "cultureexpress-ca731c88-c692-4d82-a0cc-938076f9f41b",
+    "title": "「綻放的圖層」周楷倫個展",
+    "start": "2026-05-30",
+    "end": "2026-07-03",
+    "category": "exhibition",
+    "venue": "安卓藝術",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=ca731c88-c692-4d82-a0cc-938076f9f41b&PageIndex=3&PageType=1"
+  },
+  {
+    "id": "cultureexpress-fcef818f-0504-4c3e-ab6d-e66bbe23915e",
+    "title": "「滲透狀態」楊寓寧× 甫月",
+    "start": "2026-05-30",
+    "end": "2026-06-27",
+    "category": "exhibition",
+    "venue": "安卓藝術",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=fcef818f-0504-4c3e-ab6d-e66bbe23915e&PageIndex=3&PageType=1"
+  },
+  {
     "id": "cultureexpress-a75a6f3f-a6bc-488e-bbfc-1a66775e1637",
     "title": "聯展《Still Flowing｜靜水仍流》",
     "start": "2026-06-11",
@@ -296,16 +297,6 @@
     "venue": "全台首輪上映戲院/台北真善美等",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=a5f903c6-0291-435e-82f5-e5f57b13b1ae&PageIndex=4&PageType=1"
-  },
-  {
-    "id": "cultureexpress-23cf171b-2bb5-4102-bdcd-179faf5a28d0",
-    "title": "【新月．藝文講座】西洋藝術鑑賞：20世紀．混亂的新世界",
-    "start": "2026-05-27",
-    "end": "2026-12-30",
-    "category": "workshop",
-    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=23cf171b-2bb5-4102-bdcd-179faf5a28d0&PageIndex=4&PageType=1"
   },
   {
     "id": "cultureexpress-0143d728-7718-472d-bf43-da3cee6126d2",
@@ -335,6 +326,43 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=b2af3b7c-4ec6-4af8-a705-427fbc341149&PageIndex=4&PageType=1"
   },
   {
+    "id": "cultureexpress-b09ca4c2-cc62-4c63-a0ac-519e57a3abd1",
+    "title": "布拉姆斯：獨一無二 - 兩首五重奏",
+    "start": "2026-06-12",
+    "category": "exhibition",
+    "venue": "國家兩廳院演奏廳",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=b09ca4c2-cc62-4c63-a0ac-519e57a3abd1&PageIndex=4&PageType=1"
+  },
+  {
+    "id": "cultureexpress-5b41d6b6-bb45-481c-9d4f-8e2f857048a2",
+    "title": "【北斗星】-林少英、顏尚勤、黃朧逸、徐崇育",
+    "start": "2026-06-12",
+    "category": "exhibition",
+    "venue": "行天宮附設玄空圖書館敦化本館四樓禮堂",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=5b41d6b6-bb45-481c-9d4f-8e2f857048a2&PageIndex=4&PageType=1"
+  },
+  {
+    "id": "cultureexpress-bcb0e321-becc-40ba-8b04-0a575236fdd1",
+    "title": "松山霞海文化小旅行｜松山信仰之路",
+    "start": "2026-06-12",
+    "category": "exhibition",
+    "venue": "松山霞海城隍廟",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=bcb0e321-becc-40ba-8b04-0a575236fdd1&PageIndex=4&PageType=1"
+  },
+  {
+    "id": "cultureexpress-23cf171b-2bb5-4102-bdcd-179faf5a28d0",
+    "title": "【新月．藝文講座】西洋藝術鑑賞：20世紀．混亂的新世界",
+    "start": "2026-05-27",
+    "end": "2026-12-30",
+    "category": "workshop",
+    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=23cf171b-2bb5-4102-bdcd-179faf5a28d0&PageIndex=4&PageType=1"
+  },
+  {
     "id": "cultureexpress-11ced532-7e4b-471d-9431-c6adafd90f9c",
     "title": "2026年夏季巧虎大型舞臺劇 【銀河怪盜的祕密】",
     "start": "2026-06-13",
@@ -362,62 +390,7 @@
     "category": "exhibition",
     "venue": "Woolloomooloo Xhibit",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=ee654b5b-4b33-43df-8df9-11c2ff52e864&PageIndex=4&PageType=1"
-  },
-  {
-    "id": "cultureexpress-1ce4a9f6-3918-499f-80eb-a2e1bd764267",
-    "title": "6/13(六)免費諮詢日",
-    "start": "2026-06-13",
-    "category": "workshop",
-    "venue": "吾心文教基金會",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=1ce4a9f6-3918-499f-80eb-a2e1bd764267&PageIndex=4&PageType=1"
-  },
-  {
-    "id": "cultureexpress-b09ca4c2-cc62-4c63-a0ac-519e57a3abd1",
-    "title": "布拉姆斯：獨一無二 - 兩首五重奏",
-    "start": "2026-06-12",
-    "category": "exhibition",
-    "venue": "國家兩廳院演奏廳",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=b09ca4c2-cc62-4c63-a0ac-519e57a3abd1&PageIndex=4&PageType=1"
-  },
-  {
-    "id": "cultureexpress-5b41d6b6-bb45-481c-9d4f-8e2f857048a2",
-    "title": "【北斗星】-林少英、顏尚勤、黃朧逸、徐崇育",
-    "start": "2026-06-12",
-    "category": "exhibition",
-    "venue": "行天宮附設玄空圖書館敦化本館四樓禮堂",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=5b41d6b6-bb45-481c-9d4f-8e2f857048a2&PageIndex=5&PageType=1"
-  },
-  {
-    "id": "cultureexpress-bcb0e321-becc-40ba-8b04-0a575236fdd1",
-    "title": "松山霞海文化小旅行｜松山信仰之路",
-    "start": "2026-06-12",
-    "category": "exhibition",
-    "venue": "松山霞海城隍廟",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=bcb0e321-becc-40ba-8b04-0a575236fdd1&PageIndex=5&PageType=1"
-  },
-  {
-    "id": "cultureexpress-32bd2483-1614-40dc-bf78-f5c16877dffe",
-    "title": "未完的軌跡 Unfinished Trajectories — Daniel Staincliffe ｘ Leo Bayly Barton 雙個展",
-    "start": "2026-05-26",
-    "end": "2026-07-04",
-    "category": "exhibition",
-    "venue": "加沃文行 +wò Cultural Practice",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=32bd2483-1614-40dc-bf78-f5c16877dffe&PageIndex=5&PageType=1"
-  },
-  {
-    "id": "cultureexpress-4ca654d2-32bc-400e-9187-ef9825f9c2ea",
-    "title": "2026/6/14(日)男兒節菖蒲茶會",
-    "start": "2026-06-14",
-    "category": "exhibition",
-    "venue": "北投文物館 2樓大廣間",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=4ca654d2-32bc-400e-9187-ef9825f9c2ea&PageIndex=5&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=ee654b5b-4b33-43df-8df9-11c2ff52e864&PageIndex=5&PageType=1"
   },
   {
     "id": "cultureexpress-69076025-6659-4054-83b6-8d10f07e5dee",
@@ -456,6 +429,15 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=34409ebc-9823-477c-82e5-b67aa8c5cdfe&PageIndex=5&PageType=1"
   },
   {
+    "id": "cultureexpress-1ce4a9f6-3918-499f-80eb-a2e1bd764267",
+    "title": "6/13(六)免費諮詢日",
+    "start": "2026-06-13",
+    "category": "workshop",
+    "venue": "吾心文教基金會",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=1ce4a9f6-3918-499f-80eb-a2e1bd764267&PageIndex=5&PageType=1"
+  },
+  {
     "id": "cultureexpress-f6d88640-6137-4ce2-8582-645e5853a7b0",
     "title": "《從茶脈到茶島｜臺灣茶風土講座》",
     "start": "2026-06-13",
@@ -463,6 +445,16 @@
     "venue": "新芳春茶行",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=f6d88640-6137-4ce2-8582-645e5853a7b0&PageIndex=5&PageType=1"
+  },
+  {
+    "id": "cultureexpress-32bd2483-1614-40dc-bf78-f5c16877dffe",
+    "title": "未完的軌跡 Unfinished Trajectories — Daniel Staincliffe ｘ Leo Bayly Barton 雙個展",
+    "start": "2026-05-26",
+    "end": "2026-07-04",
+    "category": "exhibition",
+    "venue": "加沃文行 +wò Cultural Practice",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=32bd2483-1614-40dc-bf78-f5c16877dffe&PageIndex=5&PageType=1"
   },
   {
     "id": "cultureexpress-0a6413f2-52b2-4bb2-9409-c5b15a507f02",
@@ -480,7 +472,16 @@
     "category": "classical",
     "venue": "鳴石音樂空間",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=0db05666-f877-463d-bf69-7e84b67d3e83&PageIndex=6&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=0db05666-f877-463d-bf69-7e84b67d3e83&PageIndex=5&PageType=1"
+  },
+  {
+    "id": "cultureexpress-4ca654d2-32bc-400e-9187-ef9825f9c2ea",
+    "title": "2026/6/14(日)男兒節菖蒲茶會",
+    "start": "2026-06-14",
+    "category": "exhibition",
+    "venue": "北投文物館 2樓大廣間",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=4ca654d2-32bc-400e-9187-ef9825f9c2ea&PageIndex=6&PageType=1"
   },
   {
     "id": "cultureexpress-b4cd9756-e859-4f5c-b1df-892a4b09d4a0",
@@ -493,26 +494,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=b4cd9756-e859-4f5c-b1df-892a4b09d4a0&PageIndex=6&PageType=1"
   },
   {
-    "id": "cultureexpress-f2773900-9b95-4d50-8e85-9a165576cc9e",
-    "title": "角落裡的慢時區 A Corner, A World",
-    "start": "2026-05-23",
-    "end": "2026-06-28",
-    "category": "exhibition",
-    "venue": "現代畫廊",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=f2773900-9b95-4d50-8e85-9a165576cc9e&PageIndex=6&PageType=1"
-  },
-  {
-    "id": "cultureexpress-62d93a30-2a36-4fc9-ba8b-fd0e2b01cc3c",
-    "title": "🎶 榮星・長風之聲合唱團｜新團招生資訊 🎶",
-    "start": "2026-05-22",
-    "end": "2040-12-28",
-    "category": "workshop",
-    "venue": "榮星合唱團",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=62d93a30-2a36-4fc9-ba8b-fd0e2b01cc3c&PageIndex=6&PageType=1"
-  },
-  {
     "id": "cultureexpress-aacf2689-1ad8-4240-83a9-c9ccba1da572",
     "title": "Oh!海郵-海洋生物郵票特展",
     "start": "2026-06-17",
@@ -521,16 +502,6 @@
     "venue": "郵政博物館6樓特展室",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=aacf2689-1ad8-4240-83a9-c9ccba1da572&PageIndex=6&PageType=1"
-  },
-  {
-    "id": "cultureexpress-5e797858-c2a9-4ab8-aae5-189070df0e13",
-    "title": "【新月．藝文講座】墨染鄉土：現代水墨的在地美學",
-    "start": "2026-05-22",
-    "end": "2026-09-18",
-    "category": "workshop",
-    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=5e797858-c2a9-4ab8-aae5-189070df0e13&PageIndex=6&PageType=1"
   },
   {
     "id": "cultureexpress-59ecdfac-7042-47d0-a3a8-a2783675440c",
@@ -543,6 +514,16 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=59ecdfac-7042-47d0-a3a8-a2783675440c&PageIndex=6&PageType=1"
   },
   {
+    "id": "cultureexpress-f2773900-9b95-4d50-8e85-9a165576cc9e",
+    "title": "角落裡的慢時區 A Corner, A World",
+    "start": "2026-05-23",
+    "end": "2026-06-28",
+    "category": "exhibition",
+    "venue": "現代畫廊",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=f2773900-9b95-4d50-8e85-9a165576cc9e&PageIndex=6&PageType=1"
+  },
+  {
     "id": "cultureexpress-7cc63f1f-bda9-42be-9fc5-1a0bfb6903f4",
     "title": "《台灣微急-黃沛森攝影個展》",
     "start": "2026-05-23",
@@ -551,6 +532,34 @@
     "venue": "藝站One Station",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=7cc63f1f-bda9-42be-9fc5-1a0bfb6903f4&PageIndex=6&PageType=1"
+  },
+  {
+    "id": "cultureexpress-d22f310f-fc7c-411b-a94a-6ae84cc42531",
+    "title": "【合辦講座】元思心理諮商所 x 臺北市諮商心理師公會：從「我們」到「我們三個」--新手父母的關係療癒講座",
+    "start": "2026-06-17",
+    "category": "workshop",
+    "venue": "Google Meet",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=d22f310f-fc7c-411b-a94a-6ae84cc42531&PageIndex=6&PageType=1"
+  },
+  {
+    "id": "cultureexpress-988f180f-00f9-4afc-9b2e-bd26cc6caa61",
+    "title": "【漢學講堂】漢學如何跨域？ 內亞帝國、海洋網絡與邊地敘事",
+    "start": "2026-06-17",
+    "category": "workshop",
+    "venue": "蔣經國總統圖書館多功能會議廳",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=988f180f-00f9-4afc-9b2e-bd26cc6caa61&PageIndex=6&PageType=1"
+  },
+  {
+    "id": "cultureexpress-62d93a30-2a36-4fc9-ba8b-fd0e2b01cc3c",
+    "title": "🎶 榮星・長風之聲合唱團｜新團招生資訊 🎶",
+    "start": "2026-05-22",
+    "end": "2040-12-28",
+    "category": "workshop",
+    "venue": "榮星合唱團",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=62d93a30-2a36-4fc9-ba8b-fd0e2b01cc3c&PageIndex=6&PageType=1"
   },
   {
     "id": "cultureexpress-4578950b-bdb9-4d87-a0a7-fb17f14edcf2",
@@ -563,6 +572,16 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=4578950b-bdb9-4d87-a0a7-fb17f14edcf2&PageIndex=6&PageType=1"
   },
   {
+    "id": "cultureexpress-5e797858-c2a9-4ab8-aae5-189070df0e13",
+    "title": "【新月．藝文講座】墨染鄉土：現代水墨的在地美學",
+    "start": "2026-05-22",
+    "end": "2026-09-18",
+    "category": "workshop",
+    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=5e797858-c2a9-4ab8-aae5-189070df0e13&PageIndex=7&PageType=1"
+  },
+  {
     "id": "cultureexpress-95befb62-43eb-4f84-8cf3-8a541abb08e9",
     "title": "光影重構萬象-許坤成油畫暨大漆個展",
     "start": "2026-05-22",
@@ -570,7 +589,7 @@
     "category": "exhibition",
     "venue": "聯邦藝術中心",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=95befb62-43eb-4f84-8cf3-8a541abb08e9&PageIndex=6&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=95befb62-43eb-4f84-8cf3-8a541abb08e9&PageIndex=7&PageType=1"
   },
   {
     "id": "cultureexpress-eae7a704-2743-492a-bbde-dbbac414c71e",
@@ -603,22 +622,22 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=58a68643-5062-4686-b938-8fa27e96ce88&PageIndex=7&PageType=1"
   },
   {
-    "id": "cultureexpress-d22f310f-fc7c-411b-a94a-6ae84cc42531",
-    "title": "【合辦講座】元思心理諮商所 x 臺北市諮商心理師公會：從「我們」到「我們三個」--新手父母的關係療癒講座",
-    "start": "2026-06-17",
+    "id": "cultureexpress-9c8d340a-848d-4911-bf64-771616e011c9",
+    "title": "【國史館專題演講】性別、女性主義與歷史書寫(同步線上直播)",
+    "start": "2026-06-18",
     "category": "workshop",
-    "venue": "Google Meet",
+    "venue": "國史館臺北館4樓大禮堂/國史館線上講堂",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=d22f310f-fc7c-411b-a94a-6ae84cc42531&PageIndex=7&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=9c8d340a-848d-4911-bf64-771616e011c9&PageIndex=7&PageType=1"
   },
   {
-    "id": "cultureexpress-988f180f-00f9-4afc-9b2e-bd26cc6caa61",
-    "title": "【漢學講堂】漢學如何跨域？ 內亞帝國、海洋網絡與邊地敘事",
-    "start": "2026-06-17",
-    "category": "workshop",
-    "venue": "蔣經國總統圖書館多功能會議廳",
+    "id": "cultureexpress-57801927-c0c9-4506-9514-e96f70cbce83",
+    "title": "爵士禾聲 03｜《炭火上的探戈：TANGO INFUSIÓN》",
+    "start": "2026-06-19",
+    "category": "exhibition",
+    "venue": "禾禾文化空間",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=988f180f-00f9-4afc-9b2e-bd26cc6caa61&PageIndex=7&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=57801927-c0c9-4506-9514-e96f70cbce83&PageIndex=7&PageType=1"
   },
   {
     "id": "cultureexpress-cd969bdc-d126-4d8a-982c-b769aaa5fc8c",
@@ -631,35 +650,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=cd969bdc-d126-4d8a-982c-b769aaa5fc8c&PageIndex=7&PageType=1"
   },
   {
-    "id": "cultureexpress-4e56099e-5e6d-4190-be6e-21cc31c73909",
-    "title": "EMBA雜誌 新書出版活動 「變動下的思考」新書發表會",
-    "start": "2026-05-20",
-    "end": "2026-06-26",
-    "category": "workshop",
-    "venue": "y空間",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=4e56099e-5e6d-4190-be6e-21cc31c73909&PageIndex=7&PageType=1"
-  },
-  {
-    "id": "cultureexpress-9c8d340a-848d-4911-bf64-771616e011c9",
-    "title": "【國史館專題演講】性別、女性主義與歷史書寫(同步線上直播)",
-    "start": "2026-06-18",
-    "category": "workshop",
-    "venue": "國史館臺北館4樓大禮堂/國史館線上講堂",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=9c8d340a-848d-4911-bf64-771616e011c9&PageIndex=7&PageType=1"
-  },
-  {
-    "id": "cultureexpress-55ebe786-f0bc-4a42-a627-625a071040ed",
-    "title": "【新月．藝文講座】東西方藝術特別講座：山西古建築與凡·艾克的肖像藝術",
-    "start": "2026-05-19",
-    "end": "2026-08-18",
-    "category": "workshop",
-    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=55ebe786-f0bc-4a42-a627-625a071040ed&PageIndex=7&PageType=1"
-  },
-  {
     "id": "cultureexpress-dcac9017-3f47-43cd-8919-4d01bf6987a5",
     "title": "「吟遊於母星之間」曾詩涵個展",
     "start": "2026-06-20",
@@ -670,13 +660,24 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=dcac9017-3f47-43cd-8919-4d01bf6987a5&PageIndex=7&PageType=1"
   },
   {
-    "id": "cultureexpress-57801927-c0c9-4506-9514-e96f70cbce83",
-    "title": "爵士禾聲 03｜《炭火上的探戈：TANGO INFUSIÓN》",
-    "start": "2026-06-19",
-    "category": "exhibition",
-    "venue": "禾禾文化空間",
+    "id": "cultureexpress-4e56099e-5e6d-4190-be6e-21cc31c73909",
+    "title": "EMBA雜誌 新書出版活動 「變動下的思考」新書發表會",
+    "start": "2026-05-20",
+    "end": "2026-06-26",
+    "category": "workshop",
+    "venue": "y空間",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=57801927-c0c9-4506-9514-e96f70cbce83&PageIndex=8&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=4e56099e-5e6d-4190-be6e-21cc31c73909&PageIndex=7&PageType=1"
+  },
+  {
+    "id": "cultureexpress-55ebe786-f0bc-4a42-a627-625a071040ed",
+    "title": "【新月．藝文講座】東西方藝術特別講座：山西古建築與凡·艾克的肖像藝術",
+    "start": "2026-05-19",
+    "end": "2026-08-18",
+    "category": "workshop",
+    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=55ebe786-f0bc-4a42-a627-625a071040ed&PageIndex=8&PageType=1"
   },
   {
     "id": "cultureexpress-4e10c49a-5eeb-45ee-86b4-f695f6ab9793",
@@ -686,6 +687,36 @@
     "venue": "鳴石音樂空間",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=4e10c49a-5eeb-45ee-86b4-f695f6ab9793&PageIndex=8&PageType=1"
+  },
+  {
+    "id": "cultureexpress-e1f760fb-b278-4b2c-98fe-2548fe95cffd",
+    "title": "第17屆兩岸電影展",
+    "start": "2026-06-22",
+    "end": "2026-06-27",
+    "category": "exhibition",
+    "venue": "大巨蛋秀泰影城",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=e1f760fb-b278-4b2c-98fe-2548fe95cffd&PageIndex=8&PageType=1"
+  },
+  {
+    "id": "cultureexpress-228d97cc-bd46-4ba2-bc37-5efbc319e3cb",
+    "title": "北美館 X-site計畫 ｜鏡・亭・山：相看兩不厭",
+    "start": "2026-05-16",
+    "end": "2026-07-26",
+    "category": "exhibition",
+    "venue": "臺北市立美術館",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=228d97cc-bd46-4ba2-bc37-5efbc319e3cb&PageIndex=8&PageType=1"
+  },
+  {
+    "id": "cultureexpress-da17a8de-95fd-46d7-8d21-967fdcc69c33",
+    "title": "【馬勒講座】振奮所有感官：馬勒交響曲典型風格面面觀 (共七場講座)",
+    "start": "2026-06-24",
+    "end": "2026-12-30",
+    "category": "classical",
+    "venue": "【馬勒講座】振奮所有感官：馬勒交響曲典型風格面面觀 (共七場講座)",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=da17a8de-95fd-46d7-8d21-967fdcc69c33&PageIndex=8&PageType=1"
   },
   {
     "id": "cultureexpress-a7f00d32-f596-4610-8883-79d828afd886",
@@ -718,14 +749,14 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=68954b27-7d09-446a-bad9-d014fba09077&PageIndex=8&PageType=1"
   },
   {
-    "id": "cultureexpress-e1f760fb-b278-4b2c-98fe-2548fe95cffd",
-    "title": "第17屆兩岸電影展",
-    "start": "2026-06-22",
+    "id": "cultureexpress-7de478b2-7306-4da4-b9b9-f8a22cf51a64",
+    "title": "【引氣入室】-詹金水、陳慶坤、李政垣三人聯展",
+    "start": "2026-05-16",
     "end": "2026-06-27",
     "category": "exhibition",
-    "venue": "大巨蛋秀泰影城",
+    "venue": "99°藝術中心",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=e1f760fb-b278-4b2c-98fe-2548fe95cffd&PageIndex=8&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=7de478b2-7306-4da4-b9b9-f8a22cf51a64&PageIndex=8&PageType=1"
   },
   {
     "id": "cultureexpress-b6f2f1e5-4a71-426d-ada2-d683ff41444c",
@@ -745,17 +776,7 @@
     "category": "workshop",
     "venue": "臺北市立大學博愛校區 勤樸樓五樓508教室",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=f2b2fee2-b151-4f18-b621-16c7daf798c3&PageIndex=8&PageType=1"
-  },
-  {
-    "id": "cultureexpress-228d97cc-bd46-4ba2-bc37-5efbc319e3cb",
-    "title": "北美館 X-site計畫 ｜鏡・亭・山：相看兩不厭",
-    "start": "2026-05-16",
-    "end": "2026-07-26",
-    "category": "exhibition",
-    "venue": "臺北市立美術館",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=228d97cc-bd46-4ba2-bc37-5efbc319e3cb&PageIndex=8&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=f2b2fee2-b151-4f18-b621-16c7daf798c3&PageIndex=9&PageType=1"
   },
   {
     "id": "cultureexpress-9f4d2763-da8e-4a4b-9fb9-63d2d7ec01ce",
@@ -765,17 +786,16 @@
     "category": "workshop",
     "venue": "台北書林書店＋Google Meet",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=9f4d2763-da8e-4a4b-9fb9-63d2d7ec01ce&PageIndex=8&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=9f4d2763-da8e-4a4b-9fb9-63d2d7ec01ce&PageIndex=9&PageType=1"
   },
   {
-    "id": "cultureexpress-7de478b2-7306-4da4-b9b9-f8a22cf51a64",
-    "title": "【引氣入室】-詹金水、陳慶坤、李政垣三人聯展",
-    "start": "2026-05-16",
-    "end": "2026-06-27",
-    "category": "exhibition",
-    "venue": "99°藝術中心",
+    "id": "cultureexpress-62e8816f-ecb9-4433-9c81-027c2bbc6f6b",
+    "title": "【國史館專題演講】革命家的生活寶物：革命者史明與他的時代",
+    "start": "2026-06-25",
+    "category": "workshop",
+    "venue": "國史館臺北館4樓大禮堂",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=7de478b2-7306-4da4-b9b9-f8a22cf51a64&PageIndex=9&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=62e8816f-ecb9-4433-9c81-027c2bbc6f6b&PageIndex=9&PageType=1"
   },
   {
     "id": "cultureexpress-7be639e0-b2f0-406c-b3ec-7884e08651c0",
@@ -798,14 +818,32 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=318d3dc4-3930-47a1-84c7-a16b966cb3b5&PageIndex=9&PageType=1"
   },
   {
-    "id": "cultureexpress-da17a8de-95fd-46d7-8d21-967fdcc69c33",
-    "title": "【馬勒講座】振奮所有感官：馬勒交響曲典型風格面面觀 (共七場講座)",
-    "start": "2026-06-24",
-    "end": "2026-12-30",
-    "category": "classical",
-    "venue": "【馬勒講座】振奮所有感官：馬勒交響曲典型風格面面觀 (共七場講座)",
+    "id": "cultureexpress-3f9ac065-7062-4325-a6fa-8318458a1d6a",
+    "title": "2026第28屆台北電影節",
+    "start": "2026-06-26",
+    "end": "2026-07-11",
+    "category": "exhibition",
+    "venue": "台北電影節",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=da17a8de-95fd-46d7-8d21-967fdcc69c33&PageIndex=9&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=3f9ac065-7062-4325-a6fa-8318458a1d6a&PageIndex=9&PageType=1"
+  },
+  {
+    "id": "cultureexpress-74d94493-ba18-421c-b79e-975447a2d2e3",
+    "title": "【香頌．相遇】-高菊貞、Nicolas Drouet、蔡偉靖、李學濬",
+    "start": "2026-06-26",
+    "category": "exhibition",
+    "venue": "行天宮附設玄空圖書館敦化本館四樓禮堂",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=74d94493-ba18-421c-b79e-975447a2d2e3&PageIndex=9&PageType=1"
+  },
+  {
+    "id": "cultureexpress-c7cb0f61-bb34-47f3-b4f8-9581b45e1531",
+    "title": "照亮童心服務計畫一日志工招募",
+    "start": "2026-06-26",
+    "category": "exhibition",
+    "venue": "微客",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=c7cb0f61-bb34-47f3-b4f8-9581b45e1531&PageIndex=9&PageType=1"
   },
   {
     "id": "cultureexpress-4791a525-6075-411d-a3c4-9abff8b1d0cd",
@@ -818,60 +856,13 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=4791a525-6075-411d-a3c4-9abff8b1d0cd&PageIndex=9&PageType=1"
   },
   {
-    "id": "cultureexpress-3f9ac065-7062-4325-a6fa-8318458a1d6a",
-    "title": "2026第28屆台北電影節",
-    "start": "2026-06-26",
-    "end": "2026-07-11",
-    "category": "exhibition",
-    "venue": "台北電影節",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=3f9ac065-7062-4325-a6fa-8318458a1d6a&PageIndex=9&PageType=1"
-  },
-  {
-    "id": "cultureexpress-c7cb0f61-bb34-47f3-b4f8-9581b45e1531",
-    "title": "照亮童心服務計畫一日志工招募",
-    "start": "2026-06-26",
-    "category": "exhibition",
-    "venue": "微客",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=c7cb0f61-bb34-47f3-b4f8-9581b45e1531&PageIndex=9&PageType=1"
-  },
-  {
-    "id": "cultureexpress-62e8816f-ecb9-4433-9c81-027c2bbc6f6b",
-    "title": "【國史館專題演講】革命家的生活寶物：革命者史明與他的時代",
-    "start": "2026-06-25",
-    "category": "workshop",
-    "venue": "國史館臺北館4樓大禮堂",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=62e8816f-ecb9-4433-9c81-027c2bbc6f6b&PageIndex=9&PageType=1"
-  },
-  {
-    "id": "cultureexpress-74d94493-ba18-421c-b79e-975447a2d2e3",
-    "title": "【香頌．相遇】-高菊貞、Nicolas Drouet、蔡偉靖、李學濬",
-    "start": "2026-06-26",
-    "category": "exhibition",
-    "venue": "行天宮附設玄空圖書館敦化本館四樓禮堂",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=74d94493-ba18-421c-b79e-975447a2d2e3&PageIndex=9&PageType=1"
-  },
-  {
-    "id": "cultureexpress-677fec02-dbb6-40a5-a81e-1de2372c0b24",
-    "title": "《島嶼脈絡：一位醫師的台灣地景診斷》陳鴻文個展",
-    "start": "2026-05-13",
-    "end": "2026-06-07",
-    "category": "exhibition",
-    "venue": "隱藝術",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=677fec02-dbb6-40a5-a81e-1de2372c0b24&PageIndex=9&PageType=1"
-  },
-  {
     "id": "cultureexpress-f9f9cddc-682c-432f-8762-d4126a36248a",
     "title": "TCO「叮叮！時光音樂盒」親子音樂會─ 2026 TCO臺灣巡迴音樂會",
     "start": "2026-06-27",
     "category": "classical",
     "venue": "基隆表演藝術中心演藝廳",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=f9f9cddc-682c-432f-8762-d4126a36248a&PageIndex=10&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=f9f9cddc-682c-432f-8762-d4126a36248a&PageIndex=9&PageType=1"
   },
   {
     "id": "cultureexpress-7d1e4243-f557-4eb3-9c89-1829265f2145",
@@ -946,14 +937,14 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=4a946880-316f-4408-91b7-be6c64e16f47&PageIndex=10&PageType=1"
   },
   {
-    "id": "cultureexpress-8a5b80c0-2f42-4702-a5fd-8e243f720767",
-    "title": "2026後生文學獎 徵件中",
-    "start": "2026-05-11",
-    "end": "2026-09-30",
-    "category": "workshop",
-    "venue": "紙本＋線上報名",
+    "id": "cultureexpress-677fec02-dbb6-40a5-a81e-1de2372c0b24",
+    "title": "《島嶼脈絡：一位醫師的台灣地景診斷》陳鴻文個展",
+    "start": "2026-05-13",
+    "end": "2026-06-07",
+    "category": "exhibition",
+    "venue": "隱藝術",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=8a5b80c0-2f42-4702-a5fd-8e243f720767&PageIndex=10&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=677fec02-dbb6-40a5-a81e-1de2372c0b24&PageIndex=10&PageType=1"
   },
   {
     "id": "cultureexpress-98d290e5-4b71-4b85-bd8e-7a38f2d5b13e",
@@ -962,7 +953,7 @@
     "category": "classical",
     "venue": "林建生紀念圖書館",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=98d290e5-4b71-4b85-bd8e-7a38f2d5b13e&PageIndex=11&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=98d290e5-4b71-4b85-bd8e-7a38f2d5b13e&PageIndex=10&PageType=1"
   },
   {
     "id": "cultureexpress-24e195fd-7020-4d50-9c50-c8c9ee3228f9",
@@ -983,14 +974,14 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=c610e1c2-0506-48d2-86d1-e9311dad20db&PageIndex=11&PageType=1"
   },
   {
-    "id": "cultureexpress-eb317e4b-bc04-452f-85bd-0a223301e0b5",
-    "title": "TRPG桌遊活動～等你來冒險",
-    "start": "2026-05-09",
-    "end": "2026-06-13",
-    "category": "exhibition",
-    "venue": "三重青少基地",
+    "id": "cultureexpress-8a5b80c0-2f42-4702-a5fd-8e243f720767",
+    "title": "2026後生文學獎 徵件中",
+    "start": "2026-05-11",
+    "end": "2026-09-30",
+    "category": "workshop",
+    "venue": "紙本＋線上報名",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=eb317e4b-bc04-452f-85bd-0a223301e0b5&PageIndex=11&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=8a5b80c0-2f42-4702-a5fd-8e243f720767&PageIndex=11&PageType=1"
   },
   {
     "id": "cultureexpress-00277252-7583-4fd0-bbbe-9e22a4f1cf4c",
@@ -1043,6 +1034,16 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=27ade493-d6f4-42a3-b1ef-6d31e7004fb9&PageIndex=11&PageType=1"
   },
   {
+    "id": "cultureexpress-eb317e4b-bc04-452f-85bd-0a223301e0b5",
+    "title": "TRPG桌遊活動～等你來冒險",
+    "start": "2026-05-09",
+    "end": "2026-06-13",
+    "category": "exhibition",
+    "venue": "三重青少基地",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=eb317e4b-bc04-452f-85bd-0a223301e0b5&PageIndex=11&PageType=1"
+  },
+  {
     "id": "cultureexpress-5b25577a-bdbe-4b06-9d55-41c7c2392728",
     "title": "餐桌上的博物館 – 食物的隱形魔法",
     "start": "2026-05-08",
@@ -1051,6 +1052,15 @@
     "venue": "里仁誠食市集",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=5b25577a-bdbe-4b06-9d55-41c7c2392728&PageIndex=11&PageType=1"
+  },
+  {
+    "id": "cultureexpress-b3418e53-832f-4434-a133-2132e5d9e87b",
+    "title": "【國史館專題演講】原住民族知識體系核心範疇知識是什麼？",
+    "start": "2026-07-02",
+    "category": "workshop",
+    "venue": "國史館4樓大禮堂",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=b3418e53-832f-4434-a133-2132e5d9e87b&PageIndex=12&PageType=1"
   },
   {
     "id": "cultureexpress-9a969d28-7f36-4b6a-8382-cc939aec2b57",
@@ -1063,25 +1073,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=9a969d28-7f36-4b6a-8382-cc939aec2b57&PageIndex=12&PageType=1"
   },
   {
-    "id": "cultureexpress-21d41236-2fd5-40be-ade8-72adc5b82b69",
-    "title": "敘事的力量——文學導航班",
-    "start": "2026-05-06",
-    "end": "2026-07-22",
-    "category": "workshop",
-    "venue": "耕莘文教基金會教室",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=21d41236-2fd5-40be-ade8-72adc5b82b69&PageIndex=12&PageType=1"
-  },
-  {
-    "id": "cultureexpress-b3418e53-832f-4434-a133-2132e5d9e87b",
-    "title": "【國史館專題演講】原住民族知識體系核心範疇知識是什麼？",
-    "start": "2026-07-02",
-    "category": "workshop",
-    "venue": "國史館4樓大禮堂",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=b3418e53-832f-4434-a133-2132e5d9e87b&PageIndex=12&PageType=1"
-  },
-  {
     "id": "cultureexpress-3cea7c14-f051-4c9a-9d92-6af664e2dfcf",
     "title": "115-2家庭童樂會",
     "start": "2026-05-06",
@@ -1092,14 +1083,14 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=3cea7c14-f051-4c9a-9d92-6af664e2dfcf&PageIndex=12&PageType=1"
   },
   {
-    "id": "cultureexpress-0a5328d0-2785-4d0d-b7ee-6c10632e853f",
-    "title": "2026 科普閱讀研究室",
-    "start": "2026-05-05",
-    "end": "2026-08-18",
+    "id": "cultureexpress-21d41236-2fd5-40be-ade8-72adc5b82b69",
+    "title": "敘事的力量——文學導航班",
+    "start": "2026-05-06",
+    "end": "2026-07-22",
     "category": "workshop",
-    "venue": "台北書林書店＋Google Meet",
+    "venue": "耕莘文教基金會教室",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=0a5328d0-2785-4d0d-b7ee-6c10632e853f&PageIndex=12&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=21d41236-2fd5-40be-ade8-72adc5b82b69&PageIndex=12&PageType=1"
   },
   {
     "id": "cultureexpress-347d8db7-4d6f-4c34-83b7-9f137ded8769",
@@ -1129,14 +1120,23 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=a2588b3c-b1e2-4f91-a908-efe705b478d1&PageIndex=12&PageType=1"
   },
   {
-    "id": "cultureexpress-8fe25067-d01d-4faa-82dc-a4826e675ba7",
-    "title": "台北偶戲館OPEN 2026靈感啟動：庫房開箱x玩具劇場系列工作坊",
-    "start": "2026-05-03",
-    "end": "2026-07-25",
-    "category": "traditional",
-    "venue": "台北偶戲館",
+    "id": "cultureexpress-0a5328d0-2785-4d0d-b7ee-6c10632e853f",
+    "title": "2026 科普閱讀研究室",
+    "start": "2026-05-05",
+    "end": "2026-08-18",
+    "category": "workshop",
+    "venue": "台北書林書店＋Google Meet",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=8fe25067-d01d-4faa-82dc-a4826e675ba7&PageIndex=12&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=0a5328d0-2785-4d0d-b7ee-6c10632e853f&PageIndex=12&PageType=1"
+  },
+  {
+    "id": "cultureexpress-3947130e-30a0-4aa4-8496-cff7f5705687",
+    "title": "鳴石樂集樂壇新秀 翡利伽四重奏《捷克的聲音與靈魂》史麥塔納與德佛札克弦樂四重奏之夜",
+    "start": "2026-07-05",
+    "category": "classical",
+    "venue": "鳴石音樂空間",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=3947130e-30a0-4aa4-8496-cff7f5705687&PageIndex=12&PageType=1"
   },
   {
     "id": "cultureexpress-0a87164e-df16-4d63-b49b-fd5befbbefac",
@@ -1169,13 +1169,14 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=83e771c1-0e7b-4c29-976a-44e283203244&PageIndex=13&PageType=1"
   },
   {
-    "id": "cultureexpress-3947130e-30a0-4aa4-8496-cff7f5705687",
-    "title": "鳴石樂集樂壇新秀 翡利伽四重奏《捷克的聲音與靈魂》史麥塔納與德佛札克弦樂四重奏之夜",
-    "start": "2026-07-05",
-    "category": "classical",
-    "venue": "鳴石音樂空間",
+    "id": "cultureexpress-8fe25067-d01d-4faa-82dc-a4826e675ba7",
+    "title": "台北偶戲館OPEN 2026靈感啟動：庫房開箱x玩具劇場系列工作坊",
+    "start": "2026-05-03",
+    "end": "2026-07-25",
+    "category": "traditional",
+    "venue": "台北偶戲館",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=3947130e-30a0-4aa4-8496-cff7f5705687&PageIndex=13&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=8fe25067-d01d-4faa-82dc-a4826e675ba7&PageIndex=13&PageType=1"
   },
   {
     "id": "cultureexpress-955f720f-a034-42f9-8ec7-e25917baeb45",
@@ -1228,16 +1229,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=19bacd16-a1a9-421f-90d7-28d558f7eeb5&PageIndex=13&PageType=1"
   },
   {
-    "id": "cultureexpress-7d2e43cb-a1e6-4a94-ac5e-b9a6ac43ce56",
-    "title": "2026舞躍大地舞蹈創作比賽",
-    "start": "2026-05-01",
-    "end": "2026-06-26",
-    "category": "dance",
-    "venue": "藝文活動平台",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=7d2e43cb-a1e6-4a94-ac5e-b9a6ac43ce56&PageIndex=13&PageType=1"
-  },
-  {
     "id": "cultureexpress-49b85231-7c8f-4e6f-b970-bb4261647726",
     "title": "即興劇長篇工作坊 – 打造你的即興宇宙",
     "start": "2026-07-09",
@@ -1246,6 +1237,25 @@
     "venue": "新藝向玩藝所",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=49b85231-7c8f-4e6f-b970-bb4261647726&PageIndex=13&PageType=1"
+  },
+  {
+    "id": "cultureexpress-925fce0c-4464-4648-8218-31808749a0f2",
+    "title": "【國史館專題演講】彰化永靖五福村減租事件初探",
+    "start": "2026-07-09",
+    "category": "workshop",
+    "venue": "國史館4樓大禮堂",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=925fce0c-4464-4648-8218-31808749a0f2&PageIndex=13&PageType=1"
+  },
+  {
+    "id": "cultureexpress-7d2e43cb-a1e6-4a94-ac5e-b9a6ac43ce56",
+    "title": "2026舞躍大地舞蹈創作比賽",
+    "start": "2026-05-01",
+    "end": "2026-06-26",
+    "category": "dance",
+    "venue": "藝文活動平台",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=7d2e43cb-a1e6-4a94-ac5e-b9a6ac43ce56&PageIndex=14&PageType=1"
   },
   {
     "id": "cultureexpress-d2114aa4-c4a7-4ae6-a6f2-cfac98dc2f45",
@@ -1258,13 +1268,13 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=d2114aa4-c4a7-4ae6-a6f2-cfac98dc2f45&PageIndex=14&PageType=1"
   },
   {
-    "id": "cultureexpress-925fce0c-4464-4648-8218-31808749a0f2",
-    "title": "【國史館專題演講】彰化永靖五福村減租事件初探",
-    "start": "2026-07-09",
-    "category": "workshop",
-    "venue": "國史館4樓大禮堂",
+    "id": "cultureexpress-40c5d387-0a7a-46a7-b81f-4b126598ad18",
+    "title": "【地平線的另一端】",
+    "start": "2026-07-10",
+    "category": "exhibition",
+    "venue": "行天宮附設玄空圖書館敦化本館四樓禮堂",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=925fce0c-4464-4648-8218-31808749a0f2&PageIndex=14&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=40c5d387-0a7a-46a7-b81f-4b126598ad18&PageIndex=14&PageType=1"
   },
   {
     "id": "cultureexpress-eb854a9c-f254-46e6-917a-1dedf83acc25",
@@ -1337,15 +1347,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=bf159bb2-1dc6-4256-9a44-f75d3d544fd1&PageIndex=14&PageType=1"
   },
   {
-    "id": "cultureexpress-40c5d387-0a7a-46a7-b81f-4b126598ad18",
-    "title": "【地平線的另一端】",
-    "start": "2026-07-10",
-    "category": "exhibition",
-    "venue": "行天宮附設玄空圖書館敦化本館四樓禮堂",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=40c5d387-0a7a-46a7-b81f-4b126598ad18&PageIndex=14&PageType=1"
-  },
-  {
     "id": "cultureexpress-769d185b-4f0a-4f87-aab5-67dd1343a9c6",
     "title": "【一起辨識真零食】親子探索活動",
     "start": "2026-07-11",
@@ -1383,26 +1384,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=293f13b8-d700-4647-a009-dc3b169478b1&PageIndex=15&PageType=1"
   },
   {
-    "id": "cultureexpress-1c83ea9c-3af4-4c52-ad85-da850916629b",
-    "title": "暑期冒險王，全能探索營",
-    "start": "2026-07-13",
-    "end": "2026-08-14",
-    "category": "exhibition",
-    "venue": "行天宮附設玄空圖書館敦化本館",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=1c83ea9c-3af4-4c52-ad85-da850916629b&PageIndex=15&PageType=1"
-  },
-  {
-    "id": "cultureexpress-210c7b69-c37f-4f03-a682-0fe693be07ff",
-    "title": "2026衛武營技術人才培育工作坊",
-    "start": "2026-07-13",
-    "end": "2026-08-09",
-    "category": "workshop",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=210c7b69-c37f-4f03-a682-0fe693be07ff&PageIndex=15&PageType=1"
-  },
-  {
     "id": "cultureexpress-6481bf44-cc40-4661-94af-37e60b6ed728",
     "title": "《The Dreamwalker》2026周必文鋼琴獨奏會",
     "start": "2026-07-12",
@@ -1430,6 +1411,26 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=6d181949-7de3-421b-b7e6-deece1171f80&PageIndex=15&PageType=1"
   },
   {
+    "id": "cultureexpress-1c83ea9c-3af4-4c52-ad85-da850916629b",
+    "title": "暑期冒險王，全能探索營",
+    "start": "2026-07-13",
+    "end": "2026-08-14",
+    "category": "exhibition",
+    "venue": "行天宮附設玄空圖書館敦化本館",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=1c83ea9c-3af4-4c52-ad85-da850916629b&PageIndex=15&PageType=1"
+  },
+  {
+    "id": "cultureexpress-210c7b69-c37f-4f03-a682-0fe693be07ff",
+    "title": "2026衛武營技術人才培育工作坊",
+    "start": "2026-07-13",
+    "end": "2026-08-09",
+    "category": "workshop",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=210c7b69-c37f-4f03-a682-0fe693be07ff&PageIndex=15&PageType=1"
+  },
+  {
     "id": "cultureexpress-18824f49-1714-4c9f-b729-08ecf9dd40e8",
     "title": "北美館 - 超現實主義：對話中的世界",
     "start": "2026-04-25",
@@ -1448,6 +1449,15 @@
     "venue": "台北孔廟",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=78c83fea-3813-4264-80a4-5788e1ff536d&PageIndex=16&PageType=1"
+  },
+  {
+    "id": "cultureexpress-32adc36d-ed35-4431-8004-1a5d572ad6be",
+    "title": "從紙頁到銀幕：文學改編電影的魔法",
+    "start": "2026-07-15",
+    "category": "workshop",
+    "venue": "臺北市藝文推廣處一樓演藝廳",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=32adc36d-ed35-4431-8004-1a5d572ad6be&PageIndex=16&PageType=1"
   },
   {
     "id": "cultureexpress-d834d429-22c3-45a8-8bb2-2a7cfd273324",
@@ -1480,15 +1490,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=00ae0b7a-81fe-4688-be26-af354f8160c7&PageIndex=16&PageType=1"
   },
   {
-    "id": "cultureexpress-32adc36d-ed35-4431-8004-1a5d572ad6be",
-    "title": "從紙頁到銀幕：文學改編電影的魔法",
-    "start": "2026-07-15",
-    "category": "workshop",
-    "venue": "臺北市藝文推廣處一樓演藝廳",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=32adc36d-ed35-4431-8004-1a5d572ad6be&PageIndex=16&PageType=1"
-  },
-  {
     "id": "cultureexpress-3c9cb350-b70a-4ef5-83ea-4f65caff9588",
     "title": "【國史館專題演講】為何只有台灣的養成──有關《流火》一書鹿野忠雄的取材和書寫",
     "start": "2026-07-16",
@@ -1496,16 +1497,6 @@
     "venue": "國史館4樓大禮堂",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=3c9cb350-b70a-4ef5-83ea-4f65caff9588&PageIndex=16&PageType=1"
-  },
-  {
-    "id": "cultureexpress-3c45c10e-b5e1-475f-8bb6-42a93f50772e",
-    "title": "燕子之城二部曲展覽作品徵件",
-    "start": "2026-04-22",
-    "end": "2026-06-21",
-    "category": "exhibition",
-    "venue": "田園城市生活風格書店B1 / 好土書店 2.3F",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=3c45c10e-b5e1-475f-8bb6-42a93f50772e&PageIndex=16&PageType=1"
   },
   {
     "id": "cultureexpress-967fdfa7-becd-4ce7-b8de-8342dbc7c982",
@@ -1517,14 +1508,23 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=967fdfa7-becd-4ce7-b8de-8342dbc7c982&PageIndex=16&PageType=1"
   },
   {
-    "id": "cultureexpress-0ac13779-285d-4738-9457-7704bd92ade1",
-    "title": "【發現定靜的力量】115夏令兒童遊藝",
-    "start": "2026-07-20",
-    "end": "2026-07-24",
+    "id": "cultureexpress-5aa68548-0f07-40ac-a36f-9cf3efa2cc6d",
+    "title": "長笛狂想曲－光影中的星際藍調",
+    "start": "2026-07-18",
     "category": "exhibition",
-    "venue": "雅齋兒童書藝學堂",
+    "venue": "誠品表演廳",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=0ac13779-285d-4738-9457-7704bd92ade1&PageIndex=16&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=5aa68548-0f07-40ac-a36f-9cf3efa2cc6d&PageIndex=16&PageType=1"
+  },
+  {
+    "id": "cultureexpress-3c45c10e-b5e1-475f-8bb6-42a93f50772e",
+    "title": "燕子之城二部曲展覽作品徵件",
+    "start": "2026-04-22",
+    "end": "2026-06-21",
+    "category": "exhibition",
+    "venue": "田園城市生活風格書店B1 / 好土書店 2.3F",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=3c45c10e-b5e1-475f-8bb6-42a93f50772e&PageIndex=16&PageType=1"
   },
   {
     "id": "cultureexpress-262f96b8-86fc-40ef-95c1-4f859878a9df",
@@ -1545,6 +1545,16 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=2606cfac-08ed-4522-a9a4-06c755901b9b&PageIndex=17&PageType=1"
   },
   {
+    "id": "cultureexpress-0ac13779-285d-4738-9457-7704bd92ade1",
+    "title": "【發現定靜的力量】115夏令兒童遊藝",
+    "start": "2026-07-20",
+    "end": "2026-07-24",
+    "category": "exhibition",
+    "venue": "雅齋兒童書藝學堂",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=0ac13779-285d-4738-9457-7704bd92ade1&PageIndex=17&PageType=1"
+  },
+  {
     "id": "cultureexpress-5fd8bb2f-dd57-4165-a354-d0a0d423bbcb",
     "title": "善良進化論：即興劇 Ｘ 非暴力溝通",
     "start": "2026-04-19",
@@ -1553,6 +1563,16 @@
     "venue": "新藝向玩藝所 1樓（台北市中正區寧波西街72號）",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=5fd8bb2f-dd57-4165-a354-d0a0d423bbcb&PageIndex=17&PageType=1"
+  },
+  {
+    "id": "cultureexpress-a0bf3437-308c-494f-8d65-a592ef401f83",
+    "title": "《漂移 Drifting : Creating is Playing》葉怡利個展",
+    "start": "2026-04-18",
+    "end": "2026-06-20",
+    "category": "exhibition",
+    "venue": "愛上藝廊",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=a0bf3437-308c-494f-8d65-a592ef401f83&PageIndex=17&PageType=1"
   },
   {
     "id": "cultureexpress-e01d6341-53df-41ec-aeef-198ef7310851",
@@ -1565,6 +1585,15 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=e01d6341-53df-41ec-aeef-198ef7310851&PageIndex=17&PageType=1"
   },
   {
+    "id": "cultureexpress-cbe4b27a-87a3-4e20-b925-f7c6d40869e9",
+    "title": "【國史館專題演講】有一首台語歌",
+    "start": "2026-07-23",
+    "category": "workshop",
+    "venue": "國史館4樓大禮堂",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=cbe4b27a-87a3-4e20-b925-f7c6d40869e9&PageIndex=17&PageType=1"
+  },
+  {
     "id": "cultureexpress-c5d4e99b-3cb3-4880-83f9-c246a47e0c16",
     "title": "即興劇進階工作坊：英雄旅程故事課",
     "start": "2026-04-17",
@@ -1575,14 +1604,23 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=c5d4e99b-3cb3-4880-83f9-c246a47e0c16&PageIndex=17&PageType=1"
   },
   {
-    "id": "cultureexpress-a0bf3437-308c-494f-8d65-a592ef401f83",
-    "title": "《漂移 Drifting : Creating is Playing》葉怡利個展",
-    "start": "2026-04-18",
-    "end": "2026-06-20",
-    "category": "exhibition",
-    "venue": "愛上藝廊",
+    "id": "cultureexpress-590e9da1-1caa-48fd-a7cd-8c55bc591619",
+    "title": "2026紀州庵高中校刊競賽暨編輯營",
+    "start": "2026-07-24",
+    "end": "2026-07-26",
+    "category": "workshop",
+    "venue": "紀州庵文學森林",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=a0bf3437-308c-494f-8d65-a592ef401f83&PageIndex=17&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=590e9da1-1caa-48fd-a7cd-8c55bc591619&PageIndex=17&PageType=1"
+  },
+  {
+    "id": "cultureexpress-4dd7182b-cf7f-482b-82c0-8590e3f0148d",
+    "title": "【莫札特的秘密】 謎思星球劇團",
+    "start": "2026-07-24",
+    "category": "theater",
+    "venue": "行天宮附設玄空圖書館敦化本館四樓禮堂",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=4dd7182b-cf7f-482b-82c0-8590e3f0148d&PageIndex=17&PageType=1"
   },
   {
     "id": "cultureexpress-a157257f-f524-4841-a5d5-c8fe7c89be16",
@@ -1602,26 +1640,7 @@
     "category": "workshop",
     "venue": "新藝向玩藝所",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=33285337-eee7-46ce-8dc3-73e47117d244&PageIndex=17&PageType=1"
-  },
-  {
-    "id": "cultureexpress-590e9da1-1caa-48fd-a7cd-8c55bc591619",
-    "title": "2026紀州庵高中校刊競賽暨編輯營",
-    "start": "2026-07-24",
-    "end": "2026-07-26",
-    "category": "workshop",
-    "venue": "紀州庵文學森林",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=590e9da1-1caa-48fd-a7cd-8c55bc591619&PageIndex=17&PageType=1"
-  },
-  {
-    "id": "cultureexpress-cbe4b27a-87a3-4e20-b925-f7c6d40869e9",
-    "title": "【國史館專題演講】有一首台語歌",
-    "start": "2026-07-23",
-    "category": "workshop",
-    "venue": "國史館4樓大禮堂",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=cbe4b27a-87a3-4e20-b925-f7c6d40869e9&PageIndex=17&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=33285337-eee7-46ce-8dc3-73e47117d244&PageIndex=18&PageType=1"
   },
   {
     "id": "cultureexpress-69d143e6-ad8f-4a22-88a1-769164354cf4",
@@ -1631,16 +1650,7 @@
     "category": "exhibition",
     "venue": "國立臺北藝術大學 關渡美術館",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=69d143e6-ad8f-4a22-88a1-769164354cf4&PageIndex=17&PageType=1"
-  },
-  {
-    "id": "cultureexpress-4dd7182b-cf7f-482b-82c0-8590e3f0148d",
-    "title": "【莫札特的秘密】 謎思星球劇團",
-    "start": "2026-07-24",
-    "category": "theater",
-    "venue": "行天宮附設玄空圖書館敦化本館四樓禮堂",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=4dd7182b-cf7f-482b-82c0-8590e3f0148d&PageIndex=18&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=69d143e6-ad8f-4a22-88a1-769164354cf4&PageIndex=18&PageType=1"
   },
   {
     "id": "cultureexpress-ed696872-1a0a-4f4a-8ee7-227c076fe8bf",
@@ -1661,26 +1671,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=1b7f49f4-1210-4164-8310-d80233bd024f&PageIndex=18&PageType=1"
   },
   {
-    "id": "cultureexpress-c5954afa-7881-494e-8355-48fcd74c2238",
-    "title": "創意紙黏土",
-    "start": "2026-04-13",
-    "end": "2026-07-06",
-    "category": "exhibition",
-    "venue": "法鼓山心靈環保學習中心",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=c5954afa-7881-494e-8355-48fcd74c2238&PageIndex=18&PageType=1"
-  },
-  {
-    "id": "cultureexpress-20e988e2-f69a-4334-b558-40dd74340174",
-    "title": "李奉2026個展",
-    "start": "2026-04-14",
-    "end": "2026-06-14",
-    "category": "exhibition",
-    "venue": "帝門藝術中心",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=20e988e2-f69a-4334-b558-40dd74340174&PageIndex=18&PageType=1"
-  },
-  {
     "id": "cultureexpress-2648ac03-7f3a-4fd4-a858-6ce9a95302b5",
     "title": "鳴石樂集樂壇新秀 阮萃妤 鋼琴獨奏會",
     "start": "2026-07-26",
@@ -1699,6 +1689,26 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=e85c1641-2622-4d6f-9759-aaee3d368487&PageIndex=18&PageType=1"
   },
   {
+    "id": "cultureexpress-20e988e2-f69a-4334-b558-40dd74340174",
+    "title": "李奉2026個展",
+    "start": "2026-04-14",
+    "end": "2026-06-14",
+    "category": "exhibition",
+    "venue": "帝門藝術中心",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=20e988e2-f69a-4334-b558-40dd74340174&PageIndex=18&PageType=1"
+  },
+  {
+    "id": "cultureexpress-c5954afa-7881-494e-8355-48fcd74c2238",
+    "title": "創意紙黏土",
+    "start": "2026-04-13",
+    "end": "2026-07-06",
+    "category": "exhibition",
+    "venue": "法鼓山心靈環保學習中心",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=c5954afa-7881-494e-8355-48fcd74c2238&PageIndex=18&PageType=1"
+  },
+  {
     "id": "cultureexpress-4c25d7a9-1fcc-4b2c-afda-771138f322e6",
     "title": "115年「掌藝薪傳-大師工作坊」",
     "start": "2026-04-12",
@@ -1707,16 +1717,6 @@
     "venue": "台北偶戲館",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=4c25d7a9-1fcc-4b2c-afda-771138f322e6&PageIndex=18&PageType=1"
-  },
-  {
-    "id": "cultureexpress-e5a85e61-ecd6-481b-a446-3052d3bc777c",
-    "title": "【童里年度講座】2026.4 — 10月 週六下午｜蔡雨辰｜圖像的複調：拆解繪本與跨域對讀",
-    "start": "2026-04-11",
-    "end": "2026-10-17",
-    "category": "workshop",
-    "venue": "童里繪本洋行",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=e5a85e61-ecd6-481b-a446-3052d3bc777c&PageIndex=18&PageType=1"
   },
   {
     "id": "cultureexpress-f2afb575-6c18-4564-8e09-aa995828fd69",
@@ -1729,14 +1729,14 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=f2afb575-6c18-4564-8e09-aa995828fd69&PageIndex=18&PageType=1"
   },
   {
-    "id": "cultureexpress-73661881-37d9-4799-9442-cd5e6b9ebb2d",
-    "title": "小孤獨，處｜簡翊洪",
+    "id": "cultureexpress-e5a85e61-ecd6-481b-a446-3052d3bc777c",
+    "title": "【童里年度講座】2026.4 — 10月 週六下午｜蔡雨辰｜圖像的複調：拆解繪本與跨域對讀",
     "start": "2026-04-11",
-    "end": "2026-06-20",
-    "category": "exhibition",
-    "venue": "谷公館 (台北市敦化南路一段21號4樓之2)",
+    "end": "2026-10-17",
+    "category": "workshop",
+    "venue": "童里繪本洋行",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=73661881-37d9-4799-9442-cd5e6b9ebb2d&PageIndex=19&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=e5a85e61-ecd6-481b-a446-3052d3bc777c&PageIndex=19&PageType=1"
   },
   {
     "id": "cultureexpress-f74f0d59-3908-4c7b-8c8a-6d8def6a30aa",
@@ -1747,6 +1747,34 @@
     "venue": "絕版影像館",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=f74f0d59-3908-4c7b-8c8a-6d8def6a30aa&PageIndex=19&PageType=1"
+  },
+  {
+    "id": "cultureexpress-73661881-37d9-4799-9442-cd5e6b9ebb2d",
+    "title": "小孤獨，處｜簡翊洪",
+    "start": "2026-04-11",
+    "end": "2026-06-20",
+    "category": "exhibition",
+    "venue": "谷公館 (台北市敦化南路一段21號4樓之2)",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=73661881-37d9-4799-9442-cd5e6b9ebb2d&PageIndex=19&PageType=1"
+  },
+  {
+    "id": "cultureexpress-72773a86-7d5b-4b7c-a537-f09d973e7acb",
+    "title": "詹蔓淇 2026 單簧管獨奏會 -《於未竟之境》",
+    "start": "2026-07-30",
+    "category": "exhibition",
+    "venue": "國家兩廳院演奏廳",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=72773a86-7d5b-4b7c-a537-f09d973e7acb&PageIndex=19&PageType=1"
+  },
+  {
+    "id": "cultureexpress-20559c04-6a63-4f39-9536-63adf86bf8d8",
+    "title": "【國史館專題演講】延續慧命、漫長思念——李登輝先生逝世六週年(同步線上直播)",
+    "start": "2026-07-30",
+    "category": "workshop",
+    "venue": "國史館4樓大禮堂",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=20559c04-6a63-4f39-9536-63adf86bf8d8&PageIndex=19&PageType=1"
   },
   {
     "id": "cultureexpress-efffc71d-395c-4072-9400-0f2318ae4767",
@@ -1767,24 +1795,6 @@
     "venue": "全台首輪上映戲院/台北真善美等",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=376d0da8-ce22-4b54-866b-4f8bf0b2e694&PageIndex=19&PageType=1"
-  },
-  {
-    "id": "cultureexpress-72773a86-7d5b-4b7c-a537-f09d973e7acb",
-    "title": "詹蔓淇 2026 單簧管獨奏會 -《於未竟之境》",
-    "start": "2026-07-30",
-    "category": "exhibition",
-    "venue": "國家兩廳院演奏廳",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=72773a86-7d5b-4b7c-a537-f09d973e7acb&PageIndex=19&PageType=1"
-  },
-  {
-    "id": "cultureexpress-20559c04-6a63-4f39-9536-63adf86bf8d8",
-    "title": "【國史館專題演講】延續慧命、漫長思念——李登輝先生逝世六週年(同步線上直播)",
-    "start": "2026-07-30",
-    "category": "workshop",
-    "venue": "國史館4樓大禮堂",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=20559c04-6a63-4f39-9536-63adf86bf8d8&PageIndex=19&PageType=1"
   },
   {
     "id": "cultureexpress-28034621-fca5-457c-8429-c1ec8a2fb9c3",
@@ -1821,7 +1831,7 @@
     "category": "workshop",
     "venue": "臺北市藝文推廣處一樓演藝廳",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=2525999d-ac3e-4a69-b783-6ca5733e114c&PageIndex=19&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=2525999d-ac3e-4a69-b783-6ca5733e114c&PageIndex=20&PageType=1"
   },
   {
     "id": "cultureexpress-b4ab6849-efc0-457d-9b32-163298e1680e",
@@ -1853,16 +1863,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=0c572cfb-00a9-436b-a482-dbabc4c46d57&PageIndex=20&PageType=1"
   },
   {
-    "id": "cultureexpress-384e2fdc-dc53-41c5-8e31-70063b55c89c",
-    "title": "【新月．音樂欣賞】作曲家的浪漫一生：浪漫樂派六大家",
-    "start": "2026-04-02",
-    "end": "2026-09-10",
-    "category": "workshop",
-    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=384e2fdc-dc53-41c5-8e31-70063b55c89c&PageIndex=20&PageType=1"
-  },
-  {
     "id": "cultureexpress-0641583c-cd89-4597-944f-5e4b606acf13",
     "title": "2026 TMAF大師巨星音樂會",
     "start": "2026-08-05",
@@ -1872,24 +1872,14 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=0641583c-cd89-4597-944f-5e4b606acf13&PageIndex=20&PageType=1"
   },
   {
-    "id": "cultureexpress-9f562328-cd6b-40d0-916c-2e90f99a7368",
-    "title": "第四屆匠心之夢全國文創工藝競賽",
-    "start": "2026-04-01",
-    "end": "2026-07-01",
-    "category": "workshop",
-    "venue": "獎金獵人",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=9f562328-cd6b-40d0-916c-2e90f99a7368&PageIndex=20&PageType=1"
-  },
-  {
-    "id": "cultureexpress-6082d88b-2e85-4811-9b9c-193e52fed3f9",
-    "title": "臨古開新‧共書輝煌～西安碑林海峽兩岸臨書展",
+    "id": "cultureexpress-384e2fdc-dc53-41c5-8e31-70063b55c89c",
+    "title": "【新月．音樂欣賞】作曲家的浪漫一生：浪漫樂派六大家",
     "start": "2026-04-02",
-    "end": "2026-06-21",
-    "category": "exhibition",
-    "venue": "中台世界博物館第一特展室",
+    "end": "2026-09-10",
+    "category": "workshop",
+    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=6082d88b-2e85-4811-9b9c-193e52fed3f9&PageIndex=20&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=384e2fdc-dc53-41c5-8e31-70063b55c89c&PageIndex=20&PageType=1"
   },
   {
     "id": "cultureexpress-eb3bdf71-d4be-4c20-83fb-839fc082338a",
@@ -1927,7 +1917,27 @@
     "category": "exhibition",
     "venue": "行天宮附設玄空圖書館敦化本館四樓禮堂",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=f329d94d-d3a3-4868-99e3-6ac6df43df7a&PageIndex=21&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=f329d94d-d3a3-4868-99e3-6ac6df43df7a&PageIndex=20&PageType=1"
+  },
+  {
+    "id": "cultureexpress-6082d88b-2e85-4811-9b9c-193e52fed3f9",
+    "title": "臨古開新‧共書輝煌～西安碑林海峽兩岸臨書展",
+    "start": "2026-04-02",
+    "end": "2026-06-21",
+    "category": "exhibition",
+    "venue": "中台世界博物館第一特展室",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=6082d88b-2e85-4811-9b9c-193e52fed3f9&PageIndex=21&PageType=1"
+  },
+  {
+    "id": "cultureexpress-9f562328-cd6b-40d0-916c-2e90f99a7368",
+    "title": "第四屆匠心之夢全國文創工藝競賽",
+    "start": "2026-04-01",
+    "end": "2026-07-01",
+    "category": "workshop",
+    "venue": "獎金獵人",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=9f562328-cd6b-40d0-916c-2e90f99a7368&PageIndex=21&PageType=1"
   },
   {
     "id": "cultureexpress-437614fc-9a33-4276-ab36-b7932ecf610e",
@@ -1979,6 +1989,15 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=fc7b6075-7203-4990-9f2d-0629191b2891&PageIndex=21&PageType=1"
   },
   {
+    "id": "cultureexpress-5ac0c6aa-04df-48a2-bf82-9b6b6cf2da10",
+    "title": "【藝文講座】青春回憶錄~台灣八〇、九〇年代流行經典",
+    "start": "2026-08-15",
+    "category": "pop",
+    "venue": "林建生紀念圖書館",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=5ac0c6aa-04df-48a2-bf82-9b6b6cf2da10&PageIndex=21&PageType=1"
+  },
+  {
     "id": "cultureexpress-7d7429df-04f0-402d-b4b8-32a76879c8cd",
     "title": "【讀書會】2026.3 — 6月 週三下午｜童里 Bla Bla Bla 聊書會－打開話匣子，讓故事綻放，一起把繪本聊到飛起來！",
     "start": "2026-03-25",
@@ -1989,13 +2008,14 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=7d7429df-04f0-402d-b4b8-32a76879c8cd&PageIndex=21&PageType=1"
   },
   {
-    "id": "cultureexpress-5ac0c6aa-04df-48a2-bf82-9b6b6cf2da10",
-    "title": "【藝文講座】青春回憶錄~台灣八〇、九〇年代流行經典",
-    "start": "2026-08-15",
-    "category": "pop",
-    "venue": "林建生紀念圖書館",
+    "id": "cultureexpress-842ee824-5e1c-4d20-9d16-423a5acd41db",
+    "title": "2026 生活寫作班",
+    "start": "2026-08-19",
+    "end": "2026-11-25",
+    "category": "workshop",
+    "venue": "旅讀雜誌社大會議室",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=5ac0c6aa-04df-48a2-bf82-9b6b6cf2da10&PageIndex=21&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=842ee824-5e1c-4d20-9d16-423a5acd41db&PageIndex=21&PageType=1"
   },
   {
     "id": "cultureexpress-adad290b-cda5-4fa3-be51-f4e38b1f4f27",
@@ -2005,17 +2025,7 @@
     "category": "workshop",
     "venue": "臺北市立信義國小&台北市BELLAVITA寶麗廣場",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=adad290b-cda5-4fa3-be51-f4e38b1f4f27&PageIndex=21&PageType=1"
-  },
-  {
-    "id": "cultureexpress-842ee824-5e1c-4d20-9d16-423a5acd41db",
-    "title": "2026 生活寫作班",
-    "start": "2026-08-19",
-    "end": "2026-11-25",
-    "category": "workshop",
-    "venue": "旅讀雜誌社大會議室",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=842ee824-5e1c-4d20-9d16-423a5acd41db&PageIndex=21&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=adad290b-cda5-4fa3-be51-f4e38b1f4f27&PageIndex=22&PageType=1"
   },
   {
     "id": "cultureexpress-2773cc9a-2a89-4788-b425-907b6b3d272c",
@@ -2037,6 +2047,15 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=db999f04-0171-4eb9-9e45-36fcb6a79bdb&PageIndex=22&PageType=1"
   },
   {
+    "id": "cultureexpress-89864ffe-8829-4b3d-974d-aab33ff1c2bb",
+    "title": "中元祭典深度行：走讀土城大墓公",
+    "start": "2026-08-25",
+    "category": "exhibition",
+    "venue": "土城大墓公",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=89864ffe-8829-4b3d-974d-aab33ff1c2bb&PageIndex=22&PageType=1"
+  },
+  {
     "id": "cultureexpress-ca2a1a3e-93ee-4151-8a19-12dfb44d843d",
     "title": "【紀州庵出版學苑】「全．新編輯人」的多元宇宙",
     "start": "2026-03-15",
@@ -2045,15 +2064,6 @@
     "venue": "紀州庵文學森林新館2樓、Google Meet",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=ca2a1a3e-93ee-4151-8a19-12dfb44d843d&PageIndex=22&PageType=1"
-  },
-  {
-    "id": "cultureexpress-89864ffe-8829-4b3d-974d-aab33ff1c2bb",
-    "title": "中元祭典深度行：走讀土城大墓公",
-    "start": "2026-08-25",
-    "category": "exhibition",
-    "venue": "土城大墓公",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=89864ffe-8829-4b3d-974d-aab33ff1c2bb&PageIndex=22&PageType=1"
   },
   {
     "id": "cultureexpress-3f3df0eb-c5d5-4dcc-b007-b11f77200539",
@@ -2086,16 +2096,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=30f90dd8-b945-4d92-9568-c02c1dde55af&PageIndex=22&PageType=1"
   },
   {
-    "id": "cultureexpress-060eaf79-d880-482b-8f5f-3f86dccf9457",
-    "title": "【新月．藝文講座】走入伊斯蘭藝術的世界！",
-    "start": "2026-03-12",
-    "end": "2026-08-13",
-    "category": "workshop",
-    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=060eaf79-d880-482b-8f5f-3f86dccf9457&PageIndex=22&PageType=1"
-  },
-  {
     "id": "cultureexpress-4d08920a-4363-48a5-877b-664cd8742ae1",
     "title": "第三屆中國信託當代繪畫獎展覽",
     "start": "2026-03-13",
@@ -2114,6 +2114,16 @@
     "venue": "國立臺北藝術大學 關渡美術館",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=71ad3cc8-5bb0-4185-bcb6-ef71d5022d83&PageIndex=22&PageType=1"
+  },
+  {
+    "id": "cultureexpress-060eaf79-d880-482b-8f5f-3f86dccf9457",
+    "title": "【新月．藝文講座】走入伊斯蘭藝術的世界！",
+    "start": "2026-03-12",
+    "end": "2026-08-13",
+    "category": "workshop",
+    "venue": "新月藝文沙龍；現場上課/線上上課/雲端回放",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=060eaf79-d880-482b-8f5f-3f86dccf9457&PageIndex=23&PageType=1"
   },
   {
     "id": "cultureexpress-b629941f-945d-4172-a4fc-76ae1c77b711",
@@ -2211,7 +2221,7 @@
     "category": "traditional",
     "venue": "臺灣戲曲中心多功能廳",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=9112ad83-bd71-4c02-9ee7-80f3e39a0d72&PageIndex=23&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=9112ad83-bd71-4c02-9ee7-80f3e39a0d72&PageIndex=24&PageType=1"
   },
   {
     "id": "cultureexpress-8284db4b-08a3-4fd3-9474-2edd66948bad",
@@ -2262,16 +2272,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=ef151c53-bded-411d-bcec-b8f112b7923f&PageIndex=24&PageType=1"
   },
   {
-    "id": "cultureexpress-4ec94d57-435d-40e1-b1f6-4b21cdd95284",
-    "title": "〔素書樓講堂〕2026年度四書與品德教育講座（一）~（十四）",
-    "start": "2026-01-10",
-    "end": "2026-12-12",
-    "category": "workshop",
-    "venue": "臺北市立大學博愛校區 勤樸樓5樓513教室",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=4ec94d57-435d-40e1-b1f6-4b21cdd95284&PageIndex=24&PageType=1"
-  },
-  {
     "id": "cultureexpress-5628eca7-874c-4501-9426-c9c9a42ff60c",
     "title": "〔錢穆故居〕2026年度錢賓四先生著作讀書會（一）~（十九）",
     "start": "2026-01-10",
@@ -2280,6 +2280,16 @@
     "venue": "臺北市立大學博愛校區 勤樸樓五樓508教室",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=5628eca7-874c-4501-9426-c9c9a42ff60c&PageIndex=24&PageType=1"
+  },
+  {
+    "id": "cultureexpress-4ec94d57-435d-40e1-b1f6-4b21cdd95284",
+    "title": "〔素書樓講堂〕2026年度四書與品德教育講座（一）~（十四）",
+    "start": "2026-01-10",
+    "end": "2026-12-12",
+    "category": "workshop",
+    "venue": "臺北市立大學博愛校區 勤樸樓5樓513教室",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=4ec94d57-435d-40e1-b1f6-4b21cdd95284&PageIndex=24&PageType=1"
   },
   {
     "id": "cultureexpress-6d326b02-1c97-44d8-bea9-46c663b5720c",
@@ -2309,7 +2319,7 @@
     "category": "exhibition",
     "venue": "開拓動漫",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=6072f479-0df3-40a3-a916-afae1b507db3&PageIndex=24&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=6072f479-0df3-40a3-a916-afae1b507db3&PageIndex=25&PageType=1"
   },
   {
     "id": "cultureexpress-c6ed4246-51d6-4ff1-bfdf-7ab1bba05ffb",
@@ -2409,7 +2419,7 @@
     "category": "exhibition",
     "venue": "里仁竹北道禾店",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=39835f58-5e20-456f-9a12-fe82e0c54c93&PageIndex=25&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=39835f58-5e20-456f-9a12-fe82e0c54c93&PageIndex=26&PageType=1"
   },
   {
     "id": "cultureexpress-a5ad437b-878a-466f-88dd-822836b54642",
@@ -2432,16 +2442,6 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=5af221a7-55cc-4fa8-91de-fdf4f80c73df&PageIndex=26&PageType=1"
   },
   {
-    "id": "cultureexpress-e759449b-f19f-4db2-bfd9-4df7a86a642f",
-    "title": "管絃祭 X 裝束繪卷《嬿婉良緣誌》2024漢婚盛典",
-    "start": "2024-08-11",
-    "end": "2040-08-18",
-    "category": "exhibition",
-    "venue": "臺北市中山堂廣場",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=e759449b-f19f-4db2-bfd9-4df7a86a642f&PageIndex=26&PageType=1"
-  },
-  {
     "id": "cultureexpress-8214b24a-2c13-4588-9d59-df843e73b69d",
     "title": "《綰結同心》2024秋月七夕祭",
     "start": "2024-08-11",
@@ -2450,6 +2450,16 @@
     "venue": "臺北市中山堂廣場",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=8214b24a-2c13-4588-9d59-df843e73b69d&PageIndex=26&PageType=1"
+  },
+  {
+    "id": "cultureexpress-e759449b-f19f-4db2-bfd9-4df7a86a642f",
+    "title": "管絃祭 X 裝束繪卷《嬿婉良緣誌》2024漢婚盛典",
+    "start": "2024-08-11",
+    "end": "2040-08-18",
+    "category": "exhibition",
+    "venue": "臺北市中山堂廣場",
+    "city": "Taipei",
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=e759449b-f19f-4db2-bfd9-4df7a86a642f&PageIndex=26&PageType=1"
   },
   {
     "id": "cultureexpress-143194d5-1a11-4e3f-b5be-3d112ec070f3",
@@ -2509,7 +2519,7 @@
     "category": "exhibition",
     "venue": "https://www.facebook.com/yangbixuan/posts/pfbid02bajRoXb57uV8Schwde4uSYp1wA8mRHvDH6uSRUu6Eqbxy7t4bheVSJc6HVv4wBMgl",
     "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=e325e570-82d7-40b6-a875-afbdfcb40d16&PageIndex=26&PageType=1"
+    "url": "https://cultureexpress.taipei/Event/C000003?ID=e325e570-82d7-40b6-a875-afbdfcb40d16&PageIndex=27&PageType=1"
   },
   {
     "id": "cultureexpress-6533dff4-62ce-471f-b0d8-d08c55a64445",
@@ -2600,15 +2610,5 @@
     "venue": "臺北市孔廟4D劇院",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=9029d67c-37d2-4141-bd5c-93f15e116bcf&PageIndex=27&PageType=1"
-  },
-  {
-    "id": "cultureexpress-290cc6cf-a6f7-4db1-b635-2391cf36ce41",
-    "title": "基礎刺繡雙週課(共2日)┋灰喵的小種子們 - 13種針法組合靈活運用&構圖通用觀念",
-    "start": "2023-01-01",
-    "end": "2026-12-31",
-    "category": "workshop",
-    "venue": "說說刺繡",
-    "city": "Taipei",
-    "url": "https://cultureexpress.taipei/Event/C000003?ID=290cc6cf-a6f7-4db1-b635-2391cf36ce41&PageIndex=27&PageType=1"
   }
 ]

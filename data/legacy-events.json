@@ -1,5 +1,32 @@
 [
   {
+    "id": "legacy-3187",
+    "title": "蕭景鴻Edy Hsiao《以我為名Who I Am》 New Album Live Tour",
+    "start": "2026-07-12",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3187"
+  },
+  {
+    "id": "legacy-3186",
+    "title": "蕭景鴻Edy Hsiao《以我為名Who I Am》 New Album Live Tour",
+    "start": "2026-07-11",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3186"
+  },
+  {
+    "id": "legacy-3185",
+    "title": "HowZ 2026 專場演唱會【Bloomin：最深的那一夜】",
+    "start": "2026-08-22",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3185"
+  },
+  {
     "id": "legacy-3184",
     "title": "曾心梅《天公疼憨人》演唱會",
     "start": "2026-07-26",
@@ -61,32 +88,5 @@
     "venue": "Legacy Taichung",
     "city": "Taichung",
     "url": "https://www.legacy.com.tw/article/page/taichung/3178"
-  },
-  {
-    "id": "legacy-3176",
-    "title": "KOKOROKO Live in Taipei 2026",
-    "start": "2026-07-27",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3176"
-  },
-  {
-    "id": "legacy-3175",
-    "title": "心與草——福夢 Unplug 巡演 台中場",
-    "start": "2026-06-18",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3175"
-  },
-  {
-    "id": "legacy-3174",
-    "title": "POND PHUWIN RENDEZVOUS FANCON IN TAIPEI",
-    "start": "2026-07-25",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3174"
   }
 ]
