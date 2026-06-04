@@ -27,7 +27,7 @@ export default function FilterBar({
   onCityChange,
 }: Props) {
   return (
-    <div className="border-b px-4 py-3 flex flex-wrap gap-3 items-center"
+    <div className="border-b px-3 py-2 sm:px-4 sm:py-2.5 flex flex-wrap gap-1.5 sm:gap-2 items-center"
       style={{ background: 'var(--bg-filterbar)', borderColor: 'var(--border)' }}>
       {/* Category pills */}
       <div className="flex flex-wrap gap-2">
@@ -38,7 +38,7 @@ export default function FilterBar({
               <button
                 key={key}
                 onClick={() => onCategoryToggle(key)}
-                className="text-xs font-medium px-3 py-1 rounded-full border transition-all"
+                className="text-xs font-medium px-2 py-0.5 sm:px-3 sm:py-1 rounded-full border transition-all"
                 style={{
                   backgroundColor: active ? cfg.color : 'transparent',
                   borderColor: cfg.color,

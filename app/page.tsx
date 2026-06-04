@@ -3,7 +3,6 @@
 import { useState, useCallback, useEffect, useMemo } from 'react';
 import dynamic from 'next/dynamic';
 import FilterBar from '@/components/FilterBar';
-import Legend from '@/components/Legend';
 import EventModal from '@/components/EventModal';
 import MusicBackground from '@/components/MusicBackground';
 import { ArtEvent, EventCategory, CATEGORY_CONFIG } from '@/lib/eventTypes';
@@ -76,34 +75,41 @@ export default function Home() {
       {/* All content sits above the background symbols */}
       <div className="relative flex flex-col flex-1" style={{ zIndex: 1 }}>
 
-      {/* Header */}
-      <header className="shadow-sm px-6 py-4 flex items-center gap-3 border-b"
+      {/* Header — compact on mobile, full on desktop */}
+      <header className="shadow-sm px-3 py-2 sm:px-6 sm:py-3 flex items-center gap-2 border-b"
         style={{ background: 'var(--bg-header)', borderColor: 'var(--border)' }}>
-        <div>
-          <h1 className="text-2xl font-bold" style={{ color: 'var(--text-primary)', fontFamily: 'var(--ff-heading)' }}>
+
+        {/* Title block */}
+        <div className="min-w-0">
+          <h1 className="text-base sm:text-xl font-bold leading-tight"
+            style={{ color: 'var(--text-primary)', fontFamily: 'var(--ff-heading)' }}>
             台灣藝文活動月曆
           </h1>
-          <p className="text-sm tracking-widest" style={{ color: 'var(--text-muted)', fontFamily: 'var(--ff-heading)', letterSpacing: '0.12em' }}>
+          {/* Subtitle hidden on mobile */}
+          <p className="hidden sm:block text-xs"
+            style={{ color: 'var(--text-muted)', fontFamily: 'var(--ff-heading)', letterSpacing: '0.10em' }}>
             Taiwan Arts &amp; Performance Calendar
           </p>
         </div>
 
-        <span className="hidden sm:block text-xs ml-4" style={{ color: 'var(--text-muted)' }}>
+        {/* Cities — desktop only */}
+        <span className="hidden lg:block text-xs ml-3 truncate" style={{ color: 'var(--text-muted)' }}>
           台北・新北・桃園・新竹・台中・台南・高雄
         </span>
 
-        {/* Dark mode toggle */}
+        {/* Dark mode toggle — icon-only on mobile */}
         <button
           onClick={toggleDark}
           aria-label="切換深色模式"
-          className="ml-auto flex items-center gap-2 px-3 py-1.5 rounded-lg border text-sm font-medium transition-colors cursor-pointer"
+          className="ml-auto flex items-center gap-1 px-2 py-1 sm:px-3 sm:py-1.5 rounded-lg border text-sm font-medium transition-colors cursor-pointer flex-shrink-0"
           style={{
             background: 'var(--bg-surface)',
             borderColor: 'var(--border)',
             color: 'var(--text-secondary)',
           }}
         >
-          {isDark ? '☀️ 淺色' : '🌙 深色'}
+          <span>{isDark ? '☀️' : '🌙'}</span>
+          <span className="hidden sm:inline">{isDark ? '淺色' : '深色'}</span>
         </button>
       </header>
 
@@ -114,9 +120,7 @@ export default function Home() {
         onCityChange={setActiveCity}
       />
 
-      <Legend />
-
-      <div className="flex-1 p-4">
+      <div className="flex-1 p-2 sm:p-4">
         <div data-glass className="rounded-2xl shadow p-4" style={{ background: 'var(--bg-surface)' }}>
           {loading ? (
             <div className="flex items-center justify-center h-64 text-sm"
