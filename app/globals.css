@@ -15,6 +15,7 @@
   --text-secondary: #4a4540;
   --text-muted:     #8c8680;
   --border:         #e8dfd0;   /* warm beige border */
+  --color-title:    #0284c7;   /* sky-600 — visible on cream background */
 
   /* FullCalendar overrides */
   --fc-border-color:               #d8cfc0;
@@ -42,6 +43,7 @@
   --text-secondary: #a0b4cc;
   --text-muted:     #5a7a9a;
   --border:         #1e3a5f;   /* dark blue border */
+  --color-title:    #7dd3fc;   /* sky-300 — light on dark navy */
 
   /* FullCalendar overrides */
   --fc-border-color:               #1e3a5f;
@@ -110,7 +112,7 @@ header, [data-glass] {
 
 /* Toolbar title (month/year) — desk calendar style */
 .fc .fc-toolbar-title {
-  color: #7dd3fc;   /* light blue — sky-300 */
+  color: var(--color-title);
   font-family: var(--ff-heading);
   font-size: 1.5rem;
   font-weight: 700;
@@ -248,9 +250,9 @@ header, [data-glass] {
     padding: 6px 2px;
   }
 
-  /* Title: shorter, no wrap, keep light blue */
+  /* Title: shorter, no wrap, keep themed blue */
   .fc .fc-toolbar-title {
-    color: #7dd3fc !important;
+    color: var(--color-title) !important;
     font-size: 0.9rem !important;
     font-weight: 700;
     white-space: nowrap;
