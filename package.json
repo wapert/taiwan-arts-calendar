@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "sw:version": "node -e \"const fs=require('fs');let s=fs.readFileSync('public/sw.js','utf8');s=s.replace('__BUILD_TIME__',Date.now());fs.writeFileSync('public/sw.js',s);\"",
+    "build": "npm run sw:version && next build",
     "start": "next start",
     "lint": "eslint",
     "scrape:weiwuying": "npx ts-node --project tsconfig.scraper.json scrapers/weiwuying.ts",

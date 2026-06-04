@@ -1,4 +1,6 @@
-const CACHE_NAME = 'taiwan-arts-calendar-v1';
+// CACHE_VERSION is replaced at build time by the deploy timestamp.
+// This forces the old cache to be cleared on every new deployment.
+const CACHE_NAME = 'taiwan-arts-calendar-__BUILD_TIME__';
 
 // Core app shell files to cache on install
 const PRECACHE_URLS = [
