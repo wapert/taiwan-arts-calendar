@@ -80,10 +80,10 @@ export default function Home() {
       <header className="shadow-sm px-6 py-4 flex items-center gap-3 border-b"
         style={{ background: 'var(--bg-header)', borderColor: 'var(--border)' }}>
         <div>
-          <h1 className="text-2xl font-bold" style={{ color: 'var(--text-primary)' }}>
+          <h1 className="text-2xl font-bold" style={{ color: 'var(--text-primary)', fontFamily: 'var(--ff-heading)' }}>
             台灣藝文活動月曆
           </h1>
-          <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
+          <p className="text-sm tracking-widest" style={{ color: 'var(--text-muted)', fontFamily: 'var(--ff-heading)', letterSpacing: '0.12em' }}>
             Taiwan Arts &amp; Performance Calendar
           </p>
         </div>
