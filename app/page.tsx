@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback, useEffect, useMemo } from 'react';
 import dynamic from 'next/dynamic';
 import FilterBar from '@/components/FilterBar';
 import Legend from '@/components/Legend';
@@ -48,11 +48,17 @@ export default function Home() {
     });
   };
 
-  const filteredEvents = events.filter((e) => {
-    const catOk = activeCategories.has(e.category);
-    const cityOk = activeCity === 'ALL' || e.city === activeCity;
-    return catOk && cityOk;
-  });
+  // useMemo: only recalculate when filter state or events actually change.
+  // Without this, toggling dark mode re-ran filter + re-triggered the
+  // calendar useEffect (1400 addEvent calls) on every theme switch.
+  const filteredEvents = useMemo(
+    () => events.filter((e) => {
+      const catOk = activeCategories.has(e.category);
+      const cityOk = activeCity === 'ALL' || e.city === activeCity;
+      return catOk && cityOk;
+    }),
+    [events, activeCategories, activeCity]
+  );
 
   const toggleCategory = useCallback((cat: EventCategory) => {
     setActiveCategories((prev) => {

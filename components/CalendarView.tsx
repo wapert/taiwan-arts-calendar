@@ -16,14 +16,14 @@ interface Props {
 export default function CalendarView({ events, onEventClick }: Props) {
   const calendarRef = useRef<FullCalendar>(null);
 
-  // FullCalendar's list view doesn't react to events prop changes —
-  // explicitly remove all and re-add whenever the filtered event set changes.
+  // FullCalendar list view doesn't react to the events prop changing.
+  // Fix: remove all + addEventSource (one batch call, not N individual ones).
   useEffect(() => {
     const api = calendarRef.current?.getApi();
     if (!api) return;
     api.removeAllEvents();
-    events.forEach((e) =>
-      api.addEvent({
+    api.addEventSource(
+      events.map((e) => ({
         id: e.id,
         title: e.title,
         start: e.start,
@@ -32,7 +32,7 @@ export default function CalendarView({ events, onEventClick }: Props) {
         borderColor: CATEGORY_CONFIG[e.category].color,
         textColor: CATEGORY_CONFIG[e.category].textColor,
         extendedProps: e,
-      })
+      }))
     );
   }, [events]);
 

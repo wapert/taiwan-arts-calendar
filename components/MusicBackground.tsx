@@ -1,26 +1,27 @@
-// Decorative classical music symbols scattered in the page background.
-// Pure CSS — no images required. Opacity is very low so they don't
-// distract from the calendar content.
+// Decorative classical music symbols in the page background.
+// Only uses ♩ ♪ ♫ ♬ (U+2669–266C) — universally supported in all system fonts.
+// 𝄞 𝄢 are NOT used as they require rare supplementary-plane fonts.
 
 const SYMBOLS = [
-  { char: '♩', top: '8%',  left: '3%',  size: '3rem',  rotate: '-15deg', opacity: 0.07 },
-  { char: '𝄞', top: '12%', left: '92%', size: '2.8rem', rotate: '10deg',  opacity: 0.07 },
-  { char: '♪', top: '28%', left: '7%',  size: '2rem',  rotate: '20deg',  opacity: 0.06 },
-  { char: '♫', top: '22%', left: '88%', size: '2.2rem', rotate: '-8deg',  opacity: 0.06 },
-  { char: '♬', top: '50%', left: '2%',  size: '2.5rem', rotate: '12deg',  opacity: 0.05 },
-  { char: '𝄢', top: '48%', left: '95%', size: '2.4rem', rotate: '-18deg', opacity: 0.05 },
-  { char: '♩', top: '70%', left: '5%',  size: '1.8rem', rotate: '25deg',  opacity: 0.06 },
-  { char: '♪', top: '75%', left: '91%', size: '2rem',  rotate: '-12deg', opacity: 0.06 },
-  { char: '♫', top: '88%', left: '8%',  size: '2.2rem', rotate: '-20deg', opacity: 0.05 },
-  { char: '♬', top: '90%', left: '88%', size: '1.9rem', rotate: '15deg',  opacity: 0.05 },
-  { char: '𝄞', top: '38%', left: '50%', size: '4rem',  rotate: '5deg',   opacity: 0.03 },
+  { char: '♩', top: '6%',  left: '2%',  size: '3.5rem', rotate: '-15deg', opacity: 0.12 },
+  { char: '♫', top: '10%', left: '91%', size: '3rem',   rotate: '10deg',  opacity: 0.12 },
+  { char: '♪', top: '26%', left: '5%',  size: '2.5rem', rotate: '20deg',  opacity: 0.10 },
+  { char: '♬', top: '20%', left: '87%', size: '2.8rem', rotate: '-8deg',  opacity: 0.10 },
+  { char: '♫', top: '48%', left: '1%',  size: '3rem',   rotate: '12deg',  opacity: 0.09 },
+  { char: '♩', top: '46%', left: '94%', size: '2.6rem', rotate: '-18deg', opacity: 0.09 },
+  { char: '♬', top: '68%', left: '4%',  size: '2.2rem', rotate: '25deg',  opacity: 0.10 },
+  { char: '♪', top: '72%', left: '90%', size: '2.4rem', rotate: '-12deg', opacity: 0.10 },
+  { char: '♩', top: '87%', left: '7%',  size: '2.6rem', rotate: '-20deg', opacity: 0.09 },
+  { char: '♫', top: '89%', left: '87%', size: '2.2rem', rotate: '15deg',  opacity: 0.09 },
+  { char: '♬', top: '38%', left: '48%', size: '5rem',   rotate: '5deg',   opacity: 0.05 },
+  { char: '♪', top: '60%', left: '45%', size: '2rem',   rotate: '-10deg', opacity: 0.06 },
 ];
 
 export default function MusicBackground() {
   return (
     <div
       aria-hidden="true"
-      className="fixed inset-0 pointer-events-none overflow-hidden"
+      className="fixed inset-0 pointer-events-none overflow-hidden select-none"
       style={{ zIndex: 0 }}
     >
       {SYMBOLS.map((s, i) => (
@@ -34,8 +35,8 @@ export default function MusicBackground() {
             transform: `rotate(${s.rotate})`,
             opacity: s.opacity,
             color: 'var(--text-primary)',
-            userSelect: 'none',
             lineHeight: 1,
+            fontFamily: 'Georgia, "Times New Roman", serif',
           }}
         >
           {s.char}
