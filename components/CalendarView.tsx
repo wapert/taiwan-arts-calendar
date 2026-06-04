@@ -47,12 +47,15 @@ export default function CalendarView({ events, onEventClick }: Props) {
         right: 'dayGridMonth,listMonth',
       }}
       locale="zh-tw"
+      firstDay={0}
       buttonText={{ today: '今天', month: '月曆', list: '清單' }}
+      titleFormat={{ year: 'numeric', month: 'long' }}
       events={fcEvents}
       eventClick={handleClick}
       eventContent={renderContent}
       height="auto"
       dayMaxEvents={4}
+      fixedWeekCount={false}
     />
   );
 }

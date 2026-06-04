@@ -84,11 +84,12 @@ body {
   font-weight: 600;
 }
 
-/* Toolbar title (month/year) */
+/* Toolbar title (month/year) — desk calendar style */
 .fc .fc-toolbar-title {
   color: var(--text-primary);
-  font-size: 1.1rem;
-  font-weight: 700;
+  font-size: 1.4rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
 }
 
 /* Toolbar buttons */
@@ -132,4 +133,84 @@ body {
 .fc .fc-popover-header {
   background: var(--fc-neutral-bg-color);
   color: var(--text-primary);
+}
+
+/* ─── Desk calendar: Sunday = red ─── */
+.fc .fc-col-header-cell.fc-day-sun .fc-col-header-cell-cushion {
+  color: #ef4444 !important;
+}
+.fc .fc-daygrid-day.fc-day-sun .fc-daygrid-day-number {
+  color: #ef4444 !important;
+}
+.fc .fc-daygrid-day.fc-day-sun {
+  background: rgba(239, 68, 68, 0.04);
+}
+/* List view Sunday */
+.fc .fc-list-event.fc-day-sun .fc-list-event-title a { color: #ef4444 !important; }
+
+/* ─── Desk calendar: Saturday = blue ─── */
+.fc .fc-col-header-cell.fc-day-sat .fc-col-header-cell-cushion {
+  color: #3b82f6 !important;
+}
+.fc .fc-daygrid-day.fc-day-sat .fc-daygrid-day-number {
+  color: #3b82f6 !important;
+}
+.fc .fc-daygrid-day.fc-day-sat {
+  background: rgba(59, 130, 246, 0.04);
+}
+
+/* ─── Day number size — larger, cleaner ─── */
+.fc .fc-daygrid-day-number {
+  font-size: 0.95rem;
+  font-weight: 700;
+  padding: 4px 6px;
+}
+
+/* ─── Column header day names ─── */
+.fc .fc-col-header-cell-cushion {
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 8px 0;
+}
+
+/* ─── Tighter row height for clean look ─── */
+.fc .fc-daygrid-day-frame {
+  min-height: 80px;
+}
+
+/* ─── Today highlight ─── */
+.fc .fc-day-today {
+  background: var(--fc-today-bg-color) !important;
+}
+.fc .fc-day-today .fc-daygrid-day-number {
+  background: #2563eb;
+  color: #fff !important;
+  border-radius: 50%;
+  width: 1.8em;
+  height: 1.8em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2px;
+}
+
+/* ─── Event pills — rounded and compact ─── */
+.fc .fc-daygrid-event {
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 1px 4px;
+  margin: 1px 2px;
+}
+
+/* ─── Toolbar layout ─── */
+.fc .fc-toolbar {
+  padding: 12px 4px 8px;
+  align-items: center;
+}
+.fc .fc-toolbar-chunk:last-child {
+  display: flex;
+  gap: 4px;
 }

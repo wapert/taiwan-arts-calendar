@@ -26,11 +26,12 @@ const MONTHS     = 9;
 
 // Target cities we care about (tw name → our city key)
 const CITY_MAP: Record<string, string> = {
-  '台北': 'Taipei',  '臺北': 'Taipei',
-  '新北': 'Taipei',  '基隆': 'Taipei',
+  '台北': 'Taipei',  '臺北': 'Taipei',  '基隆': 'Taipei',
+  '新北': 'NewTaipei', '新北市': 'NewTaipei',
   '新竹': 'Hsinchu',
   '桃園': 'Taoyuan',
   '台中': 'Taichung', '臺中': 'Taichung',
+  '台南': 'Tainan',   '臺南': 'Tainan',
   '高雄': 'Kaohsiung',
 };
 

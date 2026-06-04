@@ -2,7 +2,16 @@
 
 import { EventCategory, CATEGORY_CONFIG } from '@/lib/eventTypes';
 
-const CITIES = ['全部城市', 'Taipei', 'Hsinchu', 'Taoyuan', 'Taichung', 'Kaohsiung'];
+const CITY_OPTIONS = [
+  { value: 'ALL',       label: '全部城市' },
+  { value: 'Taipei',    label: '台北市' },
+  { value: 'NewTaipei', label: '新北市' },
+  { value: 'Hsinchu',   label: '新竹市' },
+  { value: 'Taoyuan',   label: '桃園市' },
+  { value: 'Taichung',  label: '台中市' },
+  { value: 'Tainan',    label: '台南市' },
+  { value: 'Kaohsiung', label: '高雄市' },
+];
 
 interface Props {
   activeCategories: Set<EventCategory>;
@@ -54,10 +63,8 @@ export default function FilterBar({
           border: '1px solid var(--border)',
         }}
       >
-        {CITIES.map((c) => (
-          <option key={c} value={c}>
-            {c}
-          </option>
+        {CITY_OPTIONS.map(({ value, label }) => (
+          <option key={value} value={value}>{label}</option>
         ))}
       </select>
     </div>

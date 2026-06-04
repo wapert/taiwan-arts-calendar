@@ -9,13 +9,14 @@ import { ArtEvent, EventCategory, CATEGORY_CONFIG } from '@/lib/eventTypes';
 
 const CalendarView = dynamic(() => import('@/components/CalendarView'), { ssr: false });
 
-const ALL_CATEGORIES = new Set(Object.keys(CATEGORY_CONFIG) as EventCategory[]);
+// Default: show only Classical, Theater, Dance
+const DEFAULT_CATEGORIES = new Set<EventCategory>(['classical', 'theater', 'dance']);
 
 export default function Home() {
   const [events, setEvents] = useState<ArtEvent[]>([]);
   const [loading, setLoading] = useState(true);
-  const [activeCategories, setActiveCategories] = useState<Set<EventCategory>>(ALL_CATEGORIES);
-  const [activeCity, setActiveCity] = useState('全部城市');
+  const [activeCategories, setActiveCategories] = useState<Set<EventCategory>>(DEFAULT_CATEGORIES);
+  const [activeCity, setActiveCity] = useState('ALL');
   const [selectedEvent, setSelectedEvent] = useState<ArtEvent | null>(null);
   const [isDark, setIsDark] = useState(false);
 
@@ -48,7 +49,7 @@ export default function Home() {
 
   const filteredEvents = events.filter((e) => {
     const catOk = activeCategories.has(e.category);
-    const cityOk = activeCity === '全部城市' || e.city === activeCity;
+    const cityOk = activeCity === 'ALL' || e.city === activeCity;
     return catOk && cityOk;
   });
 
