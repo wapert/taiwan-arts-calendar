@@ -3,10 +3,10 @@
 /* ─── Light-mode tokens — 乳白色 (cream / ivory) ─── */
 :root {
   --bg-page:        #faf7f2;
-  --bg-surface:     rgba(255, 253, 248, 0.82);   /* semi-transparent — shows images through */
-  --bg-header:      rgba(255, 253, 248, 0.88);
-  --bg-filterbar:   rgba(255, 253, 248, 0.88);
-  --bg-legend:      rgba(245, 240, 232, 0.85);
+  --bg-surface:     rgba(255, 253, 248, 0.52);   /* body — moderately transparent */
+  --bg-header:      rgba(255, 253, 248, 0.30);   /* header — very transparent */
+  --bg-filterbar:   rgba(255, 253, 248, 0.38);
+  --bg-legend:      rgba(245, 240, 232, 0.35);
   --text-primary:   #1c1a16;   /* warm near-black */
   --text-secondary: #4a4540;
   --text-muted:     #8c8680;
@@ -30,10 +30,10 @@
 /* ─── Dark-mode tokens — dark blue (navy) ─── */
 .dark {
   --bg-page:        #0d1b2a;
-  --bg-surface:     rgba(17, 34, 64, 0.82);    /* semi-transparent — shows images through */
-  --bg-header:      rgba(13, 27, 42, 0.88);
-  --bg-filterbar:   rgba(17, 34, 64, 0.88);
-  --bg-legend:      rgba(13, 27, 42, 0.85);
+  --bg-surface:     rgba(17, 34, 64, 0.52);    /* body — moderately transparent */
+  --bg-header:      rgba(13, 27, 42, 0.30);    /* header — very transparent */
+  --bg-filterbar:   rgba(17, 34, 64, 0.38);
+  --bg-legend:      rgba(13, 27, 42, 0.35);
   --text-primary:   #dde6f0;   /* cool blue-white */
   --text-secondary: #a0b4cc;
   --text-muted:     #5a7a9a;
