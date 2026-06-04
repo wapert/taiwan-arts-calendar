@@ -1,7 +1,7 @@
 'use client';
 // Classical music background — violin (left) + piano (right).
-// To use your own images: drop files into public/images/violin.jpg
-// and public/images/piano.jpg and they'll replace these automatically.
+// Images use position:fixed behind all content.
+// Cards above use semi-transparent backgrounds so images show through.
 
 export default function MusicBackground() {
   return (
@@ -10,48 +10,48 @@ export default function MusicBackground() {
       className="fixed inset-0 pointer-events-none overflow-hidden select-none"
       style={{ zIndex: 0 }}
     >
-      {/* Violin — left side, fades to transparent toward center */}
+      {/* Violin — left 40%, fades right */}
       <div
         style={{
           position: 'absolute',
           top: 0,
           left: 0,
-          width: '28%',
+          width: '42%',
           height: '100%',
           backgroundImage: 'url(/images/violin.jpg)',
           backgroundSize: 'cover',
-          backgroundPosition: 'center',
-          opacity: 0.18,
-          maskImage: 'linear-gradient(to right, black 30%, transparent 100%)',
-          WebkitMaskImage: 'linear-gradient(to right, black 30%, transparent 100%)',
+          backgroundPosition: 'center right',
+          maskImage: 'linear-gradient(to right, black 0%, black 45%, transparent 100%)',
+          WebkitMaskImage: 'linear-gradient(to right, black 0%, black 45%, transparent 100%)',
+          opacity: 0.45,
         }}
       />
 
-      {/* Piano — right side, fades to transparent toward center */}
+      {/* Piano — right 40%, fades left */}
       <div
         style={{
           position: 'absolute',
           top: 0,
           right: 0,
-          width: '28%',
+          width: '42%',
           height: '100%',
           backgroundImage: 'url(/images/piano.jpg)',
           backgroundSize: 'cover',
-          backgroundPosition: 'center',
-          opacity: 0.18,
-          maskImage: 'linear-gradient(to left, black 30%, transparent 100%)',
-          WebkitMaskImage: 'linear-gradient(to left, black 30%, transparent 100%)',
+          backgroundPosition: 'center left',
+          maskImage: 'linear-gradient(to left, black 0%, black 45%, transparent 100%)',
+          WebkitMaskImage: 'linear-gradient(to left, black 0%, black 45%, transparent 100%)',
+          opacity: 0.45,
         }}
       />
 
-      {/* Subtle music note symbols over the images */}
+      {/* Music note symbols */}
       {[
-        { char: '♩', top: '8%',  left: '4%',  size: '2.5rem', rotate: '-15deg', opacity: 0.15 },
-        { char: '♫', top: '35%', left: '6%',  size: '2rem',   rotate: '12deg',  opacity: 0.12 },
-        { char: '♬', top: '70%', left: '3%',  size: '2.2rem', rotate: '-8deg',  opacity: 0.13 },
-        { char: '♪', top: '12%', left: '88%', size: '2.2rem', rotate: '10deg',  opacity: 0.15 },
-        { char: '♩', top: '50%', left: '91%', size: '2rem',   rotate: '-18deg', opacity: 0.12 },
-        { char: '♫', top: '82%', left: '89%', size: '2.4rem', rotate: '20deg',  opacity: 0.13 },
+        { char: '♩', top: '8%',  left: '3%',  size: '2.4rem', rotate: '-15deg', opacity: 0.35 },
+        { char: '♫', top: '40%', left: '5%',  size: '2rem',   rotate: '12deg',  opacity: 0.30 },
+        { char: '♬', top: '75%', left: '3%',  size: '2.2rem', rotate: '-8deg',  opacity: 0.32 },
+        { char: '♪', top: '10%', left: '88%', size: '2.2rem', rotate: '10deg',  opacity: 0.35 },
+        { char: '♩', top: '52%', left: '90%', size: '2rem',   rotate: '-18deg', opacity: 0.30 },
+        { char: '♫', top: '80%', left: '88%', size: '2.4rem', rotate: '20deg',  opacity: 0.32 },
       ].map((s, i) => (
         <span
           key={i}
@@ -62,7 +62,8 @@ export default function MusicBackground() {
             fontSize: s.size,
             transform: `rotate(${s.rotate})`,
             opacity: s.opacity,
-            color: 'var(--text-primary)',
+            color: '#fff',
+            textShadow: '0 1px 4px rgba(0,0,0,0.6)',
             lineHeight: 1,
             fontFamily: 'Georgia, "Times New Roman", serif',
           }}

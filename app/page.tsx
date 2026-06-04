@@ -117,7 +117,7 @@ export default function Home() {
       <Legend />
 
       <div className="flex-1 p-4">
-        <div className="rounded-2xl shadow p-4" style={{ background: 'var(--bg-surface)' }}>
+        <div data-glass className="rounded-2xl shadow p-4" style={{ background: 'var(--bg-surface)' }}>
           {loading ? (
             <div className="flex items-center justify-center h-64 text-sm"
               style={{ color: 'var(--text-muted)' }}>

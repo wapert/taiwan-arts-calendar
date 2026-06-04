@@ -2,11 +2,11 @@
 
 /* ─── Light-mode tokens — 乳白色 (cream / ivory) ─── */
 :root {
-  --bg-page:        #faf7f2;   /* warm cream page */
-  --bg-surface:     #fffdf8;   /* ivory white cards */
-  --bg-header:      #fffdf8;
-  --bg-filterbar:   #fffdf8;
-  --bg-legend:      #f5f0e8;   /* slightly warmer legend strip */
+  --bg-page:        #faf7f2;
+  --bg-surface:     rgba(255, 253, 248, 0.82);   /* semi-transparent — shows images through */
+  --bg-header:      rgba(255, 253, 248, 0.88);
+  --bg-filterbar:   rgba(255, 253, 248, 0.88);
+  --bg-legend:      rgba(245, 240, 232, 0.85);
   --text-primary:   #1c1a16;   /* warm near-black */
   --text-secondary: #4a4540;
   --text-muted:     #8c8680;
@@ -15,8 +15,8 @@
   /* FullCalendar overrides */
   --fc-border-color:               #d8cfc0;
   --fc-today-bg-color:             #fef3c7;   /* warm amber today */
-  --fc-page-bg-color:              #fffdf8;
-  --fc-neutral-bg-color:           #f5f0e8;
+  --fc-page-bg-color:              rgba(255, 253, 248, 0.0);  /* transparent so images show */
+  --fc-neutral-bg-color:           rgba(245, 240, 232, 0.7);
   --fc-neutral-text-color:         #4a4540;
   --fc-list-event-hover-bg-color:  #f0ebe0;
   --fc-button-bg-color:            #2563eb;
@@ -29,11 +29,11 @@
 
 /* ─── Dark-mode tokens — dark blue (navy) ─── */
 .dark {
-  --bg-page:        #0d1b2a;   /* deep navy */
-  --bg-surface:     #112240;   /* dark navy cards */
-  --bg-header:      #0d1b2a;
-  --bg-filterbar:   #112240;
-  --bg-legend:      #0d1b2a;
+  --bg-page:        #0d1b2a;
+  --bg-surface:     rgba(17, 34, 64, 0.82);    /* semi-transparent — shows images through */
+  --bg-header:      rgba(13, 27, 42, 0.88);
+  --bg-filterbar:   rgba(17, 34, 64, 0.88);
+  --bg-legend:      rgba(13, 27, 42, 0.85);
   --text-primary:   #dde6f0;   /* cool blue-white */
   --text-secondary: #a0b4cc;
   --text-muted:     #5a7a9a;
@@ -42,8 +42,8 @@
   /* FullCalendar overrides */
   --fc-border-color:               #1e3a5f;
   --fc-today-bg-color:             #0f3460;   /* deep blue today */
-  --fc-page-bg-color:              #112240;
-  --fc-neutral-bg-color:           #0d1b2a;
+  --fc-page-bg-color:              rgba(17, 34, 64, 0.0);   /* transparent so images show */
+  --fc-neutral-bg-color:           rgba(13, 27, 42, 0.7);
   --fc-neutral-text-color:         #a0b4cc;
   --fc-list-event-hover-bg-color:  #1a3050;
   --fc-button-bg-color:            #1e56a0;
@@ -58,6 +58,12 @@ body {
   background: var(--bg-page);
   color: var(--text-primary);
   font-family: var(--font-geist-sans, Arial, Helvetica, sans-serif);
+}
+
+/* ─── Glass effect on content panels so background images show through ─── */
+header, [data-glass] {
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
 /* ─── FullCalendar: strengthen default text colours ─── */
