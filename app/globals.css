@@ -294,54 +294,50 @@ header, [data-glass] {
     height: 1.5em;
   }
 
-  /* ── Eliminate ALL spacing between header row and grid ── */
+  /* ── Zero out ALL internal FullCalendar spacing ── */
 
-  /* Column header: remove all padding */
-  .fc .fc-col-header-cell,
-  .fc .fc-col-header-cell-cushion {
-    padding: 2px 0 !important;
-  }
-
-  /* Scrollgrid section borders — remove extra spacing */
-  .fc .fc-scrollgrid-section > td {
+  /* Scrollgrid: collapse borders, remove section padding */
+  .fc .fc-scrollgrid { border-spacing: 0 !important; }
+  .fc .fc-scrollgrid-section > * { padding: 0 !important; }
+  .fc .fc-scrollgrid-section-header > * {
     padding: 0 !important;
+    border-bottom: 1px solid var(--fc-border-color) !important;
   }
 
-  /* Day cell frame: minimal height, no padding */
+  /* Column header cells: minimum height */
+  .fc .fc-col-header-cell { padding: 0 !important; }
+  .fc .fc-col-header-cell-cushion {
+    padding: 1px 0 !important;
+    display: block;
+  }
+
+  /* Pull the daygrid body up to eliminate any remaining gap */
+  .fc .fc-daygrid-body { margin-top: -1px; }
+
+  /* Day cell: tight */
   .fc .fc-daygrid-day-frame {
     min-height: 48px !important;
     padding: 0 !important;
   }
-
-  /* Date number top area: zero padding */
   .fc .fc-daygrid-day-top {
     padding: 0 !important;
     min-height: 0 !important;
   }
-
-  /* Date number itself: tiny */
   .fc .fc-daygrid-day-number {
     font-size: 0.7rem !important;
     padding: 1px 3px !important;
     line-height: 1.2;
   }
-
-  /* Events container: no top margin */
   .fc .fc-daygrid-day-events {
     margin-top: 0 !important;
     padding-bottom: 1px;
   }
 
-  /* Smaller event pills on mobile */
+  /* Smaller event pills */
   .fc .fc-daygrid-event {
     font-size: 0.58rem !important;
     padding: 0 2px !important;
     margin: 0 1px 1px !important;
   }
-
-  /* "+N more" link: tiny */
-  .fc .fc-daygrid-more-link {
-    font-size: 0.58rem;
-    margin: 0 2px;
-  }
+  .fc .fc-daygrid-more-link { font-size: 0.58rem; margin: 0 2px; }
 }

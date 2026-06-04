@@ -72,6 +72,12 @@ export default function CalendarView({ events, onEventClick }: Props) {
       height="auto"
       dayMaxEvents={4}
       fixedWeekCount={false}
+      dayHeaderClassNames="fc-custom-day-header"
+      dayHeaderContent={(args) => (
+        <span style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.03em' }}>
+          {args.text}
+        </span>
+      )}
     />
   );
 }
