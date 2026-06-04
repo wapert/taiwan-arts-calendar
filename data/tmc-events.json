@@ -1,0 +1,120 @@
+[
+  {
+    "id": "tmc-TMC-Permanent-Exhibition",
+    "title": "臺北流行音樂中心【唱 我們的歌 流行音樂故事展 MUSIC, ISLAND, STORIES: Pop Music in Taiwan】",
+    "start": "2021-09-18",
+    "end": "2030-12-31",
+    "category": "exhibition",
+    "venue": "臺北流行音樂中心・文化館",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/TMC-Permanent-Exhibition"
+  },
+  {
+    "id": "tmc-FlyMeToTheMoonAndBack2025",
+    "title": "《想你到月球－張雨生特展》線上特展 Fly Me to the Moon & Back",
+    "start": "2025-09-30",
+    "end": "2026-09-22",
+    "category": "exhibition",
+    "venue": "臺北流行音樂中心・其他",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/FlyMeToTheMoonAndBack2025"
+  },
+  {
+    "id": "tmc-2026TAIPEIMUSICNON-STOP",
+    "title": "2026 臺北音樂不斷電 TAIPEI MUSIC NON-STOP",
+    "start": "2026-04-15",
+    "end": "2026-07-05",
+    "category": "pop",
+    "venue": "臺北流行音樂中心",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026TAIPEIMUSICNON-STOP"
+  },
+  {
+    "id": "tmc-2026TMCGoldenVoiceContest",
+    "title": "2026北流金舞台 歌唱大賽",
+    "start": "2026-06-01",
+    "end": "2026-09-20",
+    "category": "workshop",
+    "venue": "臺北流行音樂中心",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026TMCGoldenVoiceContest"
+  },
+  {
+    "id": "tmc-may2026",
+    "title": "孫淑媚《MAY好三十》演唱會－台北站",
+    "start": "2026-06-06",
+    "end": "2026-06-07",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/may2026"
+  },
+  {
+    "id": "tmc-eE81fbBF2671",
+    "title": "國立臺北藝術大學【2026 感性啟蒙課程】",
+    "start": "2026-06-12",
+    "end": "2026-06-13",
+    "category": "workshop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/eE81fbBF2671"
+  },
+  {
+    "id": "tmc-topgun2026",
+    "title": "《捍衛戰士：獨行俠》電影交響音樂會 Top Gun: Maverick in Concert",
+    "start": "2026-06-18",
+    "end": "2026-06-21",
+    "category": "classical",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/topgun2026"
+  },
+  {
+    "id": "tmc-Frozen2026",
+    "title": "迪士尼《冰雪奇緣》動畫交響音樂會 Disney in Concert: Frozen",
+    "start": "2026-06-20",
+    "category": "classical",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/Frozen2026"
+  },
+  {
+    "id": "tmc-jonniesGALA",
+    "title": "姜育恆的盛宴演唱會",
+    "start": "2026-06-27",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/jonniesGALA"
+  },
+  {
+    "id": "tmc-TMC-Academy-of-Concerts2026-2nd",
+    "title": "2026 第二屆北流演唱會學院 — Make it Live！｜開放報名",
+    "start": "2026-06-28",
+    "end": "2026-12-04",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・產業區",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/TMC-Academy-of-Concerts2026-2nd"
+  },
+  {
+    "id": "tmc-globalchinesepopsongschart",
+    "title": "《全球華語流行音樂金曲榜》",
+    "start": "2026-07-03",
+    "end": "2026-08-21",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/globalchinesepopsongschart"
+  },
+  {
+    "id": "tmc-Jaehyun2026",
+    "title": "JAEHYUN FAN-CON TOUR 〈 Mono〉 in TAIPEI",
+    "start": "2026-07-04",
+    "end": "2026-07-05",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/Jaehyun2026"
+  }
+]

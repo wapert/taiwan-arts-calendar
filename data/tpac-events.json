@@ -1,0 +1,408 @@
+[
+  {
+    "id": "tpac-1844",
+    "title": "臺北爵士大樂隊 -老派趴踢Night",
+    "start": "2026-06-05",
+    "category": "pop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1844"
+  },
+  {
+    "id": "tpac-1566",
+    "title": "雷峰塔",
+    "start": "2026-06-12",
+    "end": "2026-06-13",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1566"
+  },
+  {
+    "id": "tpac-1838",
+    "title": "《Ellie, My Love》愛妳·艾莉",
+    "start": "2026-06-17",
+    "end": "2026-06-20",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1838"
+  },
+  {
+    "id": "tpac-1637",
+    "title": "2026台灣國際讀劇節：複象公場 《瘋狂劇》",
+    "start": "2026-06-18",
+    "end": "2026-06-19",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1637"
+  },
+  {
+    "id": "tpac-1647",
+    "title": "2026台灣國際讀劇節：Rafaz Performance Lab自由社 《德州姑姑》",
+    "start": "2026-06-18",
+    "end": "2026-06-20",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1647"
+  },
+  {
+    "id": "tpac-1654",
+    "title": "2026台灣國際讀劇節：韓國藝術綜合學校戲劇院《千年之癢》",
+    "start": "2026-06-18",
+    "end": "2026-06-20",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1654"
+  },
+  {
+    "id": "tpac-1657",
+    "title": "2026台灣國際讀劇節：韓國藝術綜合學校戲劇院《空襲警報》",
+    "start": "2026-06-18",
+    "end": "2026-06-19",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1657"
+  },
+  {
+    "id": "tpac-1649",
+    "title": "2026台灣國際讀劇節：饕餮劇集 《王瑞凱的故事》",
+    "start": "2026-06-19",
+    "end": "2026-06-23",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1649"
+  },
+  {
+    "id": "tpac-1651",
+    "title": "2026台灣國際讀劇節：混將Blend,. Co.《才不是那樣》",
+    "start": "2026-06-19",
+    "end": "2026-06-22",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1651"
+  },
+  {
+    "id": "tpac-1648",
+    "title": "2026台灣國際讀劇節：窮劇場 《遠方來的女人》",
+    "start": "2026-06-20",
+    "end": "2026-06-24",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1648"
+  },
+  {
+    "id": "tpac-1650",
+    "title": "2026台灣國際讀劇節：拾念劇集 《櫻花劇場 1937》",
+    "start": "2026-06-20",
+    "end": "2026-06-25",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1650"
+  },
+  {
+    "id": "tpac-1652",
+    "title": "2026台灣國際讀劇節：忠北道立劇團 《芒果樹不死》",
+    "start": "2026-06-22",
+    "end": "2026-06-23",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1652"
+  },
+  {
+    "id": "tpac-1564",
+    "title": "丑劇大師—斯拉法《下雪了》",
+    "start": "2026-06-24",
+    "end": "2026-06-27",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1564"
+  },
+  {
+    "id": "tpac-1653",
+    "title": "2026台灣國際讀劇節：忠北道立劇團 《中學生日常》",
+    "start": "2026-06-24",
+    "end": "2026-06-25",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1653"
+  },
+  {
+    "id": "tpac-1384",
+    "title": "2026北藝嚴選：同黨劇團《白色說書人》",
+    "start": "2026-06-25",
+    "end": "2026-06-27",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1384"
+  },
+  {
+    "id": "tpac-1775",
+    "title": "《黃昏的天空》",
+    "start": "2026-06-25",
+    "end": "2026-06-27",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1775"
+  },
+  {
+    "id": "tpac-1655",
+    "title": "2026台灣國際讀劇節：忠北道立劇團 《高砂館》",
+    "start": "2026-06-26",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1655"
+  },
+  {
+    "id": "tpac-1656",
+    "title": "2026台灣國際讀劇節：台北劇場實驗室 《如果發生這種事》",
+    "start": "2026-06-26",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1656"
+  },
+  {
+    "id": "tpac-1759",
+    "title": "2026臺北兒童藝術節：《紙淘氣 逃出去》",
+    "start": "2026-07-01",
+    "end": "2026-07-04",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1759"
+  },
+  {
+    "id": "tpac-1774",
+    "title": "2026臺北兒童藝術節：《閃亮貴賓犬》",
+    "start": "2026-07-09",
+    "end": "2026-07-11",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1774"
+  },
+  {
+    "id": "tpac-1747",
+    "title": "狂美《宮崎駿動畫配樂II》交響音樂會-2026暖心巡演",
+    "start": "2026-07-10",
+    "end": "2026-07-11",
+    "category": "classical",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1747"
+  },
+  {
+    "id": "tpac-1773",
+    "title": "2026臺北兒童藝術節：《豆花公劇場版－拍斷手骨顛倒勇》",
+    "start": "2026-07-10",
+    "end": "2026-07-11",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1773"
+  },
+  {
+    "id": "tpac-1422",
+    "title": "2026臺北兒童藝術節：《幾米男孩的100次勇敢》",
+    "start": "2026-07-16",
+    "end": "2026-07-25",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1422"
+  },
+  {
+    "id": "tpac-1830",
+    "title": "2026臺北兒童藝術節：《怪奇怪奇布穀鐘》",
+    "start": "2026-07-16",
+    "end": "2026-07-18",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1830"
+  },
+  {
+    "id": "tpac-1764",
+    "title": "2026臺北兒童藝術節：《玩具王國的星空派對》輕鬆自在音樂會",
+    "start": "2026-07-17",
+    "end": "2026-07-18",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1764"
+  },
+  {
+    "id": "tpac-1770",
+    "title": "2026臺北兒童藝術節：《飛吧！我的甲蟲朋友》",
+    "start": "2026-07-17",
+    "end": "2026-07-18",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1770"
+  },
+  {
+    "id": "tpac-1777",
+    "title": "2026擊思藍盒子《房間裡的大象》",
+    "start": "2026-07-17",
+    "end": "2026-07-18",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1777"
+  },
+  {
+    "id": "tpac-1778",
+    "title": "2026擊思藍盒子《模擬遊戲》",
+    "start": "2026-07-24",
+    "end": "2026-07-25",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1778"
+  },
+  {
+    "id": "tpac-1780",
+    "title": "2026臺北兒童藝術節：《月亮找朋友》",
+    "start": "2026-07-24",
+    "end": "2026-07-25",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1780"
+  },
+  {
+    "id": "tpac-1565",
+    "title": "職男人生11-開始新生活",
+    "start": "2026-07-30",
+    "end": "2026-08-01",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1565"
+  },
+  {
+    "id": "tpac-1763",
+    "title": "2026臺北兒童藝術節：《一二三，不掉下去！》",
+    "start": "2026-07-30",
+    "end": "2026-08-01",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1763"
+  },
+  {
+    "id": "tpac-1750",
+    "title": "2026臺北兒童藝術節：《小魚散步》",
+    "start": "2026-07-31",
+    "end": "2026-08-01",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1750"
+  },
+  {
+    "id": "tpac-1839",
+    "title": "同樂管樂團 第23週年音樂會《蟬想。殘響》",
+    "start": "2026-08-08",
+    "category": "classical",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1839"
+  },
+  {
+    "id": "tpac-1841",
+    "title": "《同棲時間》舞台劇",
+    "start": "2026-08-12",
+    "end": "2026-08-15",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1841"
+  },
+  {
+    "id": "tpac-1843",
+    "title": "都更男女",
+    "start": "2026-08-13",
+    "end": "2026-08-15",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1843"
+  },
+  {
+    "id": "tpac-1845",
+    "title": "《啖噓呵嘻吸吹呼》",
+    "start": "2026-08-13",
+    "end": "2026-08-15",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1845"
+  },
+  {
+    "id": "tpac-1772",
+    "title": "基輔芭蕾舞團：芭蕾舞劇《天鵝湖》",
+    "start": "2026-08-20",
+    "end": "2026-08-22",
+    "category": "dance",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1772"
+  },
+  {
+    "id": "tpac-1776",
+    "title": "李國修紀念作品《半里長城》笑噴版 2026臺北加演",
+    "start": "2026-08-27",
+    "end": "2026-08-29",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1776"
+  },
+  {
+    "id": "tpac-1779",
+    "title": "叛逆研究社-笑著被記過",
+    "start": "2026-09-25",
+    "end": "2026-09-26",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1779"
+  },
+  {
+    "id": "tpac-1423",
+    "title": "新古典室內樂團《音樂馬戲劇場—邦卡的七彩布裙》",
+    "start": "2026-11-13",
+    "end": "2026-11-14",
+    "category": "classical",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1423"
+  },
+  {
+    "id": "tpac-1842",
+    "title": "《老男孩》音樂劇",
+    "start": "2026-12-16",
+    "end": "2026-12-19",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1842"
+  }
+]
