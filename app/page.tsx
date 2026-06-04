@@ -75,17 +75,15 @@ export default function Home() {
       {/* All content sits above the background symbols */}
       <div className="relative flex flex-col flex-1" style={{ zIndex: 1 }}>
 
-      {/* Header — compact on mobile, full on desktop */}
-      <header className="shadow-sm px-3 py-2 sm:px-6 sm:py-3 flex items-center gap-2 border-b"
+      {/* Header — title only on mobile, full on desktop */}
+      <header className="shadow-sm px-3 py-1.5 sm:px-6 sm:py-3 flex items-center gap-2 border-b"
         style={{ background: 'var(--bg-header)', borderColor: 'var(--border)' }}>
 
-        {/* Title block */}
         <div className="min-w-0">
-          <h1 className="text-base sm:text-xl font-bold leading-tight"
+          <h1 className="text-sm sm:text-xl font-bold leading-tight"
             style={{ color: 'var(--text-primary)', fontFamily: 'var(--ff-heading)' }}>
             台灣藝文活動月曆
           </h1>
-          {/* Subtitle hidden on mobile */}
           <p className="hidden sm:block text-xs"
             style={{ color: 'var(--text-muted)', fontFamily: 'var(--ff-heading)', letterSpacing: '0.10em' }}>
             Taiwan Arts &amp; Performance Calendar
@@ -97,19 +95,18 @@ export default function Home() {
           台北・新北・桃園・新竹・台中・台南・高雄
         </span>
 
-        {/* Dark mode toggle — icon-only on mobile */}
+        {/* Dark mode toggle — desktop only; mobile gets it in FilterBar */}
         <button
           onClick={toggleDark}
           aria-label="切換深色模式"
-          className="ml-auto flex items-center gap-1 px-2 py-1 sm:px-3 sm:py-1.5 rounded-lg border text-sm font-medium transition-colors cursor-pointer flex-shrink-0"
+          className="hidden sm:flex ml-auto items-center gap-1 px-3 py-1.5 rounded-lg border text-sm font-medium transition-colors cursor-pointer flex-shrink-0"
           style={{
             background: 'var(--bg-surface)',
             borderColor: 'var(--border)',
             color: 'var(--text-secondary)',
           }}
         >
-          <span>{isDark ? '☀️' : '🌙'}</span>
-          <span className="hidden sm:inline">{isDark ? '淺色' : '深色'}</span>
+          {isDark ? '☀️ 淺色' : '🌙 深色'}
         </button>
       </header>
 
@@ -118,6 +115,8 @@ export default function Home() {
         activeCity={activeCity}
         onCategoryToggle={toggleCategory}
         onCityChange={setActiveCity}
+        isDark={isDark}
+        onToggleDark={toggleDark}
       />
 
       <div className="flex-1 p-2 sm:p-4">
