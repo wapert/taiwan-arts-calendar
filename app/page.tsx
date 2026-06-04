@@ -9,6 +9,17 @@ import { ArtEvent, EventCategory, CATEGORY_CONFIG } from '@/lib/eventTypes';
 
 const CalendarView = dynamic(() => import('@/components/CalendarView'), { ssr: false });
 
+const CITY_OPTIONS = [
+  { value: 'ALL',       label: '全部' },
+  { value: 'Taipei',    label: '台北' },
+  { value: 'NewTaipei', label: '新北' },
+  { value: 'Taoyuan',   label: '桃園' },
+  { value: 'Hsinchu',   label: '新竹' },
+  { value: 'Taichung',  label: '台中' },
+  { value: 'Tainan',    label: '台南' },
+  { value: 'Kaohsiung', label: '高雄' },
+];
+
 // Default: show only Classical, Theater, Dance
 const DEFAULT_CATEGORIES = new Set<EventCategory>(['classical', 'theater', 'dance']);
 
@@ -79,8 +90,9 @@ export default function Home() {
       <header className="shadow-sm px-3 py-1.5 sm:px-6 sm:py-3 flex items-center gap-2 border-b"
         style={{ background: 'var(--bg-header)', borderColor: 'var(--border)' }}>
 
+        {/* Title */}
         <div className="min-w-0">
-          <h1 className="text-sm sm:text-xl font-bold leading-tight"
+          <h1 className="text-sm sm:text-xl font-bold leading-tight whitespace-nowrap"
             style={{ color: 'var(--text-primary)', fontFamily: 'var(--ff-heading)' }}>
             台灣藝文活動月曆
           </h1>
@@ -90,23 +102,40 @@ export default function Home() {
           </p>
         </div>
 
-        {/* Cities — desktop only */}
+        {/* Cities text — desktop only */}
         <span className="hidden lg:block text-xs ml-3 truncate" style={{ color: 'var(--text-muted)' }}>
           台北・新北・桃園・新竹・台中・台南・高雄
         </span>
 
-        {/* Dark mode toggle — desktop only; mobile gets it in FilterBar */}
+        {/* City selector — mobile only (desktop version lives in FilterBar) */}
+        <select
+          value={activeCity}
+          onChange={(e) => setActiveCity(e.target.value)}
+          className="sm:hidden ml-auto text-xs rounded-md px-1.5 py-1 focus:outline-none"
+          style={{
+            background: 'var(--bg-surface)',
+            color: 'var(--text-primary)',
+            border: '1px solid var(--border)',
+          }}
+        >
+          {CITY_OPTIONS.map(({ value, label }) => (
+            <option key={value} value={value}>{label}</option>
+          ))}
+        </select>
+
+        {/* Dark mode toggle */}
         <button
           onClick={toggleDark}
           aria-label="切換深色模式"
-          className="hidden sm:flex ml-auto items-center gap-1 px-3 py-1.5 rounded-lg border text-sm font-medium transition-colors cursor-pointer flex-shrink-0"
+          className="sm:ml-auto flex items-center gap-1 px-2 py-1 sm:px-3 sm:py-1.5 rounded-lg border text-xs sm:text-sm font-medium transition-colors cursor-pointer flex-shrink-0"
           style={{
             background: 'var(--bg-surface)',
             borderColor: 'var(--border)',
             color: 'var(--text-secondary)',
           }}
         >
-          {isDark ? '☀️ 淺色' : '🌙 深色'}
+          <span>{isDark ? '☀️' : '🌙'}</span>
+          <span className="hidden sm:inline">{isDark ? ' 淺色' : ' 深色'}</span>
         </button>
       </header>
 
