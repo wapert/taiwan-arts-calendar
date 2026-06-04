@@ -8,6 +8,14 @@ import { EventClickArg, EventContentArg } from '@fullcalendar/core';
 import { ArtEvent, CATEGORY_CONFIG } from '@/lib/eventTypes';
 import { useRef, useEffect } from 'react';
 
+/** Convert #rrggbb → rgba(r,g,b,alpha) */
+function withAlpha(hex: string, alpha: number): string {
+  const r = parseInt(hex.slice(1, 3), 16);
+  const g = parseInt(hex.slice(3, 5), 16);
+  const b = parseInt(hex.slice(5, 7), 16);
+  return `rgba(${r},${g},${b},${alpha})`;
+}
+
 interface Props {
   events: ArtEvent[];
   onEventClick: (event: ArtEvent) => void;
@@ -28,9 +36,9 @@ export default function CalendarView({ events, onEventClick }: Props) {
         title: e.title,
         start: e.start,
         end: e.end,
-        backgroundColor: CATEGORY_CONFIG[e.category].color,
-        borderColor: CATEGORY_CONFIG[e.category].color,
-        textColor: CATEGORY_CONFIG[e.category].textColor,
+        backgroundColor: withAlpha(CATEGORY_CONFIG[e.category].color, 0.55),
+        borderColor:     withAlpha(CATEGORY_CONFIG[e.category].color, 0.85),
+        textColor:       CATEGORY_CONFIG[e.category].textColor,
         extendedProps: e,
       }))
     );
