@@ -7,11 +7,14 @@ on:
 
 env:
   PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # silence Node 20 deprecation warning
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 40
+    permissions:
+      contents: write   # allow git push back to repo
 
     steps:
       - name: Checkout repo
