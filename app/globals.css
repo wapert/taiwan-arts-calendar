@@ -1,24 +1,24 @@
 @import "tailwindcss";
 
-/* ─── Light-mode tokens ─── */
+/* ─── Light-mode tokens — 乳白色 (cream / ivory) ─── */
 :root {
-  --bg-page:        #f3f4f6;
-  --bg-surface:     #ffffff;
-  --bg-header:      #ffffff;
-  --bg-filterbar:   #ffffff;
-  --bg-legend:      #f9fafb;
-  --text-primary:   #111827;
-  --text-secondary: #374151;
-  --text-muted:     #6b7280;
-  --border:         #d1d5db;
+  --bg-page:        #faf7f2;   /* warm cream page */
+  --bg-surface:     #fffdf8;   /* ivory white cards */
+  --bg-header:      #fffdf8;
+  --bg-filterbar:   #fffdf8;
+  --bg-legend:      #f5f0e8;   /* slightly warmer legend strip */
+  --text-primary:   #1c1a16;   /* warm near-black */
+  --text-secondary: #4a4540;
+  --text-muted:     #8c8680;
+  --border:         #e8dfd0;   /* warm beige border */
 
   /* FullCalendar overrides */
-  --fc-border-color:               #9ca3af;
-  --fc-today-bg-color:             #dbeafe;
-  --fc-page-bg-color:              #ffffff;
-  --fc-neutral-bg-color:           #f9fafb;
-  --fc-neutral-text-color:         #374151;
-  --fc-list-event-hover-bg-color:  #f3f4f6;
+  --fc-border-color:               #d8cfc0;
+  --fc-today-bg-color:             #fef3c7;   /* warm amber today */
+  --fc-page-bg-color:              #fffdf8;
+  --fc-neutral-bg-color:           #f5f0e8;
+  --fc-neutral-text-color:         #4a4540;
+  --fc-list-event-hover-bg-color:  #f0ebe0;
   --fc-button-bg-color:            #2563eb;
   --fc-button-border-color:        #2563eb;
   --fc-button-hover-bg-color:      #1d4ed8;
@@ -27,31 +27,31 @@
   --fc-button-active-border-color: #1e40af;
 }
 
-/* ─── Dark-mode tokens ─── */
+/* ─── Dark-mode tokens — dark blue (navy) ─── */
 .dark {
-  --bg-page:        #0f172a;
-  --bg-surface:     #1e293b;
-  --bg-header:      #1e293b;
-  --bg-filterbar:   #1e293b;
-  --bg-legend:      #1e293b;
-  --text-primary:   #f1f5f9;
-  --text-secondary: #cbd5e1;
-  --text-muted:     #94a3b8;
-  --border:         #334155;
+  --bg-page:        #0d1b2a;   /* deep navy */
+  --bg-surface:     #112240;   /* dark navy cards */
+  --bg-header:      #0d1b2a;
+  --bg-filterbar:   #112240;
+  --bg-legend:      #0d1b2a;
+  --text-primary:   #dde6f0;   /* cool blue-white */
+  --text-secondary: #a0b4cc;
+  --text-muted:     #5a7a9a;
+  --border:         #1e3a5f;   /* dark blue border */
 
   /* FullCalendar overrides */
-  --fc-border-color:               #475569;
-  --fc-today-bg-color:             #1e3a5f;
-  --fc-page-bg-color:              #1e293b;
-  --fc-neutral-bg-color:           #0f172a;
-  --fc-neutral-text-color:         #cbd5e1;
-  --fc-list-event-hover-bg-color:  #334155;
-  --fc-button-bg-color:            #3b82f6;
-  --fc-button-border-color:        #3b82f6;
-  --fc-button-hover-bg-color:      #2563eb;
-  --fc-button-hover-border-color:  #2563eb;
-  --fc-button-active-bg-color:     #1d4ed8;
-  --fc-button-active-border-color: #1d4ed8;
+  --fc-border-color:               #1e3a5f;
+  --fc-today-bg-color:             #0f3460;   /* deep blue today */
+  --fc-page-bg-color:              #112240;
+  --fc-neutral-bg-color:           #0d1b2a;
+  --fc-neutral-text-color:         #a0b4cc;
+  --fc-list-event-hover-bg-color:  #1a3050;
+  --fc-button-bg-color:            #1e56a0;
+  --fc-button-border-color:        #1e56a0;
+  --fc-button-hover-bg-color:      #1a4a8a;
+  --fc-button-hover-border-color:  #1a4a8a;
+  --fc-button-active-bg-color:     #163d74;
+  --fc-button-active-border-color: #163d74;
 }
 
 body {
