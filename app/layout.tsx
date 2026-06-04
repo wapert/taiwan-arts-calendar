@@ -18,7 +18,7 @@ const sourceSans = Source_Sans_3({
 });
 
 export const metadata: Metadata = {
-  title: "台灣藝文活動月曆 | Taiwan Arts Calendar",
+  title: "台灣藝文月曆 | Taiwan Arts Calendar",
   description: "台北、新竹、桃園、台中、高雄藝文表演活動月曆 — 音樂、戲劇、舞蹈、展覽",
   manifest: "/manifest.json",
   appleWebApp: {

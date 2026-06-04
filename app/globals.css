@@ -293,4 +293,21 @@ header, [data-glass] {
     width: 1.5em;
     height: 1.5em;
   }
+
+  /* Reduce row height — less gap between date number and events */
+  .fc .fc-daygrid-day-frame {
+    min-height: 52px;
+  }
+
+  /* Tighten the gap between column header row and first date row */
+  .fc .fc-col-header-cell {
+    padding-bottom: 2px;
+  }
+
+  /* Smaller event pills on mobile */
+  .fc .fc-daygrid-event {
+    font-size: 0.6rem;
+    padding: 0 2px;
+    margin: 0 1px;
+  }
 }
