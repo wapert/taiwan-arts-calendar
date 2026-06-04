@@ -6,7 +6,7 @@ import listPlugin from '@fullcalendar/list';
 import interactionPlugin from '@fullcalendar/interaction';
 import { EventClickArg, EventContentArg } from '@fullcalendar/core';
 import { ArtEvent, CATEGORY_CONFIG } from '@/lib/eventTypes';
-import { useMemo } from 'react';
+import { useRef, useEffect } from 'react';
 
 interface Props {
   events: ArtEvent[];
@@ -14,9 +14,16 @@ interface Props {
 }
 
 export default function CalendarView({ events, onEventClick }: Props) {
-  const fcEvents = useMemo(
-    () =>
-      events.map((e) => ({
+  const calendarRef = useRef<FullCalendar>(null);
+
+  // FullCalendar's list view doesn't react to events prop changes —
+  // explicitly remove all and re-add whenever the filtered event set changes.
+  useEffect(() => {
+    const api = calendarRef.current?.getApi();
+    if (!api) return;
+    api.removeAllEvents();
+    events.forEach((e) =>
+      api.addEvent({
         id: e.id,
         title: e.title,
         start: e.start,
@@ -25,9 +32,9 @@ export default function CalendarView({ events, onEventClick }: Props) {
         borderColor: CATEGORY_CONFIG[e.category].color,
         textColor: CATEGORY_CONFIG[e.category].textColor,
         extendedProps: e,
-      })),
-    [events]
-  );
+      })
+    );
+  }, [events]);
 
   const handleClick = (arg: EventClickArg) => {
     onEventClick(arg.event.extendedProps as ArtEvent);
@@ -39,6 +46,7 @@ export default function CalendarView({ events, onEventClick }: Props) {
 
   return (
     <FullCalendar
+      ref={calendarRef}
       plugins={[dayGridPlugin, listPlugin, interactionPlugin]}
       initialView="dayGridMonth"
       headerToolbar={{
@@ -50,7 +58,7 @@ export default function CalendarView({ events, onEventClick }: Props) {
       firstDay={0}
       buttonText={{ today: '今天', month: '月曆', list: '清單' }}
       titleFormat={{ year: 'numeric', month: 'long' }}
-      events={fcEvents}
+      events={[]}
       eventClick={handleClick}
       eventContent={renderContent}
       height="auto"
