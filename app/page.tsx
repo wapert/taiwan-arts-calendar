@@ -93,7 +93,7 @@ export default function Home() {
         {/* Title */}
         <div className="min-w-0">
           <h1 className="text-sm sm:text-xl font-bold leading-tight whitespace-nowrap"
-            style={{ color: '#A0785A', fontFamily: 'var(--ff-heading)' }}>
+            style={{ color: '#7dd3fc', fontFamily: 'var(--ff-heading)' }}>
             台灣藝文月曆
           </h1>
           <p className="hidden sm:block text-xs"
