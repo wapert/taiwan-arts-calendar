@@ -110,7 +110,7 @@ header, [data-glass] {
 
 /* Toolbar title (month/year) — desk calendar style */
 .fc .fc-toolbar-title {
-  color: var(--text-primary);
+  color: #7dd3fc;   /* light blue — sky-300 */
   font-family: var(--ff-heading);
   font-size: 1.5rem;
   font-weight: 700;
@@ -248,8 +248,9 @@ header, [data-glass] {
     padding: 6px 2px;
   }
 
-  /* Title: shorter, no wrap */
+  /* Title: shorter, no wrap, keep light blue */
   .fc .fc-toolbar-title {
+    color: #7dd3fc !important;
     font-size: 0.9rem !important;
     font-weight: 700;
     white-space: nowrap;
