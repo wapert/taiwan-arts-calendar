@@ -40,7 +40,7 @@ export const CATEGORY_CONFIG: Record<
   theater: {
     label: 'Theater / Musical',
     labelZh: '戲劇 / 音樂劇',
-    color: '#8B5CF6',
+    color: '#A0785A',
     textColor: '#fff',
   },
   dance: {

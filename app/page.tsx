@@ -5,6 +5,7 @@ import dynamic from 'next/dynamic';
 import FilterBar from '@/components/FilterBar';
 import Legend from '@/components/Legend';
 import EventModal from '@/components/EventModal';
+import MusicBackground from '@/components/MusicBackground';
 import { ArtEvent, EventCategory, CATEGORY_CONFIG } from '@/lib/eventTypes';
 
 const CalendarView = dynamic(() => import('@/components/CalendarView'), { ssr: false });
@@ -64,6 +65,11 @@ export default function Home() {
 
   return (
     <main className="min-h-screen flex flex-col" style={{ background: 'var(--bg-page)' }}>
+      <MusicBackground />
+
+      {/* All content sits above the background symbols */}
+      <div className="relative flex flex-col flex-1" style={{ zIndex: 1 }}>
+
       {/* Header */}
       <header className="shadow-sm px-6 py-4 flex items-center gap-3 border-b"
         style={{ background: 'var(--bg-header)', borderColor: 'var(--border)' }}>
@@ -77,7 +83,7 @@ export default function Home() {
         </div>
 
         <span className="hidden sm:block text-xs ml-4" style={{ color: 'var(--text-muted)' }}>
-          台北・新竹・桃園・台中・高雄
+          台北・新北・新竹・桃園・台中・台南・高雄
         </span>
 
         {/* Dark mode toggle */}
@@ -118,6 +124,7 @@ export default function Home() {
       </div>
 
       <EventModal event={selectedEvent} onClose={() => setSelectedEvent(null)} />
+      </div> {/* end z-index wrapper */}
     </main>
   );
 }
