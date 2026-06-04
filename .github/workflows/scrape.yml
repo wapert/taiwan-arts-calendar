@@ -5,10 +5,13 @@ on:
     - cron: '0 2 * * 1'   # Every Monday 02:00 UTC = 10:00 Taiwan time
   workflow_dispatch:       # Allow manual trigger from GitHub Actions tab
 
+env:
+  PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
 
     steps:
       - name: Checkout repo
@@ -16,15 +19,16 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Node.js 20
+      - name: Set up Node.js 24
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
           cache: 'npm'
 
       - name: Install dependencies
         run: npm ci
 
+      # Ubuntu 24.04 (ubuntu-latest) uses libasound2t64 instead of libasound2
       - name: Install Puppeteer system dependencies
         run: |
           sudo apt-get update -q
@@ -32,14 +36,66 @@ jobs:
             chromium-browser \
             libatk1.0-0 libatk-bridge2.0-0 libcups2 \
             libxkbcommon0 libxcomposite1 libxdamage1 \
-            libxfixes3 libxrandr2 libgbm1 libasound2 \
+            libxfixes3 libxrandr2 libgbm1 libasound2t64 \
             libpangocairo-1.0-0 libpango-1.0-0 libcairo2 \
             libgtk-3-0 libnss3
 
-      - name: Run all scrapers
-        env:
-          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
-        run: npm run scrape:all
+      # Each scraper runs independently — one failure won't stop the others
+      - name: Scrape 國家兩廳院 (NTCH)
+        run: npm run scrape:ntch
+        continue-on-error: true
+
+      - name: Scrape 衛武營
+        run: npm run scrape:weiwuying
+        continue-on-error: true
+
+      - name: Scrape 國家歌劇院 (NTT)
+        run: npm run scrape:ntt
+        continue-on-error: true
+
+      - name: Scrape 台北表演藝術中心 (TPAC)
+        run: npm run scrape:tpac
+        continue-on-error: true
+
+      - name: Scrape 臺北流行音樂中心 (TMC)
+        run: npm run scrape:tmc
+        continue-on-error: true
+
+      - name: Scrape Legacy 音樂展演空間
+        run: npm run scrape:legacy
+        continue-on-error: true
+
+      - name: Scrape OpenTix
+        run: npm run scrape:opentix
+        continue-on-error: true
+
+      - name: Scrape KKTIX (Puppeteer)
+        run: npm run scrape:kktix
+        continue-on-error: true
+
+      - name: Scrape 台北市藝文活動通
+        run: npm run scrape:cultureexpress
+        continue-on-error: true
+
+      - name: Scrape 新竹市文化局
+        run: npm run scrape:hsinchu
+        continue-on-error: true
+
+      - name: Scrape 新竹縣文化局
+        run: npm run scrape:hchcc
+        continue-on-error: true
+
+      - name: Scrape 桃園市文化局
+        run: npm run scrape:taoyuan
+        continue-on-error: true
+
+      - name: Scrape yii.tw
+        run: npm run scrape:yii
+        continue-on-error: true
+
+      # Always merge whatever data was collected, even if some scrapers failed
+      - name: Merge all sources → public/events.json
+        run: npm run scrape:merge
 
       - name: Commit and push updated events.json
         run: |
