@@ -24,6 +24,7 @@
     "scrape:all": "npm run scrape:weiwuying && npm run scrape:ntt && npm run scrape:cultureexpress && npm run scrape:ntch && npm run scrape:hsinchu && npm run scrape:hchcc && npm run scrape:yii && npm run scrape:taoyuan && npm run scrape:tpac && npm run scrape:tmc && npm run scrape:legacy && npm run scrape:opentix && npm run scrape:kktix && npm run scrape:merge"
   },
   "dependencies": {
+    "@ducanh2912/next-pwa": "^10.2.9",
     "@fullcalendar/core": "^6.1.20",
     "@fullcalendar/daygrid": "^6.1.20",
     "@fullcalendar/interaction": "^6.1.20",
