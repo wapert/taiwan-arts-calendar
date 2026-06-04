@@ -40,8 +40,8 @@ export const CATEGORY_CONFIG: Record<
   theater: {
     label: 'Theater / Musical',
     labelZh: '戲劇 / 音樂劇',
-    color: '#A0785A',
-    textColor: '#fff',
+    color: '#EAB308',
+    textColor: '#000',
   },
   dance: {
     label: 'Dance',
@@ -52,8 +52,8 @@ export const CATEGORY_CONFIG: Record<
   exhibition: {
     label: 'Exhibition',
     labelZh: '展覽',
-    color: '#EAB308',
-    textColor: '#000',
+    color: '#A0785A',
+    textColor: '#fff',
   },
   traditional: {
     label: 'Traditional Arts',
