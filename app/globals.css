@@ -294,20 +294,54 @@ header, [data-glass] {
     height: 1.5em;
   }
 
-  /* Reduce row height — less gap between date number and events */
-  .fc .fc-daygrid-day-frame {
-    min-height: 52px;
+  /* ── Eliminate ALL spacing between header row and grid ── */
+
+  /* Column header: remove all padding */
+  .fc .fc-col-header-cell,
+  .fc .fc-col-header-cell-cushion {
+    padding: 2px 0 !important;
   }
 
-  /* Tighten the gap between column header row and first date row */
-  .fc .fc-col-header-cell {
-    padding-bottom: 2px;
+  /* Scrollgrid section borders — remove extra spacing */
+  .fc .fc-scrollgrid-section > td {
+    padding: 0 !important;
+  }
+
+  /* Day cell frame: minimal height, no padding */
+  .fc .fc-daygrid-day-frame {
+    min-height: 48px !important;
+    padding: 0 !important;
+  }
+
+  /* Date number top area: zero padding */
+  .fc .fc-daygrid-day-top {
+    padding: 0 !important;
+    min-height: 0 !important;
+  }
+
+  /* Date number itself: tiny */
+  .fc .fc-daygrid-day-number {
+    font-size: 0.7rem !important;
+    padding: 1px 3px !important;
+    line-height: 1.2;
+  }
+
+  /* Events container: no top margin */
+  .fc .fc-daygrid-day-events {
+    margin-top: 0 !important;
+    padding-bottom: 1px;
   }
 
   /* Smaller event pills on mobile */
   .fc .fc-daygrid-event {
-    font-size: 0.6rem;
-    padding: 0 2px;
-    margin: 0 1px;
+    font-size: 0.58rem !important;
+    padding: 0 2px !important;
+    margin: 0 1px 1px !important;
+  }
+
+  /* "+N more" link: tiny */
+  .fc .fc-daygrid-more-link {
+    font-size: 0.58rem;
+    margin: 0 2px;
   }
 }
