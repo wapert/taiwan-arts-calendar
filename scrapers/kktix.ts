@@ -95,7 +95,8 @@ async function main() {
   console.log('Launching Puppeteer for KKTIX (Cloudflare bypass)…');
   const browser = await puppeteer.launch({
     headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox'],
+    executablePath: process.env.PUPPETEER_EXECUTABLE_PATH,
+    args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu'],
   });
 
   const page = await browser.newPage();
