@@ -89,7 +89,7 @@ export default function Home() {
         </div>
 
         <span className="hidden sm:block text-xs ml-4" style={{ color: 'var(--text-muted)' }}>
-          台北・新北・新竹・桃園・台中・台南・高雄
+          台北・新北・桃園・新竹・台中・台南・高雄
         </span>
 
         {/* Dark mode toggle */}
