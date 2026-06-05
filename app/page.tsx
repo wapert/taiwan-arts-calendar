@@ -156,7 +156,11 @@ export default function Home() {
               載入活動資料中…
             </div>
           ) : (
-            <CalendarView events={filteredEvents} onEventClick={setSelectedEvent} />
+            <CalendarView
+              events={filteredEvents}
+              onEventClick={setSelectedEvent}
+              selectedEventId={selectedEvent?.id ?? null}
+            />
           )}
         </div>
       </div>

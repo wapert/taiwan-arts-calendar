@@ -4,7 +4,7 @@ import FullCalendar from '@fullcalendar/react';
 import dayGridPlugin from '@fullcalendar/daygrid';
 import listPlugin from '@fullcalendar/list';
 import interactionPlugin from '@fullcalendar/interaction';
-import { EventClickArg, EventContentArg } from '@fullcalendar/core';
+import { EventApi, EventClickArg, EventContentArg } from '@fullcalendar/core';
 import { ArtEvent, CATEGORY_CONFIG } from '@/lib/eventTypes';
 import { useRef, useEffect } from 'react';
 
@@ -16,19 +16,26 @@ function withAlpha(hex: string, alpha: number): string {
   return `rgba(${r},${g},${b},${alpha})`;
 }
 
+const NORMAL_FILL   = 0.35;
+const NORMAL_BORDER = 0.70;
+const ACTIVE_FILL   = 0.88;  // nearly opaque when tapped
+const ACTIVE_BORDER = 1.00;
+
 interface Props {
   events: ArtEvent[];
   onEventClick: (event: ArtEvent) => void;
+  selectedEventId: string | null;  // null = modal closed → reset highlight
 }
 
-export default function CalendarView({ events, onEventClick }: Props) {
-  const calendarRef = useRef<FullCalendar>(null);
+export default function CalendarView({ events, onEventClick, selectedEventId }: Props) {
+  const calendarRef  = useRef<FullCalendar>(null);
+  const selectedRef  = useRef<EventApi | null>(null);  // currently highlighted FC event
 
-  // FullCalendar list view doesn't react to the events prop changing.
-  // Fix: remove all + addEventSource (one batch call, not N individual ones).
+  // Reload all events when filter changes
   useEffect(() => {
     const api = calendarRef.current?.getApi();
     if (!api) return;
+    selectedRef.current = null;
     api.removeAllEvents();
     api.addEventSource(
       events.map((e) => ({
@@ -36,16 +43,44 @@ export default function CalendarView({ events, onEventClick }: Props) {
         title: e.title,
         start: e.start,
         end: e.end,
-        backgroundColor: withAlpha(CATEGORY_CONFIG[e.category].color, 0.35),
-        borderColor:     withAlpha(CATEGORY_CONFIG[e.category].color, 0.70),
+        backgroundColor: withAlpha(CATEGORY_CONFIG[e.category].color, NORMAL_FILL),
+        borderColor:     withAlpha(CATEGORY_CONFIG[e.category].color, NORMAL_BORDER),
         textColor:       CATEGORY_CONFIG[e.category].textColor,
         extendedProps: e,
       }))
     );
   }, [events]);
 
+  // Reset highlight when modal is closed (selectedEventId becomes null)
+  useEffect(() => {
+    if (selectedEventId !== null) return;
+    const prev = selectedRef.current;
+    if (!prev) return;
+    const artEvent = prev.extendedProps as ArtEvent;
+    const color = CATEGORY_CONFIG[artEvent.category].color;
+    prev.setProp('backgroundColor', withAlpha(color, NORMAL_FILL));
+    prev.setProp('borderColor',     withAlpha(color, NORMAL_BORDER));
+    selectedRef.current = null;
+  }, [selectedEventId]);
+
   const handleClick = (arg: EventClickArg) => {
-    onEventClick(arg.event.extendedProps as ArtEvent);
+    const artEvent = arg.event.extendedProps as ArtEvent;
+    const color    = CATEGORY_CONFIG[artEvent.category].color;
+
+    // Reset previous selection
+    if (selectedRef.current && selectedRef.current.id !== arg.event.id) {
+      const prev = selectedRef.current.extendedProps as ArtEvent;
+      const prevColor = CATEGORY_CONFIG[prev.category].color;
+      selectedRef.current.setProp('backgroundColor', withAlpha(prevColor, NORMAL_FILL));
+      selectedRef.current.setProp('borderColor',     withAlpha(prevColor, NORMAL_BORDER));
+    }
+
+    // Highlight tapped event
+    arg.event.setProp('backgroundColor', withAlpha(color, ACTIVE_FILL));
+    arg.event.setProp('borderColor',     color);
+    selectedRef.current = arg.event;
+
+    onEventClick(artEvent);
   };
 
   const renderContent = (arg: EventContentArg) => (
