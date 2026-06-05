@@ -7,7 +7,8 @@
 /* ─── Light-mode tokens — 乳白色 (cream / ivory) ─── */
 :root {
   --bg-page:        #faf7f2;
-  --bg-surface:     rgba(255, 253, 248, 0.52);   /* body — moderately transparent */
+  --bg-surface:     rgba(255, 253, 248, 0.52);   /* calendar card */
+  --bg-modal:       rgba(255, 253, 248, 0.90);   /* event popup */
   --bg-header:      rgba(255, 253, 248, 0.30);   /* header — very transparent */
   --bg-filterbar:   rgba(255, 253, 248, 0.38);
   --bg-legend:      rgba(245, 240, 232, 0.35);
@@ -36,7 +37,8 @@
 /* ─── Dark-mode tokens — dark blue (navy) ─── */
 .dark {
   --bg-page:        #0d1b2a;
-  --bg-surface:     rgba(17, 34, 64, 0.52);    /* body — moderately transparent */
+  --bg-surface:     rgba(17, 34, 64, 0.52);    /* calendar card */
+  --bg-modal:       rgba(13, 27, 58, 0.90);    /* event popup */
   --bg-header:      rgba(13, 27, 42, 0.30);    /* header — very transparent */
   --bg-filterbar:   rgba(17, 34, 64, 0.38);
   --bg-legend:      rgba(13, 27, 42, 0.35);

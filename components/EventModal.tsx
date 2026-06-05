@@ -98,7 +98,7 @@ export default function EventModal({ event, onClose }: Props) {
     >
       <div
         className="rounded-2xl shadow-2xl max-w-md w-full overflow-hidden"
-        style={{ background: 'var(--bg-surface)' }}
+        style={{ background: 'var(--bg-modal)' }}
         onClick={(e) => e.stopPropagation()}
       >
         <div className="h-2" style={{ backgroundColor: cfg.color }} />
