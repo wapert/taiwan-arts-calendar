@@ -54,22 +54,28 @@ export default function MusicBackground() {
         opacity: 0.45,
       }} />
 
-      {/* Music notes */}
-      {NOTES.map((s, i) => (
-        <span key={i} style={{
-          position: 'absolute',
-          top: s.top, left: s.left,
-          fontSize: s.size,
-          transform: `rotate(${s.rotate})`,
-          opacity: s.opacity,
-          color: 'var(--color-note)',
-          textShadow: '0 2px 6px rgba(0,0,0,0.4)',
-          lineHeight: 1,
-          fontFamily: 'Georgia, "Times New Roman", serif',
-        }}>
-          {s.char}
-        </span>
-      ))}
+      {/* Music notes — masked to hide in top panel area (~18vh) */}
+      <div style={{
+        position: 'absolute', inset: 0,
+        maskImage: 'linear-gradient(to bottom, transparent 0%, transparent 18%, black 24%)',
+        WebkitMaskImage: 'linear-gradient(to bottom, transparent 0%, transparent 18%, black 24%)',
+      }}>
+        {NOTES.map((s, i) => (
+          <span key={i} style={{
+            position: 'absolute',
+            top: s.top, left: s.left,
+            fontSize: s.size,
+            transform: `rotate(${s.rotate})`,
+            opacity: s.opacity,
+            color: 'var(--color-note)',
+            textShadow: '0 2px 6px rgba(0,0,0,0.4)',
+            lineHeight: 1,
+            fontFamily: 'Georgia, "Times New Roman", serif',
+          }}>
+            {s.char}
+          </span>
+        ))}
+      </div>
     </div>
   );
 }
