@@ -47,7 +47,7 @@
 
   /* FullCalendar overrides */
   --fc-border-color:               #1e3a5f;
-  --fc-today-bg-color:             #0f3460;   /* deep blue today */
+  --fc-today-bg-color:             rgba(255, 253, 240, 0.18);  /* ivory glow today */
   --fc-page-bg-color:              rgba(17, 34, 64, 0.0);   /* transparent so images show */
   --fc-neutral-bg-color:           rgba(13, 27, 42, 0.7);
   --fc-neutral-text-color:         #a0b4cc;
@@ -221,6 +221,22 @@ header, [data-glass] {
   align-items: center;
   justify-content: center;
   margin: 2px;
+}
+
+/* Dark mode: today date number circle → ivory */
+.dark .fc .fc-day-today .fc-daygrid-day-number {
+  background: #faf8f0;
+  color: #1c1a16 !important;
+}
+
+/* Dark mode: 今天 button → ivory */
+.dark .fc .fc-today-button {
+  background-color: #faf8f0 !important;
+  border-color: #e8e0cc !important;
+  color: #1c1a16 !important;
+}
+.dark .fc .fc-today-button:hover {
+  background-color: #f0ece0 !important;
 }
 
 /* ─── Event pills — rounded and compact ─── */
