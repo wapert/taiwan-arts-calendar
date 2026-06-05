@@ -37,8 +37,8 @@ export default function CalendarView({ events, onEventClick, selectedEventId }: 
           title:           e.title,
           start:           e.start,
           end:             e.end,
-          backgroundColor: withAlpha(color, 0.50),
-          borderColor:     withAlpha(color, 0.80),
+          backgroundColor: withAlpha(color, 0.70),
+          borderColor:     withAlpha(color, 0.90),
           textColor:       CATEGORY_CONFIG[e.category].textColor,
           extendedProps:   e,
         };
