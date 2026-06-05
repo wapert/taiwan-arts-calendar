@@ -4,9 +4,9 @@ import FullCalendar from '@fullcalendar/react';
 import dayGridPlugin from '@fullcalendar/daygrid';
 import listPlugin from '@fullcalendar/list';
 import interactionPlugin from '@fullcalendar/interaction';
-import { EventClickArg, EventContentArg } from '@fullcalendar/core';
+import { EventClickArg, EventContentArg, EventMountArg } from '@fullcalendar/core';
 import { ArtEvent, CATEGORY_CONFIG } from '@/lib/eventTypes';
-import { useRef, useEffect } from 'react';
+import { useRef, useEffect, useCallback } from 'react';
 
 function withAlpha(hex: string, alpha: number): string {
   const r = parseInt(hex.slice(1, 3), 16);
@@ -14,9 +14,6 @@ function withAlpha(hex: string, alpha: number): string {
   const b = parseInt(hex.slice(5, 7), 16);
   return `rgba(${r},${g},${b},${alpha})`;
 }
-
-const NORMAL_FILL   = 0.35;
-const NORMAL_BORDER = 0.70;
 
 interface Props {
   events: ArtEvent[];
@@ -27,30 +24,43 @@ interface Props {
 export default function CalendarView({ events, onEventClick, selectedEventId }: Props) {
   const calendarRef = useRef<FullCalendar>(null);
 
-  // Re-run whenever events OR selectedEventId changes.
-  // The selected event gets full opacity baked directly into the event data,
-  // so FullCalendar's own rendering always shows the right color — no setProp race.
+  // Reload events only when filter changes
   useEffect(() => {
     const api = calendarRef.current?.getApi();
     if (!api) return;
     api.removeAllEvents();
     api.addEventSource(
       events.map((e) => {
-        const color    = CATEGORY_CONFIG[e.category].color;
-        const isActive = e.id === selectedEventId;
+        const color = CATEGORY_CONFIG[e.category].color;
         return {
-          id:    e.id,
-          title: e.title,
-          start: e.start,
-          end:   e.end,
-          backgroundColor: isActive ? color : withAlpha(color, NORMAL_FILL),
-          borderColor:     isActive ? color : withAlpha(color, NORMAL_BORDER),
+          id:              e.id,
+          title:           e.title,
+          start:           e.start,
+          end:             e.end,
+          backgroundColor: withAlpha(color, 0.35),
+          borderColor:     withAlpha(color, 0.70),
           textColor:       CATEGORY_CONFIG[e.category].textColor,
           extendedProps:   e,
         };
       })
     );
-  }, [events, selectedEventId]);
+  }, [events]);
+
+  // Store the event's category color as a CSS variable on its DOM element
+  // so the .fc-event-active CSS rule can use it for full-opacity background
+  const handleEventDidMount = useCallback((info: EventMountArg) => {
+    const e = info.event.extendedProps as ArtEvent;
+    const color = CATEGORY_CONFIG[e.category]?.color ?? '#888';
+    info.el.style.setProperty('--event-color', color);
+  }, []);
+
+  // Returns 'fc-event-active' for the selected event — FullCalendar
+  // re-evaluates eventClassNames on every render, so this is reactive
+  const getEventClassNames = useCallback(
+    (arg: { event: { id: string } }) =>
+      arg.event.id === selectedEventId ? ['fc-event-active'] : [],
+    [selectedEventId]
+  );
 
   const handleClick = (arg: EventClickArg) => {
     onEventClick(arg.event.extendedProps as ArtEvent);
@@ -77,6 +87,8 @@ export default function CalendarView({ events, onEventClick, selectedEventId }: 
       events={[]}
       eventClick={handleClick}
       eventContent={renderContent}
+      eventClassNames={getEventClassNames}
+      eventDidMount={handleEventDidMount}
       height="auto"
       dayMaxEvents={4}
       fixedWeekCount={false}

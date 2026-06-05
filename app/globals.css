@@ -232,6 +232,15 @@ header, [data-glass] {
   padding: 8px 0;
 }
 
+/* ─── Selected event: fully opaque using CSS variable set by eventDidMount ─── */
+.fc .fc-daygrid-event.fc-event-active,
+.fc .fc-list-event.fc-event-active .fc-list-event-dot {
+  background-color: var(--event-color, #888) !important;
+  border-color:     var(--event-color, #888) !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.35) !important;
+  z-index: 5 !important;
+}
+
 /* ─── Tighter row height for clean look ─── */
 .fc .fc-daygrid-day-frame {
   min-height: 80px;
