@@ -36,8 +36,8 @@ export default function CalendarView({ events, onEventClick }: Props) {
         title: e.title,
         start: e.start,
         end: e.end,
-        backgroundColor: withAlpha(CATEGORY_CONFIG[e.category].color, 0.55),
-        borderColor:     withAlpha(CATEGORY_CONFIG[e.category].color, 0.85),
+        backgroundColor: withAlpha(CATEGORY_CONFIG[e.category].color, 0.35),
+        borderColor:     withAlpha(CATEGORY_CONFIG[e.category].color, 0.70),
         textColor:       CATEGORY_CONFIG[e.category].textColor,
         extendedProps: e,
       }))
@@ -72,6 +72,7 @@ export default function CalendarView({ events, onEventClick }: Props) {
       height="auto"
       dayMaxEvents={4}
       fixedWeekCount={false}
+      dayCellContent={(args) => args.dayNumberText.replace('日', '')}
       dayHeaderClassNames="fc-custom-day-header"
       dayHeaderContent={(args) => (
         <span style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.03em' }}>
