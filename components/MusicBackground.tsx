@@ -62,8 +62,8 @@ export default function MusicBackground() {
           fontSize: s.size,
           transform: `rotate(${s.rotate})`,
           opacity: s.opacity,
-          color: '#fff',
-          textShadow: '0 2px 6px rgba(0,0,0,0.7)',
+          color: 'var(--color-note)',
+          textShadow: '0 2px 6px rgba(0,0,0,0.4)',
           lineHeight: 1,
           fontFamily: 'Georgia, "Times New Roman", serif',
         }}>

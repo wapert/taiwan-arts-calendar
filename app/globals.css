@@ -16,6 +16,7 @@
   --text-muted:     #8c8680;
   --border:         #e8dfd0;   /* warm beige border */
   --color-title:    #0284c7;   /* sky-600 — visible on cream background */
+  --color-note:     #0369a1;   /* sky-700 — blue notes on ivory */
 
   /* FullCalendar overrides */
   --fc-border-color:               #d8cfc0;
@@ -44,6 +45,7 @@
   --text-muted:     #5a7a9a;
   --border:         #1e3a5f;   /* dark blue border */
   --color-title:    #7dd3fc;   /* sky-300 — light on dark navy */
+  --color-note:     #f0f8ff;   /* alice-white — crisp white notes on dark bg */
 
   /* FullCalendar overrides */
   --fc-border-color:               #1e3a5f;
