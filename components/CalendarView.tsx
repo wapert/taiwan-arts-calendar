@@ -25,59 +25,32 @@ interface Props {
 }
 
 export default function CalendarView({ events, onEventClick, selectedEventId }: Props) {
-  const calendarRef     = useRef<FullCalendar>(null);
-  const prevSelectedRef = useRef<string | null>(null);
+  const calendarRef = useRef<FullCalendar>(null);
 
-  // Reload all events when filter changes
+  // Re-run whenever events OR selectedEventId changes.
+  // The selected event gets full opacity baked directly into the event data,
+  // so FullCalendar's own rendering always shows the right color — no setProp race.
   useEffect(() => {
     const api = calendarRef.current?.getApi();
     if (!api) return;
-    prevSelectedRef.current = null;
     api.removeAllEvents();
     api.addEventSource(
-      events.map((e) => ({
-        id: e.id,
-        title: e.title,
-        start: e.start,
-        end: e.end,
-        backgroundColor: withAlpha(CATEGORY_CONFIG[e.category].color, NORMAL_FILL),
-        borderColor:     withAlpha(CATEGORY_CONFIG[e.category].color, NORMAL_BORDER),
-        textColor:       CATEGORY_CONFIG[e.category].textColor,
-        extendedProps: e,
-      }))
+      events.map((e) => {
+        const color    = CATEGORY_CONFIG[e.category].color;
+        const isActive = e.id === selectedEventId;
+        return {
+          id:    e.id,
+          title: e.title,
+          start: e.start,
+          end:   e.end,
+          backgroundColor: isActive ? color : withAlpha(color, NORMAL_FILL),
+          borderColor:     isActive ? color : withAlpha(color, NORMAL_BORDER),
+          textColor:       CATEGORY_CONFIG[e.category].textColor,
+          extendedProps:   e,
+        };
+      })
     );
-  }, [events]);
-
-  // This runs AFTER FullCalendar's own render — safe to call setProp here.
-  // Drives highlight from selectedEventId prop so it survives FC re-renders.
-  useEffect(() => {
-    const api = calendarRef.current?.getApi();
-    if (!api) return;
-
-    // Reset previously selected event back to normal
-    if (prevSelectedRef.current) {
-      const prev = api.getEventById(prevSelectedRef.current);
-      if (prev) {
-        const e = prev.extendedProps as ArtEvent;
-        const color = CATEGORY_CONFIG[e.category]?.color ?? '#888';
-        prev.setProp('backgroundColor', withAlpha(color, NORMAL_FILL));
-        prev.setProp('borderColor',     withAlpha(color, NORMAL_BORDER));
-      }
-    }
-
-    // Highlight the newly selected event
-    if (selectedEventId) {
-      const fcEvent = api.getEventById(selectedEventId);
-      if (fcEvent) {
-        const e = fcEvent.extendedProps as ArtEvent;
-        const color = CATEGORY_CONFIG[e.category]?.color ?? '#888';
-        fcEvent.setProp('backgroundColor', color);         // fully opaque
-        fcEvent.setProp('borderColor',     color);
-      }
-    }
-
-    prevSelectedRef.current = selectedEventId;
-  }, [selectedEventId]);
+  }, [events, selectedEventId]);
 
   const handleClick = (arg: EventClickArg) => {
     onEventClick(arg.event.extendedProps as ArtEvent);
