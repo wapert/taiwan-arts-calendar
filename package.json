@@ -19,10 +19,11 @@
     "scrape:tpac": "npx ts-node --project tsconfig.scraper.json scrapers/tpac.ts",
     "scrape:tmc": "npx ts-node --project tsconfig.scraper.json scrapers/tmc.ts",
     "scrape:legacy": "npx ts-node --project tsconfig.scraper.json scrapers/legacy.ts",
+    "scrape:museums": "npx ts-node --project tsconfig.scraper.json scrapers/museums.ts",
     "scrape:opentix": "npx ts-node --project tsconfig.scraper.json scrapers/opentix.ts",
     "scrape:kktix": "npx ts-node --project tsconfig.scraper.json scrapers/kktix.ts",
     "scrape:merge": "npx ts-node --project tsconfig.scraper.json scrapers/merge.ts",
-    "scrape:all": "npm run scrape:weiwuying && npm run scrape:ntt && npm run scrape:cultureexpress && npm run scrape:ntch && npm run scrape:hsinchu && npm run scrape:hchcc && npm run scrape:yii && npm run scrape:taoyuan && npm run scrape:tpac && npm run scrape:tmc && npm run scrape:legacy && npm run scrape:opentix && npm run scrape:kktix && npm run scrape:merge"
+    "scrape:all": "npm run scrape:weiwuying && npm run scrape:ntt && npm run scrape:cultureexpress && npm run scrape:ntch && npm run scrape:hsinchu && npm run scrape:hchcc && npm run scrape:yii && npm run scrape:taoyuan && npm run scrape:tpac && npm run scrape:tmc && npm run scrape:legacy && npm run scrape:opentix && npm run scrape:kktix && npm run scrape:museums && npm run scrape:merge"
   },
   "dependencies": {
     "@ducanh2912/next-pwa": "^10.2.9",

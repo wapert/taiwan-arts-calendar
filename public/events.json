@@ -230,6 +230,16 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=880ec087-2147-46e5-bcc5-029f342ab41a&PageIndex=25&PageType=1"
   },
   {
+    "id": "tfam-5-2025-09-19",
+    "title": "北美館開放網絡計畫 TFAM Net.Open│消失的反動",
+    "start": "2025-09-19",
+    "end": "2026-12-31",
+    "category": "exhibition",
+    "venue": "台北市立美術館",
+    "city": "Taipei",
+    "url": "https://www.tfam.museum/Exhibition/Exhibition.aspx?ddlLang=zh-tw"
+  },
+  {
     "id": "cultureexpress-604bcf3b-b266-408b-8e93-4fa5761695ec",
     "title": "中心新村｜《心窗-眺望北投風景的回憶之窗》特展",
     "start": "2025-09-26",
@@ -408,6 +418,26 @@
     "venue": "北投文物館",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=9e4b85aa-314d-46ea-a9c9-068f29b65f36&PageIndex=24&PageType=1"
+  },
+  {
+    "id": "chimei-0-2026-01-29",
+    "title": "特展｜大英博物館《埃及之王：法老》",
+    "start": "2026-01-29",
+    "end": "2027-01-10",
+    "category": "exhibition",
+    "venue": "奇美博物館",
+    "city": "Tainan",
+    "url": "https://www.chimeimuseum.org/special-exhibition/68a68f0a422a6/68a68fa1d1a3b"
+  },
+  {
+    "id": "chimei-1-2026-01-29",
+    "title": "大英博物館鉅獻《埃及之王：法老》",
+    "start": "2026-01-29",
+    "end": "2027-01-10",
+    "category": "exhibition",
+    "venue": "奇美博物館",
+    "city": "Tainan",
+    "url": "https://www.chimeimuseum.org/special-exhibition/68a68f0a422a6"
   },
   {
     "id": "hsinchu-W+WxleimvV1b6buR",
@@ -860,6 +890,16 @@
     "url": "https://cultureexpress.taipei/Event/C000003?ID=05062e4e-028b-45a0-906f-3cd143957e03&PageIndex=16&PageType=1"
   },
   {
+    "id": "tfam-2-2026-04-25",
+    "title": "超現實主義：對話中的世界",
+    "start": "2026-04-25",
+    "end": "2026-08-30",
+    "category": "exhibition",
+    "venue": "台北市立美術館",
+    "city": "Taipei",
+    "url": "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=806&ddlLang=zh-tw"
+  },
+  {
     "id": "cultureexpress-eb854a9c-f254-46e6-917a-1dedf83acc25",
     "title": "積吶虹光｜虹心球(RHS)光譜中的我們",
     "start": "2026-04-30",
@@ -908,6 +948,16 @@
     "venue": "新竹市文化局",
     "city": "Hsinchu",
     "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202604080002&t=Activity&mserno=201808290001"
+  },
+  {
+    "id": "tfam-1-2026-05-01",
+    "title": "物質世界",
+    "start": "2026-05-01",
+    "end": "2026-08-16",
+    "category": "exhibition",
+    "venue": "台北市立美術館",
+    "city": "Taipei",
+    "url": "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=808&ddlLang=zh-tw"
   },
   {
     "id": "cultureexpress-429a9433-466e-4a4e-81ce-4cad209e55d1",
@@ -1048,6 +1098,26 @@
     "venue": "三重青少基地",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=eb317e4b-bc04-452f-85bd-0a223301e0b5&PageIndex=11&PageType=1"
+  },
+  {
+    "id": "tfam-0-2026-05-09",
+    "title": "共感：存在的節奏",
+    "start": "2026-05-09",
+    "end": "2026-09-20",
+    "category": "exhibition",
+    "venue": "台北市立美術館",
+    "city": "Taipei",
+    "url": "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=807&ddlLang=zh-tw"
+  },
+  {
+    "id": "tfam-4-2026-05-09",
+    "title": "鬱卒的平面：李亦凡／第61屆威尼斯國際美術雙年展台灣館",
+    "start": "2026-05-09",
+    "end": "2026-11-22",
+    "category": "exhibition",
+    "venue": "台北市立美術館",
+    "city": "Taipei",
+    "url": "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=805&ddlLang=zh-tw"
   },
   {
     "id": "cultureexpress-8a5b80c0-2f42-4702-a5fd-8e243f720767",
@@ -1218,6 +1288,16 @@
     "venue": "臺北市立大學博愛校區 勤樸樓五樓508教室",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=f2b2fee2-b151-4f18-b621-16c7daf798c3&PageIndex=9&PageType=1"
+  },
+  {
+    "id": "tfam-3-2026-05-16",
+    "title": "2026 X-site 鏡・亭・山：相看兩不厭",
+    "start": "2026-05-16",
+    "end": "2026-07-26",
+    "category": "exhibition",
+    "venue": "台北市立美術館",
+    "city": "Taipei",
+    "url": "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=809&ddlLang=zh-tw"
   },
   {
     "id": "cultureexpress-55ebe786-f0bc-4a42-a627-625a071040ed",
@@ -1924,6 +2004,15 @@
     "url": "https://www.legacy.com.tw/article/page/great/3179"
   },
   {
+    "id": "cksmh-0-2026-06-06",
+    "title": "愛上木笛",
+    "start": "2026-06-06",
+    "category": "theater",
+    "venue": "國立中正紀念堂",
+    "city": "Taipei",
+    "url": "https://www.cksmh.gov.tw/https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60708"
+  },
+  {
     "id": "ntch-27922",
     "title": "張正傑大提琴獨奏會-從基隆到維也納",
     "start": "2026-06-06",
@@ -2274,6 +2363,15 @@
     "venue": "新竹市文化局",
     "city": "Hsinchu",
     "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202605280002&t=Activity&mserno=201810310007"
+  },
+  {
+    "id": "cksmh-5-2026-06-07",
+    "title": "曼妙崑曲・遊園驚夢",
+    "start": "2026-06-07",
+    "category": "theater",
+    "venue": "國立中正紀念堂",
+    "city": "Taipei",
+    "url": "https://www.cksmh.gov.tw/https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60715"
   },
   {
     "id": "ntch-27898",
@@ -3208,6 +3306,24 @@
     "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=c9d78670-3257-4e72-b2a2-938c3ebfd097"
   },
   {
+    "id": "kmfa-0-2026-06-13",
+    "title": "2026映所跨域談典藏系列 《黑土 Ebony Terra》",
+    "start": "2026-06-13",
+    "category": "exhibition",
+    "venue": "高雄市立美術館",
+    "city": "Kaohsiung",
+    "url": "https://www.kmfa.gov.tw/ExhibitionDetailC001100.aspx?Cond=756c9abf-49b5-4cf9-8304-87e922fc698a"
+  },
+  {
+    "id": "cksmh-10-2026-06-13",
+    "title": "認識邦交國樂舞—聖文森及格瑞納丁&聖克里斯多福及尼維斯",
+    "start": "2026-06-13",
+    "category": "theater",
+    "venue": "國立中正紀念堂",
+    "city": "Taipei",
+    "url": "https://www.cksmh.gov.tw/https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60716"
+  },
+  {
     "id": "ntch-27471",
     "title": "小巨人絲竹樂團-青年演奏家系列【 綻放 XVIII 】",
     "start": "2026-06-13",
@@ -3594,6 +3710,15 @@
     "venue": "北投文物館 2樓大廣間",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=4ca654d2-32bc-400e-9187-ef9825f9c2ea&PageIndex=6&PageType=1"
+  },
+  {
+    "id": "cksmh-15-2026-06-14",
+    "title": "知音之路",
+    "start": "2026-06-14",
+    "category": "theater",
+    "venue": "國立中正紀念堂",
+    "city": "Taipei",
+    "url": "https://www.cksmh.gov.tw/https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60720"
   },
   {
     "id": "ntch-27534",
@@ -4066,6 +4191,16 @@
     "venue": "國史館臺北館4樓大禮堂/國史館線上講堂",
     "city": "Taipei",
     "url": "https://cultureexpress.taipei/Event/C000003?ID=9c8d340a-848d-4911-bf64-771616e011c9&PageIndex=7&PageType=1"
+  },
+  {
+    "id": "nmh-5-2026-06-18",
+    "title": "【展覽預告】「埃及木乃伊—永生傳說」國際特展",
+    "start": "2026-06-18",
+    "end": "2026-09-28",
+    "category": "exhibition",
+    "venue": "國立歷史博物館",
+    "city": "Taipei",
+    "url": "https://event.culture.tw/mocweb/reg/NMH/Detail.init.ctr?actId=60044"
   },
   {
     "id": "ntch-28026",
