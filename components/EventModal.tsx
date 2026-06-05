@@ -2,6 +2,24 @@
 
 import { ArtEvent, CATEGORY_CONFIG } from '@/lib/eventTypes';
 
+/** English city key → Chinese display name */
+const CITY_ZH: Record<string, string> = {
+  Taipei:     '台北市',
+  NewTaipei:  '新北市',
+  Hsinchu:    '新竹市',
+  Taoyuan:    '桃園市',
+  Taichung:   '台中市',
+  Tainan:     '台南市',
+  Kaohsiung:  '高雄市',
+};
+
+/** English-only venue names → Chinese equivalents */
+const VENUE_ZH: Record<string, string> = {
+  'OpenTix':  'OpenTix 兩廳院文化生活',
+  'KKTIX':    'KKTIX 售票平台',
+  'Legacy':   'Legacy 音樂展演空間',
+};
+
 interface Props {
   event: ArtEvent | null;
   onClose: () => void;
@@ -126,11 +144,11 @@ export default function EventModal({ event, onClose }: Props) {
           <dl className="space-y-2 text-sm" style={{ color: 'var(--text-secondary)' }}>
             <div className="flex gap-2">
               <dt className="font-semibold w-14 flex-shrink-0" style={{ color: 'var(--text-primary)' }}>場館</dt>
-              <dd>{event.venue}</dd>
+              <dd>{VENUE_ZH[event.venue] ?? event.venue}</dd>
             </div>
             <div className="flex gap-2">
               <dt className="font-semibold w-14 flex-shrink-0" style={{ color: 'var(--text-primary)' }}>城市</dt>
-              <dd>{event.city}</dd>
+              <dd>{CITY_ZH[event.city] ?? event.city}</dd>
             </div>
             <div className="flex gap-2">
               <dt className="font-semibold w-14 flex-shrink-0" style={{ color: 'var(--text-primary)' }}>日期</dt>
