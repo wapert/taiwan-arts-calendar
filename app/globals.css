@@ -132,6 +132,23 @@ header, [data-glass] {
 }
 .fc .fc-button:focus { box-shadow: none; }
 
+/* List view: hide "整天 / all day" time column */
+.fc td.fc-list-event-time {
+  display: none !important;
+}
+
+/* List view: color dot → bigger pill before the title */
+.fc .fc-list-event-graphic {
+  padding-right: 10px;
+}
+.fc .fc-list-event-dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-width: 6px !important;  /* makes the dot solid-looking */
+  border-radius: 3px;             /* slight square/pill shape */
+}
+
 /* List view: event titles */
 .fc .fc-list-event-title a {
   color: var(--text-primary) !important;
