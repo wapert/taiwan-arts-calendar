@@ -146,6 +146,34 @@ header, [data-glass] {
   text-decoration: none !important;
 }
 
+/* ─── Mobile list view: date to the left, prominent ─── */
+@media (max-width: 640px) {
+  .fc .fc-list-day-cushion {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 8px !important;
+  }
+
+  /* Side-text (e.g. "6月4日") — move to front, make it the star */
+  .fc .fc-list-day-side-text {
+    float: none !important;
+    order: -1;
+    font-size: 0.95rem !important;
+    font-weight: 700 !important;
+    color: var(--color-title) !important;
+  }
+
+  /* Day-text (e.g. "週四") — smaller, after the date */
+  .fc .fc-list-day-text {
+    float: none !important;
+    font-size: 0.75rem !important;
+    font-weight: 500 !important;
+    opacity: 0.7;
+  }
+}
+
 /* Cell background */
 .fc .fc-daygrid-day {
   background: var(--fc-page-bg-color);
