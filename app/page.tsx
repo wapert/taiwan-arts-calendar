@@ -10,7 +10,7 @@ import { ArtEvent, EventCategory, CATEGORY_CONFIG } from '@/lib/eventTypes';
 const CalendarView = dynamic(() => import('@/components/CalendarView'), { ssr: false });
 
 const CITY_OPTIONS = [
-  { value: 'ALL',       label: '全部' },
+  { value: 'ALL',       label: '城市' },
   { value: 'Taipei',    label: '台北' },
   { value: 'NewTaipei', label: '新北' },
   { value: 'Taoyuan',   label: '桃園' },
