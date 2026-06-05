@@ -226,11 +226,15 @@ header, [data-glass] {
 }
 
 /* ─── Event text: black in light mode, white in dark mode ─── */
+/* .fc-event-main covers custom eventContent renderers (month/daygrid view) */
+/* .fc-event-title / .fc-list-event-title cover default + list view */
+.fc .fc-event-main,
 .fc .fc-event-title,
 .fc .fc-event-time,
 .fc .fc-list-event-title a {
   color: #111 !important;
 }
+.dark .fc .fc-event-main,
 .dark .fc .fc-event-title,
 .dark .fc .fc-event-time,
 .dark .fc .fc-list-event-title a {
