@@ -145,8 +145,8 @@ header, [data-glass] {
   display: inline-block;
   width: 12px;
   height: 12px;
-  border-width: 6px !important;  /* makes the dot solid-looking */
-  border-radius: 3px;             /* slight square/pill shape */
+  border-width: 6px !important;  /* fills the circle solid */
+  border-radius: 50% !important; /* perfect circle */
 }
 
 /* List view: event titles */
