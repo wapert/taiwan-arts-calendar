@@ -4,7 +4,7 @@ import FullCalendar from '@fullcalendar/react';
 import dayGridPlugin from '@fullcalendar/daygrid';
 import listPlugin from '@fullcalendar/list';
 import interactionPlugin from '@fullcalendar/interaction';
-import { EventApi, EventClickArg, EventContentArg } from '@fullcalendar/core';
+import { EventClickArg, EventContentArg } from '@fullcalendar/core';
 import { ArtEvent, CATEGORY_CONFIG } from '@/lib/eventTypes';
 import { useRef, useEffect } from 'react';
 
@@ -18,24 +18,31 @@ function withAlpha(hex: string, alpha: number): string {
 
 const NORMAL_FILL   = 0.35;
 const NORMAL_BORDER = 0.70;
-const ACTIVE_FILL   = 0.88;  // nearly opaque when tapped
+const ACTIVE_FILL   = 0.92;
 const ACTIVE_BORDER = 1.00;
+
+// Store DOM element + original colors so we can reset
+interface ActiveRef {
+  el: HTMLElement;
+  normalBg: string;
+  normalBorder: string;
+}
 
 interface Props {
   events: ArtEvent[];
   onEventClick: (event: ArtEvent) => void;
-  selectedEventId: string | null;  // null = modal closed → reset highlight
+  selectedEventId: string | null;
 }
 
 export default function CalendarView({ events, onEventClick, selectedEventId }: Props) {
-  const calendarRef  = useRef<FullCalendar>(null);
-  const selectedRef  = useRef<EventApi | null>(null);  // currently highlighted FC event
+  const calendarRef = useRef<FullCalendar>(null);
+  const activeRef   = useRef<ActiveRef | null>(null);
 
   // Reload all events when filter changes
   useEffect(() => {
     const api = calendarRef.current?.getApi();
     if (!api) return;
-    selectedRef.current = null;
+    activeRef.current = null;
     api.removeAllEvents();
     api.addEventSource(
       events.map((e) => ({
@@ -51,34 +58,33 @@ export default function CalendarView({ events, onEventClick, selectedEventId }: 
     );
   }, [events]);
 
-  // Reset highlight when modal is closed (selectedEventId becomes null)
+  // Reset DOM style when modal closes (selectedEventId → null)
   useEffect(() => {
     if (selectedEventId !== null) return;
-    const prev = selectedRef.current;
+    const prev = activeRef.current;
     if (!prev) return;
-    const artEvent = prev.extendedProps as ArtEvent;
-    const color = CATEGORY_CONFIG[artEvent.category].color;
-    prev.setProp('backgroundColor', withAlpha(color, NORMAL_FILL));
-    prev.setProp('borderColor',     withAlpha(color, NORMAL_BORDER));
-    selectedRef.current = null;
+    prev.el.style.backgroundColor = prev.normalBg;
+    prev.el.style.borderColor     = prev.normalBorder;
+    activeRef.current = null;
   }, [selectedEventId]);
 
   const handleClick = (arg: EventClickArg) => {
     const artEvent = arg.event.extendedProps as ArtEvent;
-    const color    = CATEGORY_CONFIG[artEvent.category].color;
+    const color    = CATEGORY_CONFIG[artEvent.category]?.color ?? '#888';
+    const normalBg     = withAlpha(color, NORMAL_FILL);
+    const normalBorder = withAlpha(color, NORMAL_BORDER);
 
-    // Reset previous selection
-    if (selectedRef.current && selectedRef.current.id !== arg.event.id) {
-      const prev = selectedRef.current.extendedProps as ArtEvent;
-      const prevColor = CATEGORY_CONFIG[prev.category].color;
-      selectedRef.current.setProp('backgroundColor', withAlpha(prevColor, NORMAL_FILL));
-      selectedRef.current.setProp('borderColor',     withAlpha(prevColor, NORMAL_BORDER));
+    // Reset previous element
+    const prev = activeRef.current;
+    if (prev && prev.el !== arg.el) {
+      prev.el.style.backgroundColor = prev.normalBg;
+      prev.el.style.borderColor     = prev.normalBorder;
     }
 
-    // Highlight tapped event
-    arg.event.setProp('backgroundColor', withAlpha(color, ACTIVE_FILL));
-    arg.event.setProp('borderColor',     color);
-    selectedRef.current = arg.event;
+    // Highlight clicked element directly via DOM
+    arg.el.style.backgroundColor = withAlpha(color, ACTIVE_FILL);
+    arg.el.style.borderColor     = color;
+    activeRef.current = { el: arg.el, normalBg, normalBorder };
 
     onEventClick(artEvent);
   };
