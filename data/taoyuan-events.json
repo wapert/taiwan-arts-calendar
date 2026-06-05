@@ -1,5 +1,14 @@
 [
   {
+    "id": "taoyuan-1636293",
+    "title": "中原文創園區 《即刻救原3-珍粽再見》",
+    "start": "2026-06-19",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1636293"
+  },
+  {
     "id": "taoyuan-1635647",
     "title": "「2026中華紗帽山畫會第28屆年度大展」 桃園文化局精彩呈現",
     "start": "2026-06-17",
@@ -152,14 +161,5 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1620872"
-  },
-  {
-    "id": "taoyuan-1620870",
-    "title": "《藝起·未完的樂章》忠貞國小畢業音樂會",
-    "start": "2026-06-09",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1620870"
   }
 ]

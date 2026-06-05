@@ -376,6 +376,36 @@
     "url": "https://tpac.org.taipei/program/1776"
   },
   {
+    "id": "tpac-1859",
+    "title": "2026臺北藝術節：創作社劇團《孃孃狂言》",
+    "start": "2026-09-03",
+    "end": "2026-09-05",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1859"
+  },
+  {
+    "id": "tpac-1872",
+    "title": "2026臺北藝術節 X 中國信託新舞臺藝術節：驫舞20《大群舞》",
+    "start": "2026-09-11",
+    "end": "2026-09-12",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1872"
+  },
+  {
+    "id": "tpac-1884",
+    "title": "2026臺北藝術節：王世偉《我是風》",
+    "start": "2026-09-17",
+    "end": "2026-09-19",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1884"
+  },
+  {
     "id": "tpac-1779",
     "title": "叛逆研究社-笑著被記過",
     "start": "2026-09-25",
@@ -384,6 +414,56 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/1779"
+  },
+  {
+    "id": "tpac-1882",
+    "title": "2026臺北藝術節：瓦吉．穆阿瓦《海之邊》",
+    "start": "2026-10-01",
+    "end": "2026-10-02",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1882"
+  },
+  {
+    "id": "tpac-1883",
+    "title": "2026臺北藝術節：瓦吉．穆阿瓦《孤身》",
+    "start": "2026-10-02",
+    "end": "2026-10-03",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1883"
+  },
+  {
+    "id": "tpac-1854",
+    "title": "2026臺北藝術節：四把椅子劇團《太陽》",
+    "start": "2026-10-15",
+    "end": "2026-10-17",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1854"
+  },
+  {
+    "id": "tpac-1861",
+    "title": "2026臺北藝術節：王墨林《最後的錄音》",
+    "start": "2026-10-15",
+    "end": "2026-10-17",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1861"
+  },
+  {
+    "id": "tpac-1862",
+    "title": "2026臺北藝術節：陳天灼 x 西科·塞蒂安托《海籠》",
+    "start": "2026-10-22",
+    "end": "2026-10-24",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1862"
   },
   {
     "id": "tpac-1423",

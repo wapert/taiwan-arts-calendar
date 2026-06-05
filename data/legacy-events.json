@@ -1,5 +1,23 @@
 [
   {
+    "id": "legacy-3189",
+    "title": "2026 KIM MYUNGSOO (L) FAN-CON ASIA TOUR  IN TAIPEI",
+    "start": "2026-07-19",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3189"
+  },
+  {
+    "id": "legacy-3188",
+    "title": "Lorna Shore Live in Taipei",
+    "start": "2026-10-04",
+    "category": "pop",
+    "venue": "Legacy Taipei 音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3188"
+  },
+  {
     "id": "legacy-3187",
     "title": "蕭景鴻Edy Hsiao《以我為名Who I Am》 New Album Live Tour",
     "start": "2026-07-12",
@@ -70,23 +88,5 @@
     "venue": "Legacy Taichung",
     "city": "Taichung",
     "url": "https://www.legacy.com.tw/article/page/taichung/3180"
-  },
-  {
-    "id": "legacy-3179",
-    "title": "Legacy Presents【2026鐵漢柔情】： 馬念先 櫻桃可樂的滋味－台北場",
-    "start": "2026-06-06",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3179"
-  },
-  {
-    "id": "legacy-3178",
-    "title": "Sabrina胡恂舞 《花皮 Florskyn》首張專輯同名演唱會-花皮中南巡迴場",
-    "start": "2026-08-15",
-    "category": "pop",
-    "venue": "Legacy Taichung",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3178"
   }
 ]
