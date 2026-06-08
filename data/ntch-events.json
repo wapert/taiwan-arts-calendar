@@ -1,79 +1,5 @@
 [
   {
-    "id": "ntch-28786",
-    "title": "我不是影后",
-    "start": "2026-06-05",
-    "end": "2026-06-07",
-    "category": "theater",
-    "venue": "國家兩廳院・實驗劇場",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2019321211554721793"
-  },
-  {
-    "id": "ntch-26833",
-    "title": "靈魂．藍途—梵志登與ESO",
-    "start": "2026-06-05",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2031289088681959425"
-  },
-  {
-    "id": "ntch-27550",
-    "title": "小巨人絲竹室內樂系列【 絲弦情 LXXV 】",
-    "start": "2026-06-05",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2033737055526084609"
-  },
-  {
-    "id": "ntch-28036",
-    "title": "綠光世界劇場《八月，在我家》",
-    "start": "2026-06-05",
-    "end": "2026-06-07",
-    "category": "theater",
-    "venue": "國家兩廳院・國家戲劇院",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2038508152297848832"
-  },
-  {
-    "id": "ntch-27922",
-    "title": "張正傑大提琴獨奏會-從基隆到維也納",
-    "start": "2026-06-06",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2026904457832640513"
-  },
-  {
-    "id": "ntch-28179",
-    "title": "NSO《號響蒼穹》",
-    "start": "2026-06-06",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/1993619936357347329"
-  },
-  {
-    "id": "ntch-27898",
-    "title": "【2026 TSO 名家系列】國際當代之聲─庫西斯托、慕禮與TSO",
-    "start": "2026-06-07",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/1993588703465308161"
-  },
-  {
-    "id": "ntch-28657",
-    "title": "NSO X 麗寶彩雲室內樂系列 II《流轉》",
-    "start": "2026-06-07",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/1991427790707585025"
-  },
-  {
     "id": "ntch-27500",
     "title": "2026拉縴人少年兒童合唱團《環遊世界》",
     "start": "2026-06-08",
@@ -572,7 +498,7 @@
     "category": "dance",
     "venue": "國家兩廳院・國家戲劇院",
     "city": "Taipei",
-    "url": "https://www.opentix.life/event/2029816525946609665"
+    "url": "https://npac-ntch.org/zh/programs/30089"
   },
   {
     "id": "ntch-27454",

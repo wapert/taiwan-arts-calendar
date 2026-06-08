@@ -40,16 +40,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/2026TMCGoldenVoiceContest"
   },
   {
-    "id": "tmc-may2026",
-    "title": "孫淑媚《MAY好三十》演唱會－台北站",
-    "start": "2026-06-06",
-    "end": "2026-06-07",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/may2026"
-  },
-  {
     "id": "tmc-eE81fbBF2671",
     "title": "國立臺北藝術大學【2026 感性啟蒙課程】",
     "start": "2026-06-12",
@@ -116,5 +106,15 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/Jaehyun2026"
+  },
+  {
+    "id": "tmc-crowdlu2026",
+    "title": "盧廣仲 HeartBreakFast 傷心早餐店演唱會 2026 ver. 北高雙刀流",
+    "start": "2026-07-10",
+    "end": "2026-07-11",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/crowdlu2026"
   }
 ]
