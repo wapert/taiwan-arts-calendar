@@ -168,16 +168,6 @@
     "url": "https://www.opentix.life/event/2056994138814525441"
   },
   {
-    "id": "opentix-2032009229067890689",
-    "title": "聽見靈魂：Jake Heggie的記憶與希望之歌",
-    "start": "2026-07-13",
-    "end": "2026-07-24",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2032009229067890689"
-  },
-  {
     "id": "opentix-2041405429645697025",
     "title": "2026夏日放／FUN時光─百老匯傳奇音樂劇《COMPANY》",
     "start": "2026-07-10",
@@ -186,6 +176,16 @@
     "venue": "OpenTix",
     "city": "Taichung",
     "url": "https://www.opentix.life/event/2041405429645697025"
+  },
+  {
+    "id": "opentix-2032009229067890689",
+    "title": "聽見靈魂：Jake Heggie的記憶與希望之歌",
+    "start": "2026-07-13",
+    "end": "2026-07-24",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2032009229067890689"
   },
   {
     "id": "opentix-2056639435379253249",
@@ -207,6 +207,15 @@
     "url": "https://www.opentix.life/event/2014188763132530689"
   },
   {
+    "id": "opentix-2059885233200930817",
+    "title": "《語 間》姚思含獨唱會",
+    "start": "2026-07-21",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2059885233200930817"
+  },
+  {
     "id": "opentix-2049410419480842241",
     "title": "威爾第歌劇《遊唱詩人》",
     "start": "2026-09-03",
@@ -217,13 +226,13 @@
     "url": "https://www.opentix.life/event/2049410419480842241"
   },
   {
-    "id": "opentix-2059885233200930817",
-    "title": "《語 間》姚思含獨唱會",
-    "start": "2026-07-21",
-    "category": "classical",
+    "id": "opentix-2047251633170075648",
+    "title": "2026兩廳院夏日爵士 妮可．茱萊提斯演唱會",
+    "start": "2026-08-22",
+    "category": "pop",
     "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2059885233200930817"
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2047251633170075648"
   },
   {
     "id": "opentix-2014557084894887936",
@@ -234,15 +243,6 @@
     "venue": "OpenTix",
     "city": "Taoyuan",
     "url": "https://www.opentix.life/event/2014557084894887936"
-  },
-  {
-    "id": "opentix-2047251633170075648",
-    "title": "2026兩廳院夏日爵士 妮可．茱萊提斯演唱會",
-    "start": "2026-08-22",
-    "category": "pop",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2047251633170075648"
   },
   {
     "id": "opentix-1993959650157686785",
@@ -303,6 +303,16 @@
     "url": "https://www.opentix.life/event/2043941682610323457"
   },
   {
+    "id": "opentix-2013457114793156609",
+    "title": "果陀劇場《深夜小狗神秘習題》",
+    "start": "2026-06-20",
+    "end": "2026-11-01",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2013457114793156609"
+  },
+  {
     "id": "opentix-2057272570389528577",
     "title": "TICF26台北國際合唱音樂節【高雄巡演】西班牙 SUHAR 男聲合唱團",
     "start": "2026-07-27",
@@ -319,16 +329,6 @@
     "venue": "OpenTix",
     "city": "Kaohsiung",
     "url": "https://www.opentix.life/event/2057736807387430912"
-  },
-  {
-    "id": "opentix-2013457114793156609",
-    "title": "果陀劇場《深夜小狗神秘習題》",
-    "start": "2026-06-20",
-    "end": "2026-11-01",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2013457114793156609"
   },
   {
     "id": "opentix-2049292111336022017",
@@ -516,16 +516,6 @@
     "url": "https://www.opentix.life/event/2053669305775673345"
   },
   {
-    "id": "opentix-1881618375330443264",
-    "title": "《老男孩》音樂劇",
-    "start": "2026-09-12",
-    "end": "2026-12-20",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/1881618375330443264"
-  },
-  {
     "id": "opentix-2030949889384677376",
     "title": "2026兒童戲曲藝術節: 臺北木偶劇團《水鬼請戲‧臨水之界》",
     "start": "2026-07-03",
@@ -553,6 +543,16 @@
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2056647950104076289"
+  },
+  {
+    "id": "opentix-1881618375330443264",
+    "title": "《老男孩》音樂劇",
+    "start": "2026-09-12",
+    "end": "2026-12-20",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/1881618375330443264"
   },
   {
     "id": "opentix-2054406826574860289",
@@ -584,6 +584,16 @@
     "url": "https://www.opentix.life/event/2061684207139819521"
   },
   {
+    "id": "opentix-2031927021971976193",
+    "title": "娛人時代《放鳥未來人》EnKram手機殼冠名製作",
+    "start": "2026-06-19",
+    "end": "2026-06-20",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2031927021971976193"
+  },
+  {
     "id": "opentix-2046477133841158145",
     "title": "嚎哮排演 音樂劇《別叫我成功：藝術界歸來的兒子》臺北場",
     "start": "2026-09-04",
@@ -611,16 +621,6 @@
     "venue": "OpenTix",
     "city": "Taichung",
     "url": "https://www.opentix.life/event/2052368189088186369"
-  },
-  {
-    "id": "opentix-2031927021971976193",
-    "title": "娛人時代《放鳥未來人》EnKram手機殼冠名製作",
-    "start": "2026-06-19",
-    "end": "2026-06-20",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2031927021971976193"
   },
   {
     "id": "opentix-2029050811117338625",
@@ -682,14 +682,14 @@
     "url": "https://www.opentix.life/event/1926924841363525633"
   },
   {
-    "id": "opentix-2026917726257295361",
-    "title": "2026廳院選 雲門舞集《一個藍色的地方》《來》雙舞作",
-    "start": "2026-06-25",
-    "end": "2026-06-28",
-    "category": "dance",
+    "id": "opentix-2042450594908086273",
+    "title": "2026臺北兒童藝術節：《閃亮貴賓犬》",
+    "start": "2026-07-10",
+    "end": "2026-07-12",
+    "category": "theater",
     "venue": "OpenTix",
     "city": "Taipei",
-    "url": "https://www.opentix.life/event/2026917726257295361"
+    "url": "https://www.opentix.life/event/2042450594908086273"
   },
   {
     "id": "opentix-2055215906946084865",
@@ -711,14 +711,24 @@
     "url": "https://www.opentix.life/event/2059231461195935744"
   },
   {
-    "id": "opentix-2042450594908086273",
-    "title": "2026臺北兒童藝術節：《閃亮貴賓犬》",
-    "start": "2026-07-10",
-    "end": "2026-07-12",
-    "category": "theater",
+    "id": "opentix-2026917726257295361",
+    "title": "2026廳院選 雲門舞集《一個藍色的地方》《來》雙舞作",
+    "start": "2026-06-25",
+    "end": "2026-06-28",
+    "category": "dance",
     "venue": "OpenTix",
     "city": "Taipei",
-    "url": "https://www.opentix.life/event/2042450594908086273"
+    "url": "https://www.opentix.life/event/2026917726257295361"
+  },
+  {
+    "id": "opentix-2031294966942674944",
+    "title": "【2026花露露的童樂節】嚐劇場《小雨滴》",
+    "start": "2026-07-18",
+    "end": "2026-07-19",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2031294966942674944"
   },
   {
     "id": "opentix-2039602895032184833",
@@ -751,16 +761,6 @@
     "url": "https://www.opentix.life/event/2052270446085345280"
   },
   {
-    "id": "opentix-2031294966942674944",
-    "title": "【2026花露露的童樂節】嚐劇場《小雨滴》",
-    "start": "2026-07-18",
-    "end": "2026-07-19",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2031294966942674944"
-  },
-  {
     "id": "opentix-1996524817419558913",
     "title": "果陀劇場《解憂雜貨店》2026歡迎再次來信",
     "start": "2026-06-20",
@@ -778,15 +778,6 @@
     "venue": "OpenTix",
     "city": "Kaohsiung",
     "url": "https://www.opentix.life/event/2056616030984798209"
-  },
-  {
-    "id": "opentix-2019309595075858432",
-    "title": "【2026花露露的童樂節】花露露舞台劇《搶救魔幻飛船》",
-    "start": "2026-07-11",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2019309595075858432"
   },
   {
     "id": "opentix-2045025387620089857",
@@ -807,6 +798,15 @@
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2052573679595487233"
+  },
+  {
+    "id": "opentix-2019309595075858432",
+    "title": "【2026花露露的童樂節】花露露舞台劇《搶救魔幻飛船》",
+    "start": "2026-07-11",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2019309595075858432"
   },
   {
     "id": "opentix-1986411466937778177",
@@ -837,36 +837,6 @@
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/1990601238290976769"
-  },
-  {
-    "id": "opentix-2037352288458383361",
-    "title": "國立臺灣戲曲學院《雞姑娘招親》",
-    "start": "2026-07-10",
-    "end": "2026-07-12",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2037352288458383361"
-  },
-  {
-    "id": "opentix-2038532009578692608",
-    "title": "嚎哮排演 黑色喜劇《別叫我大師》見證信仰 Yes, and!",
-    "start": "2026-06-19",
-    "end": "2026-06-21",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2038532009578692608"
-  },
-  {
-    "id": "opentix-2039280264248586241",
-    "title": "《英倫魅力：奎爾特藝術歌曲》男高音林健吉2026聲樂獨唱會",
-    "start": "2026-07-25",
-    "end": "2026-08-30",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2039280264248586241"
   },
   {
     "id": "opentix-2043602418311168000",
@@ -915,6 +885,36 @@
     "venue": "OpenTix",
     "city": "NewTaipei",
     "url": "https://www.opentix.life/event/2053731858673422337"
+  },
+  {
+    "id": "opentix-2037352288458383361",
+    "title": "國立臺灣戲曲學院《雞姑娘招親》",
+    "start": "2026-07-10",
+    "end": "2026-07-12",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2037352288458383361"
+  },
+  {
+    "id": "opentix-2038532009578692608",
+    "title": "嚎哮排演 黑色喜劇《別叫我大師》見證信仰 Yes, and!",
+    "start": "2026-06-19",
+    "end": "2026-06-21",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2038532009578692608"
+  },
+  {
+    "id": "opentix-2039280264248586241",
+    "title": "《英倫魅力：奎爾特藝術歌曲》男高音林健吉2026聲樂獨唱會",
+    "start": "2026-07-25",
+    "end": "2026-08-30",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2039280264248586241"
   },
   {
     "id": "opentix-2041361930531495936",
@@ -1051,6 +1051,15 @@
     "url": "https://www.opentix.life/event/2059554701435854848"
   },
   {
+    "id": "opentix-2039631205238738945",
+    "title": "聽見一整個宇宙音樂會",
+    "start": "2026-06-17",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2039631205238738945"
+  },
+  {
     "id": "opentix-2009991201670881281",
     "title": "《西門町一番地》2026好評回歸雙十同慶",
     "start": "2026-10-02",
@@ -1087,15 +1096,6 @@
     "venue": "OpenTix",
     "city": "Kaohsiung",
     "url": "https://www.opentix.life/event/2036405966905548801"
-  },
-  {
-    "id": "opentix-2039631205238738945",
-    "title": "聽見一整個宇宙音樂會",
-    "start": "2026-06-17",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2039631205238738945"
   },
   {
     "id": "opentix-1996459375018057729",
@@ -1136,43 +1136,6 @@
     "url": "https://www.opentix.life/event/1989242259488993281"
   },
   {
-    "id": "opentix-2026901961388376065",
-    "title": "《桃花泣血記》 用台灣首部無聲電影讓大家愛上台語歌謠",
-    "start": "2026-07-04",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "NewTaipei",
-    "url": "https://www.opentix.life/event/2026901961388376065"
-  },
-  {
-    "id": "opentix-2035978919460421633",
-    "title": "娛人時代《班會別鬧！》",
-    "start": "2026-06-24",
-    "end": "2026-12-16",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2035978919460421633"
-  },
-  {
-    "id": "opentix-2057001996715368449",
-    "title": "TICF26台北國際合唱音樂節【台南巡演】匈牙利 Cantemus 兒童合唱團",
-    "start": "2026-07-25",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Tainan",
-    "url": "https://www.opentix.life/event/2057001996715368449"
-  },
-  {
-    "id": "opentix-2057631866479931393",
-    "title": "南科實中管樂團18週年音樂會-「青春18音樂萬歲」",
-    "start": "2026-06-10",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2057631866479931393"
-  },
-  {
     "id": "opentix-2043955237061541888",
     "title": "2026臺北兒童藝術節：《小魚散步》",
     "start": "2026-08-01",
@@ -1202,42 +1165,41 @@
     "url": "https://www.opentix.life/event/2048656360075108353"
   },
   {
-    "id": "opentix-2044310903354118145",
-    "title": "《辛傳・室內樂慶典》辛明峰 ╳ 臺灣迴聲室內樂",
-    "start": "2026-06-19",
+    "id": "opentix-2057001996715368449",
+    "title": "TICF26台北國際合唱音樂節【台南巡演】匈牙利 Cantemus 兒童合唱團",
+    "start": "2026-07-25",
     "category": "classical",
     "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2044310903354118145"
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2057001996715368449"
   },
   {
-    "id": "opentix-2044681123721043969",
-    "title": "聚陽文教基金會《普羅高菲夫先生，您好！》親子說故事",
-    "start": "2026-06-13",
-    "end": "2026-06-28",
+    "id": "opentix-2057631866479931393",
+    "title": "南科實中管樂團18週年音樂會-「青春18音樂萬歲」",
+    "start": "2026-06-10",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2057631866479931393"
+  },
+  {
+    "id": "opentix-2026901961388376065",
+    "title": "《桃花泣血記》 用台灣首部無聲電影讓大家愛上台語歌謠",
+    "start": "2026-07-04",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "NewTaipei",
+    "url": "https://www.opentix.life/event/2026901961388376065"
+  },
+  {
+    "id": "opentix-2035978919460421633",
+    "title": "娛人時代《班會別鬧！》",
+    "start": "2026-06-24",
+    "end": "2026-12-16",
     "category": "theater",
     "venue": "OpenTix",
     "city": "Taipei",
-    "url": "https://www.opentix.life/event/2044681123721043969"
-  },
-  {
-    "id": "opentix-2047999670342131713",
-    "title": "2026台灣青年節慶合唱團巡迴音樂會",
-    "start": "2026-07-20",
-    "end": "2026-07-22",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2047999670342131713"
-  },
-  {
-    "id": "opentix-2054018459305787393",
-    "title": "《彼得與狼》親子音樂會｜動畫經典配樂精選",
-    "start": "2026-07-12",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2054018459305787393"
+    "url": "https://www.opentix.life/event/2035978919460421633"
   },
   {
     "id": "opentix-2011988879742128129",
@@ -1317,6 +1279,44 @@
     "url": "https://www.opentix.life/event/2035245605008674817"
   },
   {
+    "id": "opentix-2044310903354118145",
+    "title": "《辛傳・室內樂慶典》辛明峰 ╳ 臺灣迴聲室內樂",
+    "start": "2026-06-19",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2044310903354118145"
+  },
+  {
+    "id": "opentix-2044681123721043969",
+    "title": "聚陽文教基金會《普羅高菲夫先生，您好！》親子說故事",
+    "start": "2026-06-13",
+    "end": "2026-06-28",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2044681123721043969"
+  },
+  {
+    "id": "opentix-2047999670342131713",
+    "title": "2026台灣青年節慶合唱團巡迴音樂會",
+    "start": "2026-07-20",
+    "end": "2026-07-22",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2047999670342131713"
+  },
+  {
+    "id": "opentix-2054018459305787393",
+    "title": "《彼得與狼》親子音樂會｜動畫經典配樂精選",
+    "start": "2026-07-12",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2054018459305787393"
+  },
+  {
     "id": "opentix-1746795572740759553",
     "title": "《同棲時間》舞台劇",
     "start": "2026-08-13",
@@ -1353,25 +1353,6 @@
     "venue": "OpenTix",
     "city": "Tainan",
     "url": "https://www.opentix.life/event/2058806393864052737"
-  },
-  {
-    "id": "opentix-2028773265625329664",
-    "title": "2026新點子實驗場  莊博翔 《搭起一座要倒的臺》",
-    "start": "2026-07-03",
-    "end": "2026-07-05",
-    "category": "dance",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2028773265625329664"
-  },
-  {
-    "id": "opentix-2029457834554880001",
-    "title": "布拉姆斯：獨一無二 - 兩首五重奏",
-    "start": "2026-06-12",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2029457834554880001"
   },
   {
     "id": "opentix-2041714906845138945",
@@ -1506,6 +1487,25 @@
     "url": "https://www.opentix.life/event/2052225501402693633"
   },
   {
+    "id": "opentix-2028773265625329664",
+    "title": "2026新點子實驗場  莊博翔 《搭起一座要倒的臺》",
+    "start": "2026-07-03",
+    "end": "2026-07-05",
+    "category": "dance",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2028773265625329664"
+  },
+  {
+    "id": "opentix-2029457834554880001",
+    "title": "布拉姆斯：獨一無二 - 兩首五重奏",
+    "start": "2026-06-12",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2029457834554880001"
+  },
+  {
     "id": "opentix-1931679306871611393",
     "title": "唐美雲歌仔戲團《臥龍：永遠的彼日》國際版",
     "start": "2026-06-14",
@@ -1572,81 +1572,6 @@
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/1992885225011003393"
-  },
-  {
-    "id": "opentix-2030462323307405313",
-    "title": "1626．惡魔岬的餘燼",
-    "start": "2026-06-19",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2030462323307405313"
-  },
-  {
-    "id": "opentix-2034810776235622401",
-    "title": "2026兒童戲曲藝術節：臺北海鷗劇場《吟遊詩人忘了說故事》",
-    "start": "2026-07-11",
-    "end": "2026-07-12",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2034810776235622401"
-  },
-  {
-    "id": "opentix-2054396960022216704",
-    "title": "【2026 TSO 年度歌劇】崔斯坦與伊索德",
-    "start": "2026-09-16",
-    "end": "2026-09-19",
-    "category": "opera",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2054396960022216704"
-  },
-  {
-    "id": "opentix-2055188022285713409",
-    "title": "聽見臺灣的聲音系列~歌聲裡的臺灣的故事",
-    "start": "2026-06-12",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "NewTaipei",
-    "url": "https://www.opentix.life/event/2055188022285713409"
-  },
-  {
-    "id": "opentix-2056645962244366336",
-    "title": "【TICF26台北國際合唱音樂節】斯洛維尼亞 美格隆室內合唱團",
-    "start": "2026-07-28",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2056645962244366336"
-  },
-  {
-    "id": "opentix-2056649959273472001",
-    "title": "【TICF26台北國際合唱音樂節】西班牙 SUHAR男聲合唱團",
-    "start": "2026-07-30",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2056649959273472001"
-  },
-  {
-    "id": "opentix-2057624590033166337",
-    "title": "《樂旅亞洲》2026聞韶軒絲竹室內樂團年度音樂會",
-    "start": "2026-08-16",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2057624590033166337"
-  },
-  {
-    "id": "opentix-2058773455445823489",
-    "title": "唱歌集《以為是BL結果是BFF》青春校園音樂劇",
-    "start": "2026-11-27",
-    "end": "2026-11-29",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2058773455445823489"
   },
   {
     "id": "opentix-2041712263335305217",
@@ -1758,6 +1683,130 @@
     "venue": "OpenTix",
     "city": "Kaohsiung",
     "url": "https://www.opentix.life/event/2054040828314161153"
+  },
+  {
+    "id": "opentix-2054396960022216704",
+    "title": "【2026 TSO 年度歌劇】崔斯坦與伊索德",
+    "start": "2026-09-16",
+    "end": "2026-09-19",
+    "category": "opera",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2054396960022216704"
+  },
+  {
+    "id": "opentix-2055188022285713409",
+    "title": "聽見臺灣的聲音系列~歌聲裡的臺灣的故事",
+    "start": "2026-06-12",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "NewTaipei",
+    "url": "https://www.opentix.life/event/2055188022285713409"
+  },
+  {
+    "id": "opentix-2056645962244366336",
+    "title": "【TICF26台北國際合唱音樂節】斯洛維尼亞 美格隆室內合唱團",
+    "start": "2026-07-28",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2056645962244366336"
+  },
+  {
+    "id": "opentix-2056649959273472001",
+    "title": "【TICF26台北國際合唱音樂節】西班牙 SUHAR男聲合唱團",
+    "start": "2026-07-30",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2056649959273472001"
+  },
+  {
+    "id": "opentix-2057624590033166337",
+    "title": "《樂旅亞洲》2026聞韶軒絲竹室內樂團年度音樂會",
+    "start": "2026-08-16",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2057624590033166337"
+  },
+  {
+    "id": "opentix-2058773455445823489",
+    "title": "唱歌集《以為是BL結果是BFF》青春校園音樂劇",
+    "start": "2026-11-27",
+    "end": "2026-11-29",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2058773455445823489"
+  },
+  {
+    "id": "opentix-2030462323307405313",
+    "title": "1626．惡魔岬的餘燼",
+    "start": "2026-06-19",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2030462323307405313"
+  },
+  {
+    "id": "opentix-2034810776235622401",
+    "title": "2026兒童戲曲藝術節：臺北海鷗劇場《吟遊詩人忘了說故事》",
+    "start": "2026-07-11",
+    "end": "2026-07-12",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2034810776235622401"
+  },
+  {
+    "id": "opentix-2011262078444531713",
+    "title": "國際魔術冠軍黃俊傑創作土地公傳奇《伯公伯婆逗戲法》",
+    "start": "2026-07-18",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taoyuan",
+    "url": "https://www.opentix.life/event/2011262078444531713"
+  },
+  {
+    "id": "opentix-2030855767999152129",
+    "title": "你·還記得嗎？",
+    "start": "2026-06-18",
+    "end": "2026-06-20",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2030855767999152129"
+  },
+  {
+    "id": "opentix-2032017897215483905",
+    "title": "《聲之響宴:宮崎駿動畫音樂會》",
+    "start": "2026-06-27",
+    "end": "2026-07-18",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2032017897215483905"
+  },
+  {
+    "id": "opentix-2034103180744253440",
+    "title": "臺北爵士大樂隊 -老派趴踢Night",
+    "start": "2026-08-08",
+    "end": "2026-08-30",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "NewTaipei",
+    "url": "https://www.opentix.life/event/2034103180744253440"
+  },
+  {
+    "id": "opentix-2037519395154640897",
+    "title": "2026同黨劇團《父親母親》",
+    "start": "2026-10-01",
+    "end": "2026-10-04",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2037519395154640897"
   },
   {
     "id": "opentix-2042144898190745601",
@@ -1882,55 +1931,6 @@
     "venue": "OpenTix",
     "city": "NewTaipei",
     "url": "https://www.opentix.life/event/2053724781913690113"
-  },
-  {
-    "id": "opentix-2011262078444531713",
-    "title": "國際魔術冠軍黃俊傑創作土地公傳奇《伯公伯婆逗戲法》",
-    "start": "2026-07-18",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taoyuan",
-    "url": "https://www.opentix.life/event/2011262078444531713"
-  },
-  {
-    "id": "opentix-2030855767999152129",
-    "title": "你·還記得嗎？",
-    "start": "2026-06-18",
-    "end": "2026-06-20",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2030855767999152129"
-  },
-  {
-    "id": "opentix-2032017897215483905",
-    "title": "《聲之響宴:宮崎駿動畫音樂會》",
-    "start": "2026-06-27",
-    "end": "2026-07-18",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2032017897215483905"
-  },
-  {
-    "id": "opentix-2034103180744253440",
-    "title": "臺北爵士大樂隊 -老派趴踢Night",
-    "start": "2026-08-08",
-    "end": "2026-08-30",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "NewTaipei",
-    "url": "https://www.opentix.life/event/2034103180744253440"
-  },
-  {
-    "id": "opentix-2037519395154640897",
-    "title": "2026同黨劇團《父親母親》",
-    "start": "2026-10-01",
-    "end": "2026-10-04",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2037519395154640897"
   },
   {
     "id": "opentix-1955885305513054209",
@@ -2084,100 +2084,6 @@
     "url": "https://www.opentix.life/event/2057071104987308033"
   },
   {
-    "id": "opentix-2028771969463758849",
-    "title": "2026新點子實驗場 吳璟賢 《我的宿舍》",
-    "start": "2026-06-26",
-    "end": "2026-06-28",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2028771969463758849"
-  },
-  {
-    "id": "opentix-2029093908985929728",
-    "title": "2026廳院選 唐美雲歌仔戲團《臥龍：永遠的彼日》國際版",
-    "start": "2026-06-11",
-    "end": "2026-06-13",
-    "category": "traditional",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2029093908985929728"
-  },
-  {
-    "id": "opentix-2029471448953028609",
-    "title": "港明高中管弦樂團年度音樂會《未 None》",
-    "start": "2026-06-18",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2029471448953028609"
-  },
-  {
-    "id": "opentix-2029498666055925760",
-    "title": "布拉姆斯：兩首大提琴與鋼琴奏鳴曲",
-    "start": "2026-06-27",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2029498666055925760"
-  },
-  {
-    "id": "opentix-2031671496996745217",
-    "title": "【2026花露露的童樂節】美國瓦卡偶劇團《渡渡鳥去哪了？》",
-    "start": "2026-07-04",
-    "end": "2026-07-05",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2031671496996745217"
-  },
-  {
-    "id": "opentix-2032638761978716161",
-    "title": "韓德爾神劇「參孫」",
-    "start": "2026-06-10",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2032638761978716161"
-  },
-  {
-    "id": "opentix-2034521435441545216",
-    "title": "2026兒童戲曲藝術節：雷音劇坊《龜山夫人氣甲衝煙矣！》",
-    "start": "2026-08-08",
-    "end": "2026-08-09",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2034521435441545216"
-  },
-  {
-    "id": "opentix-2037041547407081473",
-    "title": "救援小英雄波力劇場《夏一跳樂園》",
-    "start": "2026-06-21",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2037041547407081473"
-  },
-  {
-    "id": "opentix-2039175336378621953",
-    "title": "一粒萬倍 A SEED 台灣公演",
-    "start": "2026-07-21",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2039175336378621953"
-  },
-  {
-    "id": "opentix-2039251451579326465",
-    "title": "音之凝鍊－牛田智大與布拉姆斯晚期鋼琴小品",
-    "start": "2026-07-01",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2039251451579326465"
-  },
-  {
     "id": "opentix-2039594730535641089",
     "title": "海之樂章!公主的奇幻旅程",
     "start": "2026-11-07",
@@ -2283,6 +2189,100 @@
     "url": "https://www.opentix.life/event/2053727709947793409"
   },
   {
+    "id": "opentix-2028771969463758849",
+    "title": "2026新點子實驗場 吳璟賢 《我的宿舍》",
+    "start": "2026-06-26",
+    "end": "2026-06-28",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2028771969463758849"
+  },
+  {
+    "id": "opentix-2029093908985929728",
+    "title": "2026廳院選 唐美雲歌仔戲團《臥龍：永遠的彼日》國際版",
+    "start": "2026-06-11",
+    "end": "2026-06-13",
+    "category": "traditional",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2029093908985929728"
+  },
+  {
+    "id": "opentix-2029471448953028609",
+    "title": "港明高中管弦樂團年度音樂會《未 None》",
+    "start": "2026-06-18",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2029471448953028609"
+  },
+  {
+    "id": "opentix-2029498666055925760",
+    "title": "布拉姆斯：兩首大提琴與鋼琴奏鳴曲",
+    "start": "2026-06-27",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2029498666055925760"
+  },
+  {
+    "id": "opentix-2031671496996745217",
+    "title": "【2026花露露的童樂節】美國瓦卡偶劇團《渡渡鳥去哪了？》",
+    "start": "2026-07-04",
+    "end": "2026-07-05",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2031671496996745217"
+  },
+  {
+    "id": "opentix-2032638761978716161",
+    "title": "韓德爾神劇「參孫」",
+    "start": "2026-06-10",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2032638761978716161"
+  },
+  {
+    "id": "opentix-2034521435441545216",
+    "title": "2026兒童戲曲藝術節：雷音劇坊《龜山夫人氣甲衝煙矣！》",
+    "start": "2026-08-08",
+    "end": "2026-08-09",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2034521435441545216"
+  },
+  {
+    "id": "opentix-2037041547407081473",
+    "title": "救援小英雄波力劇場《夏一跳樂園》",
+    "start": "2026-06-21",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2037041547407081473"
+  },
+  {
+    "id": "opentix-2039175336378621953",
+    "title": "一粒萬倍 A SEED 台灣公演",
+    "start": "2026-07-21",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2039175336378621953"
+  },
+  {
+    "id": "opentix-2039251451579326465",
+    "title": "音之凝鍊－牛田智大與布拉姆斯晚期鋼琴小品",
+    "start": "2026-07-01",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2039251451579326465"
+  },
+  {
     "id": "opentix-1983104241921089537",
     "title": "【2026衛武營小時光】山狗大南方樂團《來自土地的聲音》",
     "start": "2026-06-10",
@@ -2339,113 +2339,6 @@
     "url": "https://www.opentix.life/event/2003000733535936512"
   },
   {
-    "id": "opentix-2028080668680204289",
-    "title": "故鄉台法名曲饗宴",
-    "start": "2026-10-11",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2028080668680204289"
-  },
-  {
-    "id": "opentix-2028435715586863105",
-    "title": "臺灣豫劇團2026唱秋公演《劉姥姥》",
-    "start": "2026-10-31",
-    "end": "2026-11-01",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2028435715586863105"
-  },
-  {
-    "id": "opentix-2028642820188942337",
-    "title": "《燼生緣起》",
-    "start": "2026-06-27",
-    "end": "2026-06-28",
-    "category": "dance",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2028642820188942337"
-  },
-  {
-    "id": "opentix-2029854432368091137",
-    "title": "「節氣果物語」春之章《芽》",
-    "start": "2026-06-13",
-    "end": "2026-07-12",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2029854432368091137"
-  },
-  {
-    "id": "opentix-2030884950939021313",
-    "title": "【真劇場京選】頂尖對決．臺中鬪戲",
-    "start": "2026-06-13",
-    "end": "2026-06-14",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2030884950939021313"
-  },
-  {
-    "id": "opentix-2031996710945062912",
-    "title": "義興閣掌中劇團《天堂客棧》",
-    "start": "2026-08-22",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2031996710945062912"
-  },
-  {
-    "id": "opentix-2033762042034552833",
-    "title": "艸創心演擊樂場《奇奇怪怪的小馬戲》",
-    "start": "2026-06-26",
-    "end": "2026-06-28",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2033762042034552833"
-  },
-  {
-    "id": "opentix-2034481954668109825",
-    "title": "台灣芭蕾舞團年度創作演出《海風 - 漂亮之島》",
-    "start": "2026-08-29",
-    "end": "2026-08-30",
-    "category": "dance",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2034481954668109825"
-  },
-  {
-    "id": "opentix-2034542863109820417",
-    "title": "【洛杉磯愛樂首席長笛與豎琴二重奏】丹尼斯與艾曼紐",
-    "start": "2026-06-14",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "NewTaipei",
-    "url": "https://www.opentix.life/event/2034542863109820417"
-  },
-  {
-    "id": "opentix-2035375703416848385",
-    "title": "2026夏至愛樂 — 莫札特與台灣的相遇",
-    "start": "2026-07-26",
-    "end": "2026-07-28",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2035375703416848385"
-  },
-  {
-    "id": "opentix-2038831941887950849",
-    "title": "2026 KSAF 高雄春藝歌仔戲 佩儀歌劇團《婆娑鳥》",
-    "start": "2026-07-11",
-    "end": "2026-07-12",
-    "category": "traditional",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2038831941887950849"
-  },
-  {
     "id": "opentix-2039524426554306560",
     "title": "憤怒旅行卡啦帶",
     "start": "2026-06-13",
@@ -2454,90 +2347,6 @@
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2039524426554306560"
-  },
-  {
-    "id": "opentix-2054484805144141824",
-    "title": "光音乍現",
-    "start": "2026-07-14",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2054484805144141824"
-  },
-  {
-    "id": "opentix-2054737495816265729",
-    "title": "玉米雞劇團《神探小紅帽》",
-    "start": "2026-08-28",
-    "end": "2026-08-30",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2054737495816265729"
-  },
-  {
-    "id": "opentix-2055198355043160065",
-    "title": "《英雄點點名》勇者集結—夢幻聯名首演場！",
-    "start": "2026-10-17",
-    "end": "2026-10-18",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2055198355043160065"
-  },
-  {
-    "id": "opentix-2056261233323556865",
-    "title": "【2026 TSO 夏日音樂漫步】布拉赫與TSO",
-    "start": "2026-08-15",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2056261233323556865"
-  },
-  {
-    "id": "opentix-2056352712765284353",
-    "title": "HSO 市民管弦樂團創團音樂會",
-    "start": "2026-07-04",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Hsinchu",
-    "url": "https://www.opentix.life/event/2056352712765284353"
-  },
-  {
-    "id": "opentix-2056618121671155713",
-    "title": "香港中文大學合唱團高雄音樂會",
-    "start": "2026-07-23",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2056618121671155713"
-  },
-  {
-    "id": "opentix-2059806026174697472",
-    "title": "《野本洋介×加藤大輝》 2026玎酉擊樂年度音樂會",
-    "start": "2026-10-10",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2059806026174697472"
-  },
-  {
-    "id": "opentix-2060332335585955841",
-    "title": "妍音初綻~2026林秭妍雙簧管獨奏會",
-    "start": "2026-07-03",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2060332335585955841"
-  },
-  {
-    "id": "opentix-2061687139190185985",
-    "title": "《銅映圖像》中灣銅管室內樂團年度音樂會",
-    "start": "2026-08-10",
-    "end": "2026-08-12",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2061687139190185985"
   },
   {
     "id": "opentix-2039589202138030081",
@@ -2700,6 +2509,393 @@
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2053739066214440961"
+  },
+  {
+    "id": "opentix-2054484805144141824",
+    "title": "光音乍現",
+    "start": "2026-07-14",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2054484805144141824"
+  },
+  {
+    "id": "opentix-2054737495816265729",
+    "title": "玉米雞劇團《神探小紅帽》",
+    "start": "2026-08-28",
+    "end": "2026-08-30",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2054737495816265729"
+  },
+  {
+    "id": "opentix-2055198355043160065",
+    "title": "《英雄點點名》勇者集結—夢幻聯名首演場！",
+    "start": "2026-10-17",
+    "end": "2026-10-18",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2055198355043160065"
+  },
+  {
+    "id": "opentix-2056261233323556865",
+    "title": "【2026 TSO 夏日音樂漫步】布拉赫與TSO",
+    "start": "2026-08-15",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2056261233323556865"
+  },
+  {
+    "id": "opentix-2056352712765284353",
+    "title": "HSO 市民管弦樂團創團音樂會",
+    "start": "2026-07-04",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Hsinchu",
+    "url": "https://www.opentix.life/event/2056352712765284353"
+  },
+  {
+    "id": "opentix-2056618121671155713",
+    "title": "香港中文大學合唱團高雄音樂會",
+    "start": "2026-07-23",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2056618121671155713"
+  },
+  {
+    "id": "opentix-2059806026174697472",
+    "title": "《野本洋介×加藤大輝》 2026玎酉擊樂年度音樂會",
+    "start": "2026-10-10",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2059806026174697472"
+  },
+  {
+    "id": "opentix-2060332335585955841",
+    "title": "妍音初綻~2026林秭妍雙簧管獨奏會",
+    "start": "2026-07-03",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2060332335585955841"
+  },
+  {
+    "id": "opentix-2061687139190185985",
+    "title": "《銅映圖像》中灣銅管室內樂團年度音樂會",
+    "start": "2026-08-10",
+    "end": "2026-08-12",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2061687139190185985"
+  },
+  {
+    "id": "opentix-2028080668680204289",
+    "title": "故鄉台法名曲饗宴",
+    "start": "2026-10-11",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2028080668680204289"
+  },
+  {
+    "id": "opentix-2028435715586863105",
+    "title": "臺灣豫劇團2026唱秋公演《劉姥姥》",
+    "start": "2026-10-31",
+    "end": "2026-11-01",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2028435715586863105"
+  },
+  {
+    "id": "opentix-2028642820188942337",
+    "title": "《燼生緣起》",
+    "start": "2026-06-27",
+    "end": "2026-06-28",
+    "category": "dance",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2028642820188942337"
+  },
+  {
+    "id": "opentix-2029854432368091137",
+    "title": "「節氣果物語」春之章《芽》",
+    "start": "2026-06-13",
+    "end": "2026-07-12",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2029854432368091137"
+  },
+  {
+    "id": "opentix-2030884950939021313",
+    "title": "【真劇場京選】頂尖對決．臺中鬪戲",
+    "start": "2026-06-13",
+    "end": "2026-06-14",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2030884950939021313"
+  },
+  {
+    "id": "opentix-2031996710945062912",
+    "title": "義興閣掌中劇團《天堂客棧》",
+    "start": "2026-08-22",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2031996710945062912"
+  },
+  {
+    "id": "opentix-2033762042034552833",
+    "title": "艸創心演擊樂場《奇奇怪怪的小馬戲》",
+    "start": "2026-06-26",
+    "end": "2026-06-28",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2033762042034552833"
+  },
+  {
+    "id": "opentix-2034481954668109825",
+    "title": "台灣芭蕾舞團年度創作演出《海風 - 漂亮之島》",
+    "start": "2026-08-29",
+    "end": "2026-08-30",
+    "category": "dance",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2034481954668109825"
+  },
+  {
+    "id": "opentix-2034542863109820417",
+    "title": "【洛杉磯愛樂首席長笛與豎琴二重奏】丹尼斯與艾曼紐",
+    "start": "2026-06-14",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "NewTaipei",
+    "url": "https://www.opentix.life/event/2034542863109820417"
+  },
+  {
+    "id": "opentix-2035375703416848385",
+    "title": "2026夏至愛樂 — 莫札特與台灣的相遇",
+    "start": "2026-07-26",
+    "end": "2026-07-28",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2035375703416848385"
+  },
+  {
+    "id": "opentix-2038831941887950849",
+    "title": "2026 KSAF 高雄春藝歌仔戲 佩儀歌劇團《婆娑鳥》",
+    "start": "2026-07-11",
+    "end": "2026-07-12",
+    "category": "traditional",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2038831941887950849"
+  },
+  {
+    "id": "opentix-2018277678496849920",
+    "title": "KSAF《八部曲:一場絲竹的敘事》高市國絲竹音樂會",
+    "start": "2026-06-27",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2018277678496849920"
+  },
+  {
+    "id": "opentix-2018285841987981313",
+    "title": "KSAF《漁火．松風．春》高雄市國樂團音樂會",
+    "start": "2026-06-21",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2018285841987981313"
+  },
+  {
+    "id": "opentix-2021148819641479169",
+    "title": "2026 KSAF—正港小劇場系列《八 八》",
+    "start": "2026-06-27",
+    "end": "2026-06-29",
+    "category": "dance",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2021148819641479169"
+  },
+  {
+    "id": "opentix-2028665841785552897",
+    "title": "黃盈媛大提琴獨奏會~浪漫餘韻",
+    "start": "2026-06-14",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2028665841785552897"
+  },
+  {
+    "id": "opentix-2029045610234904577",
+    "title": "「弦歌繞樑」2026聖采琪聯合弦樂團巡迴音樂會",
+    "start": "2026-06-09",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2029045610234904577"
+  },
+  {
+    "id": "opentix-2029480051749613568",
+    "title": "臺灣國樂團《回眸》",
+    "start": "2026-06-27",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2029480051749613568"
+  },
+  {
+    "id": "opentix-2031190425100705793",
+    "title": "虛時～劉潔鋼琴獨奏會",
+    "start": "2026-06-20",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2031190425100705793"
+  },
+  {
+    "id": "opentix-2031224494276227073",
+    "title": "2026兒童戲曲藝術節：昇平五洲園《阮是天頂上光的星》",
+    "start": "2026-08-01",
+    "end": "2026-08-02",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2031224494276227073"
+  },
+  {
+    "id": "opentix-2033425502020579329",
+    "title": "看戲劇團 童話歌仔戲《美女與野獸2.0-吼!我不是壞小孩》",
+    "start": "2026-09-12",
+    "category": "traditional",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2033425502020579329"
+  },
+  {
+    "id": "opentix-2033453704961077248",
+    "title": "《夢》黃子宜指揮音樂會",
+    "start": "2026-06-20",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2033453704961077248"
+  },
+  {
+    "id": "opentix-2033839460680925185",
+    "title": "TCO《叮叮！時光音樂盒》",
+    "start": "2026-06-27",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2033839460680925185"
+  },
+  {
+    "id": "opentix-2034877460146262017",
+    "title": "2026瑞光樂集《追憶多瑙河畔》",
+    "start": "2026-06-19",
+    "end": "2026-06-23",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2034877460146262017"
+  },
+  {
+    "id": "opentix-2035879692431908865",
+    "title": "TCC 沙龍音樂會系列《很久很久以前》晚安故事音樂會",
+    "start": "2026-06-14",
+    "end": "2026-06-28",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2035879692431908865"
+  },
+  {
+    "id": "opentix-2036006282886463489",
+    "title": "【親子布袋戲】雷音劇坊《青盲龍佮青盲蛇》、《沉香救母》",
+    "start": "2026-07-18",
+    "category": "traditional",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2036006282886463489"
+  },
+  {
+    "id": "opentix-2036309555715252225",
+    "title": "〈戰慄·孤寂〉2026沈琦騰鋼琴獨奏會",
+    "start": "2026-07-07",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2036309555715252225"
+  },
+  {
+    "id": "opentix-2036392143952502785",
+    "title": "Alexandr Misko 世界巡演台灣站",
+    "start": "2026-07-29",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2036392143952502785"
+  },
+  {
+    "id": "opentix-2036720205936693249",
+    "title": "2026台灣國際讀劇節《瘋狂劇》",
+    "start": "2026-06-19",
+    "end": "2026-06-20",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2036720205936693249"
+  },
+  {
+    "id": "opentix-2037442285550297089",
+    "title": "100把大提琴的美麗冒險《舞幻樂章》",
+    "start": "2026-08-03",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2037442285550297089"
+  },
+  {
+    "id": "opentix-2038505992863952897",
+    "title": "夢與緋光",
+    "start": "2026-08-02",
+    "end": "2026-08-04",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2038505992863952897"
+  },
+  {
+    "id": "opentix-2038868249716387840",
+    "title": "2026臺北大碗茶",
+    "start": "2026-08-15",
+    "end": "2026-08-16",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2038868249716387840"
+  },
+  {
+    "id": "opentix-2038873926101491713",
+    "title": "2026小野麗莎珍愛音樂之旅巡迴演唱會－高雄站",
+    "start": "2026-07-30",
+    "category": "pop",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2038873926101491713"
   },
   {
     "id": "opentix-2039648343956680704",
@@ -2972,202 +3168,6 @@
     "url": "https://www.opentix.life/event/2053730009676795905"
   },
   {
-    "id": "opentix-2018277678496849920",
-    "title": "KSAF《八部曲:一場絲竹的敘事》高市國絲竹音樂會",
-    "start": "2026-06-27",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2018277678496849920"
-  },
-  {
-    "id": "opentix-2018285841987981313",
-    "title": "KSAF《漁火．松風．春》高雄市國樂團音樂會",
-    "start": "2026-06-21",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2018285841987981313"
-  },
-  {
-    "id": "opentix-2021148819641479169",
-    "title": "2026 KSAF—正港小劇場系列《八 八》",
-    "start": "2026-06-27",
-    "end": "2026-06-29",
-    "category": "dance",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2021148819641479169"
-  },
-  {
-    "id": "opentix-2028665841785552897",
-    "title": "黃盈媛大提琴獨奏會~浪漫餘韻",
-    "start": "2026-06-14",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2028665841785552897"
-  },
-  {
-    "id": "opentix-2029045610234904577",
-    "title": "「弦歌繞樑」2026聖采琪聯合弦樂團巡迴音樂會",
-    "start": "2026-06-09",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2029045610234904577"
-  },
-  {
-    "id": "opentix-2029480051749613568",
-    "title": "臺灣國樂團《回眸》",
-    "start": "2026-06-27",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2029480051749613568"
-  },
-  {
-    "id": "opentix-2031190425100705793",
-    "title": "虛時～劉潔鋼琴獨奏會",
-    "start": "2026-06-20",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2031190425100705793"
-  },
-  {
-    "id": "opentix-2031224494276227073",
-    "title": "2026兒童戲曲藝術節：昇平五洲園《阮是天頂上光的星》",
-    "start": "2026-08-01",
-    "end": "2026-08-02",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2031224494276227073"
-  },
-  {
-    "id": "opentix-2033425502020579329",
-    "title": "看戲劇團 童話歌仔戲《美女與野獸2.0-吼!我不是壞小孩》",
-    "start": "2026-09-12",
-    "category": "traditional",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2033425502020579329"
-  },
-  {
-    "id": "opentix-2033453704961077248",
-    "title": "《夢》黃子宜指揮音樂會",
-    "start": "2026-06-20",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2033453704961077248"
-  },
-  {
-    "id": "opentix-2033839460680925185",
-    "title": "TCO《叮叮！時光音樂盒》",
-    "start": "2026-06-27",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2033839460680925185"
-  },
-  {
-    "id": "opentix-2034877460146262017",
-    "title": "2026瑞光樂集《追憶多瑙河畔》",
-    "start": "2026-06-19",
-    "end": "2026-06-23",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2034877460146262017"
-  },
-  {
-    "id": "opentix-2035879692431908865",
-    "title": "TCC 沙龍音樂會系列《很久很久以前》晚安故事音樂會",
-    "start": "2026-06-14",
-    "end": "2026-06-28",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2035879692431908865"
-  },
-  {
-    "id": "opentix-2036006282886463489",
-    "title": "【親子布袋戲】雷音劇坊《青盲龍佮青盲蛇》、《沉香救母》",
-    "start": "2026-07-18",
-    "category": "traditional",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2036006282886463489"
-  },
-  {
-    "id": "opentix-2036309555715252225",
-    "title": "〈戰慄·孤寂〉2026沈琦騰鋼琴獨奏會",
-    "start": "2026-07-07",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2036309555715252225"
-  },
-  {
-    "id": "opentix-2036392143952502785",
-    "title": "Alexandr Misko 世界巡演台灣站",
-    "start": "2026-07-29",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2036392143952502785"
-  },
-  {
-    "id": "opentix-2036720205936693249",
-    "title": "2026台灣國際讀劇節《瘋狂劇》",
-    "start": "2026-06-19",
-    "end": "2026-06-20",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2036720205936693249"
-  },
-  {
-    "id": "opentix-2037442285550297089",
-    "title": "100把大提琴的美麗冒險《舞幻樂章》",
-    "start": "2026-08-03",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2037442285550297089"
-  },
-  {
-    "id": "opentix-2038505992863952897",
-    "title": "夢與緋光",
-    "start": "2026-08-02",
-    "end": "2026-08-04",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2038505992863952897"
-  },
-  {
-    "id": "opentix-2038868249716387840",
-    "title": "2026臺北大碗茶",
-    "start": "2026-08-15",
-    "end": "2026-08-16",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2038868249716387840"
-  },
-  {
-    "id": "opentix-2038873926101491713",
-    "title": "2026小野麗莎珍愛音樂之旅巡迴演唱會－高雄站",
-    "start": "2026-07-30",
-    "category": "pop",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2038873926101491713"
-  },
-  {
     "id": "opentix-1986704187991719937",
     "title": "文山劇場2026年《親子玩藝》活動系列",
     "start": "2026-06-13",
@@ -3399,317 +3399,6 @@
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2061663051048542209"
-  },
-  {
-    "id": "opentix-2009562622356078592",
-    "title": "【掌中戲】春秋閣掌中劇團《施公收雙義》",
-    "start": "2026-06-13",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2009562622356078592"
-  },
-  {
-    "id": "opentix-2010643176075874304",
-    "title": "【第二屆歌仔青世代】一心戲劇團《九命》",
-    "start": "2026-07-04",
-    "end": "2026-07-05",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2010643176075874304"
-  },
-  {
-    "id": "opentix-2011008143601115137",
-    "title": "2026管風琴推廣音樂會《仲夏爵士夢》",
-    "start": "2026-06-11",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2011008143601115137"
-  },
-  {
-    "id": "opentix-2026933744887476224",
-    "title": "七転演劇部《心是交織的迷宮》",
-    "start": "2026-06-19",
-    "end": "2026-06-21",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2026933744887476224"
-  },
-  {
-    "id": "opentix-2026933769952440320",
-    "title": "2026酷雲劇場LIVE實況京劇",
-    "start": "2026-06-28",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2026933769952440320"
-  },
-  {
-    "id": "opentix-2028344724405899265",
-    "title": "Step Out 柯懿芳與Con Brio吉麗樂團",
-    "start": "2026-06-13",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2028344724405899265"
-  },
-  {
-    "id": "opentix-2028393147675062273",
-    "title": "鏡像的悖論-巴洛克倒影《2026張景婷小提琴獨奏會》",
-    "start": "2026-06-25",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2028393147675062273"
-  },
-  {
-    "id": "opentix-2028753968850071553",
-    "title": "呂紹可x李宜樺《觸碰的那一刻 》",
-    "start": "2026-06-13",
-    "end": "2026-06-14",
-    "category": "dance",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2028753968850071553"
-  },
-  {
-    "id": "opentix-2028768565934878721",
-    "title": "《你的工作＆你的休假》音樂劇",
-    "start": "2026-08-21",
-    "end": "2026-09-06",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2028768565934878721"
-  },
-  {
-    "id": "opentix-2029090562006835201",
-    "title": "2026新點子實驗場 陳士惠《Sisila ila ila 別離之歌》",
-    "start": "2026-06-12",
-    "end": "2026-06-14",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2029090562006835201"
-  },
-  {
-    "id": "opentix-2029762519870402561",
-    "title": "【2026 TSO 室內沙龍】當青春遇見永恆：五把弦樂的跨時空對話",
-    "start": "2026-10-23",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2029762519870402561"
-  },
-  {
-    "id": "opentix-2030851984283959297",
-    "title": "2026陳昱翰大提琴獨奏會",
-    "start": "2026-06-11",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2030851984283959297"
-  },
-  {
-    "id": "opentix-2030908415652225025",
-    "title": "麥藍堤亞Mailantia舞團2026年 年度製作《UNDER MASK》",
-    "start": "2026-06-27",
-    "end": "2026-06-28",
-    "category": "dance",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2030908415652225025"
-  },
-  {
-    "id": "opentix-2030931388949524481",
-    "title": "【2026 TSO 室內沙龍】交織的語言：歐洲室內樂的對話",
-    "start": "2026-12-28",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2030931388949524481"
-  },
-  {
-    "id": "opentix-2032303556119486465",
-    "title": "《聲動漫:ACG音樂祭》",
-    "start": "2026-06-27",
-    "end": "2026-07-18",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2032303556119486465"
-  },
-  {
-    "id": "opentix-2032363483547131905",
-    "title": "琴歌絃語",
-    "start": "2026-06-10",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2032363483547131905"
-  },
-  {
-    "id": "opentix-2033435262784364545",
-    "title": "人聲壯遊VI《世界樹》台北愛樂青年合唱團音樂會",
-    "start": "2026-06-09",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2033435262784364545"
-  },
-  {
-    "id": "opentix-2033458262984351745",
-    "title": "2026新點子實驗場 烏犬劇場《那個聲音從來沒有消失過》階段呈現",
-    "start": "2026-06-29",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2033458262984351745"
-  },
-  {
-    "id": "opentix-2034528305950572545",
-    "title": "《歐洲琴語 》賀柏勳⼩提琴獨奏會",
-    "start": "2026-07-30",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2034528305950572545"
-  },
-  {
-    "id": "opentix-2034547591404400641",
-    "title": "2026 衛武營音樂營&歐洲銅管之聲 教師音樂會《自由揮灑》",
-    "start": "2026-07-11",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2034547591404400641"
-  },
-  {
-    "id": "opentix-2034847671365742593",
-    "title": "2026《新北市青少年v.s教師管弦樂團》",
-    "start": "2026-07-19",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2034847671365742593"
-  },
-  {
-    "id": "opentix-2034877406151712769",
-    "title": "麥蕎安碩士班琵琶畢業音樂會",
-    "start": "2026-06-13",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2034877406151712769"
-  },
-  {
-    "id": "opentix-2034922835531489280",
-    "title": "【歌仔戲】姿蓉歌劇團《盤河戰》",
-    "start": "2026-07-04",
-    "end": "2026-07-05",
-    "category": "traditional",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2034922835531489280"
-  },
-  {
-    "id": "opentix-2035226415681060865",
-    "title": "【歌仔戲】正明龍歌劇團-經典再創《偷天換日之法外青天》青春承藝版",
-    "start": "2026-07-18",
-    "end": "2026-07-19",
-    "category": "traditional",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2035226415681060865"
-  },
-  {
-    "id": "opentix-2035228165611462657",
-    "title": "【歌仔戲】新藝芳歌劇團《秋雪》",
-    "start": "2026-08-01",
-    "end": "2026-08-02",
-    "category": "traditional",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2035228165611462657"
-  },
-  {
-    "id": "opentix-2035928395948498945",
-    "title": "張正傑親子音樂會-搭熱氣球環遊世界",
-    "start": "2026-11-14",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2035928395948498945"
-  },
-  {
-    "id": "opentix-2035930531894890497",
-    "title": "飛舞的手指、飛翔的節奏-波斯節奏與擊樂",
-    "start": "2026-06-14",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2035930531894890497"
-  },
-  {
-    "id": "opentix-2036354048640106497",
-    "title": "2026 衛武營音樂營 & 歐洲銅管之聲《極致盛典》",
-    "start": "2026-07-12",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2036354048640106497"
-  },
-  {
-    "id": "opentix-2036722485951021056",
-    "title": "2026台灣國際讀劇節《中學生日常》",
-    "start": "2026-06-25",
-    "end": "2026-06-26",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2036722485951021056"
-  },
-  {
-    "id": "opentix-2036733053806534657",
-    "title": "2026台灣國際讀劇節《遠方來的女人》",
-    "start": "2026-06-21",
-    "end": "2026-06-25",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2036733053806534657"
-  },
-  {
-    "id": "opentix-2036975043617570817",
-    "title": "2026台灣國際讀劇節《才不是那樣》",
-    "start": "2026-06-20",
-    "end": "2026-06-23",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2036975043617570817"
-  },
-  {
-    "id": "opentix-2036979242225328129",
-    "title": "2026台灣國際讀劇節《櫻花劇場 1937》",
-    "start": "2026-06-21",
-    "end": "2026-06-26",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2036979242225328129"
-  },
-  {
-    "id": "opentix-2038921019353190400",
-    "title": "力晶2026藝文饗宴- 蕭邦計畫 : 巴黎到諾漢（1840–1849）",
-    "start": "2026-08-15",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2038921019353190400"
   },
   {
     "id": "opentix-2039533994703925249",
@@ -4057,6 +3746,317 @@
     "url": "https://www.opentix.life/event/2053739594043740161"
   },
   {
+    "id": "opentix-2009562622356078592",
+    "title": "【掌中戲】春秋閣掌中劇團《施公收雙義》",
+    "start": "2026-06-13",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2009562622356078592"
+  },
+  {
+    "id": "opentix-2010643176075874304",
+    "title": "【第二屆歌仔青世代】一心戲劇團《九命》",
+    "start": "2026-07-04",
+    "end": "2026-07-05",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2010643176075874304"
+  },
+  {
+    "id": "opentix-2011008143601115137",
+    "title": "2026管風琴推廣音樂會《仲夏爵士夢》",
+    "start": "2026-06-11",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2011008143601115137"
+  },
+  {
+    "id": "opentix-2026933744887476224",
+    "title": "七転演劇部《心是交織的迷宮》",
+    "start": "2026-06-19",
+    "end": "2026-06-21",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2026933744887476224"
+  },
+  {
+    "id": "opentix-2026933769952440320",
+    "title": "2026酷雲劇場LIVE實況京劇",
+    "start": "2026-06-28",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2026933769952440320"
+  },
+  {
+    "id": "opentix-2028344724405899265",
+    "title": "Step Out 柯懿芳與Con Brio吉麗樂團",
+    "start": "2026-06-13",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2028344724405899265"
+  },
+  {
+    "id": "opentix-2028393147675062273",
+    "title": "鏡像的悖論-巴洛克倒影《2026張景婷小提琴獨奏會》",
+    "start": "2026-06-25",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2028393147675062273"
+  },
+  {
+    "id": "opentix-2028753968850071553",
+    "title": "呂紹可x李宜樺《觸碰的那一刻 》",
+    "start": "2026-06-13",
+    "end": "2026-06-14",
+    "category": "dance",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2028753968850071553"
+  },
+  {
+    "id": "opentix-2028768565934878721",
+    "title": "《你的工作＆你的休假》音樂劇",
+    "start": "2026-08-21",
+    "end": "2026-09-06",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2028768565934878721"
+  },
+  {
+    "id": "opentix-2029090562006835201",
+    "title": "2026新點子實驗場 陳士惠《Sisila ila ila 別離之歌》",
+    "start": "2026-06-12",
+    "end": "2026-06-14",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2029090562006835201"
+  },
+  {
+    "id": "opentix-2029762519870402561",
+    "title": "【2026 TSO 室內沙龍】當青春遇見永恆：五把弦樂的跨時空對話",
+    "start": "2026-10-23",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2029762519870402561"
+  },
+  {
+    "id": "opentix-2030851984283959297",
+    "title": "2026陳昱翰大提琴獨奏會",
+    "start": "2026-06-11",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2030851984283959297"
+  },
+  {
+    "id": "opentix-2030908415652225025",
+    "title": "麥藍堤亞Mailantia舞團2026年 年度製作《UNDER MASK》",
+    "start": "2026-06-27",
+    "end": "2026-06-28",
+    "category": "dance",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2030908415652225025"
+  },
+  {
+    "id": "opentix-2030931388949524481",
+    "title": "【2026 TSO 室內沙龍】交織的語言：歐洲室內樂的對話",
+    "start": "2026-12-28",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2030931388949524481"
+  },
+  {
+    "id": "opentix-2032303556119486465",
+    "title": "《聲動漫:ACG音樂祭》",
+    "start": "2026-06-27",
+    "end": "2026-07-18",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2032303556119486465"
+  },
+  {
+    "id": "opentix-2032363483547131905",
+    "title": "琴歌絃語",
+    "start": "2026-06-10",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2032363483547131905"
+  },
+  {
+    "id": "opentix-2033435262784364545",
+    "title": "人聲壯遊VI《世界樹》台北愛樂青年合唱團音樂會",
+    "start": "2026-06-09",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2033435262784364545"
+  },
+  {
+    "id": "opentix-2033458262984351745",
+    "title": "2026新點子實驗場 烏犬劇場《那個聲音從來沒有消失過》階段呈現",
+    "start": "2026-06-29",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2033458262984351745"
+  },
+  {
+    "id": "opentix-2034528305950572545",
+    "title": "《歐洲琴語 》賀柏勳⼩提琴獨奏會",
+    "start": "2026-07-30",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2034528305950572545"
+  },
+  {
+    "id": "opentix-2034547591404400641",
+    "title": "2026 衛武營音樂營&歐洲銅管之聲 教師音樂會《自由揮灑》",
+    "start": "2026-07-11",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2034547591404400641"
+  },
+  {
+    "id": "opentix-2034847671365742593",
+    "title": "2026《新北市青少年v.s教師管弦樂團》",
+    "start": "2026-07-19",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2034847671365742593"
+  },
+  {
+    "id": "opentix-2034877406151712769",
+    "title": "麥蕎安碩士班琵琶畢業音樂會",
+    "start": "2026-06-13",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2034877406151712769"
+  },
+  {
+    "id": "opentix-2034922835531489280",
+    "title": "【歌仔戲】姿蓉歌劇團《盤河戰》",
+    "start": "2026-07-04",
+    "end": "2026-07-05",
+    "category": "traditional",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2034922835531489280"
+  },
+  {
+    "id": "opentix-2035226415681060865",
+    "title": "【歌仔戲】正明龍歌劇團-經典再創《偷天換日之法外青天》青春承藝版",
+    "start": "2026-07-18",
+    "end": "2026-07-19",
+    "category": "traditional",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2035226415681060865"
+  },
+  {
+    "id": "opentix-2035228165611462657",
+    "title": "【歌仔戲】新藝芳歌劇團《秋雪》",
+    "start": "2026-08-01",
+    "end": "2026-08-02",
+    "category": "traditional",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2035228165611462657"
+  },
+  {
+    "id": "opentix-2035928395948498945",
+    "title": "張正傑親子音樂會-搭熱氣球環遊世界",
+    "start": "2026-11-14",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2035928395948498945"
+  },
+  {
+    "id": "opentix-2035930531894890497",
+    "title": "飛舞的手指、飛翔的節奏-波斯節奏與擊樂",
+    "start": "2026-06-14",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2035930531894890497"
+  },
+  {
+    "id": "opentix-2036354048640106497",
+    "title": "2026 衛武營音樂營 & 歐洲銅管之聲《極致盛典》",
+    "start": "2026-07-12",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2036354048640106497"
+  },
+  {
+    "id": "opentix-2036722485951021056",
+    "title": "2026台灣國際讀劇節《中學生日常》",
+    "start": "2026-06-25",
+    "end": "2026-06-26",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2036722485951021056"
+  },
+  {
+    "id": "opentix-2036733053806534657",
+    "title": "2026台灣國際讀劇節《遠方來的女人》",
+    "start": "2026-06-21",
+    "end": "2026-06-25",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2036733053806534657"
+  },
+  {
+    "id": "opentix-2036975043617570817",
+    "title": "2026台灣國際讀劇節《才不是那樣》",
+    "start": "2026-06-20",
+    "end": "2026-06-23",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2036975043617570817"
+  },
+  {
+    "id": "opentix-2036979242225328129",
+    "title": "2026台灣國際讀劇節《櫻花劇場 1937》",
+    "start": "2026-06-21",
+    "end": "2026-06-26",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2036979242225328129"
+  },
+  {
+    "id": "opentix-2038921019353190400",
+    "title": "力晶2026藝文饗宴- 蕭邦計畫 : 巴黎到諾漢（1840–1849）",
+    "start": "2026-08-15",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2038921019353190400"
+  },
+  {
     "id": "opentix-1992888855001788417",
     "title": "【2026 TSO 首席指揮】里柏瑞契與TSO─抒情‧交響曲",
     "start": "2026-10-02",
@@ -4079,48 +4079,11 @@
     "id": "opentix-1606114530117398530",
     "title": "衛武營主辦節目免費身障票專區",
     "start": "2026-06-10",
-    "end": "2026-06-14",
+    "end": "2026-07-22",
     "category": "theater",
     "venue": "OpenTix",
     "city": "Kaohsiung",
     "url": "https://www.opentix.life/event/1606114530117398530"
-  },
-  {
-    "id": "opentix-2010628418450804737",
-    "title": "【第二屆歌仔青世代】昭香戲劇團《雙面斌官》",
-    "start": "2026-06-20",
-    "end": "2026-06-21",
-    "category": "theater",
-    "venue": "OpenTix",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2010628418450804737"
-  },
-  {
-    "id": "opentix-2028676277699162113",
-    "title": "《幻想、夢境與永恆》——張凱閔鋼琴獨奏會",
-    "start": "2026-06-28",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2028676277699162113"
-  },
-  {
-    "id": "opentix-2033793686188220416",
-    "title": "蔡宜佳古箏音樂會-箏琴映像Ⅱ",
-    "start": "2026-06-24",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2033793686188220416"
-  },
-  {
-    "id": "opentix-2059440593451212801",
-    "title": "國立中興大學管樂團期末公演 皮諾丘與天鵝的假面奇遇記",
-    "start": "2026-06-28",
-    "category": "classical",
-    "venue": "OpenTix",
-    "city": "Taichung",
-    "url": "https://www.opentix.life/event/2059440593451212801"
   },
   {
     "id": "opentix-2039607319589347329",
@@ -4170,14 +4133,41 @@
     "url": "https://www.opentix.life/event/2053835563820158977"
   },
   {
-    "id": "opentix-2044351544624328705",
-    "title": "2026擊思藍盒子《房間裡的大象》",
-    "start": "2026-07-18",
-    "end": "2026-07-19",
+    "id": "opentix-2059440593451212801",
+    "title": "國立中興大學管樂團期末公演 皮諾丘與天鵝的假面奇遇記",
+    "start": "2026-06-28",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2059440593451212801"
+  },
+  {
+    "id": "opentix-2010628418450804737",
+    "title": "【第二屆歌仔青世代】昭香戲劇團《雙面斌官》",
+    "start": "2026-06-20",
+    "end": "2026-06-21",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2010628418450804737"
+  },
+  {
+    "id": "opentix-2028676277699162113",
+    "title": "《幻想、夢境與永恆》——張凱閔鋼琴獨奏會",
+    "start": "2026-06-28",
     "category": "classical",
     "venue": "OpenTix",
     "city": "Taipei",
-    "url": "https://www.opentix.life/event/2044351544624328705"
+    "url": "https://www.opentix.life/event/2028676277699162113"
+  },
+  {
+    "id": "opentix-2033793686188220416",
+    "title": "蔡宜佳古箏音樂會-箏琴映像Ⅱ",
+    "start": "2026-06-24",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2033793686188220416"
   },
   {
     "id": "opentix-2029842850098962433",
@@ -4198,14 +4188,14 @@
     "url": "https://www.opentix.life/event/2029845078524489728"
   },
   {
-    "id": "opentix-2019263846616514560",
-    "title": "2026國光團慶《永恆時尚：盛夏》演出",
-    "start": "2026-07-03",
-    "end": "2026-07-05",
-    "category": "theater",
+    "id": "opentix-2044351544624328705",
+    "title": "2026擊思藍盒子《房間裡的大象》",
+    "start": "2026-07-18",
+    "end": "2026-07-19",
+    "category": "classical",
     "venue": "OpenTix",
     "city": "Taipei",
-    "url": "https://www.opentix.life/event/2019263846616514560"
+    "url": "https://www.opentix.life/event/2044351544624328705"
   },
   {
     "id": "opentix-2043960193015562241",
@@ -4215,6 +4205,16 @@
     "venue": "OpenTix",
     "city": "Kaohsiung",
     "url": "https://www.opentix.life/event/2043960193015562241"
+  },
+  {
+    "id": "opentix-2019263846616514560",
+    "title": "2026國光團慶《永恆時尚：盛夏》演出",
+    "start": "2026-07-03",
+    "end": "2026-07-05",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2019263846616514560"
   },
   {
     "id": "opentix-2026958486256214016",
@@ -4666,7 +4666,7 @@
     "id": "opentix-2031644305203789825",
     "title": "2026新點子實驗場 陳逸恩《阿福》階段呈現",
     "start": "2026-06-28",
-    "category": "theater",
+    "category": "dance",
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2031644305203789825"
@@ -6636,6 +6636,16 @@
     "url": "https://www.opentix.life/event/2052306394696761345"
   },
   {
+    "id": "opentix-2052315168468307969",
+    "title": "《水中之屋》感動回歸版",
+    "start": "2026-08-06",
+    "end": "2026-08-09",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2052315168468307969"
+  },
+  {
     "id": "opentix-2052641368749150209",
     "title": "約瑟夫一世的巴洛克花園—蔡懷恩與好友",
     "start": "2026-08-01",
@@ -6653,6 +6663,16 @@
     "venue": "OpenTix",
     "city": "Kaohsiung",
     "url": "https://www.opentix.life/event/2053344496842739713"
+  },
+  {
+    "id": "opentix-2053719432722923520",
+    "title": "臺南文化中心42週年館慶《幾米男孩的100次勇敢》",
+    "start": "2026-11-21",
+    "end": "2026-11-22",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2053719432722923520"
   },
   {
     "id": "opentix-2053743459333545985",
@@ -6682,6 +6702,15 @@
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2053799078992662528"
+  },
+  {
+    "id": "opentix-2053838884560412673",
+    "title": "面白放送",
+    "start": "2026-06-17",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2053838884560412673"
   },
   {
     "id": "opentix-2054020840828035072",
@@ -6742,7 +6771,7 @@
   },
   {
     "id": "opentix-2054128014108151809",
-    "title": "香港葉氏兒童合唱團 ~ 台灣韓國巡迴演出",
+    "title": "香港葉氏兒童合唱團 ~ 台灣巡迴演出",
     "start": "2026-08-07",
     "end": "2026-08-11",
     "category": "classical",
@@ -6895,6 +6924,16 @@
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2054502279496093697"
+  },
+  {
+    "id": "opentix-2054532706641764352",
+    "title": "台塑石油《艾拉・費茲潔拉女士，您好！》親子說故事",
+    "start": "2026-07-25",
+    "end": "2026-08-02",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2054532706641764352"
   },
   {
     "id": "opentix-2054835227311230976",
@@ -7104,6 +7143,16 @@
     "url": "https://www.opentix.life/event/2056645755107082241"
   },
   {
+    "id": "opentix-2056657152138346497",
+    "title": "《咱兜lán tau》雙版本巡演",
+    "start": "2026-08-29",
+    "end": "2026-10-04",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2056657152138346497"
+  },
+  {
     "id": "opentix-2057017304647577601",
     "title": "【弦音敍語 鄭敍呈古典吉他獨奏會】吉他奏鳴曲之美",
     "start": "2026-07-09",
@@ -7120,6 +7169,16 @@
     "venue": "OpenTix",
     "city": "Kaohsiung",
     "url": "https://www.opentix.life/event/2057280987615535105"
+  },
+  {
+    "id": "opentix-2057356122830548993",
+    "title": "【2026臺北藝穗節】ㄐㄧㄣˋㄒㄧㄤ",
+    "start": "2026-08-15",
+    "end": "2026-08-30",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2057356122830548993"
   },
   {
     "id": "opentix-2057390873938567169",
@@ -7156,6 +7215,26 @@
     "venue": "OpenTix",
     "city": "Hsinchu",
     "url": "https://www.opentix.life/event/2057664972925509633"
+  },
+  {
+    "id": "opentix-2057698219891294209",
+    "title": "《時空玫瑰》富瑜親子音樂劇場",
+    "start": "2026-08-01",
+    "end": "2026-08-02",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2057698219891294209"
+  },
+  {
+    "id": "opentix-2057704786329481217",
+    "title": "2026雷怡蕙小提琴獨奏會",
+    "start": "2026-08-25",
+    "end": "2026-08-30",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taichung",
+    "url": "https://www.opentix.life/event/2057704786329481217"
   },
   {
     "id": "opentix-2057728895303114753",
@@ -7306,6 +7385,15 @@
     "url": "https://www.opentix.life/event/2059475302770937856"
   },
   {
+    "id": "opentix-2059522391957704705",
+    "title": "2026美頌樂集雙鋼琴音樂會《一個美國人在巴黎》",
+    "start": "2026-09-27",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2059522391957704705"
+  },
+  {
     "id": "opentix-2059525758185140225",
     "title": "葛拉那多斯：哥雅畫冊 《熱戀中的男女》",
     "start": "2026-08-31",
@@ -7323,6 +7411,96 @@
     "venue": "OpenTix",
     "city": "Tainan",
     "url": "https://www.opentix.life/event/2059546834508214273"
+  },
+  {
+    "id": "opentix-2059817032922460161",
+    "title": "2026臺南藝術節：鐵仕製作（香港）x  剛左小組（大阪）《搭橋》",
+    "start": "2026-11-07",
+    "end": "2026-11-08",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2059817032922460161"
+  },
+  {
+    "id": "opentix-2059825607998676993",
+    "title": "2026臺南藝術節：阿納卡西斯・拉莫斯《我的母親與金錢》",
+    "start": "2026-11-13",
+    "end": "2026-11-14",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2059825607998676993"
+  },
+  {
+    "id": "opentix-2059826841548611585",
+    "title": "2026臺南藝術節：李淸照私人劇團感傷動作派《歌仔寶玉講唱》",
+    "start": "2026-11-14",
+    "end": "2026-11-15",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2059826841548611585"
+  },
+  {
+    "id": "opentix-2059829556966187009",
+    "title": "2026臺南藝術節：僻室╳在地實驗《獸靈之詩：頭骨的召喚》",
+    "start": "2026-10-29",
+    "end": "2026-11-03",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2059829556966187009"
+  },
+  {
+    "id": "opentix-2059831632358137857",
+    "title": "2026臺南藝術節：窮劇場 x 江之翠劇場《感謝公主》",
+    "start": "2026-10-31",
+    "end": "2026-11-01",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2059831632358137857"
+  },
+  {
+    "id": "opentix-2059834497252855809",
+    "title": "2026臺南藝術節：閱時《萬象園》吳園版",
+    "start": "2026-11-07",
+    "end": "2026-11-08",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2059834497252855809"
+  },
+  {
+    "id": "opentix-2059836421888937985",
+    "title": "2026臺南藝術節：複象公場《回家》",
+    "start": "2026-11-07",
+    "end": "2026-11-15",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2059836421888937985"
+  },
+  {
+    "id": "opentix-2059838198681296897",
+    "title": "2026臺南藝術節：雞屎藤舞蹈劇場 x 風乎舞雩舞團《雙舞作》",
+    "start": "2026-11-14",
+    "end": "2026-11-15",
+    "category": "dance",
+    "venue": "OpenTix",
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2059838198681296897"
+  },
+  {
+    "id": "opentix-2059908358721101824",
+    "title": "【2026臺北藝穗節】紅顏或水腫",
+    "start": "2026-08-15",
+    "end": "2026-08-18",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2059908358721101824"
   },
   {
     "id": "opentix-2059915436381380608",
@@ -7350,6 +7528,25 @@
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2060265544164958209"
+  },
+  {
+    "id": "opentix-2060308522436108289",
+    "title": "樹德科技大學表演藝術系第17屆畢業製作《失聲》",
+    "start": "2026-09-18",
+    "end": "2026-09-20",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2060308522436108289"
+  },
+  {
+    "id": "opentix-2061270084329291777",
+    "title": "《他鄉之聲》洪慈徽中提琴獨奏會",
+    "start": "2026-08-01",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2061270084329291777"
   },
   {
     "id": "opentix-2061287221999017984",
@@ -7390,6 +7587,25 @@
     "url": "https://www.opentix.life/event/2062001715672915969"
   },
   {
+    "id": "opentix-2062125403122442241",
+    "title": "『拾光·紀』鋼琴三重奏聯合音樂會",
+    "start": "2026-08-01",
+    "category": "classical",
+    "venue": "OpenTix",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2062125403122442241"
+  },
+  {
+    "id": "opentix-2062350124831883265",
+    "title": "臺南文化中心館慶《地動說──世界不是一幅靜物畫》",
+    "start": "2026-10-03",
+    "end": "2026-10-04",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Tainan",
+    "url": "https://www.opentix.life/event/2062350124831883265"
+  },
+  {
     "id": "opentix-2062415708472352769",
     "title": "【兩廳院會員專屬-藝術學不停】音樂中的混血王子— 爵士樂的流動與變身",
     "start": "2026-07-16",
@@ -7397,6 +7613,16 @@
     "venue": "OpenTix",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2062415708472352769"
+  },
+  {
+    "id": "opentix-2062737713461436417",
+    "title": "【2026臺北藝穗節】漂浮的人",
+    "start": "2026-08-16",
+    "end": "2026-08-20",
+    "category": "theater",
+    "venue": "OpenTix",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2062737713461436417"
   },
   {
     "id": "opentix-1863403624657735681",
