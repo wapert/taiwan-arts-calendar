@@ -10,26 +10,6 @@
     "url": "https://www.npac-ntt.org/program/events/c-oVqH2iMOazf"
   },
   {
-    "id": "ntt-c-PY9pF2tDaZ8",
-    "title": "2026 NTT充電夜—音樂劇工作坊",
-    "start": "2026-04-06",
-    "end": "2026-06-08",
-    "category": "theater",
-    "venue": "國家歌劇院・排練室1",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-PY9pF2tDaZ8"
-  },
-  {
-    "id": "ntt-c-2OvfpS9N6Z0",
-    "title": "2026光之曲幕 X DJ Friday Night《聲．光．域》",
-    "start": "2026-05-15",
-    "end": "2026-06-12",
-    "category": "theater",
-    "venue": "國家歌劇院・二樓大劇院前廳",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-2OvfpS9N6Z0"
-  },
-  {
     "id": "ntt-c-c8X26ZsgNz1",
     "title": "閱讀小劇點《小花國王》親子系列活動",
     "start": "2026-06-14",
@@ -74,6 +54,15 @@
     "venue": "國家歌劇院・角落沙龍",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-512YJ4U9OAK"
+  },
+  {
+    "id": "ntt-c-q1MNStWiBTo",
+    "title": "【主題講座】科技之後，回到人：劇場的現場與連結",
+    "start": "2026-07-05",
+    "category": "workshop",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-q1MNStWiBTo"
   },
   {
     "id": "ntt-c-kboz8xw2UFj",
@@ -124,6 +113,15 @@
     "venue": "國家歌劇院・排練室1",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-48LMKCGSdIm"
+  },
+  {
+    "id": "ntt-c-BY8FN36RE7X",
+    "title": "【主題講座】韓劇之外的瘋狂：為什麼全世界都在看韓國音樂劇？",
+    "start": "2026-07-24",
+    "category": "theater",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-BY8FN36RE7X"
   },
   {
     "id": "ntt-c-qDEYbQFToN0",

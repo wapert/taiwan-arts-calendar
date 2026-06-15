@@ -1,5 +1,32 @@
 [
   {
+    "id": "legacy-3192",
+    "title": "muque LIVE TOUR 2026 “GLHF” IN TAIPEI",
+    "start": "2026-07-04",
+    "category": "pop",
+    "venue": "Legacy Taipei 音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3192"
+  },
+  {
+    "id": "legacy-3191",
+    "title": "小樂 吳思賢 BEN WU《還得是你 Beyond You》Live in Taipei",
+    "start": "2026-08-14",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3191"
+  },
+  {
+    "id": "legacy-3190",
+    "title": "回聲樂團：靈魂的回聲專輯首演",
+    "start": "2026-08-29",
+    "category": "pop",
+    "venue": "Legacy Taipei 音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3190"
+  },
+  {
     "id": "legacy-3189",
     "title": "2026 KIM MYUNGSOO (L) FAN-CON ASIA TOUR  IN TAIPEI",
     "start": "2026-07-19",
@@ -61,32 +88,5 @@
     "venue": "Legacy Taipei 音樂展演空間",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/taipei/3183"
-  },
-  {
-    "id": "legacy-3182",
-    "title": "三個不老擊敗之人生跑馬燈 LIVE SHOW",
-    "start": "2026-07-25",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3182"
-  },
-  {
-    "id": "legacy-3181",
-    "title": "never young beach Spring Tour 2026 in Taipei",
-    "start": "2026-07-17",
-    "category": "pop",
-    "venue": "Legacy Taipei",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3181"
-  },
-  {
-    "id": "legacy-3180",
-    "title": "Legacy Presents【2026鐵漢柔情】： 馬念先 櫻桃可樂的滋味－台中場",
-    "start": "2026-08-29",
-    "category": "pop",
-    "venue": "Legacy Taichung",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3180"
   }
 ]

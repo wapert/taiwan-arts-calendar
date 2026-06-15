@@ -10,6 +10,16 @@
     "url": "https://www.tmc.taipei/tw/blog/show/TMC-Permanent-Exhibition"
   },
   {
+    "id": "tmc-2026JAMJAMASIA",
+    "title": "2026 TRENDY TAIPEI 潮臺北 - JAM JAM ASIA 亞洲音樂節",
+    "start": "2026-08-29",
+    "end": "2026-08-30",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026JAMJAMASIA"
+  },
+  {
     "id": "tmc-FlyMeToTheMoonAndBack2025",
     "title": "《想你到月球－張雨生特展》線上特展 Fly Me to the Moon & Back",
     "start": "2025-09-30",
@@ -38,16 +48,6 @@
     "venue": "臺北流行音樂中心",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/2026TMCGoldenVoiceContest"
-  },
-  {
-    "id": "tmc-eE81fbBF2671",
-    "title": "國立臺北藝術大學【2026 感性啟蒙課程】",
-    "start": "2026-06-12",
-    "end": "2026-06-13",
-    "category": "workshop",
-    "venue": "臺北流行音樂中心・Live House D",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/eE81fbBF2671"
   },
   {
     "id": "tmc-topgun2026",
