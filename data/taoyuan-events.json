@@ -1,5 +1,122 @@
 [
   {
+    "id": "taoyuan-1654510",
+    "title": "2026桃園國際動漫大展",
+    "start": "2026-07-04",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654510"
+  },
+  {
+    "id": "taoyuan-1654554",
+    "title": "《墨綻芳華》桃園市書法學會會員聯展",
+    "start": "2026-07-29",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654554"
+  },
+  {
+    "id": "taoyuan-1654550",
+    "title": "《粉享.時光》 桃園市粉彩發展協會會員聯展",
+    "start": "2026-07-08",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654550"
+  },
+  {
+    "id": "taoyuan-1654546",
+    "title": "崔俊平油畫個展",
+    "start": "2026-07-08",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654546"
+  },
+  {
+    "id": "taoyuan-1654545",
+    "title": "《Ocean of 𝑀𝑒𝑖lody》× 桃園市立楊梅高中管樂團第24屆成果發表會",
+    "start": "2026-07-23",
+    "category": "classical",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654545"
+  },
+  {
+    "id": "taoyuan-1654544",
+    "title": "中大壢中管樂社第77屆成果發表Reverberation of Jebel",
+    "start": "2026-07-22",
+    "category": "classical",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654544"
+  },
+  {
+    "id": "taoyuan-1654534",
+    "title": "慶祝中華民國115年雙十國慶文化訪問團行前公演",
+    "start": "2026-07-25",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654534"
+  },
+  {
+    "id": "taoyuan-1654531",
+    "title": "《記憶．傷痕．希望》開森室內樂團2026故事音樂會",
+    "start": "2026-07-12",
+    "category": "classical",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654531"
+  },
+  {
+    "id": "taoyuan-1654524",
+    "title": "《好了啦！達康！》第十季第二集",
+    "start": "2026-07-11",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654524"
+  },
+  {
+    "id": "taoyuan-1654520",
+    "title": "弦著沒事來彈心",
+    "start": "2026-07-08",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654520"
+  },
+  {
+    "id": "taoyuan-1654512",
+    "title": "《Eclipse》武陵韓舞獨立成發會",
+    "start": "2026-07-06",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654512"
+  },
+  {
+    "id": "taoyuan-1651959",
+    "title": "無限創意表演團《美麗新世界》親子音樂劇",
+    "start": "2026-07-11",
+    "category": "theater",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1651959"
+  },
+  {
+    "id": "taoyuan-1643293",
+    "title": "2026桃園兒童藝術節 🎮想像力上線，冒險開始！🎮",
+    "start": "2026-07-04",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1643293"
+  },
+  {
     "id": "taoyuan-1638877",
     "title": "2026桃園閩南文化節–閩南藝術表演《劉全進瓜》，6/28在桃園藝文廣場經典重現！",
     "start": "2026-06-28",
@@ -52,96 +169,5 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1638167"
-  },
-  {
-    "id": "taoyuan-1636293",
-    "title": "中原文創園區 《即刻救原3-珍粽再見》",
-    "start": "2026-06-19",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1636293"
-  },
-  {
-    "id": "taoyuan-1635647",
-    "title": "「2026中華紗帽山畫會第28屆年度大展」 桃園文化局精彩呈現",
-    "start": "2026-06-17",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1635647"
-  },
-  {
-    "id": "taoyuan-1635646",
-    "title": "油彩記錄親子溫情「藝色自若—馮秀銀創作個展」 桃園文化局溫馨登場",
-    "start": "2026-06-17",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1635646"
-  },
-  {
-    "id": "taoyuan-1635645",
-    "title": "「許瑞龍書法與詩韻創作展—集古開薪」  桃園文化局隆重開展",
-    "start": "2026-06-17",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1635645"
-  },
-  {
-    "id": "taoyuan-1627903",
-    "title": "2026桃園閩南文化節  6/5-7/25",
-    "start": "2026-06-05",
-    "end": "2026-07-25",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1627903"
-  },
-  {
-    "id": "taoyuan-1623833",
-    "title": "東方•光•希望 ─ 台灣東方美學大展",
-    "start": "2026-06-24",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1623833"
-  },
-  {
-    "id": "taoyuan-1623023",
-    "title": "銀河谷音劇團—〔玩具國的奇幻之旅〕人偶舞台音樂劇",
-    "start": "2026-06-20",
-    "category": "theater",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1623023"
-  },
-  {
-    "id": "taoyuan-1621727",
-    "title": "【本節目適用文化幣】尊鵬國際有限公司《西遊記誤闖黑家店》",
-    "start": "2026-07-04",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1621727"
-  },
-  {
-    "id": "taoyuan-1621448",
-    "title": "中壢青少年管弦樂團第29次定期音樂會",
-    "start": "2026-07-19",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1621448"
-  },
-  {
-    "id": "taoyuan-1621446",
-    "title": "「搶救受飢兒」2026世界和平會兒童戲劇慈善公演",
-    "start": "2026-06-21",
-    "category": "theater",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1621446"
   }
 ]

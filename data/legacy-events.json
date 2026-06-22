@@ -1,5 +1,14 @@
 [
   {
+    "id": "legacy-3193",
+    "title": "閻奕格【逃生出口 Way Out巡迴演唱會 — 台北站】",
+    "start": "2026-08-23",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3193"
+  },
+  {
     "id": "legacy-3192",
     "title": "muque LIVE TOUR 2026 “GLHF” IN TAIPEI",
     "start": "2026-07-04",
@@ -79,14 +88,5 @@
     "venue": "Legacy Taipei 音樂展演空間",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/taipei/3184"
-  },
-  {
-    "id": "legacy-3183",
-    "title": "三個不老擊敗之人生跑馬燈 LIVE SHOW",
-    "start": "2026-07-25",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3183"
   }
 ]

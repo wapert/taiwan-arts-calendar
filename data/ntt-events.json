@@ -1,34 +1,5 @@
 [
   {
-    "id": "ntt-c-oVqH2iMOazf",
-    "title": "2026 後青年工作坊—音樂劇篇",
-    "start": "2026-04-06",
-    "end": "2026-06-15",
-    "category": "theater",
-    "venue": "國家歌劇院・排練室1",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-oVqH2iMOazf"
-  },
-  {
-    "id": "ntt-c-c8X26ZsgNz1",
-    "title": "閱讀小劇點《小花國王》親子系列活動",
-    "start": "2026-06-14",
-    "end": "2026-06-20",
-    "category": "theater",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-c8X26ZsgNz1"
-  },
-  {
-    "id": "ntt-c-j5T1h94mMiw",
-    "title": "【主題講座】孩子也會感到孤單嗎？— 從《月亮找朋友》談孩子的友情與陪伴",
-    "start": "2026-06-21",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-j5T1h94mMiw"
-  },
-  {
     "id": "ntt-c-Frn0cfJ69dN",
     "title": "《惠來走走—皮影篇》",
     "start": "2026-06-27",
@@ -39,7 +10,7 @@
   },
   {
     "id": "ntt-c-GxUomR7nHDu",
-    "title": "放肆夜 戶外電影《維沃的精彩生活》",
+    "title": "2026 放肆夜 戶外電影《維沃的精彩生活》",
     "start": "2026-07-02",
     "category": "workshop",
     "venue": "國家歌劇院・戶外劇場",
@@ -93,6 +64,15 @@
     "venue": "國家歌劇院・排練室1",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-Dwd1L2kU3Fj"
+  },
+  {
+    "id": "ntt-c-DLubFNZlqTP",
+    "title": "【主題講座】打破視與聽的邊界—複象公場的聾人劇場美學",
+    "start": "2026-07-17",
+    "category": "workshop",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-DLubFNZlqTP"
   },
   {
     "id": "ntt-c-siDVGjTCgQ9",
@@ -193,7 +173,7 @@
   },
   {
     "id": "ntt-c-xTy9jl1vfW0",
-    "title": "放肆夜 戶外電影《再見機器人》",
+    "title": "2026 放肆夜 戶外電影《再見機器人》",
     "start": "2026-08-27",
     "category": "workshop",
     "venue": "國家歌劇院・戶外劇場",
@@ -228,5 +208,32 @@
     "venue": "國家歌劇院・中劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-X1PHBzT0EVD"
+  },
+  {
+    "id": "ntt-c-0GD53CBlRZh",
+    "title": "2026 放肆夜 戶外電影《幸福綠皮書》",
+    "start": "2026-09-17",
+    "category": "workshop",
+    "venue": "國家歌劇院・戶外劇場",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-0GD53CBlRZh"
+  },
+  {
+    "id": "ntt-c-OLHvY1u46BA",
+    "title": "2026 放肆夜 戶外電影《紐約高地》",
+    "start": "2026-10-15",
+    "category": "workshop",
+    "venue": "國家歌劇院・戶外劇場",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-OLHvY1u46BA"
+  },
+  {
+    "id": "ntt-c-ubJaDxvw9Mf",
+    "title": "2026 放肆夜 戶外電影《媽媽咪呀！回來了》",
+    "start": "2026-11-12",
+    "category": "workshop",
+    "venue": "國家歌劇院・戶外劇場",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-ubJaDxvw9Mf"
   }
 ]

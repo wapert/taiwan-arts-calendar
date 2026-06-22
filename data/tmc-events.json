@@ -50,25 +50,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/2026TMCGoldenVoiceContest"
   },
   {
-    "id": "tmc-topgun2026",
-    "title": "《捍衛戰士：獨行俠》電影交響音樂會 Top Gun: Maverick in Concert",
-    "start": "2026-06-18",
-    "end": "2026-06-21",
-    "category": "classical",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/topgun2026"
-  },
-  {
-    "id": "tmc-Frozen2026",
-    "title": "迪士尼《冰雪奇緣》動畫交響音樂會 Disney in Concert: Frozen",
-    "start": "2026-06-20",
-    "category": "classical",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/Frozen2026"
-  },
-  {
     "id": "tmc-jonniesGALA",
     "title": "姜育恆的盛宴演唱會",
     "start": "2026-06-27",
@@ -76,6 +57,16 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/jonniesGALA"
+  },
+  {
+    "id": "tmc-TMCAcademyofConcerts2nd/GeneralCourses",
+    "title": "第二屆北流演唱會學院・通識課程",
+    "start": "2026-06-28",
+    "end": "2026-07-25",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・產業區",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/TMCAcademyofConcerts2nd/GeneralCourses"
   },
   {
     "id": "tmc-TMC-Academy-of-Concerts2026-2nd",
@@ -116,5 +107,14 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/crowdlu2026"
+  },
+  {
+    "id": "tmc-iKON2026",
+    "title": "iKON FOUREVER WORLD TOUR IN TAIPEI",
+    "start": "2026-07-18",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/iKON2026"
   }
 ]
