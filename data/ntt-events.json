@@ -1,14 +1,5 @@
 [
   {
-    "id": "ntt-c-Frn0cfJ69dN",
-    "title": "《惠來走走—皮影篇》",
-    "start": "2026-06-27",
-    "category": "theater",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-Frn0cfJ69dN"
-  },
-  {
     "id": "ntt-c-GxUomR7nHDu",
     "title": "2026 放肆夜 戶外電影《維沃的精彩生活》",
     "start": "2026-07-02",
@@ -191,6 +182,44 @@
     "url": "https://www.npac-ntt.org/program/events/c-XCQDhVaEO17"
   },
   {
+    "id": "ntt-c-zXwE01FBplQ",
+    "title": "2026 後青年工作坊—戲劇篇",
+    "start": "2026-08-31",
+    "end": "2026-11-16",
+    "category": "workshop",
+    "venue": "國家歌劇院・排練室1",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-zXwE01FBplQ"
+  },
+  {
+    "id": "ntt-c-PJj7sHUqcFh",
+    "title": "2026 NTT充電夜—戲劇工作坊",
+    "start": "2026-08-31",
+    "end": "2026-11-09",
+    "category": "workshop",
+    "venue": "國家歌劇院・排練室1",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-PJj7sHUqcFh"
+  },
+  {
+    "id": "ntt-c-QDb1yVujRfh",
+    "title": "跨越語言的文化轉譯：音樂劇劇本翻譯工作坊",
+    "start": "2026-09-03",
+    "category": "theater",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-QDb1yVujRfh"
+  },
+  {
+    "id": "ntt-c-0FvQo26iCDe",
+    "title": "從音符到舞台的關鍵推手：音樂執導示範講座",
+    "start": "2026-09-04",
+    "category": "workshop",
+    "venue": "國家歌劇院・排練室2",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-0FvQo26iCDe"
+  },
+  {
     "id": "ntt-c-xD63rMvHFpX",
     "title": "2026夏日放／FUN時光─躍演《勸世三姊妹》",
     "start": "2026-09-04",
@@ -199,6 +228,16 @@
     "venue": "國家歌劇院・大劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-xD63rMvHFpX"
+  },
+  {
+    "id": "ntt-c-l6P9EFxuIef",
+    "title": "2026 音樂劇產業國際論壇—音樂劇生態系的建構與未來",
+    "start": "2026-09-05",
+    "end": "2026-09-06",
+    "category": "theater",
+    "venue": "國家歌劇院・小劇場",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-l6P9EFxuIef"
   },
   {
     "id": "ntt-c-X1PHBzT0EVD",
@@ -217,6 +256,16 @@
     "venue": "國家歌劇院・戶外劇場",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-0GD53CBlRZh"
+  },
+  {
+    "id": "ntt-c-oAmPJ8WkXMa",
+    "title": "2026 NTT劇院展開《我的爵視金曲夜》",
+    "start": "2026-09-20",
+    "end": "2026-10-09",
+    "category": "theater",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-oAmPJ8WkXMa"
   },
   {
     "id": "ntt-c-OLHvY1u46BA",

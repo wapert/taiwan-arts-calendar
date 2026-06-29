@@ -50,15 +50,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/2026TMCGoldenVoiceContest"
   },
   {
-    "id": "tmc-jonniesGALA",
-    "title": "姜育恆的盛宴演唱會",
-    "start": "2026-06-27",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/jonniesGALA"
-  },
-  {
     "id": "tmc-TMCAcademyofConcerts2nd/GeneralCourses",
     "title": "第二屆北流演唱會學院・通識課程",
     "start": "2026-06-28",
@@ -77,6 +68,15 @@
     "venue": "臺北流行音樂中心・產業區",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/TMC-Academy-of-Concerts2026-2nd"
+  },
+  {
+    "id": "tmc-55252tmc",
+    "title": "MAX MAYDAYLAND in TAIPEI  台北站 5525+2｜北中南大串聯展",
+    "start": "2026-07-02",
+    "category": "exhibition",
+    "venue": "臺北流行音樂中心・文化館",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/55252tmc"
   },
   {
     "id": "tmc-globalchinesepopsongschart",
@@ -102,7 +102,7 @@
     "id": "tmc-crowdlu2026",
     "title": "盧廣仲 HeartBreakFast 傷心早餐店演唱會 2026 ver. 北高雙刀流",
     "start": "2026-07-10",
-    "end": "2026-07-11",
+    "end": "2026-07-12",
     "category": "pop",
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",

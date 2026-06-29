@@ -1,5 +1,35 @@
 [
   {
+    "id": "hsinchu-W+WxleimvV1bMjQx",
+    "title": "湧動墨潮-寫實藝術2026國際巡迴交流展",
+    "start": "2026-07-01",
+    "end": "2026-07-15",
+    "category": "exhibition",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606240001&t=Activity&mserno=201808270001"
+  },
+  {
+    "id": "hsinchu-W+WxleimvV1b5paH",
+    "title": "青溪傳藝會員聯展",
+    "start": "2026-07-01",
+    "end": "2026-07-12",
+    "category": "exhibition",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606160001&t=Activity&mserno=201808270001"
+  },
+  {
+    "id": "hsinchu-W+a0u+WLlV0xMTXl",
+    "title": "115年度「新竹市小小策展人培力夏令營」返鄉青年志工召募",
+    "start": "2026-08-15",
+    "end": "2026-08-19",
+    "category": "workshop",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606050002&t=Activity&mserno=202205270001"
+  },
+  {
     "id": "hsinchu-6ZaL5pS+5YCf55So",
     "title": "開放借用！新竹水道取水口展示館「水源小尋旅」親子學習背包",
     "start": "2026-06-17",
@@ -10,14 +40,14 @@
     "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606160005&t=Activity&mserno=201808290001"
   },
   {
-    "id": "hsinchu-W+WxleimvV1b5paH",
-    "title": "《北緯24度與38度間》",
-    "start": "2026-06-17",
-    "end": "2026-06-28",
+    "id": "hsinchu-W+WxleimvV1b5paw",
+    "title": "精靈在哪裡-用無價之寶做等價交換6/16展出至7/19",
+    "start": "2026-06-16",
+    "end": "2026-07-19",
     "category": "exhibition",
     "venue": "新竹市文化局",
     "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202605270001&t=Activity&mserno=201808270001"
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606160004&t=Activity&mserno=201810310007"
   },
   {
     "id": "hsinchu-W+WxleimvV1b576O",
@@ -70,33 +100,13 @@
     "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202604070001&t=Activity&mserno=201810310004"
   },
   {
-    "id": "hsinchu-W+ism+W6p11b5ryU",
-    "title": "修復再延伸│神社共學ｘUSR計畫",
-    "start": "2026-06-25",
-    "category": "workshop",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606220002&t=Activity&mserno=202205270001"
-  },
-  {
-    "id": "hsinchu-W+WxleimvV0gW+eO",
-    "title": "「《織光交會》掬光焙影·鶴在其間－林芳仕琉璃創作展及掠影－臺日玻璃藝術展」自115年6月26日(五)至10月4日(日)展出！",
-    "start": "2026-06-26",
-    "end": "2026-10-04",
-    "category": "exhibition",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606020002&t=Activity&mserno=201810310001"
-  },
-  {
     "id": "hsinchu-W+ihqOa8lF1b5ryU",
-    "title": "狂美《宮崎駿動畫配樂II》交響音樂會-2026暖心巡演",
-    "start": "2026-06-26",
-    "end": "2026-06-27",
+    "title": "2026竹塹國樂節 《開幕音樂會》新竹青年國樂團",
+    "start": "2026-07-04",
     "category": "classical",
     "venue": "新竹市文化局",
     "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202605220001&t=Activity&mserno=202205270002"
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606060007&t=Activity&mserno=201809060003"
   },
   {
     "id": "hsinchu-W+a0u+WLlV1bMjQx",
@@ -109,44 +119,14 @@
     "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606100002&t=Activity&mserno=201810310009"
   },
   {
-    "id": "hsinchu-W+a0u+WLlV0xMTXl",
-    "title": "115年度「新竹市小小策展人培力夏令營」返鄉青年志工召募",
-    "start": "2026-08-15",
-    "end": "2026-08-19",
-    "category": "workshop",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606050002&t=Activity&mserno=202205270001"
-  },
-  {
-    "id": "hsinchu-44CQ5bGV6Ka944CR",
-    "title": "【展覽】【鐵道藝術村】精靈在哪裡-用無價之寶做等價交換6/16展出至7/19",
-    "start": "2026-06-16",
-    "end": "2026-07-19",
+    "id": "hsinchu-W+WxleimvV0gW+eO",
+    "title": "「《織光交會》掬光焙影·鶴在其間－林芳仕琉璃創作展及掠影－臺日玻璃藝術展」自115年6月26日(五)至10月4日(日)展出！",
+    "start": "2026-06-26",
+    "end": "2026-10-04",
     "category": "exhibition",
     "venue": "新竹市文化局",
     "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606160004&t=Activity&mserno=201810310007"
-  },
-  {
-    "id": "hsinchu-W+WxleimvV1b5paw",
-    "title": "陳彥齊 個展 【co-co-co-co-co-co-】6月7日開展",
-    "start": "2026-06-07",
-    "end": "2026-07-19",
-    "category": "exhibition",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202605280002&t=Activity&mserno=201810310007"
-  },
-  {
-    "id": "hsinchu-W+W9seWxlV1b5b2x",
-    "title": "2026臺灣國際民族誌影展",
-    "start": "2026-06-05",
-    "end": "2026-06-28",
-    "category": "workshop",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606050001&t=Activity&mserno=201809060001"
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606020002&t=Activity&mserno=201810310001"
   },
   {
     "id": "hsinchu-W+a0u+WLlV0gW+aI",

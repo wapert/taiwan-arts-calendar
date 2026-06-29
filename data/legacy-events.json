@@ -1,5 +1,77 @@
 [
   {
+    "id": "legacy-3201",
+    "title": "BAND-MAID WORLD TOUR 2026 in Taipei",
+    "start": "2026-09-20",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3201"
+  },
+  {
+    "id": "legacy-3200",
+    "title": "That's My Shhh + 國語作業簿 Present： 「TM國2」",
+    "start": "2026-08-16",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3200"
+  },
+  {
+    "id": "legacy-3199",
+    "title": "Alexander Stewart Live in Taipei 2026",
+    "start": "2026-08-14",
+    "category": "pop",
+    "venue": "Legacy Taipei",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3199"
+  },
+  {
+    "id": "legacy-3198",
+    "title": "FLOW WORLD TOUR 2026",
+    "start": "2026-10-18",
+    "category": "pop",
+    "venue": "Legacy Taipei 音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3198"
+  },
+  {
+    "id": "legacy-3197",
+    "title": "2026 JAY B tape: roots taipei",
+    "start": "2026-08-02",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3197"
+  },
+  {
+    "id": "legacy-3196",
+    "title": "2026 RYEOWOOK'S AGIT CONCERT : DIVE TO BLUE in TAIPEI",
+    "start": "2026-08-01",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3196"
+  },
+  {
+    "id": "legacy-3195",
+    "title": "2026 RYEOWOOK'S AGIT CONCERT : DIVE TO BLUE in TAIPEI",
+    "start": "2026-07-31",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3195"
+  },
+  {
+    "id": "legacy-3194",
+    "title": "游宇潼 [天才在左 瘋子在右] 讚聲演唱會",
+    "start": "2026-07-24",
+    "category": "pop",
+    "venue": "Legacy Taipei",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3194"
+  },
+  {
     "id": "legacy-3193",
     "title": "閻奕格【逃生出口 Way Out巡迴演唱會 — 台北站】",
     "start": "2026-08-23",
@@ -16,77 +88,5 @@
     "venue": "Legacy Taipei 音樂展演空間",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/taipei/3192"
-  },
-  {
-    "id": "legacy-3191",
-    "title": "小樂 吳思賢 BEN WU《還得是你 Beyond You》Live in Taipei",
-    "start": "2026-08-14",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3191"
-  },
-  {
-    "id": "legacy-3190",
-    "title": "回聲樂團：靈魂的回聲專輯首演",
-    "start": "2026-08-29",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3190"
-  },
-  {
-    "id": "legacy-3189",
-    "title": "2026 KIM MYUNGSOO (L) FAN-CON ASIA TOUR  IN TAIPEI",
-    "start": "2026-07-19",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3189"
-  },
-  {
-    "id": "legacy-3188",
-    "title": "Lorna Shore Live in Taipei",
-    "start": "2026-10-04",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3188"
-  },
-  {
-    "id": "legacy-3187",
-    "title": "蕭景鴻Edy Hsiao《以我為名Who I Am》 New Album Live Tour",
-    "start": "2026-07-12",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3187"
-  },
-  {
-    "id": "legacy-3186",
-    "title": "蕭景鴻Edy Hsiao《以我為名Who I Am》 New Album Live Tour",
-    "start": "2026-07-11",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3186"
-  },
-  {
-    "id": "legacy-3185",
-    "title": "HowZ 2026 專場演唱會【Bloomin：最深的那一夜】",
-    "start": "2026-08-22",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3185"
-  },
-  {
-    "id": "legacy-3184",
-    "title": "曾心梅《天公疼憨人》演唱會",
-    "start": "2026-07-26",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3184"
   }
 ]
