@@ -1,32 +1,5 @@
 [
   {
-    "id": "ntt-c-GxUomR7nHDu",
-    "title": "2026 放肆夜 戶外電影《維沃的精彩生活》",
-    "start": "2026-07-02",
-    "category": "workshop",
-    "venue": "國家歌劇院・戶外劇場",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-GxUomR7nHDu"
-  },
-  {
-    "id": "ntt-c-512YJ4U9OAK",
-    "title": "【主題講座】人生下半場，我想這樣活！從《如蝶翩翩》談重新開始的勇氣！",
-    "start": "2026-07-05",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-512YJ4U9OAK"
-  },
-  {
-    "id": "ntt-c-q1MNStWiBTo",
-    "title": "【主題講座】科技之後，回到人：劇場的現場與連結",
-    "start": "2026-07-05",
-    "category": "workshop",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-q1MNStWiBTo"
-  },
-  {
     "id": "ntt-c-kboz8xw2UFj",
     "title": "2026夏日放／FUN時光—百老匯傳奇音樂劇《COMPANY》",
     "start": "2026-07-10",
@@ -45,6 +18,15 @@
     "venue": "國家歌劇院・小劇場",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-cvVbDaj0zmx"
+  },
+  {
+    "id": "ntt-c-sAJuNzBQdUM",
+    "title": "【主題講座】我的美麗由我定義！——你不知道的「變身」故事(化妝篇)",
+    "start": "2026-07-12",
+    "category": "workshop",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-sAJuNzBQdUM"
   },
   {
     "id": "ntt-c-Dwd1L2kU3Fj",

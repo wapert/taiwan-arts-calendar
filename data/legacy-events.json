@@ -1,5 +1,32 @@
 [
   {
+    "id": "legacy-3205",
+    "title": "Summer Lineup Concert 2026夏日限定舞台",
+    "start": "2026-08-09",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3205"
+  },
+  {
+    "id": "legacy-3203",
+    "title": "2026 洪佩瑜《開了又開》巡迴演唱會",
+    "start": "2026-09-18",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3203"
+  },
+  {
+    "id": "legacy-3202",
+    "title": "2026 洪佩瑜《開了又開》巡迴演唱會",
+    "start": "2026-09-05",
+    "category": "pop",
+    "venue": "Legacy Taichung",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3202"
+  },
+  {
     "id": "legacy-3201",
     "title": "BAND-MAID WORLD TOUR 2026 in Taipei",
     "start": "2026-09-20",
@@ -61,32 +88,5 @@
     "venue": "Legacy TERA",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/great/3195"
-  },
-  {
-    "id": "legacy-3194",
-    "title": "游宇潼 [天才在左 瘋子在右] 讚聲演唱會",
-    "start": "2026-07-24",
-    "category": "pop",
-    "venue": "Legacy Taipei",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3194"
-  },
-  {
-    "id": "legacy-3193",
-    "title": "閻奕格【逃生出口 Way Out巡迴演唱會 — 台北站】",
-    "start": "2026-08-23",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3193"
-  },
-  {
-    "id": "legacy-3192",
-    "title": "muque LIVE TOUR 2026 “GLHF” IN TAIPEI",
-    "start": "2026-07-04",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3192"
   }
 ]

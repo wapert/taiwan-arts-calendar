@@ -30,16 +30,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/FlyMeToTheMoonAndBack2025"
   },
   {
-    "id": "tmc-2026TAIPEIMUSICNON-STOP",
-    "title": "2026 臺北音樂不斷電 TAIPEI MUSIC NON-STOP",
-    "start": "2026-04-15",
-    "end": "2026-07-05",
-    "category": "pop",
-    "venue": "臺北流行音樂中心",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026TAIPEIMUSICNON-STOP"
-  },
-  {
     "id": "tmc-2026TMCGoldenVoiceContest",
     "title": "2026北流金舞台 歌唱大賽",
     "start": "2026-06-01",
@@ -70,15 +60,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/TMC-Academy-of-Concerts2026-2nd"
   },
   {
-    "id": "tmc-55252tmc",
-    "title": "MAX MAYDAYLAND in TAIPEI  台北站 5525+2｜北中南大串聯展",
-    "start": "2026-07-02",
-    "category": "exhibition",
-    "venue": "臺北流行音樂中心・文化館",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/55252tmc"
-  },
-  {
     "id": "tmc-globalchinesepopsongschart",
     "title": "《全球華語流行音樂金曲榜》",
     "start": "2026-07-03",
@@ -87,16 +68,6 @@
     "venue": "臺北流行音樂中心・Live House D",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/globalchinesepopsongschart"
-  },
-  {
-    "id": "tmc-Jaehyun2026",
-    "title": "JAEHYUN FAN-CON TOUR 〈 Mono〉 in TAIPEI",
-    "start": "2026-07-04",
-    "end": "2026-07-05",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/Jaehyun2026"
   },
   {
     "id": "tmc-crowdlu2026",
@@ -116,5 +87,25 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/iKON2026"
+  },
+  {
+    "id": "tmc-misia2026",
+    "title": "MISIA星空現場XIII GRAND HORIZON 台北公演",
+    "start": "2026-07-25",
+    "end": "2026-07-26",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/misia2026"
+  },
+  {
+    "id": "tmc-2026TCONCERT",
+    "title": "2026 T CONCERT《IDOL MEET FEST 偶像相遇祭》",
+    "start": "2026-08-01",
+    "end": "2026-08-02",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026TCONCERT"
   }
 ]

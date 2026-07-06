@@ -1,5 +1,23 @@
 [
   {
+    "id": "taoyuan-1690696",
+    "title": "115年桃園影藝講座第五場-謝錦綉 主講：人文攝影(旅拍面面觀)",
+    "start": "2026-07-13",
+    "category": "workshop",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1690696"
+  },
+  {
+    "id": "taoyuan-1685007",
+    "title": "✒️思念ê聲｜台語文學講座",
+    "start": "2026-07-12",
+    "category": "workshop",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1685007"
+  },
+  {
     "id": "taoyuan-1678154",
     "title": "「聲色流轉」2026桃園國樂節閉幕音樂會",
     "start": "2026-08-15",
@@ -54,15 +72,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1678149"
   },
   {
-    "id": "taoyuan-1669214",
-    "title": "【2026桃園地景藝術節開幕演出：優人神鼓《聽海之心》】",
-    "start": "2026-07-04",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1669214"
-  },
-  {
     "id": "taoyuan-1667304",
     "title": "陽明X振聲X六和X楊梅 四校聯合舞展《Grooving High》",
     "start": "2026-07-27",
@@ -90,15 +99,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1667299"
   },
   {
-    "id": "taoyuan-1667298",
-    "title": "2026桃園鐵玫瑰熱音賞複賽",
-    "start": "2026-07-04",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1667298"
-  },
-  {
     "id": "taoyuan-1667294",
     "title": "拾玖成韻-共譜青春 桃園市立福豐國中藝才國樂班第十屆畢業音樂會",
     "start": "2026-07-13",
@@ -106,24 +106,6 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1667294"
-  },
-  {
-    "id": "taoyuan-1665127",
-    "title": "新時代-慈文國中114學年度管樂團成果發表音樂會",
-    "start": "2026-07-05",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1665127"
-  },
-  {
-    "id": "taoyuan-1654510",
-    "title": "2026桃園國際動漫大展",
-    "start": "2026-07-04",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654510"
   },
   {
     "id": "taoyuan-1654554",
@@ -169,5 +151,14 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654544"
+  },
+  {
+    "id": "taoyuan-1654534",
+    "title": "慶祝中華民國115年雙十國慶文化訪問團行前公演",
+    "start": "2026-07-25",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654534"
   }
 ]

@@ -38,6 +38,25 @@
     "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=6963fb3e-f30d-4595-906b-f8a27f5f4ff9"
   },
   {
+    "id": "hchcc-466f46f0-27b6-4c0f-ac72-adfe22cb53d0",
+    "title": "榮興客家採茶劇團-2026精緻客家大戲展演《銅鑼響起時》",
+    "start": "2026-07-18",
+    "category": "theater",
+    "venue": "新竹縣文化局演藝廳",
+    "city": "Hsinchu",
+    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=466f46f0-27b6-4c0f-ac72-adfe22cb53d0"
+  },
+  {
+    "id": "hchcc-0e935906-d6a4-4667-85e1-e26083c51642",
+    "title": "2026新竹縣新響藝術季",
+    "start": "2026-07-11",
+    "end": "2026-10-31",
+    "category": "theater",
+    "venue": "新竹縣文化局演藝廳",
+    "city": "Hsinchu",
+    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=0e935906-d6a4-4667-85e1-e26083c51642"
+  },
+  {
     "id": "hchcc-4e48d056-7109-46e0-9603-340ab7c681c2",
     "title": "文化30《成長的「風」狂冒險》親子劇",
     "start": "2026-07-11",
@@ -45,15 +64,6 @@
     "venue": "新竹縣文化局演藝廳",
     "city": "Hsinchu",
     "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=4e48d056-7109-46e0-9603-340ab7c681c2"
-  },
-  {
-    "id": "hchcc-f9dd88d8-bb35-42ae-871b-480aca788df1",
-    "title": "雲豹國際有限公司-《環境教育繪本親子劇- 2026地球任務》",
-    "start": "2026-07-04",
-    "category": "theater",
-    "venue": "新竹縣文化局演藝廳",
-    "city": "Hsinchu",
-    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=f9dd88d8-bb35-42ae-871b-480aca788df1"
   },
   {
     "id": "hchcc-e6e01962-03a8-4a56-8992-31e305859d8f",

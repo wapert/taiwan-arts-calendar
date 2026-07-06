@@ -1,15 +1,5 @@
 [
   {
-    "id": "tpac-1759",
-    "title": "2026臺北兒童藝術節：《紙淘氣 逃出去》",
-    "start": "2026-07-01",
-    "end": "2026-07-04",
-    "category": "workshop",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1759"
-  },
-  {
     "id": "tpac-1774",
     "title": "2026臺北兒童藝術節：《閃亮貴賓犬》",
     "start": "2026-07-09",
@@ -227,16 +217,6 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/1850"
-  },
-  {
-    "id": "tpac-1866",
-    "title": "此刻、曾經與如果當時",
-    "start": "2026-08-14",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1866"
   },
   {
     "id": "tpac-1870",
@@ -1182,5 +1162,15 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/1944"
+  },
+  {
+    "id": "tpac-1949",
+    "title": "說實在",
+    "start": "2026-08-20",
+    "end": "2026-08-21",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1949"
   }
 ]
