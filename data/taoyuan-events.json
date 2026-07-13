@@ -1,21 +1,12 @@
 [
   {
-    "id": "taoyuan-1690696",
-    "title": "115年桃園影藝講座第五場-謝錦綉 主講：人文攝影(旅拍面面觀)",
-    "start": "2026-07-13",
-    "category": "workshop",
+    "id": "taoyuan-1708675",
+    "title": "翻轉經典－金喇叭宮崎駿狂想",
+    "start": "2026-08-22",
+    "category": "exhibition",
     "venue": "桃園市文化局",
     "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1690696"
-  },
-  {
-    "id": "taoyuan-1685007",
-    "title": "✒️思念ê聲｜台語文學講座",
-    "start": "2026-07-12",
-    "category": "workshop",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1685007"
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1708675"
   },
   {
     "id": "taoyuan-1678154",
@@ -90,15 +81,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1667301"
   },
   {
-    "id": "taoyuan-1667299",
-    "title": "奧斯汀美語2026ESG公益讀者劇場",
-    "start": "2026-07-12",
-    "category": "theater",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1667299"
-  },
-  {
     "id": "taoyuan-1667294",
     "title": "拾玖成韻-共譜青春 桃園市立福豐國中藝才國樂班第十屆畢業音樂會",
     "start": "2026-07-13",
@@ -117,24 +99,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654554"
   },
   {
-    "id": "taoyuan-1654550",
-    "title": "《粉享.時光》 桃園市粉彩發展協會會員聯展",
-    "start": "2026-07-08",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654550"
-  },
-  {
-    "id": "taoyuan-1654546",
-    "title": "崔俊平油畫個展",
-    "start": "2026-07-08",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654546"
-  },
-  {
     "id": "taoyuan-1654545",
     "title": "《Ocean of 𝑀𝑒𝑖lody》× 桃園市立楊梅高中管樂團第24屆成果發表會",
     "start": "2026-07-23",
@@ -142,23 +106,5 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654545"
-  },
-  {
-    "id": "taoyuan-1654544",
-    "title": "中大壢中管樂社第77屆成果發表Reverberation of Jebel",
-    "start": "2026-07-22",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654544"
-  },
-  {
-    "id": "taoyuan-1654534",
-    "title": "慶祝中華民國115年雙十國慶文化訪問團行前公演",
-    "start": "2026-07-25",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1654534"
   }
 ]

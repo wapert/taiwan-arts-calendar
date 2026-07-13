@@ -1,92 +1,92 @@
 [
   {
-    "id": "legacy-3205",
-    "title": "Summer Lineup Concert 2026夏日限定舞台",
-    "start": "2026-08-09",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3205"
-  },
-  {
-    "id": "legacy-3203",
-    "title": "2026 洪佩瑜《開了又開》巡迴演唱會",
-    "start": "2026-09-18",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3203"
-  },
-  {
-    "id": "legacy-3202",
-    "title": "2026 洪佩瑜《開了又開》巡迴演唱會",
-    "start": "2026-09-05",
-    "category": "pop",
-    "venue": "Legacy Taichung",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3202"
-  },
-  {
-    "id": "legacy-3201",
-    "title": "BAND-MAID WORLD TOUR 2026 in Taipei",
-    "start": "2026-09-20",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3201"
-  },
-  {
-    "id": "legacy-3200",
-    "title": "That's My Shhh + 國語作業簿 Present： 「TM國2」",
-    "start": "2026-08-16",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3200"
-  },
-  {
-    "id": "legacy-3199",
-    "title": "Alexander Stewart Live in Taipei 2026",
-    "start": "2026-08-14",
+    "id": "legacy-3222",
+    "title": "熊仔 Kumachan 《人格特化療程→0》演唱會",
+    "start": "2026-07-19",
     "category": "pop",
     "venue": "Legacy Taipei",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3199"
+    "url": "https://www.legacy.com.tw/article/page/taipei/3222"
   },
   {
-    "id": "legacy-3198",
-    "title": "FLOW WORLD TOUR 2026",
-    "start": "2026-10-18",
+    "id": "legacy-3221",
+    "title": "熊仔 Kumachan 《人格特化療程→0》演唱會",
+    "start": "2026-07-18",
+    "category": "pop",
+    "venue": "Legacy Taipei",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3221"
+  },
+  {
+    "id": "legacy-3220",
+    "title": "From MO to TPE｜好耐冇見老友記｜Theseus忒修斯 + 青原 Fida",
+    "start": "2026-09-27",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3220"
+  },
+  {
+    "id": "legacy-3219",
+    "title": "我們搖滾——無妄合作社十週年演唱會",
+    "start": "2026-08-15",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3219"
+  },
+  {
+    "id": "legacy-3218",
+    "title": "163braces 小劇場：夏天的尾巴",
+    "start": "2026-08-30",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3218"
+  },
+  {
+    "id": "legacy-3217",
+    "title": "台中場｜艾蜜莉AMILI《悲劇演員：絕地反彈》",
+    "start": "2026-08-08",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3217"
+  },
+  {
+    "id": "legacy-3216",
+    "title": "Diana Wang 王詩安《AURORA極光 演唱會》台中場",
+    "start": "2026-07-18",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3216"
+  },
+  {
+    "id": "legacy-3215",
+    "title": "傻子與白痴《笨笨的事情 Foolish Things》台北場",
+    "start": "2026-08-07",
     "category": "pop",
     "venue": "Legacy Taipei 音樂展演空間",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3198"
+    "url": "https://www.legacy.com.tw/article/page/taipei/3215"
   },
   {
-    "id": "legacy-3197",
-    "title": "2026 JAY B tape: roots taipei",
+    "id": "legacy-3214",
+    "title": "傻子與白痴《笨笨的事情 Foolish Things》台中場",
     "start": "2026-08-02",
     "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3197"
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3214"
   },
   {
-    "id": "legacy-3196",
-    "title": "2026 RYEOWOOK'S AGIT CONCERT : DIVE TO BLUE in TAIPEI",
-    "start": "2026-08-01",
+    "id": "legacy-3213",
+    "title": "Legacy Presents【2026鐵漢柔情】陳建年《沒有不見，只是在田裡忙》-台中場",
+    "start": "2026-08-09",
     "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3196"
-  },
-  {
-    "id": "legacy-3195",
-    "title": "2026 RYEOWOOK'S AGIT CONCERT : DIVE TO BLUE in TAIPEI",
-    "start": "2026-07-31",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3195"
+    "venue": "Legacy Taichung  傳音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3213"
   }
 ]

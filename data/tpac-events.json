@@ -1,35 +1,5 @@
 [
   {
-    "id": "tpac-1774",
-    "title": "2026臺北兒童藝術節：《閃亮貴賓犬》",
-    "start": "2026-07-09",
-    "end": "2026-07-11",
-    "category": "workshop",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1774"
-  },
-  {
-    "id": "tpac-1747",
-    "title": "狂美《宮崎駿動畫配樂II》交響音樂會-2026暖心巡演",
-    "start": "2026-07-10",
-    "end": "2026-07-11",
-    "category": "classical",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1747"
-  },
-  {
-    "id": "tpac-1773",
-    "title": "2026臺北兒童藝術節：《豆花公劇場版－拍斷手骨顛倒勇》",
-    "start": "2026-07-10",
-    "end": "2026-07-11",
-    "category": "workshop",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1773"
-  },
-  {
     "id": "tpac-1422",
     "title": "2026臺北兒童藝術節：《幾米男孩的100次勇敢》",
     "start": "2026-07-16",
@@ -219,34 +189,14 @@
     "url": "https://tpac.org.taipei/program/1850"
   },
   {
-    "id": "tpac-1870",
-    "title": "ㄐㄧㄣˋ ㄒㄧㄤ",
+    "id": "tpac-1866",
+    "title": "此刻、曾經與如果當時",
     "start": "2026-08-14",
-    "end": "2026-08-29",
+    "end": "2026-08-15",
     "category": "theater",
     "venue": "台北表演藝術中心",
     "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1870"
-  },
-  {
-    "id": "tpac-1873",
-    "title": "《他抓走的他》推理互動劇場",
-    "start": "2026-08-14",
-    "end": "2026-08-27",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1873"
-  },
-  {
-    "id": "tpac-1874",
-    "title": "可寵",
-    "start": "2026-08-14",
-    "end": "2026-08-29",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1874"
+    "url": "https://tpac.org.taipei/program/1866"
   },
   {
     "id": "tpac-1879",

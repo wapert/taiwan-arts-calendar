@@ -1,34 +1,5 @@
 [
   {
-    "id": "ntt-c-kboz8xw2UFj",
-    "title": "2026夏日放／FUN時光—百老匯傳奇音樂劇《COMPANY》",
-    "start": "2026-07-10",
-    "end": "2026-07-12",
-    "category": "theater",
-    "venue": "國家歌劇院・大劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-kboz8xw2UFj"
-  },
-  {
-    "id": "ntt-c-cvVbDaj0zmx",
-    "title": "2026夏日放／FUN時光─義大利光影生活劇場╳羅馬芭蕾舞團《小花國王》",
-    "start": "2026-07-11",
-    "end": "2026-07-12",
-    "category": "dance",
-    "venue": "國家歌劇院・小劇場",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-cvVbDaj0zmx"
-  },
-  {
-    "id": "ntt-c-sAJuNzBQdUM",
-    "title": "【主題講座】我的美麗由我定義！——你不知道的「變身」故事(化妝篇)",
-    "start": "2026-07-12",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-sAJuNzBQdUM"
-  },
-  {
     "id": "ntt-c-Dwd1L2kU3Fj",
     "title": "玩．劇場—親子工作坊：偶戲篇",
     "start": "2026-07-13",
@@ -58,6 +29,15 @@
     "url": "https://www.npac-ntt.org/program/events/c-siDVGjTCgQ9"
   },
   {
+    "id": "ntt-c-Vj0vgsfrGi8",
+    "title": "【主題講座】從曲牆到城市：歌劇院與臺中的共生故事",
+    "start": "2026-07-19",
+    "category": "opera",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-Vj0vgsfrGi8"
+  },
+  {
     "id": "ntt-c-48LMKCGSdIm",
     "title": "玩．劇場－青少年創意工坊：舞蹈劇場篇",
     "start": "2026-07-21",
@@ -85,6 +65,15 @@
     "venue": "國家歌劇院・中劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-qDEYbQFToN0"
+  },
+  {
+    "id": "ntt-c-FNkLeMqYtTZ",
+    "title": "【主題講座】我的美麗由我定義！——你不知道的「變身」故事(假髮篇)",
+    "start": "2026-07-25",
+    "category": "workshop",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-FNkLeMqYtTZ"
   },
   {
     "id": "ntt-c-1PF0C4Axzf7",
