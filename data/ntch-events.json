@@ -1,142 +1,5 @@
 [
   {
-    "id": "ntch-30007",
-    "title": "NSO歌劇音樂會《女武神》",
-    "start": "2026-07-13",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/1994031454646419457"
-  },
-  {
-    "id": "ntch-29349",
-    "title": "《魔女宅急便》音樂劇",
-    "start": "2026-07-13",
-    "end": "2026-07-19",
-    "category": "theater",
-    "venue": "國家兩廳院・國家戲劇院",
-    "city": "Taipei",
-    "url": "https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P1AH1KJY"
-  },
-  {
-    "id": "ntch-28808",
-    "title": "貝爾塔・蘿哈斯 & 福田進一",
-    "start": "2026-07-13",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2032807346478997505"
-  },
-  {
-    "id": "ntch-28881",
-    "title": "第九屆臺灣國際吉他大賽—青少年組、公開組《決賽》",
-    "start": "2026-07-16",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2033155168445292545"
-  },
-  {
-    "id": "ntch-28878",
-    "title": "IX臺灣國際吉他藝術節2026《劉士堉&安德烈亞．維提斯 》",
-    "start": "2026-07-16",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://npac-ntch.org/zh/programs/28878"
-  },
-  {
-    "id": "ntch-29944",
-    "title": "2026新逸交響樂團年度公演",
-    "start": "2026-07-16",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1AOGU29"
-  },
-  {
-    "id": "ntch-29043",
-    "title": "【絲弦情LXXIV】歐文・安德希爾與小巨人絲竹樂團",
-    "start": "2026-07-17",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2045429906712899585"
-  },
-  {
-    "id": "ntch-29371",
-    "title": "《聲光幾何》許瀞心與台北室內合唱團",
-    "start": "2026-07-17",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2042970920990081025"
-  },
-  {
-    "id": "ntch-30520",
-    "title": "阿甯咕劇團《阿甯咕這一家》",
-    "start": "2026-07-18",
-    "end": "2026-07-19",
-    "category": "theater",
-    "venue": "國家兩廳院・實驗劇場",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/1838790350579732481"
-  },
-  {
-    "id": "ntch-29185",
-    "title": "2026涴莎室內樂：《 Hey! Bach 》弦樂三重奏",
-    "start": "2026-07-18",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2051917649196290049"
-  },
-  {
-    "id": "ntch-28932",
-    "title": "喜愛的歌III：故鄉與遠方",
-    "start": "2026-07-18",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2044603264688119809"
-  },
-  {
-    "id": "ntch-28950",
-    "title": "福爾摩沙愛樂年度音樂會 -《吟嘯且徐行》",
-    "start": "2026-07-18",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2039538161585565697"
-  },
-  {
-    "id": "ntch-29207",
-    "title": "聲影之景",
-    "start": "2026-07-19",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2044576856361332737?srsltid=AfmBOoqdVm7i4FDKEaxiKHdfmoBMt4wGTjvzyEGeU0UEINEYZKqVTG7J"
-  },
-  {
-    "id": "ntch-29203",
-    "title": "台大合唱團 2026 夏季音樂會《不孤單》",
-    "start": "2026-07-19",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2043550896592322561"
-  },
-  {
-    "id": "ntch-30561",
-    "title": "托爾斯泰的歌單",
-    "start": "2026-07-19",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2059124150571868160"
-  },
-  {
     "id": "ntch-29231",
     "title": "量子脈動Casey Cangelosi 打擊樂獨奏會",
     "start": "2026-07-20",
@@ -200,15 +63,6 @@
     "url": "https://www.opentix.life/event/2041373802813747201"
   },
   {
-    "id": "ntch-29011",
-    "title": "2＋2＝蔡世柔林子程DUO四手聯彈音樂會之歐遊列國",
-    "start": "2026-07-23",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2055220297595113473"
-  },
-  {
     "id": "ntch-29279",
     "title": "2026東京佼成管樂團音樂會_台灣站",
     "start": "2026-07-24",
@@ -253,6 +107,24 @@
     "venue": "國家兩廳院・演奏廳",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2049394726795116545"
+  },
+  {
+    "id": "ntch-30274",
+    "title": "國泰雲門隨行吧　雲門戶外公演《關不掉的耳朵》",
+    "start": "2026-07-25",
+    "category": "dance",
+    "venue": "國家兩廳院・藝文廣場",
+    "city": "Taipei",
+    "url": "https://www.cloudgate.org.tw/cg/dance_production/AllEars"
+  },
+  {
+    "id": "ntch-28928",
+    "title": "2026 第十七屆 國際芭蕾舞星在台北",
+    "start": "2026-07-26",
+    "category": "dance",
+    "venue": "國家兩廳院・國家戲劇院",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2062524793913843713"
   },
   {
     "id": "ntch-29197",
@@ -456,7 +328,7 @@
     "category": "theater",
     "venue": "國家兩廳院・國家戲劇院",
     "city": "Taipei",
-    "url": "https://www.opentix.life/event/2039189921337430017"
+    "url": "https://www.opentix.life/event/2051591825313611777"
   },
   {
     "id": "ntch-29019",
@@ -868,6 +740,16 @@
     "venue": "國家兩廳院・演奏廳",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2063900292835328001"
+  },
+  {
+    "id": "ntch-29472",
+    "title": "AM創意2026《綠野仙蹤》中文版音樂劇",
+    "start": "2026-09-05",
+    "end": "2026-09-06",
+    "category": "theater",
+    "venue": "國家兩廳院・國家戲劇院",
+    "city": "Taipei",
+    "url": "https://tixfun.com/UTK0201_?PRODUCT_ID=Q02769PR"
   },
   {
     "id": "ntch-28907",

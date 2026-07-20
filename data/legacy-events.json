@@ -1,21 +1,30 @@
 [
   {
-    "id": "legacy-3222",
-    "title": "熊仔 Kumachan 《人格特化療程→0》演唱會",
-    "start": "2026-07-19",
+    "id": "legacy-3225",
+    "title": "THE RAMPAGE PREMIUM LIVE EVENT 2026 in TAIPEI",
+    "start": "2026-09-26",
     "category": "pop",
-    "venue": "Legacy Taipei",
+    "venue": "Legacy TERA",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3222"
+    "url": "https://www.legacy.com.tw/article/page/great/3225"
   },
   {
-    "id": "legacy-3221",
-    "title": "熊仔 Kumachan 《人格特化療程→0》演唱會",
-    "start": "2026-07-18",
+    "id": "legacy-3224",
+    "title": "THE RAMPAGE PREMIUM LIVE EVENT 2026 in TAIPEI",
+    "start": "2026-09-25",
     "category": "pop",
-    "venue": "Legacy Taipei",
+    "venue": "Legacy TERA",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3221"
+    "url": "https://www.legacy.com.tw/article/page/great/3224"
+  },
+  {
+    "id": "legacy-3223",
+    "title": "質感流氓《你知道什麼狀況》專輯發行派對",
+    "start": "2026-09-04",
+    "category": "pop",
+    "venue": "Legacy Taipei 傳音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3223"
   },
   {
     "id": "legacy-3220",
@@ -52,41 +61,5 @@
     "venue": "Legacy Taichung 音樂展演空間",
     "city": "Taichung",
     "url": "https://www.legacy.com.tw/article/page/taichung/3217"
-  },
-  {
-    "id": "legacy-3216",
-    "title": "Diana Wang 王詩安《AURORA極光 演唱會》台中場",
-    "start": "2026-07-18",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3216"
-  },
-  {
-    "id": "legacy-3215",
-    "title": "傻子與白痴《笨笨的事情 Foolish Things》台北場",
-    "start": "2026-08-07",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3215"
-  },
-  {
-    "id": "legacy-3214",
-    "title": "傻子與白痴《笨笨的事情 Foolish Things》台中場",
-    "start": "2026-08-02",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3214"
-  },
-  {
-    "id": "legacy-3213",
-    "title": "Legacy Presents【2026鐵漢柔情】陳建年《沒有不見，只是在田裡忙》-台中場",
-    "start": "2026-08-09",
-    "category": "pop",
-    "venue": "Legacy Taichung  傳音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3213"
   }
 ]

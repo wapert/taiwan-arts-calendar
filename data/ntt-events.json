@@ -1,43 +1,5 @@
 [
   {
-    "id": "ntt-c-Dwd1L2kU3Fj",
-    "title": "玩．劇場—親子工作坊：偶戲篇",
-    "start": "2026-07-13",
-    "end": "2026-07-19",
-    "category": "traditional",
-    "venue": "國家歌劇院・排練室1",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-Dwd1L2kU3Fj"
-  },
-  {
-    "id": "ntt-c-DLubFNZlqTP",
-    "title": "【主題講座】打破視與聽的邊界—複象公場的聾人劇場美學",
-    "start": "2026-07-17",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-DLubFNZlqTP"
-  },
-  {
-    "id": "ntt-c-siDVGjTCgQ9",
-    "title": "2026夏日放／FUN時光—苗北客家流行音樂劇《那一天，彩虹出現》2026重磅回歸",
-    "start": "2026-07-18",
-    "end": "2026-07-19",
-    "category": "theater",
-    "venue": "國家歌劇院・中劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-siDVGjTCgQ9"
-  },
-  {
-    "id": "ntt-c-Vj0vgsfrGi8",
-    "title": "【主題講座】從曲牆到城市：歌劇院與臺中的共生故事",
-    "start": "2026-07-19",
-    "category": "opera",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-Vj0vgsfrGi8"
-  },
-  {
     "id": "ntt-c-48LMKCGSdIm",
     "title": "玩．劇場－青少年創意工坊：舞蹈劇場篇",
     "start": "2026-07-21",

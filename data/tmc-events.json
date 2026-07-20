@@ -70,25 +70,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/globalchinesepopsongschart"
   },
   {
-    "id": "tmc-crowdlu2026",
-    "title": "盧廣仲 HeartBreakFast 傷心早餐店演唱會 2026 ver. 北高雙刀流",
-    "start": "2026-07-12",
-    "end": "2026-07-14",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/crowdlu2026"
-  },
-  {
-    "id": "tmc-iKON2026",
-    "title": "iKON FOUREVER WORLD TOUR IN TAIPEI",
-    "start": "2026-07-18",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/iKON2026"
-  },
-  {
     "id": "tmc-misia2026",
     "title": "MISIA星空現場XIII GRAND HORIZON 台北公演",
     "start": "2026-07-25",
@@ -97,6 +78,24 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/misia2026"
+  },
+  {
+    "id": "tmc-2026OpenLab/carpenbros",
+    "title": "木匠兄弟世紀大活動！",
+    "start": "2026-07-25",
+    "category": "workshop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/carpenbros"
+  },
+  {
+    "id": "tmc-2026OpenLab/AidenChen",
+    "title": "Aiden Chen 首場專場《Blooming Haze》",
+    "start": "2026-07-26",
+    "category": "workshop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/AidenChen"
   },
   {
     "id": "tmc-2026TCONCERT",

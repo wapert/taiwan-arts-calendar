@@ -10,6 +10,24 @@
     "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=ed2eff5a-c793-4f76-81c5-200f17d41f34"
   },
   {
+    "id": "hchcc-af8a65c4-7f2b-48ed-a5ca-d7ee18da4334",
+    "title": "財團法人擊樂文教基金會-【朱宗慶打擊樂團２】2026豆莢寶寶兒童音樂會《咻咻～魔幻擊樂秀》",
+    "start": "2026-09-06",
+    "category": "classical",
+    "venue": "新竹縣文化局演藝廳",
+    "city": "Hsinchu",
+    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=af8a65c4-7f2b-48ed-a5ca-d7ee18da4334"
+  },
+  {
+    "id": "hchcc-2a8b194f-a254-4cc8-8442-8b086bc9e096",
+    "title": "台北曲藝團-2026臺北相聲大會",
+    "start": "2026-09-05",
+    "category": "theater",
+    "venue": "新竹縣文化局演藝廳",
+    "city": "Hsinchu",
+    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=2a8b194f-a254-4cc8-8442-8b086bc9e096"
+  },
+  {
     "id": "hchcc-90171eb8-9aa2-4bc2-ad2e-62d0bc7f3efe",
     "title": "巴雀藝術-陳必先×巴雀Camerata Taiwan《交響之路．壹》",
     "start": "2026-08-15",
@@ -36,15 +54,6 @@
     "venue": "新竹縣文化局演藝廳",
     "city": "Hsinchu",
     "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=6963fb3e-f30d-4595-906b-f8a27f5f4ff9"
-  },
-  {
-    "id": "hchcc-466f46f0-27b6-4c0f-ac72-adfe22cb53d0",
-    "title": "榮興客家採茶劇團-2026精緻客家大戲展演《銅鑼響起時》",
-    "start": "2026-07-18",
-    "category": "theater",
-    "venue": "新竹縣文化局演藝廳",
-    "city": "Hsinchu",
-    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=466f46f0-27b6-4c0f-ac72-adfe22cb53d0"
   },
   {
     "id": "hchcc-0e935906-d6a4-4667-85e1-e26083c51642",
