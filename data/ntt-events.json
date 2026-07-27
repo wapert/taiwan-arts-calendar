@@ -1,43 +1,5 @@
 [
   {
-    "id": "ntt-c-48LMKCGSdIm",
-    "title": "玩．劇場－青少年創意工坊：舞蹈劇場篇",
-    "start": "2026-07-21",
-    "end": "2026-07-26",
-    "category": "dance",
-    "venue": "國家歌劇院・排練室1",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-48LMKCGSdIm"
-  },
-  {
-    "id": "ntt-c-BY8FN36RE7X",
-    "title": "【主題講座】韓劇之外的瘋狂：為什麼全世界都在看韓國音樂劇？",
-    "start": "2026-07-24",
-    "category": "theater",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-BY8FN36RE7X"
-  },
-  {
-    "id": "ntt-c-qDEYbQFToN0",
-    "title": "2026 夏日放／FUN時光─韓國音樂劇《如蝶翩翩》",
-    "start": "2026-07-25",
-    "end": "2026-07-26",
-    "category": "theater",
-    "venue": "國家歌劇院・中劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-qDEYbQFToN0"
-  },
-  {
-    "id": "ntt-c-FNkLeMqYtTZ",
-    "title": "【主題講座】我的美麗由我定義！——你不知道的「變身」故事(假髮篇)",
-    "start": "2026-07-25",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-FNkLeMqYtTZ"
-  },
-  {
     "id": "ntt-c-1PF0C4Axzf7",
     "title": "2026 NTT+╳勇源—音樂劇線上：新起之秀",
     "start": "2026-07-27",
@@ -46,6 +8,16 @@
     "venue": "國家歌劇院・排練室2",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-1PF0C4Axzf7"
+  },
+  {
+    "id": "ntt-c-nPjai2Bd6YI",
+    "title": "時刻在藝起：NTT10週年回顧展",
+    "start": "2026-07-01",
+    "end": "2026-11-01",
+    "category": "theater",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
   },
   {
     "id": "ntt-c-B4WfM72RsKt",
@@ -84,6 +56,15 @@
     "venue": "國家歌劇院・小劇場",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-yZk59HD3MVE"
+  },
+  {
+    "id": "ntt-c-0ZLFNBxudjt",
+    "title": "【主題講座】有些愛不需要聲音—從聾人家庭到手語表演",
+    "start": "2026-08-08",
+    "category": "workshop",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-0ZLFNBxudjt"
   },
   {
     "id": "ntt-c-r9LAhpimgP7",

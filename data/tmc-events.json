@@ -40,16 +40,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/2026TMCGoldenVoiceContest"
   },
   {
-    "id": "tmc-TMCAcademyofConcerts2nd/GeneralCourses",
-    "title": "第二屆北流演唱會學院・通識課程",
-    "start": "2026-06-28",
-    "end": "2026-07-25",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・產業區",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/TMCAcademyofConcerts2nd/GeneralCourses"
-  },
-  {
     "id": "tmc-TMC-Academy-of-Concerts2026-2nd",
     "title": "2026 第二屆北流演唱會學院 — Make it Live！｜開放報名",
     "start": "2026-06-28",
@@ -70,34 +60,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/globalchinesepopsongschart"
   },
   {
-    "id": "tmc-misia2026",
-    "title": "MISIA星空現場XIII GRAND HORIZON 台北公演",
-    "start": "2026-07-25",
-    "end": "2026-07-26",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/misia2026"
-  },
-  {
-    "id": "tmc-2026OpenLab/carpenbros",
-    "title": "木匠兄弟世紀大活動！",
-    "start": "2026-07-25",
-    "category": "workshop",
-    "venue": "臺北流行音樂中心・Live House D",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/carpenbros"
-  },
-  {
-    "id": "tmc-2026OpenLab/AidenChen",
-    "title": "Aiden Chen 首場專場《Blooming Haze》",
-    "start": "2026-07-26",
-    "category": "workshop",
-    "venue": "臺北流行音樂中心・Live House D",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/AidenChen"
-  },
-  {
     "id": "tmc-2026TCONCERT",
     "title": "2026 T CONCERT《IDOL MEET FEST 偶像相遇祭》",
     "start": "2026-08-01",
@@ -106,5 +68,41 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/2026TCONCERT"
+  },
+  {
+    "id": "tmc-2026OpenLab/NCCUAFRO10",
+    "title": "黑音唇槍十戰",
+    "start": "2026-08-01",
+    "category": "workshop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/NCCUAFRO10"
+  },
+  {
+    "id": "tmc-2026JJAGuide",
+    "title": "2026 TMEX ｜ JAM JAM ASIA 聽團指南",
+    "start": "2026-08-02",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・文化館",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026JJAGuide"
+  },
+  {
+    "id": "tmc-2026OpenLab/ItsOkay",
+    "title": "比利 Billy、呂威 Taetare、曼曼《It’s Okay》專場",
+    "start": "2026-08-02",
+    "category": "workshop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/ItsOkay"
+  },
+  {
+    "id": "tmc-2026OpenLab/inadiary",
+    "title": "《日記裡的獨白》創作專場",
+    "start": "2026-08-07",
+    "category": "workshop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/inadiary"
   }
 ]

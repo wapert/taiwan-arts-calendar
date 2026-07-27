@@ -1,45 +1,5 @@
 [
   {
-    "id": "tpac-1422",
-    "title": "2026臺北兒童藝術節：《幾米男孩的100次勇敢》",
-    "start": "2026-07-16",
-    "end": "2026-07-25",
-    "category": "workshop",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1422"
-  },
-  {
-    "id": "tpac-1830",
-    "title": "2026臺北兒童藝術節：《怪奇怪奇布穀鐘》",
-    "start": "2026-07-23",
-    "end": "2026-07-25",
-    "category": "workshop",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1830"
-  },
-  {
-    "id": "tpac-1778",
-    "title": "2026擊思藍盒子《模擬遊戲》",
-    "start": "2026-07-24",
-    "end": "2026-07-25",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1778"
-  },
-  {
-    "id": "tpac-1780",
-    "title": "2026臺北兒童藝術節：《月亮找朋友》",
-    "start": "2026-07-24",
-    "end": "2026-07-25",
-    "category": "workshop",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1780"
-  },
-  {
     "id": "tpac-1565",
     "title": "職男人生11-開始新生活",
     "start": "2026-07-30",
@@ -98,6 +58,16 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/2037"
+  },
+  {
+    "id": "tpac-2046",
+    "title": "《24K金曲同學會！同鞋～》",
+    "start": "2026-08-06",
+    "end": "2026-08-07",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/2046"
   },
   {
     "id": "tpac-2041",
@@ -456,46 +426,6 @@
     "url": "https://tpac.org.taipei/program/1998"
   },
   {
-    "id": "tpac-1999",
-    "title": "啊！我們離題了。",
-    "start": "2026-08-14",
-    "end": "2026-08-19",
-    "category": "exhibition",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1999"
-  },
-  {
-    "id": "tpac-2026",
-    "title": "我不要香菜",
-    "start": "2026-08-14",
-    "end": "2026-08-28",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2026"
-  },
-  {
-    "id": "tpac-1852",
-    "title": "紅塵客棧",
-    "start": "2026-08-15",
-    "end": "2026-08-29",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1852"
-  },
-  {
-    "id": "tpac-1855",
-    "title": "思：一顆心的四個腔室",
-    "start": "2026-08-15",
-    "end": "2026-08-29",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1855"
-  },
-  {
     "id": "tpac-1886",
     "title": "哭池",
     "start": "2026-08-15",
@@ -676,6 +606,36 @@
     "url": "https://tpac.org.taipei/program/2028"
   },
   {
+    "id": "tpac-1903",
+    "title": "拾撿荒蜃",
+    "start": "2026-08-17",
+    "end": "2026-08-26",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1903"
+  },
+  {
+    "id": "tpac-1909",
+    "title": "她，這裡，然後",
+    "start": "2026-08-17",
+    "end": "2026-08-19",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1909"
+  },
+  {
+    "id": "tpac-1956",
+    "title": "“ㄍㄢˋ房間好亂”",
+    "start": "2026-08-17",
+    "end": "2026-08-22",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1956"
+  },
+  {
     "id": "tpac-1965",
     "title": "及時行樂短篇即興集錦",
     "start": "2026-08-17",
@@ -684,16 +644,6 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/1965"
-  },
-  {
-    "id": "tpac-2004",
-    "title": "呼麻二齒的阿德醫生",
-    "start": "2026-08-17",
-    "end": "2026-08-21",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2004"
   },
   {
     "id": "tpac-2033",
@@ -915,46 +865,6 @@
     "url": "https://tpac.org.taipei/program/1972"
   },
   {
-    "id": "tpac-1980",
-    "title": "16種找廁所的方式（小試身手版）",
-    "start": "2026-08-19",
-    "end": "2026-08-22",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1980"
-  },
-  {
-    "id": "tpac-1981",
-    "title": "女女女也也也※查無此秀場※",
-    "start": "2026-08-19",
-    "end": "2026-08-22",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1981"
-  },
-  {
-    "id": "tpac-2003",
-    "title": "以前的我，謝囉！",
-    "start": "2026-08-19",
-    "end": "2026-08-26",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2003"
-  },
-  {
-    "id": "tpac-2024",
-    "title": "凱莉！我在⋯⋯",
-    "start": "2026-08-19",
-    "end": "2026-08-22",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2024"
-  },
-  {
     "id": "tpac-1772",
     "title": "基輔芭蕾舞團：芭蕾舞劇《天鵝湖》",
     "start": "2026-08-20",
@@ -1152,5 +1062,44 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/2029"
+  },
+  {
+    "id": "tpac-2030",
+    "title": "自造 Ctrl+C/ Ctrl+Me",
+    "start": "2026-08-20",
+    "end": "2026-08-22",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/2030"
+  },
+  {
+    "id": "tpac-1849",
+    "title": "母親，我想對妳說",
+    "start": "2026-08-21",
+    "end": "2026-08-22",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1849"
+  },
+  {
+    "id": "tpac-1889",
+    "title": "杏仁豆腐心",
+    "start": "2026-08-21",
+    "end": "2026-08-26",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1889"
+  },
+  {
+    "id": "tpac-1923",
+    "title": "後青春．史詩劇場練習",
+    "start": "2026-08-21",
+    "category": "workshop",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1923"
   }
 ]

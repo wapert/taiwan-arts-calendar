@@ -1,5 +1,23 @@
 [
   {
+    "id": "legacy-3227",
+    "title": "Everybody YA-HO 雅好 FAN LIVE",
+    "start": "2026-08-30",
+    "category": "pop",
+    "venue": "Legacy Taipei",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3227"
+  },
+  {
+    "id": "legacy-3226",
+    "title": "向井太一 MUKAI TAICHI〈THE 34 TOUR〉",
+    "start": "2026-10-22",
+    "category": "pop",
+    "venue": "Legacy Taipei",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3226"
+  },
+  {
     "id": "legacy-3225",
     "title": "THE RAMPAGE PREMIUM LIVE EVENT 2026 in TAIPEI",
     "start": "2026-09-26",
@@ -52,14 +70,5 @@
     "venue": "Legacy Taichung 音樂展演空間",
     "city": "Taichung",
     "url": "https://www.legacy.com.tw/article/page/taichung/3218"
-  },
-  {
-    "id": "legacy-3217",
-    "title": "台中場｜艾蜜莉AMILI《悲劇演員：絕地反彈》",
-    "start": "2026-08-08",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3217"
   }
 ]
