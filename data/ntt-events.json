@@ -20,15 +20,6 @@
     "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
   },
   {
-    "id": "ntt-c-B4WfM72RsKt",
-    "title": "2026夏日放／FUN時光—歌劇院駐館藝術家黃建豪《大話家》讀劇音樂會",
-    "start": "2026-08-01",
-    "category": "opera",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-B4WfM72RsKt"
-  },
-  {
     "id": "ntt-c-QElg0V7UdbJ",
     "title": "2026大師星秀音樂節交響音樂會 2026 TMAF Orchestra Concert",
     "start": "2026-08-07",
@@ -77,6 +68,33 @@
     "url": "https://www.npac-ntt.org/program/events/c-r9LAhpimgP7"
   },
   {
+    "id": "ntt-c-SInQ4cG6tD1",
+    "title": "歲月的舞步，我們的故事— 驫舞劇場《大群舞》工作坊/樂齡場",
+    "start": "2026-08-23",
+    "category": "workshop",
+    "venue": "國家歌劇院・排練室1",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-SInQ4cG6tD1"
+  },
+  {
+    "id": "ntt-c-LgSM8tnmB2C",
+    "title": "【主題講座】莫札特 270 週年紀念講座 ─經典歌劇《女人皆如此》音樂神童的諷刺與深情",
+    "start": "2026-08-23",
+    "category": "opera",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-LgSM8tnmB2C"
+  },
+  {
+    "id": "ntt-c-VWX83Fswl1u",
+    "title": "在人群中重新看見自己—驫舞劇場《大群舞》工作坊/一般場",
+    "start": "2026-08-23",
+    "category": "workshop",
+    "venue": "國家歌劇院・排練室1",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-VWX83Fswl1u"
+  },
+  {
     "id": "ntt-c-xTy9jl1vfW0",
     "title": "2026 放肆夜 戶外電影《再見機器人》",
     "start": "2026-08-27",
@@ -94,6 +112,15 @@
     "venue": "國家歌劇院・中劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-XCQDhVaEO17"
+  },
+  {
+    "id": "ntt-c-rEwLhVbm1Ic",
+    "title": "【主題講座｜高雄特別場】莫札特 270 誕辰遇上法式時尚名導：林伯杰解密羅杭．佩利《女人皆如此》的當代翻轉",
+    "start": "2026-08-29",
+    "category": "workshop",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-rEwLhVbm1Ic"
   },
   {
     "id": "ntt-c-zXwE01FBplQ",
@@ -163,6 +190,15 @@
     "url": "https://www.npac-ntt.org/program/events/c-X1PHBzT0EVD"
   },
   {
+    "id": "ntt-c-fAbX6F2cpjl",
+    "title": "【主題講座】歌劇裡的《換乘戀愛》—莫札特的戀愛實境秀《女人皆如此》",
+    "start": "2026-09-13",
+    "category": "opera",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-fAbX6F2cpjl"
+  },
+  {
     "id": "ntt-c-0GD53CBlRZh",
     "title": "2026 放肆夜 戶外電影《幸福綠皮書》",
     "start": "2026-09-17",
@@ -182,6 +218,24 @@
     "url": "https://www.npac-ntt.org/program/events/c-oAmPJ8WkXMa"
   },
   {
+    "id": "ntt-c-tFv0cXGVC8K",
+    "title": "【主題講座】女人，豈止如此？愛情裡說不出口的真心話，都在音樂裡",
+    "start": "2026-10-01",
+    "category": "workshop",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-tFv0cXGVC8K"
+  },
+  {
+    "id": "ntt-c-uLKIim904Tc",
+    "title": "【主題講座】《女人皆如此》：莫札特的歌劇人生與人生歌劇",
+    "start": "2026-10-03",
+    "category": "opera",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-uLKIim904Tc"
+  },
+  {
     "id": "ntt-c-OLHvY1u46BA",
     "title": "2026 放肆夜 戶外電影《紐約高地》",
     "start": "2026-10-15",
@@ -191,6 +245,56 @@
     "url": "https://www.npac-ntt.org/program/events/c-OLHvY1u46BA"
   },
   {
+    "id": "ntt-c-myvw9rc8VJf",
+    "title": "2026 NTT遇見巨人—愛爾蘭鬼才編導丹．科利《迷失的李爾》",
+    "start": "2026-10-16",
+    "end": "2026-10-18",
+    "category": "theater",
+    "venue": "國家歌劇院・中劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-myvw9rc8VJf"
+  },
+  {
+    "id": "ntt-c-SxodTZVOGQl",
+    "title": "2026 NTT遇見巨人─驫舞劇場《大群舞》",
+    "start": "2026-10-24",
+    "end": "2026-10-25",
+    "category": "theater",
+    "venue": "國家歌劇院・中劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-SxodTZVOGQl"
+  },
+  {
+    "id": "ntt-c-tv0mE3YHxoF",
+    "title": "2026 NTT遇見巨人─莫札特歌劇《女人皆如此》",
+    "start": "2026-10-29",
+    "end": "2026-11-01",
+    "category": "opera",
+    "venue": "國家歌劇院・大劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-tv0mE3YHxoF"
+  },
+  {
+    "id": "ntt-c-YtMaHRp8ExI",
+    "title": "2026 NTT遇見巨人—亞倫．路西恩．奧文《安蒂岡妮》",
+    "start": "2026-10-31",
+    "end": "2026-11-01",
+    "category": "theater",
+    "venue": "國家歌劇院・中劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-YtMaHRp8ExI"
+  },
+  {
+    "id": "ntt-c-Jy3kZL7hfgt",
+    "title": "2026 NTT遇見巨人—2025-2026 歌劇院駐館藝術家賴奇霞《共振計畫：感．響》",
+    "start": "2026-11-06",
+    "end": "2026-11-08",
+    "category": "opera",
+    "venue": "國家歌劇院・小劇場",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-Jy3kZL7hfgt"
+  },
+  {
     "id": "ntt-c-ubJaDxvw9Mf",
     "title": "2026 放肆夜 戶外電影《媽媽咪呀！回來了》",
     "start": "2026-11-12",
@@ -198,5 +302,64 @@
     "venue": "國家歌劇院・戶外劇場",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-ubJaDxvw9Mf"
+  },
+  {
+    "id": "ntt-c-loq8SRvLPWA",
+    "title": "2026 NTT遇見巨人―賽門．拉圖爵士與巴伐利亞廣播交響樂團",
+    "start": "2026-11-16",
+    "category": "classical",
+    "venue": "國家歌劇院・大劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-loq8SRvLPWA"
+  },
+  {
+    "id": "ntt-c-2gk0TIqbOvV",
+    "title": "2026 NTT遇見巨人—比利時莫蘇邦特跨界劇場《女巫安息日》",
+    "start": "2026-11-20",
+    "end": "2026-11-22",
+    "category": "theater",
+    "venue": "國家歌劇院・中劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-2gk0TIqbOvV"
+  },
+  {
+    "id": "ntt-c-DYpZSMBj4Ah",
+    "title": "2026 NTT 遇見巨人—羅伯．勒帕吉╳柏林雷寧廣場劇院《信仰、金錢、戰爭與愛》",
+    "start": "2026-11-27",
+    "end": "2026-11-29",
+    "category": "theater",
+    "venue": "國家歌劇院・中劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-DYpZSMBj4Ah"
+  },
+  {
+    "id": "ntt-c-arEFtj3B5le",
+    "title": "2026 NTT遇見巨人—明華園戲劇總團《烏龍天下》",
+    "start": "2026-12-05",
+    "end": "2026-12-06",
+    "category": "theater",
+    "venue": "國家歌劇院・大劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-arEFtj3B5le"
+  },
+  {
+    "id": "ntt-c-tXIoJAsGlQ6",
+    "title": "2026 NTT遇見巨人─當代傳奇劇場《慾望城國》",
+    "start": "2026-12-12",
+    "end": "2026-12-13",
+    "category": "theater",
+    "venue": "國家歌劇院・大劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-tXIoJAsGlQ6"
+  },
+  {
+    "id": "ntt-c-OuYU3Spov2r",
+    "title": "2026 NTT遇見巨人—唐美雲歌仔戲團《南都幽靈夜譚》",
+    "start": "2026-12-26",
+    "end": "2026-12-27",
+    "category": "traditional",
+    "venue": "國家歌劇院・大劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-OuYU3Spov2r"
   }
 ]

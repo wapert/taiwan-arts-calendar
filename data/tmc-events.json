@@ -60,43 +60,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/globalchinesepopsongschart"
   },
   {
-    "id": "tmc-2026TCONCERT",
-    "title": "2026 T CONCERT《IDOL MEET FEST 偶像相遇祭》",
-    "start": "2026-08-01",
-    "end": "2026-08-02",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026TCONCERT"
-  },
-  {
-    "id": "tmc-2026OpenLab/NCCUAFRO10",
-    "title": "黑音唇槍十戰",
-    "start": "2026-08-01",
-    "category": "workshop",
-    "venue": "臺北流行音樂中心・Live House D",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/NCCUAFRO10"
-  },
-  {
-    "id": "tmc-2026JJAGuide",
-    "title": "2026 TMEX ｜ JAM JAM ASIA 聽團指南",
-    "start": "2026-08-02",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・文化館",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026JJAGuide"
-  },
-  {
-    "id": "tmc-2026OpenLab/ItsOkay",
-    "title": "比利 Billy、呂威 Taetare、曼曼《It’s Okay》專場",
-    "start": "2026-08-02",
-    "category": "workshop",
-    "venue": "臺北流行音樂中心・Live House D",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/ItsOkay"
-  },
-  {
     "id": "tmc-2026OpenLab/inadiary",
     "title": "《日記裡的獨白》創作專場",
     "start": "2026-08-07",
@@ -104,5 +67,43 @@
     "venue": "臺北流行音樂中心・Live House D",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/inadiary"
+  },
+  {
+    "id": "tmc-natori2026",
+    "title": "natori ONE-MAN LIVE TOUR ‘Koshin （March）’in Taipei",
+    "start": "2026-08-08",
+    "end": "2026-08-09",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/natori2026"
+  },
+  {
+    "id": "tmc-2026OpenLab/hiohkhuntsite",
+    "title": "歇睏一下 hioh-khùn--tsit-ē",
+    "start": "2026-08-08",
+    "category": "workshop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/hiohkhuntsite"
+  },
+  {
+    "id": "tmc-2026OpenLab/ZX",
+    "title": "ZX 個人專場演唱會 - 孩芷",
+    "start": "2026-08-09",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/ZX"
+  },
+  {
+    "id": "tmc-lotayou2026",
+    "title": "《所以明天會更好》羅大佑春龍交響宴",
+    "start": "2026-08-15",
+    "end": "2026-08-16",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/lotayou2026"
   }
 ]

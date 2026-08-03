@@ -1,5 +1,68 @@
 [
   {
+    "id": "legacy-3235",
+    "title": "Legacy Presents【2026鐵漢柔情】 SoulFa 靈魂沙發《失望的山》 —— 天氣：雨（台北場）",
+    "start": "2026-09-12",
+    "category": "pop",
+    "venue": "Legacy Taipei 傳音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3235"
+  },
+  {
+    "id": "legacy-3234",
+    "title": "Legacy Presents【2026鐵漢柔情】 SoulFa 靈魂沙發《失望的山》 —— 天氣：風（台中場）",
+    "start": "2026-09-04",
+    "category": "pop",
+    "venue": "Legacy Taichung  傳音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3234"
+  },
+  {
+    "id": "legacy-3233",
+    "title": "梁文音 2026《約哪幾點？》讚聲演唱會-台中場",
+    "start": "2026-09-06",
+    "category": "pop",
+    "venue": "Legacy Taichung",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3233"
+  },
+  {
+    "id": "legacy-3231",
+    "title": "TayNewPolcasan Family Trip in Taipei",
+    "start": "2026-10-04",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3231"
+  },
+  {
+    "id": "legacy-3230",
+    "title": "《大學城經典演唱會》～青春不散場・歌聲再飛揚",
+    "start": "2026-10-26",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3230"
+  },
+  {
+    "id": "legacy-3229",
+    "title": "《大學城經典演唱會》～青春不散場・歌聲再飛揚",
+    "start": "2026-10-25",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3229"
+  },
+  {
+    "id": "legacy-3228",
+    "title": "The Click Five For Lovers Tour",
+    "start": "2026-08-23",
+    "category": "pop",
+    "venue": "Legacy Taipei",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3228"
+  },
+  {
     "id": "legacy-3227",
     "title": "Everybody YA-HO 雅好 FAN LIVE",
     "start": "2026-08-30",
@@ -25,50 +88,5 @@
     "venue": "Legacy TERA",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/great/3225"
-  },
-  {
-    "id": "legacy-3224",
-    "title": "THE RAMPAGE PREMIUM LIVE EVENT 2026 in TAIPEI",
-    "start": "2026-09-25",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3224"
-  },
-  {
-    "id": "legacy-3223",
-    "title": "質感流氓《你知道什麼狀況》專輯發行派對",
-    "start": "2026-09-04",
-    "category": "pop",
-    "venue": "Legacy Taipei 傳音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3223"
-  },
-  {
-    "id": "legacy-3220",
-    "title": "From MO to TPE｜好耐冇見老友記｜Theseus忒修斯 + 青原 Fida",
-    "start": "2026-09-27",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3220"
-  },
-  {
-    "id": "legacy-3219",
-    "title": "我們搖滾——無妄合作社十週年演唱會",
-    "start": "2026-08-15",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3219"
-  },
-  {
-    "id": "legacy-3218",
-    "title": "163braces 小劇場：夏天的尾巴",
-    "start": "2026-08-30",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3218"
   }
 ]

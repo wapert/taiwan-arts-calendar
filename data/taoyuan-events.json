@@ -1,5 +1,14 @@
 [
   {
+    "id": "taoyuan-1755353",
+    "title": "聲動室內樂團《聲之響宴：宮崎駿動畫配樂音樂會》《聲動漫：ACG音樂祭》",
+    "start": "2026-09-19",
+    "category": "classical",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1755353"
+  },
+  {
     "id": "taoyuan-1744531",
     "title": "玫瑰墓樂團音樂會",
     "start": "2026-08-30",
@@ -54,33 +63,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1744517"
   },
   {
-    "id": "taoyuan-1744516",
-    "title": "2026桃園鐵玫瑰熱音賞決賽",
-    "start": "2026-08-01",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1744516"
-  },
-  {
-    "id": "taoyuan-1744139",
-    "title": "率性筆觸寫心景 「藝心緣—游梅嬌個展」桃園文化局溫潤登場",
-    "start": "2026-07-29",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1744139"
-  },
-  {
-    "id": "taoyuan-1744141",
-    "title": "「境區—簡川特創作展」 三十年國門歲月化為彩筆凝香",
-    "start": "2026-07-29",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1744141"
-  },
-  {
     "id": "taoyuan-1741394",
     "title": "2026桃園平安七月節音樂會",
     "start": "2026-09-05",
@@ -88,15 +70,6 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1741394"
-  },
-  {
-    "id": "taoyuan-1741345",
-    "title": "共鳴的軌跡：從傳承到獨立的藝術語言， 「藝韻共鳴」王如茵師生創作展，隆重登場！",
-    "start": "2026-07-29",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1741345"
   },
   {
     "id": "taoyuan-1735918",
@@ -133,15 +106,6 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1725964"
-  },
-  {
-    "id": "taoyuan-1725944",
-    "title": "八面出鋒丙午年書法聯展",
-    "start": "2026-07-29",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1725944"
   },
   {
     "id": "taoyuan-1725942",
