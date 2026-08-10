@@ -20,6 +20,16 @@
     "url": "https://www.tmc.taipei/tw/blog/show/2026JAMJAMASIA"
   },
   {
+    "id": "tmc-culturalcube5th",
+    "title": "文化館五週年生日慶｜感官練習進行曲",
+    "start": "2026-09-01",
+    "end": "2026-09-30",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・文化館",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/culturalcube5th"
+  },
+  {
     "id": "tmc-FlyMeToTheMoonAndBack2025",
     "title": "《想你到月球－張雨生特展》線上特展 Fly Me to the Moon & Back",
     "start": "2025-09-30",
@@ -60,43 +70,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/globalchinesepopsongschart"
   },
   {
-    "id": "tmc-2026OpenLab/inadiary",
-    "title": "《日記裡的獨白》創作專場",
-    "start": "2026-08-07",
-    "category": "workshop",
-    "venue": "臺北流行音樂中心・Live House D",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/inadiary"
-  },
-  {
-    "id": "tmc-natori2026",
-    "title": "natori ONE-MAN LIVE TOUR ‘Koshin （March）’in Taipei",
-    "start": "2026-08-08",
-    "end": "2026-08-09",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/natori2026"
-  },
-  {
-    "id": "tmc-2026OpenLab/hiohkhuntsite",
-    "title": "歇睏一下 hioh-khùn--tsit-ē",
-    "start": "2026-08-08",
-    "category": "workshop",
-    "venue": "臺北流行音樂中心・Live House D",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/hiohkhuntsite"
-  },
-  {
-    "id": "tmc-2026OpenLab/ZX",
-    "title": "ZX 個人專場演唱會 - 孩芷",
-    "start": "2026-08-09",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・Live House D",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/ZX"
-  },
-  {
     "id": "tmc-lotayou2026",
     "title": "《所以明天會更好》羅大佑春龍交響宴",
     "start": "2026-08-15",
@@ -105,5 +78,32 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/lotayou2026"
+  },
+  {
+    "id": "tmc-2026OpenLab/YOLTACOCO",
+    "title": "《一幀．一格》YOLTACOCO個人創作專場",
+    "start": "2026-08-15",
+    "category": "workshop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/YOLTACOCO"
+  },
+  {
+    "id": "tmc-2026OpenLab/JCANG",
+    "title": "極米 JĊANG 的失眠練習-《深度失眠》專場",
+    "start": "2026-08-16",
+    "category": "workshop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/JCANG"
+  },
+  {
+    "id": "tmc-bendthelines",
+    "title": "2026邱鋒澤 Feng Ze Bend The Lines Concert",
+    "start": "2026-08-22",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/bendthelines"
   }
 ]

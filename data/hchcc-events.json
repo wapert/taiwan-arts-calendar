@@ -1,5 +1,14 @@
 [
   {
+    "id": "hchcc-75740b49-52e1-48f4-986a-29ec5db6b0e4",
+    "title": "新古典室內樂團《音樂馬戲劇場-邦卡的七彩布裙》",
+    "start": "2026-10-24",
+    "category": "classical",
+    "venue": "新竹縣文化局演藝廳",
+    "city": "Hsinchu",
+    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=75740b49-52e1-48f4-986a-29ec5db6b0e4"
+  },
+  {
     "id": "hchcc-ed2eff5a-c793-4f76-81c5-200f17d41f34",
     "title": "面白大丈夫劇團-職男人生8-空降部隊",
     "start": "2026-09-11",
@@ -28,16 +37,6 @@
     "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=2a8b194f-a254-4cc8-8442-8b086bc9e096"
   },
   {
-    "id": "hchcc-438a4f03-cba6-43f9-81a7-c49c6cf76f0b",
-    "title": "2026新竹縣「藝起have fun」青年席位推廣",
-    "start": "2026-08-15",
-    "end": "2026-11-08",
-    "category": "theater",
-    "venue": "新竹縣文化局演藝廳",
-    "city": "Hsinchu",
-    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=438a4f03-cba6-43f9-81a7-c49c6cf76f0b"
-  },
-  {
     "id": "hchcc-90171eb8-9aa2-4bc2-ad2e-62d0bc7f3efe",
     "title": "巴雀藝術-陳必先×巴雀Camerata Taiwan《交響之路．壹》",
     "start": "2026-08-15",
@@ -45,6 +44,16 @@
     "venue": "新竹縣文化局演藝廳",
     "city": "Hsinchu",
     "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=90171eb8-9aa2-4bc2-ad2e-62d0bc7f3efe"
+  },
+  {
+    "id": "hchcc-e4b85492-e76c-4615-9860-11e42b2a5d2a",
+    "title": "2026新竹縣「藝起have fun」青年席位推廣",
+    "start": "2026-08-15",
+    "end": "2026-11-08",
+    "category": "theater",
+    "venue": "新竹縣文化局演藝廳",
+    "city": "Hsinchu",
+    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=e4b85492-e76c-4615-9860-11e42b2a5d2a"
   },
   {
     "id": "hchcc-0e935906-d6a4-4667-85e1-e26083c51642",
