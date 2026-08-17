@@ -1,5 +1,50 @@
 [
   {
+    "id": "legacy-3249",
+    "title": "2026第十七屆正宗華語金曲之夜-愛你一兆年",
+    "start": "2026-09-11",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3249"
+  },
+  {
+    "id": "legacy-3248",
+    "title": "嘻御天閣 XI GOTENKAKU",
+    "start": "2026-09-18",
+    "category": "pop",
+    "venue": "Legacy Taipei",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3248"
+  },
+  {
+    "id": "legacy-3247",
+    "title": "EmptyORio ALL THE BEAST 台北場",
+    "start": "2026-09-25",
+    "category": "pop",
+    "venue": "Legacy Taipei 傳音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3247"
+  },
+  {
+    "id": "legacy-3245",
+    "title": "2026 B1A4 Fan concert ＜D-DAY＞ in TAIPEI",
+    "start": "2026-09-28",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3245"
+  },
+  {
+    "id": "legacy-3244",
+    "title": "2026 PARK EUNBIN FAN CONCERT  IN TAIPEI",
+    "start": "2026-09-13",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3244"
+  },
+  {
     "id": "legacy-3243",
     "title": "HANAZAWA KANA LIVE 2026 KANAMEGURI in TAIPEI",
     "start": "2026-09-26",
@@ -34,59 +79,5 @@
     "venue": "Legacy Taipei 音樂展演空間",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/taipei/3240"
-  },
-  {
-    "id": "legacy-3239",
-    "title": "2026 LIGHT ON 360°演唱會燈光設計系列課程 - 光的決策",
-    "start": "2026-08-25",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3239"
-  },
-  {
-    "id": "legacy-3238",
-    "title": "王齊銘 綦江崽兒巡演 台北站",
-    "start": "2026-09-05",
-    "category": "pop",
-    "venue": "Legacy Taipei",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3238"
-  },
-  {
-    "id": "legacy-3237",
-    "title": "iri 2026 TAIPEI ONE-MAN SHOW",
-    "start": "2026-12-06",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3237"
-  },
-  {
-    "id": "legacy-3236",
-    "title": "ZAZEN to VOOID",
-    "start": "2026-09-24",
-    "category": "pop",
-    "venue": "Legacy Taipei",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3236"
-  },
-  {
-    "id": "legacy-3235",
-    "title": "Legacy Presents【2026鐵漢柔情】 SoulFa 靈魂沙發《失望的山》 —— 天氣：雨（台北場）",
-    "start": "2026-09-12",
-    "category": "pop",
-    "venue": "Legacy Taipei 傳音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3235"
-  },
-  {
-    "id": "legacy-3234",
-    "title": "Legacy Presents【2026鐵漢柔情】 SoulFa 靈魂沙發《失望的山》 —— 天氣：風（台中場）",
-    "start": "2026-09-04",
-    "category": "pop",
-    "venue": "Legacy Taichung  傳音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3234"
   }
 ]

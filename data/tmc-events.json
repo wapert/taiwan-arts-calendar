@@ -70,34 +70,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/globalchinesepopsongschart"
   },
   {
-    "id": "tmc-lotayou2026",
-    "title": "《所以明天會更好》羅大佑春龍交響宴",
-    "start": "2026-08-15",
-    "end": "2026-08-16",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/lotayou2026"
-  },
-  {
-    "id": "tmc-2026OpenLab/YOLTACOCO",
-    "title": "《一幀．一格》YOLTACOCO個人創作專場",
-    "start": "2026-08-15",
-    "category": "workshop",
-    "venue": "臺北流行音樂中心・Live House D",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/YOLTACOCO"
-  },
-  {
-    "id": "tmc-2026OpenLab/JCANG",
-    "title": "極米 JĊANG 的失眠練習-《深度失眠》專場",
-    "start": "2026-08-16",
-    "category": "workshop",
-    "venue": "臺北流行音樂中心・Live House D",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026OpenLab/JCANG"
-  },
-  {
     "id": "tmc-bendthelines",
     "title": "2026邱鋒澤 Feng Ze Bend The Lines Concert",
     "start": "2026-08-22",
@@ -105,5 +77,34 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/bendthelines"
+  },
+  {
+    "id": "tmc-RyosukeYamada2026",
+    "title": "Ryosuke Yamada ASIA TOUR 2026 Red.Y in Taipei",
+    "start": "2026-09-05",
+    "end": "2026-09-06",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/RyosukeYamada2026"
+  },
+  {
+    "id": "tmc-35BCA76dFB1E",
+    "title": "潘越雲 坐看雲起時 演唱會",
+    "start": "2026-09-12",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/35BCA76dFB1E"
+  },
+  {
+    "id": "tmc-2026LEEYOUNGJI",
+    "title": "2026 LEE YOUNGJI WORLD TOUR ＜2.0＞",
+    "start": "2026-09-19",
+    "end": "2026-09-20",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026LEEYOUNGJI"
   }
 ]

@@ -1,25 +1,5 @@
 [
   {
-    "id": "hsinchu-W+WxleimvV1b5paH",
-    "title": "畫來畫趣—同一個家，三種觀看世界的方式。",
-    "start": "2026-08-12",
-    "end": "2026-08-30",
-    "category": "exhibition",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202607140003&t=Activity&mserno=201808270001"
-  },
-  {
-    "id": "hsinchu-W+a0u+WLlV0xMTXl",
-    "title": "115年度「新竹市小小策展人培力夏令營」返鄉青年志工召募",
-    "start": "2026-08-15",
-    "end": "2026-08-19",
-    "category": "workshop",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606050002&t=Activity&mserno=202205270001"
-  },
-  {
     "id": "hsinchu-W+WxleimvV1b576O",
     "title": "《什錦食景》",
     "start": "2026-08-18",
@@ -40,6 +20,26 @@
     "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202607140002&t=Activity&mserno=201808270001"
   },
   {
+    "id": "hsinchu-W+a0u+WLlV0xMTXl",
+    "title": "115年度「新竹市小小策展人培力夏令營」返鄉青年志工召募",
+    "start": "2026-08-15",
+    "end": "2026-08-19",
+    "category": "workshop",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202606050002&t=Activity&mserno=202205270001"
+  },
+  {
+    "id": "hsinchu-W+WxleimvV1b5paH",
+    "title": "畫來畫趣—同一個家，三種觀看世界的方式。",
+    "start": "2026-08-12",
+    "end": "2026-08-30",
+    "category": "exhibition",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202607140003&t=Activity&mserno=201808270001"
+  },
+  {
     "id": "hsinchu-W+WxleimvV1b6ZC1",
     "title": "〈駐村的痕跡——身體、物件與記憶〉",
     "start": "2026-08-08",
@@ -48,6 +48,16 @@
     "venue": "新竹市文化局",
     "city": "Hsinchu",
     "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202607140005&t=Activity&mserno=201808270001"
+  },
+  {
+    "id": "hsinchu-W+a0u+WLlV1b5b2x",
+    "title": "2026新竹瘋影展",
+    "start": "2026-07-31",
+    "end": "2026-08-30",
+    "category": "workshop",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608110001&t=Activity&mserno=201809060001"
   },
   {
     "id": "hsinchu-W+WxleimvV1bMjQx",
@@ -101,12 +111,12 @@
   },
   {
     "id": "hsinchu-W+ihqOa8lF1b5ryU",
-    "title": "115年度誠信教育暨清廉乾淨城市社會參與大型宣導活動-《風城奇幻島-誠信小英雄的冒險之旅》",
-    "start": "2026-08-14",
+    "title": "「籌添海屋遙」- 2026新竹京劇傳唱百年紀念展演",
+    "start": "2026-08-22",
     "category": "workshop",
     "venue": "新竹市文化局",
     "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202607160001&t=Activity&mserno=202205270002"
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202607200003&t=Activity&mserno=202205270002"
   },
   {
     "id": "hsinchu-W+aItuWkll1b5rS7",
@@ -117,6 +127,16 @@
     "venue": "新竹市文化局",
     "city": "Hsinchu",
     "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608050001&t=Activity&mserno=202205270001"
+  },
+  {
+    "id": "hsinchu-44CQMTE15bm05bqm",
+    "title": "【115年度在地徵集】關東橋的前世今生｜老照片特展及推廣活動",
+    "start": "2026-08-12",
+    "end": "2026-09-13",
+    "category": "workshop",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608130001&t=Activity&mserno=201808290001"
   },
   {
     "id": "hsinchu-W+a0u+WLlV1bMjQx",

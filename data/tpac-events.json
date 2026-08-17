@@ -1,35 +1,5 @@
 [
   {
-    "id": "tpac-1841",
-    "title": "《同棲時間》舞台劇",
-    "start": "2026-08-12",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1841"
-  },
-  {
-    "id": "tpac-1843",
-    "title": "都更男女",
-    "start": "2026-08-13",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1843"
-  },
-  {
-    "id": "tpac-1845",
-    "title": "《啖噓呵嘻吸吹呼》",
-    "start": "2026-08-13",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1845"
-  },
-  {
     "id": "tpac-1850",
     "title": "擬家聊天室",
     "start": "2026-08-14",
@@ -38,16 +8,6 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/1850"
-  },
-  {
-    "id": "tpac-1866",
-    "title": "此刻、曾經與如果當時",
-    "start": "2026-08-14",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1866"
   },
   {
     "id": "tpac-1870",
@@ -90,16 +50,6 @@
     "url": "https://tpac.org.taipei/program/1879"
   },
   {
-    "id": "tpac-1880",
-    "title": "夢魘販賣舖",
-    "start": "2026-08-14",
-    "end": "2026-08-16",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1880"
-  },
-  {
     "id": "tpac-1881",
     "title": "第3人稱 : 我們曾經參與",
     "start": "2026-08-14",
@@ -140,36 +90,6 @@
     "url": "https://tpac.org.taipei/program/1895"
   },
   {
-    "id": "tpac-1898",
-    "title": "收信快樂",
-    "start": "2026-08-14",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1898"
-  },
-  {
-    "id": "tpac-1899",
-    "title": "沒有，也沒差",
-    "start": "2026-08-14",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1899"
-  },
-  {
-    "id": "tpac-1904",
-    "title": "吟遊詩人的新唸歌——臺北藝穗",
-    "start": "2026-08-14",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1904"
-  },
-  {
     "id": "tpac-1908",
     "title": "王睿緯×潘人賓《普通的身體》",
     "start": "2026-08-14",
@@ -178,16 +98,6 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/1908"
-  },
-  {
-    "id": "tpac-1911",
-    "title": "關門營業",
-    "start": "2026-08-14",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1911"
   },
   {
     "id": "tpac-1929",
@@ -250,33 +160,6 @@
     "url": "https://tpac.org.taipei/program/1951"
   },
   {
-    "id": "tpac-1952",
-    "title": "台下一年功：五組新銳漫材組合的第一場拼盤秀！",
-    "start": "2026-08-14",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1952"
-  },
-  {
-    "id": "tpac-1955",
-    "title": "計時開始",
-    "start": "2026-08-14",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1955"
-  },
-  {
-    "id": "tpac-1957",
-    "title": "醉奇緣的系列故事",
-    "start": "2026-08-14",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1957"
-  },
-  {
     "id": "tpac-1959",
     "title": "饅頭",
     "start": "2026-08-14",
@@ -287,16 +170,6 @@
     "url": "https://tpac.org.taipei/program/1959"
   },
   {
-    "id": "tpac-1962",
-    "title": "人从众 People",
-    "start": "2026-08-14",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1962"
-  },
-  {
     "id": "tpac-1964",
     "title": "BUG",
     "start": "2026-08-14",
@@ -305,26 +178,6 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/1964"
-  },
-  {
-    "id": "tpac-1988",
-    "title": "女子金宿嬉：來場迷你小漫才吧！",
-    "start": "2026-08-14",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1988"
-  },
-  {
-    "id": "tpac-1996",
-    "title": "漸晰",
-    "start": "2026-08-14",
-    "end": "2026-08-15",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1996"
   },
   {
     "id": "tpac-1998",
@@ -445,6 +298,36 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/1974"
+  },
+  {
+    "id": "tpac-1985",
+    "title": "明天開始觀測距離",
+    "start": "2026-08-15",
+    "end": "2026-08-29",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1985"
+  },
+  {
+    "id": "tpac-1989",
+    "title": "太有才華",
+    "start": "2026-08-15",
+    "end": "2026-08-18",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1989"
+  },
+  {
+    "id": "tpac-2007",
+    "title": "天保",
+    "start": "2026-08-15",
+    "end": "2026-08-29",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/2007"
   },
   {
     "id": "tpac-2008",
@@ -915,36 +798,6 @@
     "url": "https://tpac.org.taipei/program/1905"
   },
   {
-    "id": "tpac-1907",
-    "title": "《仙履奇緣》百老匯音樂劇",
-    "start": "2026-08-20",
-    "end": "2026-08-22",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1907"
-  },
-  {
-    "id": "tpac-1915",
-    "title": "歡迎來看戲",
-    "start": "2026-08-20",
-    "end": "2026-08-21",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1915"
-  },
-  {
-    "id": "tpac-1932",
-    "title": "2026口碑再演！栢優座-暗夜花香來",
-    "start": "2026-08-20",
-    "end": "2026-08-22",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1932"
-  },
-  {
     "id": "tpac-1944",
     "title": "燈島人",
     "start": "2026-08-20",
@@ -1122,5 +975,64 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/1878"
+  },
+  {
+    "id": "tpac-1917",
+    "title": "一個只有月光存在的地方",
+    "start": "2026-08-22",
+    "end": "2026-08-29",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1917"
+  },
+  {
+    "id": "tpac-1925",
+    "title": "關於排練即演出的反證實驗",
+    "start": "2026-08-22",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1925"
+  },
+  {
+    "id": "tpac-1976",
+    "title": "失格會計系列一《資產負債表》",
+    "start": "2026-08-22",
+    "end": "2026-08-27",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1976"
+  },
+  {
+    "id": "tpac-1982",
+    "title": "Hatasi &赤腳踏在滿地玻璃的心上人（雙雙對對比較方便）",
+    "start": "2026-08-22",
+    "end": "2026-08-25",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1982"
+  },
+  {
+    "id": "tpac-1992",
+    "title": "歡迎光臨，永久髮廊",
+    "start": "2026-08-22",
+    "end": "2026-08-26",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1992"
+  },
+  {
+    "id": "tpac-1994",
+    "title": "不明飛行城市",
+    "start": "2026-08-22",
+    "end": "2026-08-25",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/1994"
   }
 ]
