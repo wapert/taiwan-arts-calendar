@@ -1,5 +1,50 @@
 [
   {
+    "id": "legacy-3254",
+    "title": "Andr [Shedding Skin 脱皮] 2026 Asia Tour in Taipei [Special Edition]",
+    "start": "2026-09-19",
+    "category": "pop",
+    "venue": "Legacy Taipei",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3254"
+  },
+  {
+    "id": "legacy-3253",
+    "title": "孫盛希 Shi Shi [The Taste of …]台北演唱會",
+    "start": "2026-11-01",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3253"
+  },
+  {
+    "id": "legacy-3252",
+    "title": "LenaMiu Love Meets You Fan Meeting in Taipei",
+    "start": "2026-10-23",
+    "category": "pop",
+    "venue": "Legaly TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3252"
+  },
+  {
+    "id": "legacy-3251",
+    "title": "Silica Gel Asia Tour  - TAIPEI",
+    "start": "2026-10-17",
+    "category": "pop",
+    "venue": "Legacy Taipei 音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3251"
+  },
+  {
+    "id": "legacy-3250",
+    "title": "2026 OK TAECYEON FANMEETING IN TAIPEI TODAY",
+    "start": "2026-10-03",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3250"
+  },
+  {
     "id": "legacy-3249",
     "title": "2026第十七屆正宗華語金曲之夜-愛你一兆年",
     "start": "2026-09-11",
@@ -25,59 +70,5 @@
     "venue": "Legacy Taipei 傳音樂展演空間",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/taipei/3247"
-  },
-  {
-    "id": "legacy-3245",
-    "title": "2026 B1A4 Fan concert ＜D-DAY＞ in TAIPEI",
-    "start": "2026-09-28",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3245"
-  },
-  {
-    "id": "legacy-3244",
-    "title": "2026 PARK EUNBIN FAN CONCERT  IN TAIPEI",
-    "start": "2026-09-13",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3244"
-  },
-  {
-    "id": "legacy-3243",
-    "title": "HANAZAWA KANA LIVE 2026 KANAMEGURI in TAIPEI",
-    "start": "2026-09-26",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3243"
-  },
-  {
-    "id": "legacy-3242",
-    "title": "HANAZAWA KANA LIVE 2026 KANAMEGURI in TAIPEI",
-    "start": "2026-09-26",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3242"
-  },
-  {
-    "id": "legacy-3241",
-    "title": "2026 LIGHT ON 360°演唱會燈光設計系列課程 - 光的決策",
-    "start": "2026-08-27",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3241"
-  },
-  {
-    "id": "legacy-3240",
-    "title": "2026 LIGHT ON 360°演唱會燈光設計系列課程 - 光的決策",
-    "start": "2026-08-26",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3240"
   }
 ]

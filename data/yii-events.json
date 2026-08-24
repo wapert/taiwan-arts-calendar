@@ -1,14 +1,5 @@
 [
   {
-    "id": "yii-45942",
-    "title": "歌聲交輝・無與倫比",
-    "start": "2026-08-23",
-    "category": "classical",
-    "venue": "新竹市文化局演藝廳音樂廳",
-    "city": "Hsinchu",
-    "url": "https://yii.tw/events/45942"
-  },
-  {
     "id": "yii-45763",
     "title": "臺北爵士大樂隊 -老派趴踢Night",
     "start": "2026-08-30",
@@ -25,14 +16,5 @@
     "venue": "新竹市文化局演藝廳音樂廳",
     "city": "Hsinchu",
     "url": "https://yii.tw/events/45746"
-  },
-  {
-    "id": "yii-45648",
-    "title": "《時空玫瑰》富瑜親子音樂劇場",
-    "start": "2026-08-22",
-    "category": "theater",
-    "venue": "新竹市文化局演藝廳音樂廳",
-    "city": "Hsinchu",
-    "url": "https://yii.tw/events/45648"
   }
 ]

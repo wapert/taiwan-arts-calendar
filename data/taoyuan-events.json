@@ -1,5 +1,14 @@
 [
   {
+    "id": "taoyuan-1830026",
+    "title": "115年桃園影藝講座第七場-邱榮錦 主講：人文旅拍-邊疆尋奇-哈薩克牧民的百年轉",
+    "start": "2026-09-14",
+    "category": "workshop",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1830026"
+  },
+  {
     "id": "taoyuan-1805540",
     "title": "【感受城市X文化治理：2026桃園學研討會】活動開始報名囉！",
     "start": "2026-09-11",
@@ -16,24 +25,6 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1802015"
-  },
-  {
-    "id": "taoyuan-1802234",
-    "title": "以筆墨灌溉心田．以藝術綻放心花 「花心．心花—花心畫會年度聯展」盛大登場",
-    "start": "2026-08-19",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1802234"
-  },
-  {
-    "id": "taoyuan-1802237",
-    "title": "筆尖上的思念  以畫追憶親恩 鄧丞敦「仍然香來」個展",
-    "start": "2026-08-19",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1802237"
   },
   {
     "id": "taoyuan-1799037",
@@ -117,15 +108,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1781807"
   },
   {
-    "id": "taoyuan-1779302",
-    "title": "2026 桃園電影節系列活動 桃園電影科技國際論壇",
-    "start": "2026-08-20",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1779302"
-  },
-  {
     "id": "taoyuan-1779152",
     "title": "2026桃園藝術巡演龍潭場-紙風車劇團《蕃薯森林奇遇記》兒童劇",
     "start": "2026-08-28",
@@ -133,15 +115,6 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1779152"
-  },
-  {
-    "id": "taoyuan-1776602",
-    "title": "2026桃園藝術巡演新屋場-桃園市國樂團《唱過青春的海》音樂會",
-    "start": "2026-08-23",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1776602"
   },
   {
     "id": "taoyuan-1755353",
@@ -169,5 +142,14 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1744530"
+  },
+  {
+    "id": "taoyuan-1741394",
+    "title": "2026桃園平安七月節音樂會",
+    "start": "2026-09-05",
+    "category": "classical",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1741394"
   }
 ]

@@ -60,25 +60,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/TMC-Academy-of-Concerts2026-2nd"
   },
   {
-    "id": "tmc-globalchinesepopsongschart",
-    "title": "《全球華語流行音樂金曲榜》",
-    "start": "2026-07-03",
-    "end": "2026-08-21",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・Live House D",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/globalchinesepopsongschart"
-  },
-  {
-    "id": "tmc-bendthelines",
-    "title": "2026邱鋒澤 Feng Ze Bend The Lines Concert",
-    "start": "2026-08-22",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/bendthelines"
-  },
-  {
     "id": "tmc-RyosukeYamada2026",
     "title": "Ryosuke Yamada ASIA TOUR 2026 Red.Y in Taipei",
     "start": "2026-09-05",
@@ -106,5 +87,24 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/2026LEEYOUNGJI"
+  },
+  {
+    "id": "tmc-disneyhits",
+    "title": "《迪士尼金曲派對》Disney Hits LIVE！",
+    "start": "2026-09-26",
+    "end": "2026-09-27",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/disneyhits"
+  },
+  {
+    "id": "tmc-Patrick2026",
+    "title": "派偉俊 Patrick Brasca《BAD IDEA》2026個人演唱會",
+    "start": "2026-10-10",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/Patrick2026"
   }
 ]
