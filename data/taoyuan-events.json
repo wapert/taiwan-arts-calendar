@@ -1,5 +1,32 @@
 [
   {
+    "id": "taoyuan-1838259",
+    "title": "《箏緣》周莉菁古箏演奏會",
+    "start": "2026-11-08",
+    "category": "classical",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1838259"
+  },
+  {
+    "id": "taoyuan-1838252",
+    "title": "玉山音樂饗宴— 維也納少年合唱團",
+    "start": "2026-10-28",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1838252"
+  },
+  {
+    "id": "taoyuan-1838244",
+    "title": "風動室內樂團 《無限》宮崎駿動畫音樂精選、《無限》ACG電玩動漫音樂會",
+    "start": "2026-10-31",
+    "category": "classical",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1838244"
+  },
+  {
     "id": "taoyuan-1830026",
     "title": "115年桃園影藝講座第七場-邱榮錦 主講：人文旅拍-邊疆尋奇-哈薩克牧民的百年轉",
     "start": "2026-09-14",
@@ -18,17 +45,8 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1805540"
   },
   {
-    "id": "taoyuan-1802015",
-    "title": "陽明高中第32屆畢業美展「閾限空間」盛大開幕",
-    "start": "2026-08-26",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1802015"
-  },
-  {
     "id": "taoyuan-1799037",
-    "title": "2026千手觀音/我的夢",
+    "title": "【演出取消公告】2026千手觀音/我的夢",
     "start": "2026-09-03",
     "category": "exhibition",
     "venue": "桃園市文化局",
@@ -108,15 +126,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1781807"
   },
   {
-    "id": "taoyuan-1779152",
-    "title": "2026桃園藝術巡演龍潭場-紙風車劇團《蕃薯森林奇遇記》兒童劇",
-    "start": "2026-08-28",
-    "category": "theater",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1779152"
-  },
-  {
     "id": "taoyuan-1755353",
     "title": "聲動室內樂團《聲之響宴：宮崎駿動畫配樂音樂會》《聲動漫：ACG音樂祭》",
     "start": "2026-09-19",
@@ -124,24 +133,6 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1755353"
-  },
-  {
-    "id": "taoyuan-1744531",
-    "title": "玫瑰墓樂團音樂會",
-    "start": "2026-08-30",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1744531"
-  },
-  {
-    "id": "taoyuan-1744530",
-    "title": "馬祖心情記事VII《拍楸》閩東語音樂劇",
-    "start": "2026-08-29",
-    "category": "theater",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1744530"
   },
   {
     "id": "taoyuan-1741394",

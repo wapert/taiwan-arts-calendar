@@ -1,43 +1,5 @@
 [
   {
-    "id": "ntt-c-nPjai2Bd6YI",
-    "title": "時刻在藝起：NTT10週年回顧展",
-    "start": "2026-07-01",
-    "end": "2026-11-01",
-    "category": "theater",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
-  },
-  {
-    "id": "ntt-c-xTy9jl1vfW0",
-    "title": "2026 放肆夜 戶外電影《再見機器人》",
-    "start": "2026-08-27",
-    "category": "workshop",
-    "venue": "國家歌劇院・戶外劇場",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-xTy9jl1vfW0"
-  },
-  {
-    "id": "ntt-c-XCQDhVaEO17",
-    "title": "2026夏日放／FUN時光—嚎哮排演《別叫我成功：藝術界歸來的兒子》",
-    "start": "2026-08-28",
-    "end": "2026-08-30",
-    "category": "theater",
-    "venue": "國家歌劇院・中劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-XCQDhVaEO17"
-  },
-  {
-    "id": "ntt-c-rEwLhVbm1Ic",
-    "title": "【主題講座｜高雄特別場】莫札特 270 誕辰遇上法式時尚名導：林伯杰解密羅杭．佩利《女人皆如此》的當代翻轉",
-    "start": "2026-08-29",
-    "category": "workshop",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-rEwLhVbm1Ic"
-  },
-  {
     "id": "ntt-c-zXwE01FBplQ",
     "title": "2026 後青年工作坊—戲劇篇",
     "start": "2026-08-31",
@@ -56,6 +18,16 @@
     "venue": "國家歌劇院・排練室1",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-PJj7sHUqcFh"
+  },
+  {
+    "id": "ntt-c-nPjai2Bd6YI",
+    "title": "時刻在藝起：NTT10週年回顧展",
+    "start": "2026-07-01",
+    "end": "2026-11-01",
+    "category": "theater",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
   },
   {
     "id": "ntt-c-QDb1yVujRfh",
@@ -103,6 +75,15 @@
     "venue": "國家歌劇院・中劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-X1PHBzT0EVD"
+  },
+  {
+    "id": "ntt-c-kDUPNCB3YLx",
+    "title": "【主題講座】未竟的葬禮：希臘悲劇《安蒂岡妮》的現代叩問",
+    "start": "2026-09-11",
+    "category": "workshop",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-kDUPNCB3YLx"
   },
   {
     "id": "ntt-c-fAbX6F2cpjl",

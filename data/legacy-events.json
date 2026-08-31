@@ -1,5 +1,32 @@
 [
   {
+    "id": "legacy-3259",
+    "title": "我們搖滾——無妄合作社十週年演唱會",
+    "start": "2026-09-25",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3259"
+  },
+  {
+    "id": "legacy-3258",
+    "title": "2026 陳謙文 x 方馨 x 簡沛恩《情歌若響・有你有我》讓愛巨續公益演唱會",
+    "start": "2026-11-06",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3258"
+  },
+  {
+    "id": "legacy-3257",
+    "title": "FANTASTICS LIVE 2026 in TAIPEI \"放大絶\"",
+    "start": "2026-10-18",
+    "category": "pop",
+    "venue": "Legaly TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3257"
+  },
+  {
     "id": "legacy-3254",
     "title": "Andr [Shedding Skin 脱皮] 2026 Asia Tour in Taipei [Special Edition]",
     "start": "2026-09-19",
@@ -52,23 +79,5 @@
     "venue": "Legacy TERA",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/great/3249"
-  },
-  {
-    "id": "legacy-3248",
-    "title": "嘻御天閣 XI GOTENKAKU",
-    "start": "2026-09-18",
-    "category": "pop",
-    "venue": "Legacy Taipei",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3248"
-  },
-  {
-    "id": "legacy-3247",
-    "title": "EmptyORio ALL THE BEAST 台北場",
-    "start": "2026-09-25",
-    "category": "pop",
-    "venue": "Legacy Taipei 傳音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3247"
   }
 ]

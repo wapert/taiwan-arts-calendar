@@ -10,16 +10,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/TMC-Permanent-Exhibition"
   },
   {
-    "id": "tmc-2026JAMJAMASIA",
-    "title": "2026 TRENDY TAIPEI 潮臺北 - JAM JAM ASIA 亞洲音樂節",
-    "start": "2026-08-29",
-    "end": "2026-08-30",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026JAMJAMASIA"
-  },
-  {
     "id": "tmc-culturalcube5th",
     "title": "文化館五週年生日慶｜感官練習進行曲",
     "start": "2026-09-01",
@@ -106,5 +96,14 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/Patrick2026"
+  },
+  {
+    "id": "tmc-2026SungNien-Yu",
+    "title": "小宇 宋念宇 《不，完美的人》 演唱會",
+    "start": "2026-11-07",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026SungNien-Yu"
   }
 ]

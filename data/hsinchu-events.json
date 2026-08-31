@@ -1,5 +1,55 @@
 [
   {
+    "id": "hsinchu-W+a0u+WLlV1b5b61",
+    "title": "116年度新竹市「策展人培力計畫」徵件中，歡迎踴躍報名！",
+    "start": "2026-09-01",
+    "end": "2026-12-16",
+    "category": "workshop",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608240001&t=Activity&mserno=201808290001"
+  },
+  {
+    "id": "hsinchu-W+WxleimvV1b5paH",
+    "title": "丹齊水墨師生聯展",
+    "start": "2026-09-02",
+    "end": "2026-09-20",
+    "category": "exhibition",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608190001&t=Activity&mserno=201808270001"
+  },
+  {
+    "id": "hsinchu-W+WxleimvV1bMjQx",
+    "title": "where it begins",
+    "start": "2026-09-04",
+    "end": "2026-10-04",
+    "category": "exhibition",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608250003&t=Activity&mserno=201808270001"
+  },
+  {
+    "id": "hsinchu-W+WxleimvV1b6ZC1",
+    "title": "悖影：shadow loop-劉婉妤個展 Wan Yu Liu Solo Exhibition",
+    "start": "2026-09-08",
+    "end": "2026-10-11",
+    "category": "exhibition",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608190003&t=Activity&mserno=201810310007"
+  },
+  {
+    "id": "hsinchu-W+WFtuS7ll1b5Z+O",
+    "title": "新竹市花燈工藝115年傳習課程報名開始！",
+    "start": "2026-09-19",
+    "end": "2026-10-31",
+    "category": "workshop",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608270001&t=Activity&mserno=201808290001"
+  },
+  {
     "id": "hsinchu-W+WxleimvV1b5ryU",
     "title": "【書香畫墨—新竹市書畫學會聯展】",
     "start": "2026-08-26",
@@ -18,46 +68,6 @@
     "venue": "新竹市文化局",
     "city": "Hsinchu",
     "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202607230001&t=Activity&mserno=201808270001"
-  },
-  {
-    "id": "hsinchu-W+WxleimvV1b5paH",
-    "title": "畫來畫趣—同一個家，三種觀看世界的方式。",
-    "start": "2026-08-12",
-    "end": "2026-08-30",
-    "category": "exhibition",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202607140003&t=Activity&mserno=201808270001"
-  },
-  {
-    "id": "hsinchu-W+WxleimvV1b6ZC1",
-    "title": "〈駐村的痕跡——身體、物件與記憶〉",
-    "start": "2026-08-08",
-    "end": "2026-08-30",
-    "category": "exhibition",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202607140005&t=Activity&mserno=201808270001"
-  },
-  {
-    "id": "hsinchu-W+a0u+WLlV1b5b2x",
-    "title": "2026新竹瘋影展",
-    "start": "2026-07-31",
-    "end": "2026-08-30",
-    "category": "workshop",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608110001&t=Activity&mserno=201809060001"
-  },
-  {
-    "id": "hsinchu-W+WxleimvV1bMjQx",
-    "title": "POP IN",
-    "start": "2026-07-30",
-    "end": "2026-10-04",
-    "category": "exhibition",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202607170001&t=Activity&mserno=201808270001"
   },
   {
     "id": "hsinchu-6ZaL5pS+5YCf55So",
@@ -100,6 +110,25 @@
     "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202604070001&t=Activity&mserno=201810310004"
   },
   {
+    "id": "hsinchu-W+ihqOa8lF1b5ryU",
+    "title": "武聖關公三部曲之《英雄的黎明》",
+    "start": "2026-09-06",
+    "category": "workshop",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608210003&t=Activity&mserno=202205270002"
+  },
+  {
+    "id": "hsinchu-W+a0u+WLlV1b5b2x",
+    "title": "2026新竹市影像培力營 成果影展 9/12(六)、9/13(日)登場！",
+    "start": "2026-09-12",
+    "end": "2026-09-13",
+    "category": "workshop",
+    "venue": "新竹市文化局",
+    "city": "Hsinchu",
+    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608190004&t=Activity&mserno=201808290001"
+  },
+  {
     "id": "hsinchu-W+aItuWkll1b5rS7",
     "title": "2026古蹟日｜演武場 X 文化資產推廣活動",
     "start": "2026-08-25",
@@ -108,15 +137,6 @@
     "venue": "新竹市文化局",
     "city": "Hsinchu",
     "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202608050001&t=Activity&mserno=202205270001"
-  },
-  {
-    "id": "hsinchu-W+ihqOa8lF1b5ryU",
-    "title": "狂美《宮崎駿動畫配樂II》交響音樂會-2026暖心巡演",
-    "start": "2026-08-26",
-    "category": "classical",
-    "venue": "新竹市文化局",
-    "city": "Hsinchu",
-    "url": "https://culture.hccg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=activity_view.jsp&toolsflag=Y&dataserno=202607210002&t=Activity&mserno=202205270002"
   },
   {
     "id": "hsinchu-44CQMTE15bm05bqm",
