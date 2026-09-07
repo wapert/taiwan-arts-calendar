@@ -30,53 +30,6 @@
     "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
   },
   {
-    "id": "ntt-c-QDb1yVujRfh",
-    "title": "跨越語言的文化轉譯：音樂劇劇本翻譯工作坊",
-    "start": "2026-09-03",
-    "category": "theater",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-QDb1yVujRfh"
-  },
-  {
-    "id": "ntt-c-0FvQo26iCDe",
-    "title": "從音符到舞台的關鍵推手：音樂執導示範講座",
-    "start": "2026-09-04",
-    "category": "workshop",
-    "venue": "國家歌劇院・排練室2",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-0FvQo26iCDe"
-  },
-  {
-    "id": "ntt-c-xD63rMvHFpX",
-    "title": "2026夏日放／FUN時光─躍演《勸世三姊妹》",
-    "start": "2026-09-04",
-    "end": "2026-09-06",
-    "category": "theater",
-    "venue": "國家歌劇院・大劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-xD63rMvHFpX"
-  },
-  {
-    "id": "ntt-c-l6P9EFxuIef",
-    "title": "2026 音樂劇產業國際論壇—音樂劇生態系的建構與未來",
-    "start": "2026-09-05",
-    "end": "2026-09-06",
-    "category": "theater",
-    "venue": "國家歌劇院・小劇場",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-l6P9EFxuIef"
-  },
-  {
-    "id": "ntt-c-X1PHBzT0EVD",
-    "title": "2026 勇源╳TC 國際室內樂系列《舒伯特的沙龍時光》",
-    "start": "2026-09-06",
-    "category": "classical",
-    "venue": "國家歌劇院・中劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-X1PHBzT0EVD"
-  },
-  {
     "id": "ntt-c-kDUPNCB3YLx",
     "title": "【主題講座】未竟的葬禮：希臘悲劇《安蒂岡妮》的現代叩問",
     "start": "2026-09-11",
@@ -133,6 +86,15 @@
     "url": "https://www.npac-ntt.org/program/events/c-oAmPJ8WkXMa"
   },
   {
+    "id": "ntt-c-CSQAZrzb5GF",
+    "title": "【主題講座】蘇威嘉與驫舞劇場的20年身體對話",
+    "start": "2026-09-30",
+    "category": "workshop",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-CSQAZrzb5GF"
+  },
+  {
     "id": "ntt-c-tFv0cXGVC8K",
     "title": "【主題講座】女人，豈止如此？愛情裡說不出口的真心話，都在音樂裡",
     "start": "2026-10-01",
@@ -149,6 +111,15 @@
     "venue": "國家歌劇院・其他場地",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-uLKIim904Tc"
+  },
+  {
+    "id": "ntt-c-OSsKDT1iQ2E",
+    "title": "【主題講座】《迷失的李爾》：莎翁悲劇的當代轉譯",
+    "start": "2026-10-03",
+    "category": "workshop",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-OSsKDT1iQ2E"
   },
   {
     "id": "ntt-c-OLHvY1u46BA",

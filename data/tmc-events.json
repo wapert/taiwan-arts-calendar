@@ -50,14 +50,14 @@
     "url": "https://www.tmc.taipei/tw/blog/show/TMC-Academy-of-Concerts2026-2nd"
   },
   {
-    "id": "tmc-RyosukeYamada2026",
-    "title": "Ryosuke Yamada ASIA TOUR 2026 Red.Y in Taipei",
-    "start": "2026-09-05",
-    "end": "2026-09-06",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
+    "id": "tmc-2026TaipeiJazzFestival",
+    "title": "2026臺北爵士音樂節20週年",
+    "start": "2026-09-04",
+    "end": "2026-10-11",
+    "category": "classical",
+    "venue": "臺北流行音樂中心・其他",
     "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/RyosukeYamada2026"
+    "url": "https://www.tmc.taipei/tw/blog/show/2026TaipeiJazzFestival"
   },
   {
     "id": "tmc-35BCA76dFB1E",
@@ -67,6 +67,26 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/35BCA76dFB1E"
+  },
+  {
+    "id": "tmc-tmc2026movienight",
+    "title": "《2026【唱 我們的歌】金曲再現－經典電影院暨映後座談》",
+    "start": "2026-09-18",
+    "end": "2026-09-20",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・文化館",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/tmc2026movienight"
+  },
+  {
+    "id": "tmc-2026TMCGoldenVoiceContest/Final",
+    "title": "【2026北流金舞台】決賽系列活動",
+    "start": "2026-09-19",
+    "end": "2026-09-20",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・戶外表演空間",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026TMCGoldenVoiceContest/Final"
   },
   {
     "id": "tmc-2026LEEYOUNGJI",
@@ -96,14 +116,5 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/Patrick2026"
-  },
-  {
-    "id": "tmc-2026SungNien-Yu",
-    "title": "小宇 宋念宇 《不，完美的人》 演唱會",
-    "start": "2026-11-07",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026SungNien-Yu"
   }
 ]

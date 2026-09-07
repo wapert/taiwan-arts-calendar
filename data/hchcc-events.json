@@ -1,5 +1,15 @@
 [
   {
+    "id": "hchcc-13544089-6d50-401b-88de-d9b015e1e560",
+    "title": "果陀劇場-《三個傻瓜》音樂劇",
+    "start": "2026-11-07",
+    "end": "2026-11-08",
+    "category": "theater",
+    "venue": "新竹縣文化局演藝廳",
+    "city": "Hsinchu",
+    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=13544089-6d50-401b-88de-d9b015e1e560"
+  },
+  {
     "id": "hchcc-75740b49-52e1-48f4-986a-29ec5db6b0e4",
     "title": "新古典室內樂團《音樂馬戲劇場-邦卡的七彩布裙》",
     "start": "2026-10-24",
@@ -7,6 +17,15 @@
     "venue": "新竹縣文化局演藝廳",
     "city": "Hsinchu",
     "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=75740b49-52e1-48f4-986a-29ec5db6b0e4"
+  },
+  {
+    "id": "hchcc-fcb4af9c-adde-41e1-bab8-cdee3172cd20",
+    "title": "2026 NTT劇院展開《我的爵視金曲夜》",
+    "start": "2026-10-09",
+    "category": "theater",
+    "venue": "新竹縣文化局演藝廳",
+    "city": "Hsinchu",
+    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=fcb4af9c-adde-41e1-bab8-cdee3172cd20"
   },
   {
     "id": "hchcc-e91b8183-f3fc-4b5c-bc7f-228c66626b69",
@@ -26,24 +45,6 @@
     "venue": "新竹縣文化局演藝廳",
     "city": "Hsinchu",
     "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=ed2eff5a-c793-4f76-81c5-200f17d41f34"
-  },
-  {
-    "id": "hchcc-af8a65c4-7f2b-48ed-a5ca-d7ee18da4334",
-    "title": "財團法人擊樂文教基金會-【朱宗慶打擊樂團２】2026豆莢寶寶兒童音樂會《咻咻～魔幻擊樂秀》",
-    "start": "2026-09-06",
-    "category": "classical",
-    "venue": "新竹縣文化局演藝廳",
-    "city": "Hsinchu",
-    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=af8a65c4-7f2b-48ed-a5ca-d7ee18da4334"
-  },
-  {
-    "id": "hchcc-2a8b194f-a254-4cc8-8442-8b086bc9e096",
-    "title": "台北曲藝團-2026臺北相聲大會",
-    "start": "2026-09-05",
-    "category": "theater",
-    "venue": "新竹縣文化局演藝廳",
-    "city": "Hsinchu",
-    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=2a8b194f-a254-4cc8-8442-8b086bc9e096"
   },
   {
     "id": "hchcc-e4b85492-e76c-4615-9860-11e42b2a5d2a",

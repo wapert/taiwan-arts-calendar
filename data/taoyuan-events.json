@@ -1,5 +1,59 @@
 [
   {
+    "id": "taoyuan-1863287",
+    "title": "【本節目適用文化幣青年席位優惠】會演是英雄2之 《英雄所賤略同— Hero Emotion》",
+    "start": "2026-12-26",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1863287"
+  },
+  {
+    "id": "taoyuan-1863284",
+    "title": "【本節目適用文化幣青年席位優惠】故事工廠 《婚禮上的小抄》",
+    "start": "2026-12-19",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1863284"
+  },
+  {
+    "id": "taoyuan-1863280",
+    "title": "【本節目適用文化幣青年席位優惠】果陀劇場《Crash, Boom Boom Love!》演唱會音樂劇",
+    "start": "2026-12-12",
+    "category": "theater",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1863280"
+  },
+  {
+    "id": "taoyuan-1863279",
+    "title": "【本節目適用文化幣青年席位優惠】2026《仙履奇緣 Cinderella》兒童古典芭蕾舞劇",
+    "start": "2026-10-03",
+    "category": "classical",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1863279"
+  },
+  {
+    "id": "taoyuan-1863277",
+    "title": "FOCASA 馬戲團《馬戲親子演出計畫－馬戲探險家》",
+    "start": "2026-10-03",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1863277"
+  },
+  {
+    "id": "taoyuan-1863263",
+    "title": "【本節目適用文化幣青年席位優惠】《我回來了-做一部作品給自己的靈魂》",
+    "start": "2026-10-10",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1863263"
+  },
+  {
     "id": "taoyuan-1838259",
     "title": "《箏緣》周莉菁古箏演奏會",
     "start": "2026-11-08",
@@ -45,24 +99,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1805540"
   },
   {
-    "id": "taoyuan-1799037",
-    "title": "【演出取消公告】2026千手觀音/我的夢",
-    "start": "2026-09-03",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1799037"
-  },
-  {
-    "id": "taoyuan-1799036",
-    "title": "NAKAMA舞蹈成果發表會",
-    "start": "2026-09-06",
-    "category": "dance",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1799036"
-  },
-  {
     "id": "taoyuan-1781824",
     "title": "尤尉州個展《大器碗成》",
     "start": "2026-09-30",
@@ -90,24 +126,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1781820"
   },
   {
-    "id": "taoyuan-1781817",
-    "title": "風動室內樂團《公主百分百》魔鏡冒險",
-    "start": "2026-09-05",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1781817"
-  },
-  {
-    "id": "taoyuan-1781812",
-    "title": "福爾摩沙合唱團2026藝文推廣系列音樂會之三",
-    "start": "2026-09-06",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1781812"
-  },
-  {
     "id": "taoyuan-1781811",
     "title": "2026桃園市國樂團器樂大賽",
     "start": "2026-09-20",
@@ -133,14 +151,5 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1755353"
-  },
-  {
-    "id": "taoyuan-1741394",
-    "title": "2026桃園平安七月節音樂會",
-    "start": "2026-09-05",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1741394"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "id": "legacy-3262",
+    "title": "乃紫 noa live in Taipei 2026",
+    "start": "2026-12-20",
+    "category": "pop",
+    "venue": "Legacy Taipei",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3262"
+  },
+  {
+    "id": "legacy-3261",
+    "title": "FEniX BBM-2026 FAN CONCERT",
+    "start": "2026-10-02",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3261"
+  },
+  {
+    "id": "legacy-3260",
+    "title": "李大奔《THE MODEL TOUR》新專輯巡演台北站",
+    "start": "2026-09-16",
+    "category": "pop",
+    "venue": "Legacy Taipei 音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3260"
+  },
+  {
     "id": "legacy-3259",
     "title": "我們搖滾——無妄合作社十週年演唱會",
     "start": "2026-09-25",
@@ -52,32 +79,5 @@
     "venue": "Legaly TERA",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/great/3252"
-  },
-  {
-    "id": "legacy-3251",
-    "title": "Silica Gel Asia Tour  - TAIPEI",
-    "start": "2026-10-17",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3251"
-  },
-  {
-    "id": "legacy-3250",
-    "title": "2026 OK TAECYEON FANMEETING IN TAIPEI TODAY",
-    "start": "2026-10-03",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3250"
-  },
-  {
-    "id": "legacy-3249",
-    "title": "2026第十七屆正宗華語金曲之夜-愛你一兆年",
-    "start": "2026-09-11",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3249"
   }
 ]
