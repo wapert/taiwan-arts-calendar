@@ -1,5 +1,41 @@
 [
   {
+    "id": "taoyuan-1871959",
+    "title": "2026桃園鐵玫瑰音樂節 ᕕ( ᐛ )ᕗ",
+    "start": "2026-10-03",
+    "category": "pop",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1871959"
+  },
+  {
+    "id": "taoyuan-1870171",
+    "title": "狂美2026《臺灣新聲》管樂作曲大賽決賽音樂會",
+    "start": "2026-10-25",
+    "category": "classical",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1870171"
+  },
+  {
+    "id": "taoyuan-1870013",
+    "title": "「十日談」藝術聯展",
+    "start": "2026-09-16",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1870013"
+  },
+  {
+    "id": "taoyuan-1869017",
+    "title": "2026桃園藝術巡演龜山場-如果兒童劇團《咱的棒球囡仔》兒童劇",
+    "start": "2026-10-11",
+    "category": "theater",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1869017"
+  },
+  {
     "id": "taoyuan-1863287",
     "title": "【本節目適用文化幣青年席位優惠】會演是英雄2之 《英雄所賤略同— Hero Emotion》",
     "start": "2026-12-26",
@@ -90,15 +126,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1830026"
   },
   {
-    "id": "taoyuan-1805540",
-    "title": "【感受城市X文化治理：2026桃園學研討會】活動開始報名囉！",
-    "start": "2026-09-11",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1805540"
-  },
-  {
     "id": "taoyuan-1781824",
     "title": "尤尉州個展《大器碗成》",
     "start": "2026-09-30",
@@ -106,50 +133,5 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1781824"
-  },
-  {
-    "id": "taoyuan-1781821",
-    "title": "十妍雅集聯展",
-    "start": "2026-09-09",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1781821"
-  },
-  {
-    "id": "taoyuan-1781820",
-    "title": "115年第二十五屆美術班畢業成果展（光猗班）",
-    "start": "2026-09-09",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1781820"
-  },
-  {
-    "id": "taoyuan-1781811",
-    "title": "2026桃園市國樂團器樂大賽",
-    "start": "2026-09-20",
-    "category": "traditional",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1781811"
-  },
-  {
-    "id": "taoyuan-1781807",
-    "title": "狂美《宮崎駿動畫配樂Ⅱ》交響音樂會-2026暖心巡演",
-    "start": "2026-09-25",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1781807"
-  },
-  {
-    "id": "taoyuan-1755353",
-    "title": "聲動室內樂團《聲之響宴：宮崎駿動畫配樂音樂會》《聲動漫：ACG音樂祭》",
-    "start": "2026-09-19",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1755353"
   }
 ]

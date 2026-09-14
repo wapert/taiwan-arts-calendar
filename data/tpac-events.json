@@ -1,15 +1,5 @@
 [
   {
-    "id": "tpac-1872",
-    "title": "2026臺北藝術節 X 中國信託新舞臺藝術節：驫舞20《大群舞》",
-    "start": "2026-09-11",
-    "end": "2026-09-12",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1872"
-  },
-  {
     "id": "tpac-2066",
     "title": "【2026 TSO 年度歌劇】崔斯坦與伊索德",
     "start": "2026-09-15",
@@ -229,6 +219,16 @@
     "url": "https://tpac.org.taipei/program/2051"
   },
   {
+    "id": "tpac-2083",
+    "title": "2026中國信託新舞臺藝術節 約恩．布爾熱瓦舞團《誰會跌倒》",
+    "start": "2026-11-19",
+    "end": "2026-11-21",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/2083"
+  },
+  {
     "id": "tpac-2061",
     "title": "音樂劇《跑跑殭丙仁》",
     "start": "2026-12-03",
@@ -265,6 +265,16 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/1842"
+  },
+  {
+    "id": "tpac-2089",
+    "title": "TCO劇院：臺灣歌劇《姊妹》",
+    "start": "2026-12-17",
+    "end": "2026-12-19",
+    "category": "opera",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/2089"
   },
   {
     "id": "tpac-2045",

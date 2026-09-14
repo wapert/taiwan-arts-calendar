@@ -1,5 +1,59 @@
 [
   {
+    "id": "legacy-3269",
+    "title": "李東軒 AUSTIN LEE 《 FOREVER 我們·不變 》十週年演唱會",
+    "start": "2026-10-08",
+    "category": "pop",
+    "venue": "Legacy Taipei 音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3269"
+  },
+  {
+    "id": "legacy-3268",
+    "title": "《大學城經典演唱會》～青春不散場・歌聲再飛揚  18:30 好評加開第３場！",
+    "start": "2026-10-26",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3268"
+  },
+  {
+    "id": "legacy-3266",
+    "title": "Kiefer LIVE IN TAIPEI 2026",
+    "start": "2026-10-30",
+    "category": "pop",
+    "venue": "Legacy Taipei",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3266"
+  },
+  {
+    "id": "legacy-3265",
+    "title": "椅子樂團 Rolling On, Marching On 十週年巡演",
+    "start": "2026-11-28",
+    "category": "pop",
+    "venue": "Legacy Taichung",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3265"
+  },
+  {
+    "id": "legacy-3264",
+    "title": "椅子樂團 Rolling On, Marching On 十週年巡演",
+    "start": "2026-11-14",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3264"
+  },
+  {
+    "id": "legacy-3263",
+    "title": "郭子&浮花樂隊 原來的那首歌 Live in Legacy Taipei",
+    "start": "2026-10-16",
+    "category": "pop",
+    "venue": "Legacy Taipei",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3263"
+  },
+  {
     "id": "legacy-3262",
     "title": "乃紫 noa live in Taipei 2026",
     "start": "2026-12-20",
@@ -34,50 +88,5 @@
     "venue": "Legacy Taichung 音樂展演空間",
     "city": "Taichung",
     "url": "https://www.legacy.com.tw/article/page/taichung/3259"
-  },
-  {
-    "id": "legacy-3258",
-    "title": "2026 陳謙文 x 方馨 x 簡沛恩《情歌若響・有你有我》讓愛巨續公益演唱會",
-    "start": "2026-11-06",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3258"
-  },
-  {
-    "id": "legacy-3257",
-    "title": "FANTASTICS LIVE 2026 in TAIPEI \"放大絶\"",
-    "start": "2026-10-18",
-    "category": "pop",
-    "venue": "Legaly TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3257"
-  },
-  {
-    "id": "legacy-3254",
-    "title": "Andr [Shedding Skin 脱皮] 2026 Asia Tour in Taipei [Special Edition]",
-    "start": "2026-09-19",
-    "category": "pop",
-    "venue": "Legacy Taipei",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3254"
-  },
-  {
-    "id": "legacy-3253",
-    "title": "孫盛希 Shi Shi [The Taste of …]台北演唱會",
-    "start": "2026-11-01",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3253"
-  },
-  {
-    "id": "legacy-3252",
-    "title": "LenaMiu Love Meets You Fan Meeting in Taipei",
-    "start": "2026-10-23",
-    "category": "pop",
-    "venue": "Legaly TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3252"
   }
 ]

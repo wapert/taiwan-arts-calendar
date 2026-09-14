@@ -30,24 +30,6 @@
     "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
   },
   {
-    "id": "ntt-c-kDUPNCB3YLx",
-    "title": "【主題講座】未竟的葬禮：希臘悲劇《安蒂岡妮》的現代叩問",
-    "start": "2026-09-11",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-kDUPNCB3YLx"
-  },
-  {
-    "id": "ntt-c-fAbX6F2cpjl",
-    "title": "【主題講座】歌劇裡的《換乘戀愛》—莫札特的戀愛實境秀《女人皆如此》",
-    "start": "2026-09-13",
-    "category": "opera",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-fAbX6F2cpjl"
-  },
-  {
     "id": "ntt-c-0GD53CBlRZh",
     "title": "2026 放肆夜 戶外電影《幸福綠皮書》",
     "start": "2026-09-17",
@@ -102,6 +84,15 @@
     "venue": "國家歌劇院・角落沙龍",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-tFv0cXGVC8K"
+  },
+  {
+    "id": "ntt-c-NW82qZpRdTh",
+    "title": "【周邊活動】莫札特270歲生日快樂！《女人皆如此》特別企劃—《阿瑪迪斯》星光電影院",
+    "start": "2026-10-02",
+    "category": "workshop",
+    "venue": "國家歌劇院・戶外劇場",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-NW82qZpRdTh"
   },
   {
     "id": "ntt-c-uLKIim904Tc",
