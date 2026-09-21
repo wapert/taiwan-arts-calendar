@@ -30,16 +30,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/FlyMeToTheMoonAndBack2025"
   },
   {
-    "id": "tmc-2026TMCGoldenVoiceContest",
-    "title": "2026北流金舞台 歌唱大賽",
-    "start": "2026-06-01",
-    "end": "2026-09-20",
-    "category": "workshop",
-    "venue": "臺北流行音樂中心",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026TMCGoldenVoiceContest"
-  },
-  {
     "id": "tmc-TMC-Academy-of-Concerts2026-2nd",
     "title": "2026 第二屆北流演唱會學院 — Make it Live！｜開放報名",
     "start": "2026-06-28",
@@ -60,45 +50,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/2026TaipeiJazzFestival"
   },
   {
-    "id": "tmc-18tw",
-    "title": "第十八屆台灣經典電視電影演唱會聽咱的歌看咱的影",
-    "start": "2026-09-15",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/18tw"
-  },
-  {
-    "id": "tmc-tmc2026movienight",
-    "title": "《2026【唱 我們的歌】金曲再現－經典電影院暨映後座談》",
-    "start": "2026-09-18",
-    "end": "2026-09-20",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・文化館",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/tmc2026movienight"
-  },
-  {
-    "id": "tmc-2026TMCGoldenVoiceContest/Final",
-    "title": "【2026北流金舞台】決賽系列活動",
-    "start": "2026-09-19",
-    "end": "2026-09-20",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・戶外表演空間",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026TMCGoldenVoiceContest/Final"
-  },
-  {
-    "id": "tmc-2026LEEYOUNGJI",
-    "title": "2026 LEE YOUNGJI WORLD TOUR ＜2.0＞",
-    "start": "2026-09-19",
-    "end": "2026-09-20",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026LEEYOUNGJI"
-  },
-  {
     "id": "tmc-disneyhits",
     "title": "《迪士尼金曲派對》Disney Hits LIVE！",
     "start": "2026-09-26",
@@ -116,5 +67,53 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/Patrick2026"
+  },
+  {
+    "id": "tmc-2026SeniorMusicClub",
+    "title": "2026北流銀髮樂（ㄌㄜˋ）音社 - 嘻哈大頑童",
+    "start": "2026-11-04",
+    "end": "2026-11-25",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・Live House D",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026SeniorMusicClub"
+  },
+  {
+    "id": "tmc-2026SungNien-Yu",
+    "title": "小宇 宋念宇 《不，完美的人》 演唱會",
+    "start": "2026-11-07",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026SungNien-Yu"
+  },
+  {
+    "id": "tmc-TAKUYAKIMURA2026",
+    "title": "「TAKUYA KIMURA Live Tour 2026 Checkpoint」in TAIPEI",
+    "start": "2026-11-13",
+    "end": "2026-11-14",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/TAKUYAKIMURA2026"
+  },
+  {
+    "id": "tmc-2026SingTheScene",
+    "title": "2026【唱 我們的歌】金曲再現 演唱會｜我的電影K歌時代",
+    "start": "2026-11-21",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・其他",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026SingTheScene"
+  },
+  {
+    "id": "tmc-DianaKrall2026",
+    "title": "爵士天后 戴安娜・克瑞兒 Diana Krall",
+    "start": "2026-11-28",
+    "end": "2026-11-29",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/DianaKrall2026"
   }
 ]

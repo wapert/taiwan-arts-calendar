@@ -1,55 +1,5 @@
 [
   {
-    "id": "tpac-2066",
-    "title": "【2026 TSO 年度歌劇】崔斯坦與伊索德",
-    "start": "2026-09-15",
-    "end": "2026-09-18",
-    "category": "opera",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2066"
-  },
-  {
-    "id": "tpac-1884",
-    "title": "2026臺北藝術節：王世偉《我是風》",
-    "start": "2026-09-17",
-    "end": "2026-09-19",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1884"
-  },
-  {
-    "id": "tpac-2047",
-    "title": "2026臺北藝術節：瓦吉．穆阿瓦電影特映《烈火焚身》",
-    "start": "2026-09-18",
-    "end": "2026-09-19",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2047"
-  },
-  {
-    "id": "tpac-2048",
-    "title": "2026臺北藝術節：瓦吉．穆阿瓦電影特映《戀戀貝魯特》",
-    "start": "2026-09-18",
-    "end": "2026-09-19",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2048"
-  },
-  {
-    "id": "tpac-2049",
-    "title": "2026臺北藝術節：瓦吉．穆阿瓦電影特映《海之邊》",
-    "start": "2026-09-18",
-    "end": "2026-09-19",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2049"
-  },
-  {
     "id": "tpac-2042",
     "title": "《你好，我是接體員》黑色幽默音樂劇",
     "start": "2026-09-24",
@@ -159,6 +109,16 @@
     "url": "https://tpac.org.taipei/program/2053"
   },
   {
+    "id": "tpac-2088",
+    "title": "C MUSICAL 音樂劇《小王子》",
+    "start": "2026-11-04",
+    "end": "2026-11-14",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/2088"
+  },
+  {
     "id": "tpac-2058",
     "title": "故事工廠 第24回作品《婚禮上的小抄》",
     "start": "2026-11-05",
@@ -187,6 +147,16 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/2075"
+  },
+  {
+    "id": "tpac-2043",
+    "title": "職男人生6-不想上班",
+    "start": "2026-11-12",
+    "end": "2026-11-14",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/2043"
   },
   {
     "id": "tpac-1423",

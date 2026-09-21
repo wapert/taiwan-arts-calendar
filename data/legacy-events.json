@@ -1,5 +1,23 @@
 [
   {
+    "id": "legacy-3271",
+    "title": "椅子樂團 Rolling On, Marching On 十週年巡演",
+    "start": "2026-11-29",
+    "category": "pop",
+    "venue": "Legacy Taichung",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3271"
+  },
+  {
+    "id": "legacy-3270",
+    "title": "椅子樂團 Rolling On, Marching On 十週年巡演",
+    "start": "2026-11-13",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3270"
+  },
+  {
     "id": "legacy-3269",
     "title": "李東軒 AUSTIN LEE 《 FOREVER 我們·不變 》十週年演唱會",
     "start": "2026-10-08",
@@ -70,23 +88,5 @@
     "venue": "Legacy TERA",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/great/3261"
-  },
-  {
-    "id": "legacy-3260",
-    "title": "李大奔《THE MODEL TOUR》新專輯巡演台北站",
-    "start": "2026-09-16",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3260"
-  },
-  {
-    "id": "legacy-3259",
-    "title": "我們搖滾——無妄合作社十週年演唱會",
-    "start": "2026-09-25",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3259"
   }
 ]

@@ -30,34 +30,6 @@
     "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
   },
   {
-    "id": "ntt-c-0GD53CBlRZh",
-    "title": "2026 放肆夜 戶外電影《幸福綠皮書》",
-    "start": "2026-09-17",
-    "category": "workshop",
-    "venue": "國家歌劇院・戶外劇場",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-0GD53CBlRZh"
-  },
-  {
-    "id": "ntt-c-MK1iTAudaQD",
-    "title": "2026 NTT劇院展開 ✕ 大兵市集「蓬萊留聲機」",
-    "start": "2026-09-19",
-    "end": "2026-09-20",
-    "category": "theater",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-MK1iTAudaQD"
-  },
-  {
-    "id": "ntt-c-I7Zb9mUeyPl",
-    "title": "【主題講座】「被音樂耽誤的工程師」—歌劇院駐館藝術家賴奇霞創作計畫與歷程分享",
-    "start": "2026-09-19",
-    "category": "opera",
-    "venue": "國家歌劇院・排練室2",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-I7Zb9mUeyPl"
-  },
-  {
     "id": "ntt-c-oAmPJ8WkXMa",
     "title": "2026 NTT劇院展開《我的爵視金曲夜》",
     "start": "2026-09-20",
@@ -132,6 +104,24 @@
     "url": "https://www.npac-ntt.org/program/events/c-myvw9rc8VJf"
   },
   {
+    "id": "ntt-c-dCk9Racfzx2",
+    "title": "【主題講座】身體、神話與當代：凝視下的《安蒂岡妮》",
+    "start": "2026-10-17",
+    "category": "workshop",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-dCk9Racfzx2"
+  },
+  {
+    "id": "ntt-c-IMCHF59ORoZ",
+    "title": "2026臺中國際巨星音樂節 Yo-Yo Ma Live in Concert",
+    "start": "2026-10-21",
+    "category": "pop",
+    "venue": "國家歌劇院・大劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-IMCHF59ORoZ"
+  },
+  {
     "id": "ntt-c-SxodTZVOGQl",
     "title": "2026 NTT遇見巨人─驫舞劇場《大群舞》",
     "start": "2026-10-24",
@@ -162,6 +152,25 @@
     "url": "https://www.npac-ntt.org/program/events/c-YtMaHRp8ExI"
   },
   {
+    "id": "ntt-c-kdKGwRhsm6e",
+    "title": "向海頓致敬 Homage to Joseph Haydn",
+    "start": "2026-11-02",
+    "category": "theater",
+    "venue": "國家歌劇院・中劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-kdKGwRhsm6e"
+  },
+  {
+    "id": "ntt-c-LqfDi3g7Z4o",
+    "title": "2026 NTT遇見巨人—2025-2026歌劇院駐館藝術家賴奇霞：Open Studio | 共振進行中",
+    "start": "2026-11-03",
+    "end": "2026-11-07",
+    "category": "opera",
+    "venue": "國家歌劇院・小劇場",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-LqfDi3g7Z4o"
+  },
+  {
     "id": "ntt-c-Jy3kZL7hfgt",
     "title": "2026 NTT遇見巨人—2025-2026 歌劇院駐館藝術家賴奇霞《共振計畫：感．響》",
     "start": "2026-11-06",
@@ -170,6 +179,15 @@
     "venue": "國家歌劇院・小劇場",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-Jy3kZL7hfgt"
+  },
+  {
+    "id": "ntt-c-6sx2bLi7IqM",
+    "title": "【主題講座】慾望四重奏：羅伯．勒帕吉╳柏林雷寧廣場劇院《信仰、金錢、戰爭與愛》",
+    "start": "2026-11-08",
+    "category": "workshop",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-6sx2bLi7IqM"
   },
   {
     "id": "ntt-c-ubJaDxvw9Mf",

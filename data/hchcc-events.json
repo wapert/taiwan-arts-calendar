@@ -1,5 +1,24 @@
 [
   {
+    "id": "hchcc-6d8af5b0-f86f-4a05-8423-3e6e4214c298",
+    "title": "面白大丈夫劇團-職男人生3-達成激笑",
+    "start": "2026-12-18",
+    "end": "2026-12-19",
+    "category": "theater",
+    "venue": "新竹縣文化局演藝廳",
+    "city": "Hsinchu",
+    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=6d8af5b0-f86f-4a05-8423-3e6e4214c298"
+  },
+  {
+    "id": "hchcc-5ee59a90-3261-4c2d-a0c4-694d562fa2a7",
+    "title": "如果兒童劇團-小豬探3「小露營大驚奇」",
+    "start": "2026-12-12",
+    "category": "theater",
+    "venue": "新竹縣文化局演藝廳",
+    "city": "Hsinchu",
+    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=5ee59a90-3261-4c2d-a0c4-694d562fa2a7"
+  },
+  {
     "id": "hchcc-13544089-6d50-401b-88de-d9b015e1e560",
     "title": "果陀劇場-《三個傻瓜》音樂劇",
     "start": "2026-11-07",
@@ -26,6 +45,16 @@
     "venue": "新竹縣文化局演藝廳",
     "city": "Hsinchu",
     "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=fcb4af9c-adde-41e1-bab8-cdee3172cd20"
+  },
+  {
+    "id": "hchcc-12abc7d2-1d48-463e-82a2-f222651e6a11",
+    "title": "2026臺灣國際直笛音樂節-主場音樂會",
+    "start": "2026-10-02",
+    "end": "2026-10-04",
+    "category": "classical",
+    "venue": "新竹縣文化局演藝廳",
+    "city": "Hsinchu",
+    "url": "https://www.hchcc.gov.tw/Tw/ArtMuseum/ActDetail?filter=8961630F-BD1B-4576-A844-2A4C1E2D49B4&id=12abc7d2-1d48-463e-82a2-f222651e6a11"
   },
   {
     "id": "hchcc-e91b8183-f3fc-4b5c-bc7f-228c66626b69",
