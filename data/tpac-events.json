@@ -1,25 +1,5 @@
 [
   {
-    "id": "tpac-2042",
-    "title": "《你好，我是接體員》黑色幽默音樂劇",
-    "start": "2026-09-24",
-    "end": "2026-09-26",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2042"
-  },
-  {
-    "id": "tpac-1779",
-    "title": "叛逆研究社-笑著被記過",
-    "start": "2026-09-25",
-    "end": "2026-09-26",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1779"
-  },
-  {
     "id": "tpac-1882",
     "title": "2026臺北藝術節：瓦吉．穆阿瓦《海之邊》",
     "start": "2026-10-01",
@@ -107,6 +87,16 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/2053"
+  },
+  {
+    "id": "tpac-2090",
+    "title": "超人力霸王舞台劇  與光同行  60週年特別公演 Voyager Live In Taiwan 2026",
+    "start": "2026-10-29",
+    "end": "2026-10-31",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/2090"
   },
   {
     "id": "tpac-2088",

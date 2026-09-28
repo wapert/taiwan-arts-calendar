@@ -1,25 +1,5 @@
 [
   {
-    "id": "ntt-c-zXwE01FBplQ",
-    "title": "2026 後青年工作坊—戲劇篇",
-    "start": "2026-08-31",
-    "end": "2026-11-16",
-    "category": "workshop",
-    "venue": "國家歌劇院・排練室1",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-zXwE01FBplQ"
-  },
-  {
-    "id": "ntt-c-PJj7sHUqcFh",
-    "title": "2026 NTT充電夜—戲劇工作坊",
-    "start": "2026-08-31",
-    "end": "2026-11-09",
-    "category": "workshop",
-    "venue": "國家歌劇院・排練室1",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-PJj7sHUqcFh"
-  },
-  {
     "id": "ntt-c-nPjai2Bd6YI",
     "title": "時刻在藝起：NTT10週年回顧展",
     "start": "2026-07-01",
@@ -28,16 +8,6 @@
     "venue": "國家歌劇院・其他場地",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
-  },
-  {
-    "id": "ntt-c-oAmPJ8WkXMa",
-    "title": "2026 NTT劇院展開《我的爵視金曲夜》",
-    "start": "2026-09-20",
-    "end": "2026-10-09",
-    "category": "theater",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-oAmPJ8WkXMa"
   },
   {
     "id": "ntt-c-CSQAZrzb5GF",
@@ -83,6 +53,36 @@
     "venue": "國家歌劇院・其他場地",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-OSsKDT1iQ2E"
+  },
+  {
+    "id": "ntt-c-zXwE01FBplQ",
+    "title": "2026 後青年工作坊—戲劇篇",
+    "start": "2026-08-31",
+    "end": "2026-11-16",
+    "category": "workshop",
+    "venue": "國家歌劇院・排練室1",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-zXwE01FBplQ"
+  },
+  {
+    "id": "ntt-c-PJj7sHUqcFh",
+    "title": "2026 NTT充電夜—戲劇工作坊",
+    "start": "2026-08-31",
+    "end": "2026-11-09",
+    "category": "workshop",
+    "venue": "國家歌劇院・排練室1",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-PJj7sHUqcFh"
+  },
+  {
+    "id": "ntt-c-oAmPJ8WkXMa",
+    "title": "2026 NTT劇院展開《我的爵視金曲夜》",
+    "start": "2026-09-20",
+    "end": "2026-10-09",
+    "category": "theater",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-oAmPJ8WkXMa"
   },
   {
     "id": "ntt-c-OLHvY1u46BA",

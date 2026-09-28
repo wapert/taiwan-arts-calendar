@@ -20,16 +20,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/culturalcube5th"
   },
   {
-    "id": "tmc-FlyMeToTheMoonAndBack2025",
-    "title": "《想你到月球－張雨生特展》線上特展 Fly Me to the Moon & Back",
-    "start": "2025-09-30",
-    "end": "2026-09-22",
-    "category": "exhibition",
-    "venue": "臺北流行音樂中心・其他",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/FlyMeToTheMoonAndBack2025"
-  },
-  {
     "id": "tmc-TMC-Academy-of-Concerts2026-2nd",
     "title": "2026 第二屆北流演唱會學院 — Make it Live！｜開放報名",
     "start": "2026-06-28",
@@ -48,16 +38,6 @@
     "venue": "臺北流行音樂中心・其他",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/2026TaipeiJazzFestival"
-  },
-  {
-    "id": "tmc-disneyhits",
-    "title": "《迪士尼金曲派對》Disney Hits LIVE！",
-    "start": "2026-09-26",
-    "end": "2026-09-27",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/disneyhits"
   },
   {
     "id": "tmc-Patrick2026",
@@ -115,5 +95,24 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/DianaKrall2026"
+  },
+  {
+    "id": "tmc-K21",
+    "title": "《K21》顏社二十一週年演唱會",
+    "start": "2026-12-12",
+    "end": "2026-12-13",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/K21"
+  },
+  {
+    "id": "tmc-atarayo2026",
+    "title": "Atarayo ASIA TOUR 2026『夕立が去ったその後で』in TAIPEI",
+    "start": "2026-12-19",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/atarayo2026"
   }
 ]
