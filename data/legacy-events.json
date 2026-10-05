@@ -1,5 +1,59 @@
 [
   {
+    "id": "legacy-3282",
+    "title": "2026 The Next Big Thing 大團誕生（開發場5）",
+    "start": "2026-11-05",
+    "category": "pop",
+    "venue": "Legacy Taipei 傳音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3282"
+  },
+  {
+    "id": "legacy-3281",
+    "title": "格式塔少女 Gestalt Girl 「働くこと、休むこと。」專輯發片巡迴 - 台北場",
+    "start": "2026-12-06",
+    "category": "pop",
+    "venue": "Legacy Taipei 傳音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3281"
+  },
+  {
+    "id": "legacy-3279",
+    "title": "Legacy Presents【2026都市女聲】：小球（莊鵑瑛）《Reset：Roots》－台北場",
+    "start": "2026-12-12",
+    "category": "pop",
+    "venue": "Legacy Taipei 傳音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3279"
+  },
+  {
+    "id": "legacy-3278",
+    "title": "Legacy Presents【2026都市女聲】：小球（莊鵑瑛）《Reset：Memory》－台中場",
+    "start": "2026-11-27",
+    "category": "pop",
+    "venue": "Legacy Taipei 傳音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3278"
+  },
+  {
+    "id": "legacy-3277",
+    "title": "Legacy Presents【2026都市女聲】：小球（莊鵑瑛）《Reset：Me》－台北場",
+    "start": "2026-10-24",
+    "category": "pop",
+    "venue": "Legacy Taipei 傳音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3277"
+  },
+  {
+    "id": "legacy-3276",
+    "title": "高橋洋子 2026亞洲巡迴演唱會-夜想曲- 台北場",
+    "start": "2026-10-24",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3276"
+  },
+  {
     "id": "legacy-3275",
     "title": "三個不老擊敗之人生跑馬燈 LIVE SHOW",
     "start": "2026-12-11",
@@ -16,59 +70,5 @@
     "venue": "Legacy TERA",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/great/3274"
-  },
-  {
-    "id": "legacy-3271",
-    "title": "椅子樂團 Rolling On, Marching On 十週年巡演",
-    "start": "2026-11-29",
-    "category": "pop",
-    "venue": "Legacy Taichung",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3271"
-  },
-  {
-    "id": "legacy-3270",
-    "title": "椅子樂團 Rolling On, Marching On 十週年巡演",
-    "start": "2026-11-13",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3270"
-  },
-  {
-    "id": "legacy-3269",
-    "title": "李東軒 AUSTIN LEE 《 FOREVER 我們·不變 》十週年演唱會",
-    "start": "2026-10-08",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3269"
-  },
-  {
-    "id": "legacy-3268",
-    "title": "《大學城經典演唱會》～青春不散場・歌聲再飛揚  18:30 好評加開第３場！",
-    "start": "2026-10-26",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3268"
-  },
-  {
-    "id": "legacy-3266",
-    "title": "Kiefer LIVE IN TAIPEI 2026",
-    "start": "2026-10-30",
-    "category": "pop",
-    "venue": "Legacy Taipei",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3266"
-  },
-  {
-    "id": "legacy-3265",
-    "title": "椅子樂團 Rolling On, Marching On 十週年巡演",
-    "start": "2026-11-28",
-    "category": "pop",
-    "venue": "Legacy Taichung",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3265"
   }
 ]

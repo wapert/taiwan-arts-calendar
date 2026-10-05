@@ -10,16 +10,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/TMC-Permanent-Exhibition"
   },
   {
-    "id": "tmc-culturalcube5th",
-    "title": "文化館五週年生日慶｜感官練習進行曲",
-    "start": "2026-09-01",
-    "end": "2026-09-30",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・文化館",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/culturalcube5th"
-  },
-  {
     "id": "tmc-TMC-Academy-of-Concerts2026-2nd",
     "title": "2026 第二屆北流演唱會學院 — Make it Live！｜開放報名",
     "start": "2026-06-28",
@@ -114,5 +104,14 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/atarayo2026"
+  },
+  {
+    "id": "tmc-GBOYSWAG2026",
+    "title": "鼓鼓 呂思緯《我現在又在想你了》巡迴演唱會",
+    "start": "2026-12-26",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/GBOYSWAG2026"
   }
 ]

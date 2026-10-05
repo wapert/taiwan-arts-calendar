@@ -1,60 +1,5 @@
 [
   {
-    "id": "ntt-c-nPjai2Bd6YI",
-    "title": "時刻在藝起：NTT10週年回顧展",
-    "start": "2026-07-01",
-    "end": "2026-11-01",
-    "category": "theater",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
-  },
-  {
-    "id": "ntt-c-CSQAZrzb5GF",
-    "title": "【主題講座】蘇威嘉與驫舞劇場的20年身體對話",
-    "start": "2026-09-30",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-CSQAZrzb5GF"
-  },
-  {
-    "id": "ntt-c-tFv0cXGVC8K",
-    "title": "【主題講座】女人，豈止如此？愛情裡說不出口的真心話，都在音樂裡",
-    "start": "2026-10-01",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-tFv0cXGVC8K"
-  },
-  {
-    "id": "ntt-c-NW82qZpRdTh",
-    "title": "【周邊活動】莫札特270歲生日快樂！《女人皆如此》特別企劃—《阿瑪迪斯》星光電影院",
-    "start": "2026-10-02",
-    "category": "workshop",
-    "venue": "國家歌劇院・戶外劇場",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-NW82qZpRdTh"
-  },
-  {
-    "id": "ntt-c-uLKIim904Tc",
-    "title": "【主題講座】《女人皆如此》：莫札特的歌劇人生與人生歌劇",
-    "start": "2026-10-03",
-    "category": "opera",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-uLKIim904Tc"
-  },
-  {
-    "id": "ntt-c-OSsKDT1iQ2E",
-    "title": "【主題講座】《迷失的李爾》：莎翁悲劇的當代轉譯",
-    "start": "2026-10-03",
-    "category": "workshop",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-OSsKDT1iQ2E"
-  },
-  {
     "id": "ntt-c-zXwE01FBplQ",
     "title": "2026 後青年工作坊—戲劇篇",
     "start": "2026-08-31",
@@ -73,6 +18,16 @@
     "venue": "國家歌劇院・排練室1",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-PJj7sHUqcFh"
+  },
+  {
+    "id": "ntt-c-nPjai2Bd6YI",
+    "title": "時刻在藝起：NTT10週年回顧展",
+    "start": "2026-07-01",
+    "end": "2026-11-01",
+    "category": "theater",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
   },
   {
     "id": "ntt-c-oAmPJ8WkXMa",
@@ -111,6 +66,15 @@
     "venue": "國家歌劇院・角落沙龍",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-dCk9Racfzx2"
+  },
+  {
+    "id": "ntt-c-2V1kYBDwHdl",
+    "title": "【主題講座】跨越2百年，從畫布到劇場：哥雅《The Great He-Goat》再次甦醒",
+    "start": "2026-10-18",
+    "category": "workshop",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-2V1kYBDwHdl"
   },
   {
     "id": "ntt-c-IMCHF59ORoZ",
@@ -199,6 +163,15 @@
     "url": "https://www.npac-ntt.org/program/events/c-ubJaDxvw9Mf"
   },
   {
+    "id": "ntt-c-BO1F6szgicX",
+    "title": "【主題講座】經典永續．慾望城國四十年傳奇之路",
+    "start": "2026-11-14",
+    "category": "workshop",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-BO1F6szgicX"
+  },
+  {
     "id": "ntt-c-loq8SRvLPWA",
     "title": "2026 NTT遇見巨人―賽門．拉圖爵士與巴伐利亞廣播交響樂團",
     "start": "2026-11-16",
@@ -206,6 +179,15 @@
     "venue": "國家歌劇院・大劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-loq8SRvLPWA"
+  },
+  {
+    "id": "ntt-c-HrVkXJIGOYb",
+    "title": "【大師工作坊】比利時莫蘇邦特跨界劇場「多重存在」肢體工作坊",
+    "start": "2026-11-18",
+    "category": "workshop",
+    "venue": "國家歌劇院・排練室2",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-HrVkXJIGOYb"
   },
   {
     "id": "ntt-c-2gk0TIqbOvV",
@@ -228,6 +210,15 @@
     "url": "https://www.npac-ntt.org/program/events/c-DYpZSMBj4Ah"
   },
   {
+    "id": "ntt-c-4TbrkLEPYdy",
+    "title": "歌劇院會員限定《緞帶・繫冬日》耶誕花藝工作坊",
+    "start": "2026-11-29",
+    "category": "opera",
+    "venue": "國家歌劇院・凸凸廳",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-4TbrkLEPYdy"
+  },
+  {
     "id": "ntt-c-arEFtj3B5le",
     "title": "2026 NTT遇見巨人—明華園戲劇總團《烏龍天下》",
     "start": "2026-12-05",
@@ -236,6 +227,16 @@
     "venue": "國家歌劇院・大劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-arEFtj3B5le"
+  },
+  {
+    "id": "ntt-c-ptZQdsCfLUA",
+    "title": "【2026-2027 NTT+音樂劇人才培育工程】 第一階段入選作品讀劇呈現",
+    "start": "2026-12-12",
+    "end": "2026-12-13",
+    "category": "theater",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-ptZQdsCfLUA"
   },
   {
     "id": "ntt-c-tXIoJAsGlQ6",

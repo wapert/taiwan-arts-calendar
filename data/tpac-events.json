@@ -1,25 +1,5 @@
 [
   {
-    "id": "tpac-1882",
-    "title": "2026臺北藝術節：瓦吉．穆阿瓦《海之邊》",
-    "start": "2026-10-01",
-    "end": "2026-10-02",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1882"
-  },
-  {
-    "id": "tpac-1883",
-    "title": "2026臺北藝術節：瓦吉．穆阿瓦《孤身》",
-    "start": "2026-10-02",
-    "end": "2026-10-03",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1883"
-  },
-  {
     "id": "tpac-2059",
     "title": "【ESO 大師精選】曠野之光－梵志登與ESO",
     "start": "2026-10-10",
