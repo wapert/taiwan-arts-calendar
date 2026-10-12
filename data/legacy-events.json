@@ -1,74 +1,92 @@
 [
   {
-    "id": "legacy-3282",
-    "title": "2026 The Next Big Thing 大團誕生（開發場5）",
-    "start": "2026-11-05",
+    "id": "legacy-3296",
+    "title": "BK 2026 台北專場-【還是會想念】",
+    "start": "2026-12-04",
     "category": "pop",
-    "venue": "Legacy Taipei 傳音樂展演空間",
+    "venue": "Legacy Taipei 音樂展演空間",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3282"
+    "url": "https://www.legacy.com.tw/article/page/taipei/3296"
   },
   {
-    "id": "legacy-3281",
-    "title": "格式塔少女 Gestalt Girl 「働くこと、休むこと。」專輯發片巡迴 - 台北場",
-    "start": "2026-12-06",
-    "category": "pop",
-    "venue": "Legacy Taipei 傳音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3281"
-  },
-  {
-    "id": "legacy-3279",
-    "title": "Legacy Presents【2026都市女聲】：小球（莊鵑瑛）《Reset：Roots》－台北場",
-    "start": "2026-12-12",
-    "category": "pop",
-    "venue": "Legacy Taipei 傳音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3279"
-  },
-  {
-    "id": "legacy-3278",
-    "title": "Legacy Presents【2026都市女聲】：小球（莊鵑瑛）《Reset：Memory》－台中場",
-    "start": "2026-11-27",
-    "category": "pop",
-    "venue": "Legacy Taipei 傳音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3278"
-  },
-  {
-    "id": "legacy-3277",
-    "title": "Legacy Presents【2026都市女聲】：小球（莊鵑瑛）《Reset：Me》－台北場",
-    "start": "2026-10-24",
-    "category": "pop",
-    "venue": "Legacy Taipei 傳音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3277"
-  },
-  {
-    "id": "legacy-3276",
-    "title": "高橋洋子 2026亞洲巡迴演唱會-夜想曲- 台北場",
-    "start": "2026-10-24",
+    "id": "legacy-3295",
+    "title": "黃玠〈冬。Cry〉演唱會",
+    "start": "2026-11-07",
     "category": "pop",
     "venue": "Legacy TERA",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3276"
+    "url": "https://www.legacy.com.tw/article/page/great/3295"
   },
   {
-    "id": "legacy-3275",
-    "title": "三個不老擊敗之人生跑馬燈 LIVE SHOW",
-    "start": "2026-12-11",
+    "id": "legacy-3294",
+    "title": "「FLY ＆ DIVE」bacho ＆ KOTORI LIVE in TAIWAN",
+    "start": "2027-01-30",
     "category": "pop",
     "venue": "Legacy Taichung 音樂展演空間",
     "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3275"
+    "url": "https://www.legacy.com.tw/article/page/taichung/3294"
   },
   {
-    "id": "legacy-3274",
-    "title": "2026 HWANG MIN HYUN FANMEETING [PEACH-BLOSSOM] - TAIPEI",
-    "start": "2026-11-27",
+    "id": "legacy-3293",
+    "title": "Hey Girl ！跌得漂亮 小男孩樂團巡迴演唱會 台北場",
+    "start": "2026-10-25",
     "category": "pop",
-    "venue": "Legacy TERA",
+    "venue": "Legacy Taipei 音樂展演空間",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3274"
+    "url": "https://www.legacy.com.tw/article/page/taipei/3293"
+  },
+  {
+    "id": "legacy-3292",
+    "title": "Hey Girl ！跌得漂亮 小男孩樂團巡迴演唱會 台中場",
+    "start": "2026-11-01",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3292"
+  },
+  {
+    "id": "legacy-3291",
+    "title": "回聲樂團 Echo of Your Soul 靈魂的回聲 台中歲末場",
+    "start": "2026-12-27",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3291"
+  },
+  {
+    "id": "legacy-3290",
+    "title": "蔡題謙 2026 專場【中間】",
+    "start": "2026-11-14",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3290"
+  },
+  {
+    "id": "legacy-3289",
+    "title": "「圓– Circle of Harmony 」藥師寺寬邦般若心經MUSIC 10周年世界巡演 in 台中",
+    "start": "2026-10-31",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3289"
+  },
+  {
+    "id": "legacy-3288",
+    "title": "青虫aoi 2026 冬季小巡迴《Before Sunrise》台中場",
+    "start": "2026-10-25",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3288"
+  },
+  {
+    "id": "legacy-3287",
+    "title": "2026 摔角兄弟會-台中場 Wrestling Brotherhood",
+    "start": "2026-10-17",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3287"
   }
 ]

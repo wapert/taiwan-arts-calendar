@@ -20,23 +20,14 @@
     "url": "https://www.tmc.taipei/tw/blog/show/TMC-Academy-of-Concerts2026-2nd"
   },
   {
-    "id": "tmc-2026TaipeiJazzFestival",
-    "title": "2026臺北爵士音樂節20週年",
-    "start": "2026-09-04",
-    "end": "2026-10-11",
-    "category": "classical",
+    "id": "tmc-ProdigyOfTheGeneration",
+    "title": "《音樂怪博士 - 陳志遠特展》線上特展",
+    "start": "2026-10-01",
+    "end": "2027-09-23",
+    "category": "exhibition",
     "venue": "臺北流行音樂中心・其他",
     "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026TaipeiJazzFestival"
-  },
-  {
-    "id": "tmc-Patrick2026",
-    "title": "派偉俊 Patrick Brasca《BAD IDEA》2026個人演唱會",
-    "start": "2026-10-10",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/Patrick2026"
+    "url": "https://www.tmc.taipei/tw/blog/show/ProdigyOfTheGeneration"
   },
   {
     "id": "tmc-2026SeniorMusicClub",
