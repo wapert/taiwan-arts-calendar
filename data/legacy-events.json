@@ -1,92 +1,92 @@
 [
   {
-    "id": "legacy-3296",
-    "title": "BK 2026 台北專場-【還是會想念】",
+    "id": "legacy-3308",
+    "title": "2026 SHOW MUSICAL《WILD WILD》12/6 (日) 晚上19:30 (女性Only)",
+    "start": "2026-12-06",
+    "category": "pop",
+    "venue": "信義劇場 Legacy MAX",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/max/3308"
+  },
+  {
+    "id": "legacy-3307",
+    "title": "2026 SHOW MUSICAL《WILD WILD》12/6日 (日) 下午15:00 (女性Only)",
+    "start": "2026-12-06",
+    "category": "pop",
+    "venue": "信義劇場 Legacy MAX",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/max/3307"
+  },
+  {
+    "id": "legacy-3306",
+    "title": "2026 SHOW MUSICAL《WILD WILD》12/5 (六) 晚上19:30 (女性Only)",
+    "start": "2026-12-05",
+    "category": "pop",
+    "venue": "信義劇場 Legacy MAX",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/max/3306"
+  },
+  {
+    "id": "legacy-3305",
+    "title": "2026 SHOW MUSICAL《WILD WILD》12/5 (六) 下午15:00 (男女不拘)",
+    "start": "2026-12-05",
+    "category": "pop",
+    "venue": "信義劇場 Legacy MAX",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/max/3305"
+  },
+  {
+    "id": "legacy-3304",
+    "title": "2026 SHOW MUSICAL《WILD WILD》12/4 (五) 晚上20:00 (女性Only)",
     "start": "2026-12-04",
     "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
+    "venue": "信義劇場 Legacy MAX",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3296"
+    "url": "https://www.legacy.com.tw/article/page/max/3304"
   },
   {
-    "id": "legacy-3295",
-    "title": "黃玠〈冬。Cry〉演唱會",
-    "start": "2026-11-07",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3295"
-  },
-  {
-    "id": "legacy-3294",
-    "title": "「FLY ＆ DIVE」bacho ＆ KOTORI LIVE in TAIWAN",
-    "start": "2027-01-30",
+    "id": "legacy-3303",
+    "title": "2026 SHOW MUSICAL《WILD WILD》",
+    "start": "2026-11-22",
     "category": "pop",
     "venue": "Legacy Taichung 音樂展演空間",
     "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3294"
+    "url": "https://www.legacy.com.tw/article/page/taichung/3303"
   },
   {
-    "id": "legacy-3293",
-    "title": "Hey Girl ！跌得漂亮 小男孩樂團巡迴演唱會 台北場",
-    "start": "2026-10-25",
-    "category": "pop",
-    "venue": "Legacy Taipei 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3293"
-  },
-  {
-    "id": "legacy-3292",
-    "title": "Hey Girl ！跌得漂亮 小男孩樂團巡迴演唱會 台中場",
-    "start": "2026-11-01",
+    "id": "legacy-3302",
+    "title": "2026 SHOW MUSICAL《WILD WILD》",
+    "start": "2026-11-22",
     "category": "pop",
     "venue": "Legacy Taichung 音樂展演空間",
     "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3292"
+    "url": "https://www.legacy.com.tw/article/page/taichung/3302"
   },
   {
-    "id": "legacy-3291",
-    "title": "回聲樂團 Echo of Your Soul 靈魂的回聲 台中歲末場",
-    "start": "2026-12-27",
+    "id": "legacy-3301",
+    "title": "2026 SHOW MUSICAL《WILD WILD》",
+    "start": "2026-11-21",
     "category": "pop",
     "venue": "Legacy Taichung 音樂展演空間",
     "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3291"
+    "url": "https://www.legacy.com.tw/article/page/taichung/3301"
   },
   {
-    "id": "legacy-3290",
-    "title": "蔡題謙 2026 專場【中間】",
-    "start": "2026-11-14",
+    "id": "legacy-3300",
+    "title": "2026 SHOW MUSICAL《WILD WILD》",
+    "start": "2026-11-21",
     "category": "pop",
     "venue": "Legacy Taichung 音樂展演空間",
     "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3290"
+    "url": "https://www.legacy.com.tw/article/page/taichung/3300"
   },
   {
-    "id": "legacy-3289",
-    "title": "「圓– Circle of Harmony 」藥師寺寬邦般若心經MUSIC 10周年世界巡演 in 台中",
-    "start": "2026-10-31",
+    "id": "legacy-3299",
+    "title": "2026 SHOW MUSICAL《WILD WILD》",
+    "start": "2026-11-20",
     "category": "pop",
     "venue": "Legacy Taichung 音樂展演空間",
     "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3289"
-  },
-  {
-    "id": "legacy-3288",
-    "title": "青虫aoi 2026 冬季小巡迴《Before Sunrise》台中場",
-    "start": "2026-10-25",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3288"
-  },
-  {
-    "id": "legacy-3287",
-    "title": "2026 摔角兄弟會-台中場 Wrestling Brotherhood",
-    "start": "2026-10-17",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3287"
+    "url": "https://www.legacy.com.tw/article/page/taichung/3299"
   }
 ]

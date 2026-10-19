@@ -30,43 +30,6 @@
     "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
   },
   {
-    "id": "ntt-c-OLHvY1u46BA",
-    "title": "2026 放肆夜 戶外電影《紐約高地》",
-    "start": "2026-10-15",
-    "category": "workshop",
-    "venue": "國家歌劇院・戶外劇場",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-OLHvY1u46BA"
-  },
-  {
-    "id": "ntt-c-myvw9rc8VJf",
-    "title": "2026 NTT遇見巨人—愛爾蘭鬼才編導丹．科利《迷失的李爾》",
-    "start": "2026-10-16",
-    "end": "2026-10-18",
-    "category": "theater",
-    "venue": "國家歌劇院・中劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-myvw9rc8VJf"
-  },
-  {
-    "id": "ntt-c-dCk9Racfzx2",
-    "title": "【主題講座】身體、神話與當代：凝視下的《安蒂岡妮》",
-    "start": "2026-10-17",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-dCk9Racfzx2"
-  },
-  {
-    "id": "ntt-c-2V1kYBDwHdl",
-    "title": "【主題講座】跨越兩百年，從畫布到劇場：哥雅《The Great He-Goat》再次甦醒",
-    "start": "2026-10-18",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-2V1kYBDwHdl"
-  },
-  {
     "id": "ntt-c-IMCHF59ORoZ",
     "title": "2026臺中國際巨星音樂節 Yo-Yo Ma Live in Concert",
     "start": "2026-10-21",
@@ -190,6 +153,16 @@
     "url": "https://www.npac-ntt.org/program/events/c-2gk0TIqbOvV"
   },
   {
+    "id": "ntt-c-VuWqTPmMp2e",
+    "title": "《上下游 風的餐桌》",
+    "start": "2026-11-21",
+    "end": "2026-11-22",
+    "category": "theater",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-VuWqTPmMp2e"
+  },
+  {
     "id": "ntt-c-DYpZSMBj4Ah",
     "title": "2026 NTT 遇見巨人—羅伯．勒帕吉╳柏林雷寧廣場劇院《信仰、金錢、戰爭與愛》",
     "start": "2026-11-27",
@@ -247,5 +220,14 @@
     "venue": "國家歌劇院・大劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-OuYU3Spov2r"
+  },
+  {
+    "id": "ntt-c-49NeFAs2E3g",
+    "title": "2026 NTT歲末音樂會《那麼派—動靜皆宜樂舞派對》",
+    "start": "2026-12-31",
+    "category": "classical",
+    "venue": "國家歌劇院・大劇院",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-49NeFAs2E3g"
   }
 ]

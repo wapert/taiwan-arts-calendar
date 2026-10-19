@@ -1,25 +1,5 @@
 [
   {
-    "id": "tpac-1854",
-    "title": "2026臺北藝術節：四把椅子劇團《太陽》",
-    "start": "2026-10-15",
-    "end": "2026-10-17",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1854"
-  },
-  {
-    "id": "tpac-1861",
-    "title": "2026臺北藝術節：王墨林《最後的錄音》",
-    "start": "2026-10-15",
-    "end": "2026-10-17",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1861"
-  },
-  {
     "id": "tpac-2063",
     "title": "AM創意2026《轟吧!全壘打》棒球音樂劇",
     "start": "2026-10-16",
