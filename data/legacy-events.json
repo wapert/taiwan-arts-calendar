@@ -1,5 +1,14 @@
 [
   {
+    "id": "legacy-3309",
+    "title": "SHADOWS x ENTH Presents. -EAZY- WINTER 2026",
+    "start": "2026-12-20",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3309"
+  },
+  {
     "id": "legacy-3308",
     "title": "2026 SHOW MUSICAL《WILD WILD》12/6 (日) 晚上19:30 (女性Only)",
     "start": "2026-12-06",
@@ -79,14 +88,5 @@
     "venue": "Legacy Taichung 音樂展演空間",
     "city": "Taichung",
     "url": "https://www.legacy.com.tw/article/page/taichung/3300"
-  },
-  {
-    "id": "legacy-3299",
-    "title": "2026 SHOW MUSICAL《WILD WILD》",
-    "start": "2026-11-20",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3299"
   }
 ]

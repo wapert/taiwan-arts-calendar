@@ -1,25 +1,5 @@
 [
   {
-    "id": "ntt-c-zXwE01FBplQ",
-    "title": "2026 後青年工作坊—戲劇篇",
-    "start": "2026-08-31",
-    "end": "2026-11-16",
-    "category": "workshop",
-    "venue": "國家歌劇院・排練室1",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-zXwE01FBplQ"
-  },
-  {
-    "id": "ntt-c-PJj7sHUqcFh",
-    "title": "2026 NTT充電夜—戲劇工作坊",
-    "start": "2026-08-31",
-    "end": "2026-11-09",
-    "category": "workshop",
-    "venue": "國家歌劇院・排練室1",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-PJj7sHUqcFh"
-  },
-  {
     "id": "ntt-c-nPjai2Bd6YI",
     "title": "時刻在藝起：NTT10週年回顧展",
     "start": "2026-07-01",
@@ -28,25 +8,6 @@
     "venue": "國家歌劇院・其他場地",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
-  },
-  {
-    "id": "ntt-c-IMCHF59ORoZ",
-    "title": "2026臺中國際巨星音樂節 Yo-Yo Ma Live in Concert",
-    "start": "2026-10-21",
-    "category": "pop",
-    "venue": "國家歌劇院・大劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-IMCHF59ORoZ"
-  },
-  {
-    "id": "ntt-c-SxodTZVOGQl",
-    "title": "2026 NTT遇見巨人─驫舞劇場《大群舞》",
-    "start": "2026-10-24",
-    "end": "2026-10-25",
-    "category": "theater",
-    "venue": "國家歌劇院・中劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-SxodTZVOGQl"
   },
   {
     "id": "ntt-c-tv0mE3YHxoF",
@@ -67,6 +28,26 @@
     "venue": "國家歌劇院・中劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-YtMaHRp8ExI"
+  },
+  {
+    "id": "ntt-c-zXwE01FBplQ",
+    "title": "2026 後青年工作坊—戲劇篇",
+    "start": "2026-08-31",
+    "end": "2026-11-16",
+    "category": "workshop",
+    "venue": "國家歌劇院・排練室1",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-zXwE01FBplQ"
+  },
+  {
+    "id": "ntt-c-PJj7sHUqcFh",
+    "title": "2026 NTT充電夜—戲劇工作坊",
+    "start": "2026-08-31",
+    "end": "2026-11-09",
+    "category": "workshop",
+    "venue": "國家歌劇院・排練室1",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-PJj7sHUqcFh"
   },
   {
     "id": "ntt-c-kdKGwRhsm6e",
