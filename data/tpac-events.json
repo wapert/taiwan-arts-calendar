@@ -1,25 +1,5 @@
 [
   {
-    "id": "tpac-2053",
-    "title": "深夜小狗神秘習題",
-    "start": "2026-10-28",
-    "end": "2026-10-31",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2053"
-  },
-  {
-    "id": "tpac-2090",
-    "title": "超人力霸王舞台劇  與光同行  60週年特別公演 Voyager Live In Taiwan 2026",
-    "start": "2026-10-29",
-    "end": "2026-10-31",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2090"
-  },
-  {
     "id": "tpac-2088",
     "title": "C MUSICAL 音樂劇《小王子》",
     "start": "2026-11-04",
@@ -28,26 +8,6 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/2088"
-  },
-  {
-    "id": "tpac-2058",
-    "title": "故事工廠 第24回作品《婚禮上的小抄》",
-    "start": "2026-11-05",
-    "end": "2026-11-07",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2058"
-  },
-  {
-    "id": "tpac-2062",
-    "title": "【表演工作坊】《彈琴說愛》",
-    "start": "2026-11-05",
-    "end": "2026-11-07",
-    "category": "workshop",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2062"
   },
   {
     "id": "tpac-2075",
@@ -176,6 +136,16 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/2045"
+  },
+  {
+    "id": "tpac-2097",
+    "title": "淺堤《沈默的鉅作》空間敘事三部曲 Part 2. 劇作｜音樂廳巡迴 — 臺北場",
+    "start": "2026-12-25",
+    "end": "2026-12-26",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/2097"
   },
   {
     "id": "tpac-1747",

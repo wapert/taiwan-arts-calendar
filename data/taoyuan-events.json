@@ -1,5 +1,23 @@
 [
   {
+    "id": "taoyuan-1951211",
+    "title": "硃砂正紅—全國油畫學會50th特展",
+    "start": "2026-11-19",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1951211"
+  },
+  {
+    "id": "taoyuan-1935342",
+    "title": "桃園交響管樂團《趣玩樂囉》",
+    "start": "2026-12-20",
+    "category": "classical",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1935342"
+  },
+  {
     "id": "taoyuan-1908742",
     "title": "漫響室內樂團《生氣王子》親子繪本音樂會",
     "start": "2026-12-06",
@@ -7,24 +25,6 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1908742"
-  },
-  {
-    "id": "taoyuan-1874303",
-    "title": "「桃成映彩」紀念畫展開幕， 百幅作品見證桃園市、成田市10年深厚情誼！",
-    "start": "2026-10-28",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1874303"
-  },
-  {
-    "id": "taoyuan-1908595",
-    "title": "「2027桃園閩南文化節－地方參與藝閣踩街共創行動」徵件起跑！",
-    "start": "2026-11-02",
-    "category": "workshop",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1908595"
   },
   {
     "id": "taoyuan-1902498",
@@ -52,15 +52,6 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1902492"
-  },
-  {
-    "id": "taoyuan-1902489",
-    "title": "「樂聚桃源」2026桃園市民國樂團成果發表音樂會",
-    "start": "2026-11-08",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1902489"
   },
   {
     "id": "taoyuan-1902484",
@@ -108,15 +99,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1898336"
   },
   {
-    "id": "taoyuan-1897989",
-    "title": "2026馬祖語生活學堂【在桃園遇見馬祖】，馬祖閩東語 × 馬祖生活文化體驗，10堂特色課程免費參加！",
-    "start": "2026-11-01",
-    "category": "workshop",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1897989"
-  },
-  {
     "id": "taoyuan-1896128",
     "title": "115年桃園影藝講座第九場-徐瑞奎 主講：Photoshop 2027新趨勢及後AI時代攝影人的反思",
     "start": "2026-11-09",
@@ -124,24 +106,6 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1896128"
-  },
-  {
-    "id": "taoyuan-1916404",
-    "title": "2026桃園藝術巡演復興場-KISS ME親一下劇團《壞碳王國的挑戰》兒童劇",
-    "start": "2026-11-01",
-    "category": "theater",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1916404"
-  },
-  {
-    "id": "taoyuan-1885490",
-    "title": "第4屆桃園科技表演藝術獎—I紀元：人與科技的共創 得獎作品首演",
-    "start": "2026-11-07",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1885490"
   },
   {
     "id": "taoyuan-1878137",
@@ -153,12 +117,12 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1878137"
   },
   {
-    "id": "taoyuan-1878134",
-    "title": "國際沈文程日-來去桃園 演唱會",
-    "start": "2026-11-01",
-    "category": "pop",
+    "id": "taoyuan-1877964",
+    "title": "金喇叭銅管樂團《魔幻樂章－銅管村嘉年華》",
+    "start": "2026-11-28",
+    "category": "classical",
     "venue": "桃園市文化局",
     "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1878134"
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1877964"
   }
 ]

@@ -1,92 +1,65 @@
 [
   {
-    "id": "legacy-3309",
-    "title": "SHADOWS x ENTH Presents. -EAZY- WINTER 2026",
-    "start": "2026-12-20",
+    "id": "legacy-3336",
+    "title": "MAX CHANGMIN LIVE SESSION：RESONANCE in TAIPEI",
+    "start": "2027-01-23",
     "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3309"
-  },
-  {
-    "id": "legacy-3308",
-    "title": "2026 SHOW MUSICAL《WILD WILD》12/6 (日) 晚上19:30 (女性Only)",
-    "start": "2026-12-06",
-    "category": "pop",
-    "venue": "信義劇場 Legacy MAX",
+    "venue": "Legacy TERA",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/max/3308"
+    "url": "https://www.legacy.com.tw/article/page/great/3336"
   },
   {
-    "id": "legacy-3307",
-    "title": "2026 SHOW MUSICAL《WILD WILD》12/6日 (日) 下午15:00 (女性Only)",
-    "start": "2026-12-06",
-    "category": "pop",
-    "venue": "信義劇場 Legacy MAX",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/max/3307"
-  },
-  {
-    "id": "legacy-3306",
-    "title": "2026 SHOW MUSICAL《WILD WILD》12/5 (六) 晚上19:30 (女性Only)",
+    "id": "legacy-3334",
+    "title": "修齊首張個人專輯 《朋友、戀人與最糟糕的事》 發行專場",
     "start": "2026-12-05",
     "category": "pop",
-    "venue": "信義劇場 Legacy MAX",
+    "venue": "Legacy Taipei 傳音樂展演空間",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/max/3306"
+    "url": "https://www.legacy.com.tw/article/page/taipei/3334"
   },
   {
-    "id": "legacy-3305",
-    "title": "2026 SHOW MUSICAL《WILD WILD》12/5 (六) 下午15:00 (男女不拘)",
+    "id": "legacy-3333",
+    "title": "莉莉周她說《致走到這裡的》冬季專場",
+    "start": "2027-01-23",
+    "category": "pop",
+    "venue": "Legacy Taipei 傳音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3333"
+  },
+  {
+    "id": "legacy-3331",
+    "title": "RE:MEMBER",
     "start": "2026-12-05",
     "category": "pop",
-    "venue": "信義劇場 Legacy MAX",
+    "venue": "Legacy TERA",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/max/3305"
+    "url": "https://www.legacy.com.tw/article/page/great/3331"
   },
   {
-    "id": "legacy-3304",
-    "title": "2026 SHOW MUSICAL《WILD WILD》12/4 (五) 晚上20:00 (女性Only)",
-    "start": "2026-12-04",
+    "id": "legacy-3330",
+    "title": "康士坦的變化球 KST《犬的視線》2027 巡迴",
+    "start": "2027-01-08",
     "category": "pop",
-    "venue": "信義劇場 Legacy MAX",
+    "venue": "Legacy TERA",
     "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/max/3304"
+    "url": "https://www.legacy.com.tw/article/page/great/3330"
   },
   {
-    "id": "legacy-3303",
-    "title": "2026 SHOW MUSICAL《WILD WILD》",
-    "start": "2026-11-22",
+    "id": "legacy-3329",
+    "title": "hue《RGB》新專輯演唱會 SPLASH",
+    "start": "2027-01-02",
     "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3303"
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3329"
   },
   {
-    "id": "legacy-3302",
-    "title": "2026 SHOW MUSICAL《WILD WILD》",
-    "start": "2026-11-22",
+    "id": "legacy-3327",
+    "title": "2026 SAY MY NAME 2nd Anniversary Fan Concert「SAY MY ACADEMY」IN TAIPEI",
+    "start": "2026-12-13",
     "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3302"
-  },
-  {
-    "id": "legacy-3301",
-    "title": "2026 SHOW MUSICAL《WILD WILD》",
-    "start": "2026-11-21",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3301"
-  },
-  {
-    "id": "legacy-3300",
-    "title": "2026 SHOW MUSICAL《WILD WILD》",
-    "start": "2026-11-21",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3300"
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3327"
   }
 ]

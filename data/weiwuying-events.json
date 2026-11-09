@@ -1,244 +1,5 @@
 [
   {
-    "id": "weiwuying-69af9180738aff0007321694",
-    "title": "【衛武營小時光】韓國傳統說唱故事《水底王國，彼岸之歌》",
-    "start": "2026-10-21",
-    "category": "traditional",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2043627257385357312"
-  },
-  {
-    "id": "weiwuying-6a47328b908c4a000753a0eb",
-    "title": "《銅管幻想曲》",
-    "start": "2026-10-22",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2072271388958269441"
-  },
-  {
-    "id": "weiwuying-6a01857abe7855000708adbf",
-    "title": "躍演《勸世三姊妹》中文音樂劇",
-    "start": "2026-10-16",
-    "end": "2026-10-25",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://reurl.cc/vEXr7j"
-  },
-  {
-    "id": "weiwuying-6a8699899199ab00089d96e6",
-    "title": "「節目異動」《鼓語．聲織》",
-    "start": "2026-10-23",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2091729364558385153"
-  },
-  {
-    "id": "weiwuying-6a26227f808b390008702541",
-    "title": "《窩噗瘋一下 The Whoop Group x 高雄市管樂團》",
-    "start": "2026-10-23",
-    "category": "classical",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2059554701435854848"
-  },
-  {
-    "id": "weiwuying-69c3539696bdfd0007710581",
-    "title": "同黨劇團 《父親母親》",
-    "start": "2026-10-24",
-    "end": "2026-10-25",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2051254690379628545"
-  },
-  {
-    "id": "weiwuying-6a7d41c744a9110007066a51",
-    "title": "《Silver Screen Memories電影時代－非非藝術團隊演唱會 》",
-    "start": "2026-10-24",
-    "category": "pop",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2087082647347310593"
-  },
-  {
-    "id": "weiwuying-6a30f2b51b5a900008aff175",
-    "title": "《行・城・記憶》—聲音的旅行",
-    "start": "2026-10-24",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2063953665408139264"
-  },
-  {
-    "id": "weiwuying-6a193b829f93a700089327df",
-    "title": "《玉山音樂饗宴 維也納少年合唱團》",
-    "start": "2026-10-25",
-    "category": "classical",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2069705340555059200"
-  },
-  {
-    "id": "weiwuying-6a335463e2c4c600089cb167",
-    "title": "《托馬許．卡米耶尼亞克2026台灣音樂會》",
-    "start": "2026-10-25",
-    "category": "classical",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2073325986027565057"
-  },
-  {
-    "id": "weiwuying-6a475099d45b1700074650b0",
-    "title": "《2026王昱翔薩克斯風獨奏會－法國作品集II》",
-    "start": "2026-10-26",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2074437015481688065"
-  },
-  {
-    "id": "weiwuying-6a60317c3623540007c01ef1",
-    "title": "《節奏與狂喜　湯妮莉X高韻堯雙鋼琴音樂會》",
-    "start": "2026-10-28",
-    "category": "classical",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2082777244051320833"
-  },
-  {
-    "id": "weiwuying-6a39edd891fdd80008fb8fe8",
-    "title": "《唱彈詩與樂　合唱音樂會》",
-    "start": "2026-10-29",
-    "category": "classical",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2105220235260489728"
-  },
-  {
-    "id": "weiwuying-6a6af633ef008b00072bcd32",
-    "title": "《弦語・心聲》張群2026小提琴獨奏會",
-    "start": "2026-10-30",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2077604197323137025"
-  },
-  {
-    "id": "weiwuying-6a47529a287f0800087ff278",
-    "title": "《時代的軌跡－扎斯拉夫斯基獨奏》",
-    "start": "2026-10-31",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2072870491394531328"
-  },
-  {
-    "id": "weiwuying-69d5d0c92b42f60007a629db",
-    "title": "會演是英雄2《英雄所賤略同》",
-    "start": "2026-10-31",
-    "end": "2026-11-01",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://tickets.udnfunlife.com/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P185ZP45&kdid=search"
-  },
-  {
-    "id": "weiwuying-69c37ff1125d070007604ccf",
-    "title": "《風箱間的四季》馬丁納斯・萊維茨基斯＆Mikroorkéstra室內樂團",
-    "start": "2026-10-31",
-    "category": "classical",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2050494429271105537"
-  },
-  {
-    "id": "weiwuying-6a2baddcfb8ae70007666171",
-    "title": "2026朱宗慶打擊樂團擊樂劇場《六部曲》",
-    "start": "2026-10-31",
-    "end": "2026-11-01",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2064989613489934337"
-  },
-  {
-    "id": "weiwuying-6a447a28444f570008f2a4ca",
-    "title": "狂美《璀璨經典百老匯II》 交響音樂會",
-    "start": "2026-11-01",
-    "category": "classical",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2062049163975860225"
-  },
-  {
-    "id": "weiwuying-6a6033d53623540007c01f71",
-    "title": "《2026唐佳迎鋼琴獨奏會》",
-    "start": "2026-11-01",
-    "category": "classical",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2085249028283408385"
-  },
-  {
-    "id": "weiwuying-6a0e68bff2bf2c0008d546f0",
-    "title": "2026【武營來跳舞】7-12月",
-    "start": "2026-07-01",
-    "end": "2026-12-02",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.npac-weiwuying.org/programs/6a0e68bff2bf2c0008d546f0?lang=zh"
-  },
-  {
-    "id": "weiwuying-69dda1ec32116a0007805dd8",
-    "title": "2026臺灣作曲家系列《心繫本土 胸懷亞太》許常惠逝世二十五週年紀念特展",
-    "start": "2026-11-06",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.npac-weiwuying.org/programs/69dda1ec32116a0007805dd8?lang=zh"
-  },
-  {
-    "id": "weiwuying-6a572b8818fbb10007264a77",
-    "title": "【會員限定】移動劇場，出發──藍皮解憂號 × 江賢二藝術園區一日美學",
-    "start": "2026-11-07",
-    "category": "theater",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.npac-weiwuying.org/programs/6a572b8818fbb10007264a77?lang=zh"
-  },
-  {
-    "id": "weiwuying-6ac4be6086975700088f6d65",
-    "title": "【專題講座】《心繫本土 胸懷亞太》—從影像與手稿看許常惠的音樂人生與作曲理念",
-    "start": "2026-11-07",
-    "category": "workshop",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.npac-weiwuying.org/programs/6ac4be6086975700088f6d65?lang=zh"
-  },
-  {
-    "id": "weiwuying-6abb1fab8979e70007f9d9e2",
-    "title": "《暮光之城2：新月》電影交響音樂會",
-    "start": "2026-11-07",
-    "category": "classical",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P1FZSCBD"
-  },
-  {
-    "id": "weiwuying-6a4cc260ffced3000797be0a",
-    "title": "《我只在乎你 - 鄧麗君名曲交響音樂會》",
-    "start": "2026-11-07",
-    "category": "classical",
-    "venue": "衛武營國家藝術文化中心",
-    "city": "Kaohsiung",
-    "url": "https://www.opentix.life/event/2074043552615690241"
-  },
-  {
     "id": "weiwuying-6a4cc5091af6f70008cf6893",
     "title": "《阿格麗希音樂節在台灣-高雄場》",
     "start": "2026-11-10",
@@ -272,7 +33,7 @@
     "category": "theater",
     "venue": "衛武營國家藝術文化中心",
     "city": "Kaohsiung",
-    "url": "https://www.npac-weiwuying.org/programs/6a7d213093fe0c00074524f5?lang=zh"
+    "url": "https://www.opentix.life/event/2117871050790776833"
   },
   {
     "id": "weiwuying-6a603b14cdcdfe0008f603f5",
@@ -285,7 +46,7 @@
   },
   {
     "id": "weiwuying-6a54a8db8f8c17000769c894",
-    "title": "《鄧泰山鋼琴獨奏會》",
+    "title": "「節目異動」《鄧泰山鋼琴獨奏會》",
     "start": "2026-11-13",
     "category": "classical",
     "venue": "衛武營國家藝術文化中心",
@@ -543,7 +304,7 @@
   },
   {
     "id": "weiwuying-6a1ce6997b4519000777aaf5",
-    "title": "2026探索管風琴音樂8-12月",
+    "title": "2026【探索管風琴音樂】8-12月",
     "start": "2026-08-19",
     "end": "2026-12-23",
     "category": "classical",
@@ -758,6 +519,15 @@
     "url": "https://www.opentix.life/event/2085302668497403905"
   },
   {
+    "id": "weiwuying-6ad5ce207a63f600077b3cb6",
+    "title": "衛武營 K-POP Dance Party 主題導覽",
+    "start": "2026-11-29",
+    "category": "theater",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.npac-weiwuying.org/programs/6ad5ce207a63f600077b3cb6?lang=zh"
+  },
+  {
     "id": "weiwuying-6a9938dcd79537000796c3a7",
     "title": "對位與大師有約系列X-《離開地球90分鐘》",
     "start": "2026-11-29",
@@ -794,6 +564,15 @@
     "url": "https://www.opentix.life/event/2067130607362113536"
   },
   {
+    "id": "weiwuying-6aed326291fe510007c89e14",
+    "title": "新舞季-【跨】",
+    "start": "2026-12-01",
+    "category": "theater",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2115725749120221185"
+  },
+  {
     "id": "weiwuying-6abc62b58979e70007fafa39",
     "title": "《璀璨62》台南應用科技大學音樂系教師校慶音樂會",
     "start": "2026-12-01",
@@ -809,7 +588,7 @@
     "category": "theater",
     "venue": "衛武營國家藝術文化中心",
     "city": "Kaohsiung",
-    "url": "https://www.npac-weiwuying.org/programs/6a630c818c41390007d650be?lang=zh"
+    "url": "https://www.opentix.life/event/2112365012388167680"
   },
   {
     "id": "weiwuying-6abb1a9386975700088b9eb8",
@@ -819,6 +598,16 @@
     "venue": "衛武營國家藝術文化中心",
     "city": "Kaohsiung",
     "url": "https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P1FZYU6O"
+  },
+  {
+    "id": "weiwuying-6a0e68bff2bf2c0008d546f0",
+    "title": "2026【武營來跳舞】7-12月",
+    "start": "2026-07-01",
+    "end": "2026-12-02",
+    "category": "theater",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.npac-weiwuying.org/programs/6a0e68bff2bf2c0008d546f0?lang=zh"
   },
   {
     "id": "weiwuying-6aa0be9d86975700087e77de",
@@ -1100,7 +889,7 @@
     "category": "theater",
     "venue": "衛武營國家藝術文化中心",
     "city": "Kaohsiung",
-    "url": "https://www.npac-weiwuying.org/programs/6a8269906a0b9d00074b14c3?lang=zh"
+    "url": "https://www.opentix.life/event/2113570407894147073"
   },
   {
     "id": "weiwuying-6abc5eef8979e70007faf9be",
@@ -1261,7 +1050,7 @@
   },
   {
     "id": "weiwuying-6ac4a9337a63f6000772459b",
-    "title": "《「聲聲無界」系列－跨越想像的弦樂旅程》",
+    "title": "「醫聲無界」系列－跨越想像的弦樂旅程",
     "start": "2026-12-27",
     "category": "classical",
     "venue": "衛武營國家藝術文化中心",
@@ -1367,7 +1156,7 @@
     "category": "classical",
     "venue": "衛武營國家藝術文化中心",
     "city": "Kaohsiung",
-    "url": "https://www.npac-weiwuying.org/programs/6a991b4ed79537000796bc8e?lang=zh"
+    "url": "https://www.opentix.life/event/2108036054516785153"
   },
   {
     "id": "weiwuying-6ac4b3fc86975700088f6b3f",
@@ -1403,7 +1192,16 @@
     "category": "theater",
     "venue": "衛武營國家藝術文化中心",
     "city": "Kaohsiung",
-    "url": "https://www.npac-weiwuying.org/programs/6a991dbaa243ae0007eb5b22?lang=zh"
+    "url": "https://www.opentix.life/event/2114001967207419904"
+  },
+  {
+    "id": "weiwuying-6ae3f1827af9a80007664ea7",
+    "title": "《激情義大利－與李斯特同遊～黃瑋德＆黃瑟德聯合音樂會》",
+    "start": "2027-01-08",
+    "category": "classical",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2112397802711756801"
   },
   {
     "id": "weiwuying-6a72d3cfb9145f0007d60128",
@@ -1415,6 +1213,15 @@
     "url": "https://www.opentix.life/event/2079143354259632129"
   },
   {
+    "id": "weiwuying-6ae40523555c1b000868e489",
+    "title": "《跟著琴鍵去旅行－顏竹君&顏齊慧雙鋼琴音樂會》",
+    "start": "2027-01-09",
+    "category": "classical",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.npac-weiwuying.org/programs/6ae40523555c1b000868e489?lang=zh"
+  },
+  {
     "id": "weiwuying-6a992064a243ae0007eb5b9e",
     "title": "《星耀百老匯》",
     "start": "2027-01-09",
@@ -1422,6 +1229,33 @@
     "venue": "衛武營國家藝術文化中心",
     "city": "Kaohsiung",
     "url": "https://www.opentix.life/event/2100532931097804801"
+  },
+  {
+    "id": "weiwuying-6acefd0d7a63f60007772e80",
+    "title": "《2027艾多美公益路跑》",
+    "start": "2027-01-09",
+    "category": "theater",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.npac-weiwuying.org/programs/6acefd0d7a63f60007772e80?lang=zh"
+  },
+  {
+    "id": "weiwuying-6ae3f774555c1b000868e221",
+    "title": "2027許凱閔室內樂音樂會之『音樂旅行』",
+    "start": "2027-01-10",
+    "category": "classical",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.npac-weiwuying.org/programs/6ae3f774555c1b000868e221?lang=zh"
+  },
+  {
+    "id": "weiwuying-6ae3fb72555c1b000868e2d7",
+    "title": "《媽咪住的地方UKE音樂會》",
+    "start": "2027-01-25",
+    "category": "classical",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2112377334473117696"
   },
   {
     "id": "weiwuying-6aa0c8f886975700087e797d",
@@ -1451,6 +1285,15 @@
     "url": "https://www.opentix.life/event/2099675200914427904"
   },
   {
+    "id": "weiwuying-6ae3fddc555c1b000868e34e",
+    "title": "《靈感　城市　探戈》",
+    "start": "2027-01-30",
+    "category": "theater",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2087515566622605313"
+  },
+  {
     "id": "weiwuying-6aa0c4e48979e70007eaceaa",
     "title": "《2027國際大師鋼琴藝術節大師系列-帕維爾．納塞西安鋼琴獨奏會》",
     "start": "2027-01-31",
@@ -1460,6 +1303,24 @@
     "url": "https://www.opentix.life/event/2089674844780937217"
   },
   {
+    "id": "weiwuying-6aed40b3555c1b00086d3722",
+    "title": "《林佳田男高音獻聲衛武營》",
+    "start": "2027-02-03",
+    "category": "theater",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2115665451293696001"
+  },
+  {
+    "id": "weiwuying-6ac4a0e986975700088f6758",
+    "title": "《欣響室內管樂團『環遊世界音樂派對』》",
+    "start": "2027-02-13",
+    "category": "classical",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.npac-weiwuying.org/programs/6ac4a0e986975700088f6758?lang=zh"
+  },
+  {
     "id": "weiwuying-6ab22f958697570008857a4f",
     "title": "《琴弦上的波西米亞》",
     "start": "2027-02-13",
@@ -1467,6 +1328,24 @@
     "venue": "衛武營國家藝術文化中心",
     "city": "Kaohsiung",
     "url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FSW8QU"
+  },
+  {
+    "id": "weiwuying-6ad6d28d86975700089a3a33",
+    "title": "《萬國漫遊》－歐柏林格與柯夫勒的風羽之境",
+    "start": "2027-02-14",
+    "category": "theater",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2091786934656536577"
+  },
+  {
+    "id": "weiwuying-6ac4ab7f86975700088f695c",
+    "title": "《2027鑼鼓齊鳴慶豐收音樂會》",
+    "start": "2027-02-14",
+    "category": "classical",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2110924648752168960"
   },
   {
     "id": "weiwuying-6a7c1ed886aaf400085432ba",
@@ -1513,6 +1392,62 @@
     "venue": "衛武營國家藝術文化中心",
     "city": "Kaohsiung",
     "url": "https://www.opentix.life/event/2092545579254595585"
+  },
+  {
+    "id": "weiwuying-6aceff587a63f60007772ee6",
+    "title": "《高雄市青少年交響樂團國中團／高雄市立新興高中音樂班 2027年度音樂會》",
+    "start": "2027-02-22",
+    "category": "classical",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.npac-weiwuying.org/programs/6aceff587a63f60007772ee6?lang=zh"
+  },
+  {
+    "id": "weiwuying-6ad5df157a63f600077b4107",
+    "title": "《高雄市英明國中管弦樂班年度音樂會》",
+    "start": "2027-02-25",
+    "category": "classical",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.npac-weiwuying.org/programs/6ad5df157a63f600077b4107?lang=zh"
+  },
+  {
+    "id": "weiwuying-6ad5d86c7a63f600077b3f99",
+    "title": "《光與塵》",
+    "start": "2027-02-26",
+    "category": "theater",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.npac-weiwuying.org/programs/6ad5d86c7a63f600077b3f99?lang=zh"
+  },
+  {
+    "id": "weiwuying-6acee944869757000895feb0",
+    "title": "法蘭茲與朋友們《海底歷險記》沉浸式奇幻歌舞劇",
+    "start": "2027-02-27",
+    "end": "2027-02-28",
+    "category": "theater",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://tixfun.com/UTK0201_?PRODUCT_ID=Q029URMF"
+  },
+  {
+    "id": "weiwuying-6ad5db658697570008993031",
+    "title": "《雙城樂章》虹韻新春音樂會",
+    "start": "2027-02-27",
+    "category": "classical",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.opentix.life/event/2107728173323550721"
+  },
+  {
+    "id": "weiwuying-6aed3d9b91fe510007c8a07d",
+    "title": "《職男人生3-達成激笑》",
+    "start": "2027-03-06",
+    "end": "2027-03-07",
+    "category": "theater",
+    "venue": "衛武營國家藝術文化中心",
+    "city": "Kaohsiung",
+    "url": "https://www.npac-weiwuying.org/programs/6aed3d9b91fe510007c8a07d?lang=zh"
   },
   {
     "id": "weiwuying-6a72d611b9145f0007d601a5",

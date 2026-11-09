@@ -1,35 +1,5 @@
 [
   {
-    "id": "ntt-c-nPjai2Bd6YI",
-    "title": "時刻在藝起：NTT10週年回顧展",
-    "start": "2026-07-01",
-    "end": "2026-11-01",
-    "category": "theater",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-nPjai2Bd6YI"
-  },
-  {
-    "id": "ntt-c-tv0mE3YHxoF",
-    "title": "2026 NTT遇見巨人─莫札特歌劇《女人皆如此》",
-    "start": "2026-10-29",
-    "end": "2026-11-01",
-    "category": "opera",
-    "venue": "國家歌劇院・大劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-tv0mE3YHxoF"
-  },
-  {
-    "id": "ntt-c-YtMaHRp8ExI",
-    "title": "2026 NTT遇見巨人—亞倫．路西恩．奧文《安蒂岡妮》",
-    "start": "2026-10-31",
-    "end": "2026-11-01",
-    "category": "theater",
-    "venue": "國家歌劇院・中劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-YtMaHRp8ExI"
-  },
-  {
     "id": "ntt-c-zXwE01FBplQ",
     "title": "2026 後青年工作坊—戲劇篇",
     "start": "2026-08-31",
@@ -50,44 +20,6 @@
     "url": "https://www.npac-ntt.org/program/events/c-PJj7sHUqcFh"
   },
   {
-    "id": "ntt-c-kdKGwRhsm6e",
-    "title": "向海頓致敬 Homage to Joseph Haydn",
-    "start": "2026-11-02",
-    "category": "theater",
-    "venue": "國家歌劇院・中劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-kdKGwRhsm6e"
-  },
-  {
-    "id": "ntt-c-LqfDi3g7Z4o",
-    "title": "2026 NTT遇見巨人—2025-2026歌劇院駐館藝術家賴奇霞：Open Studio | 共振進行中",
-    "start": "2026-11-03",
-    "end": "2026-11-07",
-    "category": "opera",
-    "venue": "國家歌劇院・小劇場",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-LqfDi3g7Z4o"
-  },
-  {
-    "id": "ntt-c-Jy3kZL7hfgt",
-    "title": "2026 NTT遇見巨人—2025-2026 歌劇院駐館藝術家賴奇霞《共振計畫：感．響》",
-    "start": "2026-11-06",
-    "end": "2026-11-08",
-    "category": "opera",
-    "venue": "國家歌劇院・小劇場",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-Jy3kZL7hfgt"
-  },
-  {
-    "id": "ntt-c-6sx2bLi7IqM",
-    "title": "【主題講座】慾望四重奏：羅伯．勒帕吉╳柏林雷寧廣場劇院《信仰、金錢、戰爭與愛》",
-    "start": "2026-11-08",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-6sx2bLi7IqM"
-  },
-  {
     "id": "ntt-c-ubJaDxvw9Mf",
     "title": "2026 放肆夜 戶外電影《媽媽咪呀！回來了》",
     "start": "2026-11-12",
@@ -95,6 +27,15 @@
     "venue": "國家歌劇院・戶外劇場",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-ubJaDxvw9Mf"
+  },
+  {
+    "id": "ntt-c-pINL7iMJweX",
+    "title": "後臺導覽",
+    "start": "2026-11-13",
+    "category": "theater",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-pINL7iMJweX"
   },
   {
     "id": "ntt-c-BO1F6szgicX",
@@ -191,6 +132,15 @@
     "venue": "國家歌劇院・大劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-tXIoJAsGlQ6"
+  },
+  {
+    "id": "ntt-c-vGsP6znfWeg",
+    "title": "NTT+不藏私講堂 陳偉誠《循環再生術：都市林的第二人生》",
+    "start": "2026-12-16",
+    "category": "theater",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-vGsP6znfWeg"
   },
   {
     "id": "ntt-c-OuYU3Spov2r",

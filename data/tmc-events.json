@@ -40,15 +40,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/2026SeniorMusicClub"
   },
   {
-    "id": "tmc-2026SungNien-Yu",
-    "title": "小宇 宋念宇 《不，完美的人》 演唱會",
-    "start": "2026-11-07",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026SungNien-Yu"
-  },
-  {
     "id": "tmc-TAKUYAKIMURA2026",
     "title": "「TAKUYA KIMURA Live Tour 2026 Checkpoint」in TAIPEI",
     "start": "2026-11-13",
@@ -87,6 +78,24 @@
     "url": "https://www.tmc.taipei/tw/blog/show/DianaKrall2026"
   },
   {
+    "id": "tmc-TMC-Academy-of-Concerts2nd",
+    "title": "第二屆北流演唱會學院成果展演《那狠會》",
+    "start": "2026-12-04",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・其他",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/TMC-Academy-of-Concerts2nd"
+  },
+  {
+    "id": "tmc-jannabi2026",
+    "title": "JANNABI 2026 ASIA TOUR FINAL ＜SWEAT & STARDUST ＞ IN TAIPEI",
+    "start": "2026-12-05",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/jannabi2026"
+  },
+  {
     "id": "tmc-K21",
     "title": "《K21》顏社二十一週年演唱會",
     "start": "2026-12-12",
@@ -104,14 +113,5 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/atarayo2026"
-  },
-  {
-    "id": "tmc-GBOYSWAG2026",
-    "title": "鼓鼓 呂思緯《我現在又在想你了》巡迴演唱會",
-    "start": "2026-12-26",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/GBOYSWAG2026"
   }
 ]
