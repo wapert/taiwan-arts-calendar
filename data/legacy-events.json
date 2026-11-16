@@ -1,5 +1,77 @@
 [
   {
+    "id": "legacy-3344",
+    "title": "Legacy Presents【2026都市女聲】：戴曉君 Sauljaljui《尋∞走》VAIVAIK-台中場",
+    "start": "2027-01-23",
+    "category": "pop",
+    "venue": "Legacy Taichung  傳音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3344"
+  },
+  {
+    "id": "legacy-3343",
+    "title": "Legacy Presents【2026都市女聲】：戴曉君 Sauljaljui《尋∞走》VAIVAIK-台中場",
+    "start": "2027-01-23",
+    "category": "pop",
+    "venue": "Legacy Taichung  傳音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3343"
+  },
+  {
+    "id": "legacy-3342",
+    "title": "Legacy Presents【2026都市女聲】：戴曉君 Sauljaljui《尋∞走》VAIVAIK-台北場",
+    "start": "2027-01-09",
+    "category": "pop",
+    "venue": "Legacy Taipei 傳音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3342"
+  },
+  {
+    "id": "legacy-3341",
+    "title": "南西肯恩NeciKen 怪物 The Monster - Taichung",
+    "start": "2027-01-09",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3341"
+  },
+  {
+    "id": "legacy-3340",
+    "title": "南西肯恩NeciKen［怪物 The Monster］ 2026 X-mas - Taipei",
+    "start": "2026-12-25",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3340"
+  },
+  {
+    "id": "legacy-3339",
+    "title": "上山 - 如夢石 發片專場",
+    "start": "2026-12-27",
+    "category": "pop",
+    "venue": "Legacy Taipei 傳 音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3339"
+  },
+  {
+    "id": "legacy-3338",
+    "title": "王謙Goatak【memories】專輯演唱會",
+    "start": "2027-03-13",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3338"
+  },
+  {
+    "id": "legacy-3337",
+    "title": "PENTAGON 10th Anniversary Tour <101010> in TAIPEI",
+    "start": "2026-12-27",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3337"
+  },
+  {
     "id": "legacy-3336",
     "title": "MAX CHANGMIN LIVE SESSION：RESONANCE in TAIPEI",
     "start": "2027-01-23",
@@ -7,59 +79,5 @@
     "venue": "Legacy TERA",
     "city": "Taipei",
     "url": "https://www.legacy.com.tw/article/page/great/3336"
-  },
-  {
-    "id": "legacy-3334",
-    "title": "修齊首張個人專輯 《朋友、戀人與最糟糕的事》 發行專場",
-    "start": "2026-12-05",
-    "category": "pop",
-    "venue": "Legacy Taipei 傳音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3334"
-  },
-  {
-    "id": "legacy-3333",
-    "title": "莉莉周她說《致走到這裡的》冬季專場",
-    "start": "2027-01-23",
-    "category": "pop",
-    "venue": "Legacy Taipei 傳音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3333"
-  },
-  {
-    "id": "legacy-3331",
-    "title": "RE:MEMBER",
-    "start": "2026-12-05",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3331"
-  },
-  {
-    "id": "legacy-3330",
-    "title": "康士坦的變化球 KST《犬的視線》2027 巡迴",
-    "start": "2027-01-08",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3330"
-  },
-  {
-    "id": "legacy-3329",
-    "title": "hue《RGB》新專輯演唱會 SPLASH",
-    "start": "2027-01-02",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3329"
-  },
-  {
-    "id": "legacy-3327",
-    "title": "2026 SAY MY NAME 2nd Anniversary Fan Concert「SAY MY ACADEMY」IN TAIPEI",
-    "start": "2026-12-13",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3327"
   }
 ]

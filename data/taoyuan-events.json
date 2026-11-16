@@ -1,5 +1,14 @@
 [
   {
+    "id": "taoyuan-1983190",
+    "title": "2026桃園藝術巡演楊梅場－FOCASA馬戲團《馬戲探險家》馬戲表演",
+    "start": "2026-12-05",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1983190"
+  },
+  {
     "id": "taoyuan-1951211",
     "title": "硃砂正紅—全國油畫學會50th特展",
     "start": "2026-11-19",
@@ -45,15 +54,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1902495"
   },
   {
-    "id": "taoyuan-1902492",
-    "title": "「十載新聲~樂動山海」桃園市國樂團十周年慶音樂會",
-    "start": "2026-11-14",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1902492"
-  },
-  {
     "id": "taoyuan-1902484",
     "title": "國軍聯合樂隊音樂會",
     "start": "2026-11-26",
@@ -97,24 +97,6 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1898336"
-  },
-  {
-    "id": "taoyuan-1896128",
-    "title": "115年桃園影藝講座第九場-徐瑞奎 主講：Photoshop 2027新趨勢及後AI時代攝影人的反思",
-    "start": "2026-11-09",
-    "category": "workshop",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1896128"
-  },
-  {
-    "id": "taoyuan-1878137",
-    "title": "銀河谷音劇團-《屁屁偵探》南方島嶼的神秘遺跡",
-    "start": "2026-11-14",
-    "category": "theater",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1878137"
   },
   {
     "id": "taoyuan-1877964",

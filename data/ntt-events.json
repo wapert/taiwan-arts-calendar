@@ -10,43 +10,6 @@
     "url": "https://www.npac-ntt.org/program/events/c-zXwE01FBplQ"
   },
   {
-    "id": "ntt-c-PJj7sHUqcFh",
-    "title": "2026 NTT充電夜—戲劇工作坊",
-    "start": "2026-08-31",
-    "end": "2026-11-09",
-    "category": "workshop",
-    "venue": "國家歌劇院・排練室1",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-PJj7sHUqcFh"
-  },
-  {
-    "id": "ntt-c-ubJaDxvw9Mf",
-    "title": "2026 放肆夜 戶外電影《媽媽咪呀！回來了》",
-    "start": "2026-11-12",
-    "category": "workshop",
-    "venue": "國家歌劇院・戶外劇場",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-ubJaDxvw9Mf"
-  },
-  {
-    "id": "ntt-c-pINL7iMJweX",
-    "title": "後臺導覽",
-    "start": "2026-11-13",
-    "category": "theater",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-pINL7iMJweX"
-  },
-  {
-    "id": "ntt-c-BO1F6szgicX",
-    "title": "【主題講座】經典永續．慾望城國四十年傳奇之路",
-    "start": "2026-11-14",
-    "category": "workshop",
-    "venue": "國家歌劇院・角落沙龍",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-BO1F6szgicX"
-  },
-  {
     "id": "ntt-c-loq8SRvLPWA",
     "title": "2026 NTT遇見巨人―賽門．拉圖爵士與巴伐利亞廣播交響樂團",
     "start": "2026-11-16",
@@ -112,6 +75,15 @@
     "venue": "國家歌劇院・大劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-arEFtj3B5le"
+  },
+  {
+    "id": "ntt-c-ILHnMwZj1YW",
+    "title": "《小朋友的歌劇院探索》蒔花篇",
+    "start": "2026-12-12",
+    "category": "opera",
+    "venue": "國家歌劇院・其他場地",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-ILHnMwZj1YW"
   },
   {
     "id": "ntt-c-ptZQdsCfLUA",

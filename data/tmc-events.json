@@ -1,7 +1,7 @@
 [
   {
     "id": "tmc-TMC-Permanent-Exhibition",
-    "title": "臺北流行音樂中心【唱 我們的歌 流行音樂故事展 MUSIC, ISLAND, STORIES: Pop Music in Taiwan】",
+    "title": "臺北流行音樂中心【唱 我們的歌 流行音樂故事展 MUSIC, ISLAND, STORIES: Pop Music in Taiwan】２０２６",
     "start": "2021-09-18",
     "end": "2030-12-31",
     "category": "exhibition",
@@ -38,16 +38,6 @@
     "venue": "臺北流行音樂中心・Live House D",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/2026SeniorMusicClub"
-  },
-  {
-    "id": "tmc-TAKUYAKIMURA2026",
-    "title": "「TAKUYA KIMURA Live Tour 2026 Checkpoint」in TAIPEI",
-    "start": "2026-11-13",
-    "end": "2026-11-14",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/TAKUYAKIMURA2026"
   },
   {
     "id": "tmc-2026SingTheScene",
@@ -113,5 +103,14 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/atarayo2026"
+  },
+  {
+    "id": "tmc-GBOYSWAG2026",
+    "title": "鼓鼓 呂思緯《我現在又在想你了》巡迴演唱會",
+    "start": "2026-12-26",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・表演廳",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/GBOYSWAG2026"
   }
 ]

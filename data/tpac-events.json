@@ -1,45 +1,5 @@
 [
   {
-    "id": "tpac-2088",
-    "title": "C MUSICAL 音樂劇《小王子》",
-    "start": "2026-11-04",
-    "end": "2026-11-14",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2088"
-  },
-  {
-    "id": "tpac-2075",
-    "title": "飛賊夜來香",
-    "start": "2026-11-05",
-    "end": "2026-11-14",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2075"
-  },
-  {
-    "id": "tpac-2043",
-    "title": "職男人生6-不想上班",
-    "start": "2026-11-12",
-    "end": "2026-11-14",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2043"
-  },
-  {
-    "id": "tpac-1423",
-    "title": "新古典室內樂團《音樂馬戲劇場—邦卡的七彩布裙》",
-    "start": "2026-11-13",
-    "end": "2026-11-14",
-    "category": "classical",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/1423"
-  },
-  {
     "id": "tpac-2040",
     "title": "沉浸式劇場《士林YES！》",
     "start": "2026-11-19",
@@ -176,5 +136,15 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/2074"
+  },
+  {
+    "id": "tpac-2103",
+    "title": "2027同黨劇團《灰男孩》",
+    "start": "2027-03-18",
+    "end": "2027-03-27",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/2103"
   }
 ]
