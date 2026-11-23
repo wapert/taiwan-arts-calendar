@@ -20,16 +20,6 @@
     "url": "https://tpac.org.taipei/program/2051"
   },
   {
-    "id": "tpac-2083",
-    "title": "2026中國信託新舞臺藝術節 約恩．布爾熱瓦舞團《誰會跌倒》",
-    "start": "2026-11-19",
-    "end": "2026-11-21",
-    "category": "theater",
-    "venue": "台北表演藝術中心",
-    "city": "Taipei",
-    "url": "https://tpac.org.taipei/program/2083"
-  },
-  {
     "id": "tpac-2061",
     "title": "音樂劇《跑跑殭丙仁》",
     "start": "2026-12-03",
@@ -76,6 +66,15 @@
     "venue": "台北表演藝術中心",
     "city": "Taipei",
     "url": "https://tpac.org.taipei/program/2089"
+  },
+  {
+    "id": "tpac-2106",
+    "title": "《我們在一起了，說自家的故事⋯⋯》音樂會",
+    "start": "2026-12-19",
+    "category": "theater",
+    "venue": "台北表演藝術中心",
+    "city": "Taipei",
+    "url": "https://tpac.org.taipei/program/2106"
   },
   {
     "id": "tpac-2096",

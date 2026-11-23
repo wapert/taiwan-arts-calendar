@@ -1,12 +1,66 @@
 [
   {
-    "id": "legacy-3344",
-    "title": "Legacy Presents【2026都市女聲】：戴曉君 Sauljaljui《尋∞走》VAIVAIK-台中場",
-    "start": "2027-01-23",
+    "id": "legacy-3352",
+    "title": "魚條《變形》——台中場",
+    "start": "2027-01-10",
     "category": "pop",
-    "venue": "Legacy Taichung  傳音樂展演空間",
+    "venue": "Legacy Taichung 音樂展演空間",
     "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3344"
+    "url": "https://www.legacy.com.tw/article/page/taichung/3352"
+  },
+  {
+    "id": "legacy-3351",
+    "title": "《漂亮，祝你美好。》_YoungLee Tour 2026_台中場",
+    "start": "2026-12-26",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3351"
+  },
+  {
+    "id": "legacy-3350",
+    "title": "Legacy Presents【往事微風】王中平＆江念庭《中意一曲，念念不忘》",
+    "start": "2026-12-24",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3350"
+  },
+  {
+    "id": "legacy-3349",
+    "title": "Legacy Presents【往事微風】趙詠華＆于冠華",
+    "start": "2026-12-25",
+    "category": "pop",
+    "venue": "Legacy Taichung 音樂展演空間",
+    "city": "Taichung",
+    "url": "https://www.legacy.com.tw/article/page/taichung/3349"
+  },
+  {
+    "id": "legacy-3347",
+    "title": "芒果醬 Mango Jump【再見小肉舖】歲末沒有烤肉趴（蛤）",
+    "start": "2026-12-31",
+    "category": "pop",
+    "venue": "Legacy Taipei 音樂展演空間",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/taipei/3347"
+  },
+  {
+    "id": "legacy-3346",
+    "title": "2026-27 FIFTY FIFTY Asia Fancon Tour [Still LoBubble] IN TAIPEI",
+    "start": "2027-01-31",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3346"
+  },
+  {
+    "id": "legacy-3345",
+    "title": "第二屆北流演唱會學院成果展演《那狠會》",
+    "start": "2026-12-04",
+    "category": "pop",
+    "venue": "Legacy TERA",
+    "city": "Taipei",
+    "url": "https://www.legacy.com.tw/article/page/great/3345"
   },
   {
     "id": "legacy-3343",
@@ -16,68 +70,5 @@
     "venue": "Legacy Taichung  傳音樂展演空間",
     "city": "Taichung",
     "url": "https://www.legacy.com.tw/article/page/taichung/3343"
-  },
-  {
-    "id": "legacy-3342",
-    "title": "Legacy Presents【2026都市女聲】：戴曉君 Sauljaljui《尋∞走》VAIVAIK-台北場",
-    "start": "2027-01-09",
-    "category": "pop",
-    "venue": "Legacy Taipei 傳音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3342"
-  },
-  {
-    "id": "legacy-3341",
-    "title": "南西肯恩NeciKen 怪物 The Monster - Taichung",
-    "start": "2027-01-09",
-    "category": "pop",
-    "venue": "Legacy Taichung 音樂展演空間",
-    "city": "Taichung",
-    "url": "https://www.legacy.com.tw/article/page/taichung/3341"
-  },
-  {
-    "id": "legacy-3340",
-    "title": "南西肯恩NeciKen［怪物 The Monster］ 2026 X-mas - Taipei",
-    "start": "2026-12-25",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3340"
-  },
-  {
-    "id": "legacy-3339",
-    "title": "上山 - 如夢石 發片專場",
-    "start": "2026-12-27",
-    "category": "pop",
-    "venue": "Legacy Taipei 傳 音樂展演空間",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/taipei/3339"
-  },
-  {
-    "id": "legacy-3338",
-    "title": "王謙Goatak【memories】專輯演唱會",
-    "start": "2027-03-13",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3338"
-  },
-  {
-    "id": "legacy-3337",
-    "title": "PENTAGON 10th Anniversary Tour <101010> in TAIPEI",
-    "start": "2026-12-27",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3337"
-  },
-  {
-    "id": "legacy-3336",
-    "title": "MAX CHANGMIN LIVE SESSION：RESONANCE in TAIPEI",
-    "start": "2027-01-23",
-    "category": "pop",
-    "venue": "Legacy TERA",
-    "city": "Taipei",
-    "url": "https://www.legacy.com.tw/article/page/great/3336"
   }
 ]

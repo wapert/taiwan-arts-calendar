@@ -18,125 +18,14 @@
     "url": "https://ticket.sight-music.com/"
   },
   {
-    "id": "ntch-29249",
-    "title": "界線 qays",
-    "start": "2026-11-22",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2094726891126235137"
-  },
-  {
-    "id": "ntch-28901",
-    "title": "福爾摩沙青年合唱團2026系列音樂會之二《回旋》",
-    "start": "2026-11-16",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2107391437581844480"
-  },
-  {
-    "id": "ntch-29318",
-    "title": "國際大師系列《Zoltán Pad與台北室內合唱團——匈牙利當代人聲之夜》",
-    "start": "2026-11-16",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2083919774965473280"
-  },
-  {
-    "id": "ntch-30011",
-    "title": "于魁智李勝素與中國戲曲學院名家",
-    "start": "2026-11-17",
-    "end": "2026-11-22",
-    "category": "traditional",
-    "venue": "國家兩廳院・國家戲劇院",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2076872118440620032"
-  },
-  {
-    "id": "ntch-27661",
-    "title": "力晶2026藝文饗宴 賽門．拉圖爵士與巴伐利亞廣播交響樂團",
-    "start": "2026-11-18",
-    "end": "2026-11-19",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2058868047100907520"
-  },
-  {
-    "id": "ntch-30236",
-    "title": "弦音傳承 帕格尼尼之魂-鷲見惠理子小提琴獨奏音樂會",
-    "start": "2026-11-20",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DKZJA2"
-  },
-  {
-    "id": "ntch-31789",
-    "title": "馬克．安德烈低音提琴音樂會",
-    "start": "2026-11-20",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P1G62Y88"
-  },
-  {
-    "id": "ntch-29214",
-    "title": "朱志祥鋼琴獨奏會《如聲所見As Heard, As Seen》",
-    "start": "2026-11-21",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2087081273180315649"
-  },
-  {
-    "id": "ntch-29218",
-    "title": "山下愛陽吉他獨奏會｜獻給巴赫的禮讚",
-    "start": "2026-11-21",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2103043879225888768"
-  },
-  {
-    "id": "ntch-29274",
-    "title": "指揮大師提勒曼與柏林國家歌劇院管弦樂團",
-    "start": "2026-11-21",
-    "end": "2026-11-22",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://ticket.mna.com.tw/UTK0102_?TYPE=8&AD_TAB_ID=P1F7I2MV"
-  },
-  {
     "id": "ntch-31056",
     "title": "2026秋天藝術節 四把椅子劇團 ✕ 大衛・吉塞森《如果我有寫信給你》",
-    "start": "2026-11-21",
+    "start": "2026-11-25",
     "end": "2026-11-29",
     "category": "theater",
     "venue": "國家兩廳院・實驗劇場",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2070413509618323457"
-  },
-  {
-    "id": "ntch-29074",
-    "title": "【2026 TSO 室內沙龍】對映之聲 ——他與她的音樂對話",
-    "start": "2026-11-22",
-    "category": "classical",
-    "venue": "國家兩廳院・演奏廳",
-    "city": "Taipei",
-    "url": "https://www.opentix.life/event/2030925277714800641"
-  },
-  {
-    "id": "ntch-29272",
-    "title": "璞永三十・雋永樂章 鋼琴天后王羽佳與馬勒室內樂團",
-    "start": "2026-11-22",
-    "category": "classical",
-    "venue": "國家兩廳院・國家音樂廳",
-    "city": "Taipei",
-    "url": "https://ticket.mna.com.tw/UTK0201_?PRODUCT_ID=P1FX0ASD"
   },
   {
     "id": "ntch-30473",
@@ -322,7 +211,7 @@
   },
   {
     "id": "ntch-30542",
-    "title": "Ting-Shuo Chang & Cheng-Hung Tsai Violin Duo Recital",
+    "title": "張庭碩與蔡承宏雙小提琴音樂會",
     "start": "2026-12-05",
     "category": "classical",
     "venue": "國家兩廳院・演奏廳",
@@ -474,6 +363,15 @@
     "url": "https://www.opentix.life/event/2074066887327637505"
   },
   {
+    "id": "ntch-31526",
+    "title": "維也納之聲—臺奧友誼慈善音樂會",
+    "start": "2026-12-12",
+    "category": "classical",
+    "venue": "國家兩廳院・國家音樂廳",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2118616720222826496"
+  },
+  {
     "id": "ntch-28872",
     "title": "【ESO 大師精選】烈聲與低語－梵志登與ESO",
     "start": "2026-12-13",
@@ -490,6 +388,15 @@
     "venue": "國家兩廳院・演奏廳",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2095048717894885376"
+  },
+  {
+    "id": "ntch-28885",
+    "title": "林佳鋐2026鋼琴獨奏會",
+    "start": "2026-12-13",
+    "category": "classical",
+    "venue": "國家兩廳院・國家音樂廳",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2107375075751231488"
   },
   {
     "id": "ntch-29538",
@@ -643,7 +550,7 @@
     "category": "classical",
     "venue": "國家兩廳院・國家音樂廳",
     "city": "Taipei",
-    "url": "https://www.opentix.life/event/2114926880582537216"
+    "url": "https://npac-ntch.org/zh/programs/32557"
   },
   {
     "id": "ntch-29516",
@@ -855,6 +762,15 @@
     "url": "https://www.opentix.life/event/2074101653195931649"
   },
   {
+    "id": "ntch-30689",
+    "title": "灣聲樂團 2027《臺灣的聲音 新年音樂會》",
+    "start": "2027-01-01",
+    "category": "classical",
+    "venue": "國家兩廳院・國家音樂廳",
+    "city": "Taipei",
+    "url": "https://tixfun.com/UTK0201_?PRODUCT_ID=Q02ASITL"
+  },
+  {
     "id": "ntch-30657",
     "title": "《天織星光2》和諧之聲歌手新年音樂會",
     "start": "2027-01-01",
@@ -882,6 +798,15 @@
     "url": "https://www.opentix.life/event/2105917797508464641"
   },
   {
+    "id": "ntch-30857",
+    "title": "金車2027獨奏之夜 — 陸逸軒鋼琴獨奏會",
+    "start": "2027-01-02",
+    "category": "classical",
+    "venue": "國家兩廳院・國家音樂廳",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2114340307123310592"
+  },
+  {
     "id": "ntch-31362",
     "title": "璞玉含光系列－林秉寬鋼琴獨奏會",
     "start": "2027-01-02",
@@ -907,6 +832,15 @@
     "venue": "國家兩廳院・國家音樂廳",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2101892767593082880"
+  },
+  {
+    "id": "ntch-31374",
+    "title": "絢麗系列 — 馬洛費耶夫鋼琴獨奏會",
+    "start": "2027-01-05",
+    "category": "classical",
+    "venue": "國家兩廳院・國家音樂廳",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2116506394101301249"
   },
   {
     "id": "ntch-30716",
@@ -1063,6 +997,33 @@
     "url": "https://www.opentix.life/event/2099744597423132673"
   },
   {
+    "id": "ntch-31554",
+    "title": "大師系列 — 席夫：未竟之路 — 賦格的藝術",
+    "start": "2027-02-04",
+    "category": "classical",
+    "venue": "國家兩廳院・國家音樂廳",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2119436667967721473"
+  },
+  {
+    "id": "ntch-31533",
+    "title": "紐約之聲 New York Voices 謝幕巡演",
+    "start": "2027-02-12",
+    "category": "classical",
+    "venue": "國家兩廳院・國家音樂廳",
+    "city": "Taipei",
+    "url": "https://tickets.udnfunlife.com/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1GLJAYJ"
+  },
+  {
+    "id": "ntch-30877",
+    "title": "2027 安寧鋼琴獨奏會",
+    "start": "2027-02-13",
+    "category": "classical",
+    "venue": "國家兩廳院・國家音樂廳",
+    "city": "Taipei",
+    "url": "https://www.opentix.life/event/2117913779421556737"
+  },
+  {
     "id": "ntch-30670",
     "title": "2027路耀祖小提琴獨奏會",
     "start": "2027-02-14",
@@ -1079,6 +1040,15 @@
     "venue": "國家兩廳院・國家音樂廳",
     "city": "Taipei",
     "url": "https://www.opentix.life/event/2072957490703167489"
+  },
+  {
+    "id": "ntch-31535",
+    "title": "《法式巨星音樂劇選粹演唱會》",
+    "start": "2027-03-01",
+    "category": "classical",
+    "venue": "國家兩廳院・國家音樂廳",
+    "city": "Taipei",
+    "url": "https://tickets.udnfunlife.com/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1HHAV23"
   },
   {
     "id": "ntch-30740",

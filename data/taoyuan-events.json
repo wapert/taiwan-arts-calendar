@@ -1,5 +1,59 @@
 [
   {
+    "id": "taoyuan-1998804",
+    "title": "桃園市立桃園高級中等學校第32屆畢業舞展《UNFOLD•盛放》",
+    "start": "2026-12-04",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1998804"
+  },
+  {
+    "id": "taoyuan-1988775",
+    "title": "八德國中第27屆美術班畢業成果展～START",
+    "start": "2026-12-23",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1988775"
+  },
+  {
+    "id": "taoyuan-1988774",
+    "title": "中壢國中第二十九屆美術班畢業展暨成果展",
+    "start": "2026-12-09",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1988774"
+  },
+  {
+    "id": "taoyuan-1988767",
+    "title": "桃園市立自強國民中學第十五屆美術班畢業藝美展-「藝世界」",
+    "start": "2026-12-09",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1988767"
+  },
+  {
+    "id": "taoyuan-1988766",
+    "title": "中壢青少年管弦樂團第30次定期音樂會",
+    "start": "2026-12-27",
+    "category": "classical",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1988766"
+  },
+  {
+    "id": "taoyuan-1988761",
+    "title": "小王子歷險記",
+    "start": "2026-12-19",
+    "category": "exhibition",
+    "venue": "桃園市文化局",
+    "city": "Taoyuan",
+    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1988761"
+  },
+  {
     "id": "taoyuan-1983190",
     "title": "2026桃園藝術巡演楊梅場－FOCASA馬戲團《馬戲探險家》馬戲表演",
     "start": "2026-12-05",
@@ -7,15 +61,6 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1983190"
-  },
-  {
-    "id": "taoyuan-1951211",
-    "title": "硃砂正紅—全國油畫學會50th特展",
-    "start": "2026-11-19",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1951211"
   },
   {
     "id": "taoyuan-1935342",
@@ -36,24 +81,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1908742"
   },
   {
-    "id": "taoyuan-1902498",
-    "title": "旅圖記憶-楊美英油畫個展",
-    "start": "2026-11-18",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1902498"
-  },
-  {
-    "id": "taoyuan-1902495",
-    "title": "2026看不見的風景Ⅲ--510藝術群聯展",
-    "start": "2026-11-18",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1902495"
-  },
-  {
     "id": "taoyuan-1902484",
     "title": "國軍聯合樂隊音樂會",
     "start": "2026-11-26",
@@ -63,15 +90,6 @@
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1902484"
   },
   {
-    "id": "taoyuan-1902479",
-    "title": "《環遊世界-西亞漫遊》開森室內樂團2026年度音樂會",
-    "start": "2026-11-22",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1902479"
-  },
-  {
     "id": "taoyuan-1902460",
     "title": "2026 KC STUDIO 年度公演《INCEPTION》",
     "start": "2026-11-29",
@@ -79,32 +97,5 @@
     "venue": "桃園市文化局",
     "city": "Taoyuan",
     "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1902460"
-  },
-  {
-    "id": "taoyuan-1902455",
-    "title": "夢想成真魔術劇團-大型兒童魔術劇《怪盜神偷-阿呆警察的復仇》",
-    "start": "2026-11-22",
-    "category": "theater",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1902455"
-  },
-  {
-    "id": "taoyuan-1898336",
-    "title": "《超人力霸王舞台劇  與光同行  60週年特別公演 Voyager Live In Taiwan 2026》",
-    "start": "2026-11-21",
-    "category": "exhibition",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1898336"
-  },
-  {
-    "id": "taoyuan-1877964",
-    "title": "金喇叭銅管樂團《魔幻樂章－銅管村嘉年華》",
-    "start": "2026-11-28",
-    "category": "classical",
-    "venue": "桃園市文化局",
-    "city": "Taoyuan",
-    "url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1877964"
   }
 ]

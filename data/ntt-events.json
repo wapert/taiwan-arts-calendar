@@ -1,53 +1,5 @@
 [
   {
-    "id": "ntt-c-zXwE01FBplQ",
-    "title": "2026 後青年工作坊—戲劇篇",
-    "start": "2026-08-31",
-    "end": "2026-11-16",
-    "category": "workshop",
-    "venue": "國家歌劇院・排練室1",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-zXwE01FBplQ"
-  },
-  {
-    "id": "ntt-c-loq8SRvLPWA",
-    "title": "2026 NTT遇見巨人―賽門．拉圖爵士與巴伐利亞廣播交響樂團",
-    "start": "2026-11-16",
-    "category": "classical",
-    "venue": "國家歌劇院・大劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-loq8SRvLPWA"
-  },
-  {
-    "id": "ntt-c-HrVkXJIGOYb",
-    "title": "【大師工作坊】比利時莫蘇邦特跨界劇場「多重存在」肢體工作坊",
-    "start": "2026-11-18",
-    "category": "workshop",
-    "venue": "國家歌劇院・排練室2",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-HrVkXJIGOYb"
-  },
-  {
-    "id": "ntt-c-2gk0TIqbOvV",
-    "title": "2026 NTT遇見巨人—比利時莫蘇邦特跨界劇場《女巫安息日》",
-    "start": "2026-11-20",
-    "end": "2026-11-22",
-    "category": "theater",
-    "venue": "國家歌劇院・中劇院",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-2gk0TIqbOvV"
-  },
-  {
-    "id": "ntt-c-VuWqTPmMp2e",
-    "title": "《上下游 風的餐桌》",
-    "start": "2026-11-21",
-    "end": "2026-11-22",
-    "category": "theater",
-    "venue": "國家歌劇院・其他場地",
-    "city": "Taichung",
-    "url": "https://www.npac-ntt.org/program/events/c-VuWqTPmMp2e"
-  },
-  {
     "id": "ntt-c-DYpZSMBj4Ah",
     "title": "2026 NTT 遇見巨人—羅伯．勒帕吉╳柏林雷寧廣場劇院《信仰、金錢、戰爭與愛》",
     "start": "2026-11-27",
@@ -132,5 +84,14 @@
     "venue": "國家歌劇院・大劇院",
     "city": "Taichung",
     "url": "https://www.npac-ntt.org/program/events/c-49NeFAs2E3g"
+  },
+  {
+    "id": "ntt-c-bTE8sGLQKB0",
+    "title": "NTT+不藏私講堂 張舒涵《品味茶席的細膩風味》",
+    "start": "2027-01-20",
+    "category": "theater",
+    "venue": "國家歌劇院・角落沙龍",
+    "city": "Taichung",
+    "url": "https://www.npac-ntt.org/program/events/c-bTE8sGLQKB0"
   }
 ]

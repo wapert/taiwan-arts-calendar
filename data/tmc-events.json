@@ -1,7 +1,7 @@
 [
   {
     "id": "tmc-TMC-Permanent-Exhibition",
-    "title": "臺北流行音樂中心【唱 我們的歌 流行音樂故事展 MUSIC, ISLAND, STORIES: Pop Music in Taiwan】２０２６",
+    "title": "臺北流行音樂中心【唱 我們的歌 流行音樂故事展 MUSIC, ISLAND, STORIES: Pop Music in Taiwan】",
     "start": "2021-09-18",
     "end": "2030-12-31",
     "category": "exhibition",
@@ -40,15 +40,6 @@
     "url": "https://www.tmc.taipei/tw/blog/show/2026SeniorMusicClub"
   },
   {
-    "id": "tmc-2026SingTheScene",
-    "title": "2026【唱 我們的歌】金曲再現 演唱會｜我的電影K歌時代",
-    "start": "2026-11-21",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・其他",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/2026SingTheScene"
-  },
-  {
     "id": "tmc-5SOS2026",
     "title": "5 SECONDS OF SUMMER: EVERYONES A STAR！ WORLD TOUR",
     "start": "2026-11-25",
@@ -77,6 +68,15 @@
     "url": "https://www.tmc.taipei/tw/blog/show/TMC-Academy-of-Concerts2nd"
   },
   {
+    "id": "tmc-2026TMCGoldenVoiceContestConcert",
+    "title": "2026北流金舞台 圓夢大歌廳",
+    "start": "2026-12-05",
+    "category": "pop",
+    "venue": "臺北流行音樂中心・其他",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026TMCGoldenVoiceContestConcert"
+  },
+  {
     "id": "tmc-jannabi2026",
     "title": "JANNABI 2026 ASIA TOUR FINAL ＜SWEAT & STARDUST ＞ IN TAIPEI",
     "start": "2026-12-05",
@@ -96,6 +96,16 @@
     "url": "https://www.tmc.taipei/tw/blog/show/K21"
   },
   {
+    "id": "tmc-2026TMCXMASMUSICLAND",
+    "title": "2026 北流耶誕小鎮－耶誕老公公不在家 2",
+    "start": "2026-12-19",
+    "end": "2026-12-20",
+    "category": "workshop",
+    "venue": "臺北流行音樂中心・戶外表演空間",
+    "city": "Taipei",
+    "url": "https://www.tmc.taipei/tw/blog/show/2026TMCXMASMUSICLAND"
+  },
+  {
     "id": "tmc-atarayo2026",
     "title": "Atarayo ASIA TOUR 2026『夕立が去ったその後で』in TAIPEI",
     "start": "2026-12-19",
@@ -103,14 +113,5 @@
     "venue": "臺北流行音樂中心・表演廳",
     "city": "Taipei",
     "url": "https://www.tmc.taipei/tw/blog/show/atarayo2026"
-  },
-  {
-    "id": "tmc-GBOYSWAG2026",
-    "title": "鼓鼓 呂思緯《我現在又在想你了》巡迴演唱會",
-    "start": "2026-12-26",
-    "category": "pop",
-    "venue": "臺北流行音樂中心・表演廳",
-    "city": "Taipei",
-    "url": "https://www.tmc.taipei/tw/blog/show/GBOYSWAG2026"
   }
 ]
